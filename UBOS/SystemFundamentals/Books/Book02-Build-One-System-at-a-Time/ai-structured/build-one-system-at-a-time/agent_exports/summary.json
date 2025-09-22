@@ -1,0 +1,805 @@
+{
+  "chapters": [
+    {
+      "id": "00",
+      "slug": "chapter-00-introduction",
+      "title": "Introduction",
+      "summary": "The Introduction establishes that transformation requires intentional design and is engineered piece by piece through a series of systems. Behind every success story is a system quietly converting vision into daily action. It critiques the use of one-off goals, which cause energy to fade and lead to cycles of chasing outcomes without building the necessary underlying machinery. The book introduces the shift from scarcity thinking (fear-based, protective) to abundance thinking (creation-based, expansive) and advocates for building one high-leverage system at a time, preventing overwhelm and accelerating growth.",
+      "objectives": [
+        "Recognize that durable transformation is built by deliberate systems, not one-off goals.",
+        "Differentiate scarcity defences from abundance-driven creation.",
+        "Commit to sequencing growth through one high-leverage system at a time."
+      ],
+      "dependencies": [],
+      "topics": [
+        "abundance",
+        "mindset",
+        "system"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/00/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "01",
+      "slug": "chapter-01-from-scarcity-to-systems-thinking",
+      "title": "From Scarcity to Systems Thinking",
+      "summary": "This chapter focuses on the fundamental shift in mindset required before building effective systems. Scarcity thinking views the world as a place of limitation, resulting in defensive systems built to protect against loss, which leads to comparison, fear, and hesitation. Abundance thinking views the world as fluid and expansive, prompting the creation of systems that generate more opportunities, resources, and freedom. Systems thinking means relying on consistent structures that operate whether you feel inspired or not, making the right actions easier than the wrong ones. Success is measured by the quality of your systems, not solely by outcomes.",
+      "objectives": [
+        "Identify how scarcity thinking reinforces defensive routines and hesitation.",
+        "Describe how abundance thinking widens opportunities through design.",
+        "Adopt systems thinking as the metric for sustainable results."
+      ],
+      "dependencies": [],
+      "topics": [
+        "mindset",
+        "abundance",
+        "system"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/01/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "02",
+      "slug": "chapter-02-why-goals-alone-fail-and-what-to-build-instead",
+      "title": "Why Goals Alone Fail and What to Build Instead",
+      "summary": "Goals are described as incomplete because they define what you want but not how you will consistently get it. Relying on goals alone makes success temporary and dependent on unreliable willpower. A  system is defined as a repeatable process that produces a predictable result, operating regardless of daily feelings. Systems shift the focus from the outcome to the process that creates the outcome. Goals should serve as signposts, while the system is the true engine of movement. Building systems creates freedom by removing the constant mental burden of daily decisions and makes desired outcomes inevitable.",
+      "objectives": [
+        "Explain why outcomes collapse without a repeatable supporting system.",
+        "Shift focus from goal chasing to process design.",
+        "Map willpower-heavy routines into dependable structures."
+      ],
+      "dependencies": [],
+      "topics": [
+        "system",
+        "structure",
+        "clarity"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "03",
+      "slug": "chapter-03-the-core-principles-of-abundant-systems",
+      "title": "The Core Principles of Abundant Systems",
+      "summary": "This chapter outlines the ten essential principles for building transformative and lasting systems [23, 20:56]: 1. Clarity of Purpose: Systems must align with a long-term vision, not just avoid immediate problems. 2. Sustainability: Systems must be maintainable even on your worst days, integrating smoothly into life; starting small is a sign of wisdom. 3. Leverage: Systems should create results greater than the effort put in, utilizing technology, relationships, or skills to multiply impact.",
+      "objectives": [
+        "Internalize the ten principles that define abundant systems.",
+        "Assess a system against sustainability, leverage, and feedback.",
+        "Design for identity alignment so upgrades feel natural, not forced."
+      ],
+      "dependencies": [],
+      "topics": [
+        "clarity",
+        "leverage",
+        "feedback",
+        "resilience"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "04",
+      "slug": "chapter-04-choosing-the-right-starting-point",
+      "title": "Choosing the Right Starting Point",
+      "summary": "Instead of trying to fix everything at once, this chapter advises beginning with one carefully chosen, high-leverage system that will produce ripple effects across multiple life aspects (e.g., health or finances). Strategic considerations include: urgency (addressing severe pain points, balanced with achievability), confidence (choosing an area where early wins build belief), and alignment with the long-term vision. The starting point must be clearly defined (e.g., specifying \"health\" as \"improving sleep\") and matched to the current season of life or capacity.",
+      "objectives": [
+        "Evaluate potential starting points by impact, confidence, and alignment.",
+        "Select one high-leverage system that unlocks cascading benefits.",
+        "Translate vision into a clear system definition for the current season."
+      ],
+      "dependencies": [],
+      "topics": [
+        "alignment",
+        "leverage",
+        "clarity"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/04/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "05",
+      "slug": "chapter-05-designing-for-effortless-repeatability",
+      "title": "Designing for Effortless Repeatability",
+      "summary": "A system\u2019s success depends on its ability to be repeated consistently, making the desired action easier to do than to avoid [36:25, 36:44]. This is achieved through simplicity (using the smallest working version); automation (removing the need for daily willpower by scheduling or prepping the environment); and triggers (cues that turn the system into a reflex). Other elements include reducing variability so the system functions under a wide range of conditions, and building in a reduced version to use on difficult days to prevent breaking the chain entirely.",
+      "objectives": [
+        "Engineer routines for effortless repeatability instead of heroic effort.",
+        "Use triggers, automation, and friction removal to stabilize execution.",
+        "Build resilient systems that work on hard days as well as ideal ones."
+      ],
+      "dependencies": [],
+      "topics": [
+        "automation",
+        "resilience",
+        "structure"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "06",
+      "slug": "chapter-06-embedding-systems-into-your-environment",
+      "title": "Embedding Systems into Your Environment",
+      "summary": "This chapter explains that a system is much stronger when supported by the physical and digital environment [43:34, 46:57]. Environmental design shifts responsibility from the mind to the surroundings, acting as an autopilot [44:33]. Strategies include identifying physical supports (e.g., readying tools in the workspace) [44:40], removing conflicting triggers (e.g., moving a phone away during deep work), using visual cues (e.g., a checklist), and ensuring the social environment (people) reinforces the process.",
+      "objectives": [
+        "Recognize environment as silent architecture shaping behaviour.",
+        "Audit physical, digital, and social spaces for alignment with systems.",
+        "Deliberately embed cues that keep priority work on autopilot."
+      ],
+      "dependencies": [],
+      "topics": [
+        "environment",
+        "alignment",
+        "automation"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/06/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "07",
+      "slug": "chapter-07-stack-link-and-layer",
+      "title": "Stack, Link, and Layer",
+      "summary": "This chapter shows how to combine individual systems to multiply their results [50:57, 51:17]. Stacking means the output of one system becomes the input for the next (e.g., fitness boosting productivity). Linking creates direct connections where one action automatically triggers the next (e.g., finishing a workout triggers journaling). Layering means running multiple supportive systems in parallel for synergy (e.g., learning and networking systems). This integration creates a self-reinforcing network that leads to exponential growth and increased resilience.",
+      "objectives": [
+        "Link systems so energy and insight compound across domains.",
+        "Identify hinge habits that can be stacked for leverage.",
+        "Draft rhythm maps that keep linked systems synchronized."
+      ],
+      "dependencies": [],
+      "topics": [
+        "integration",
+        "rhythm",
+        "system"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "08",
+      "slug": "chapter-08-feedback-loops-that-fuel-growth",
+      "title": "Feedback Loops that Fuel Growth",
+      "summary": "Since systems are never truly finished, feedback loops allow systems to evolve and self-improve over time [58:11, 58:50]. Feedback is simply information\u2014a tool for growth [59:02]. Systems require two types of feedback: outcome feedback (measuring final results, like savings accumulated) and process feedback (measuring execution consistency, like skipping review sessions). Regular check-ins, tracking, and seeking external perspectives are key methods. Feedback should guide improvements that make the system easier and more reliable, ensuring it is adaptable and aligned with needs.",
+      "objectives": [
+        "Construct feedback loops that inform both outcomes and process.",
+        "Distinguish between momentum signals and warning indicators.",
+        "Schedule reviews that translate data into actionable refinements."
+      ],
+      "dependencies": [],
+      "topics": [
+        "feedback",
+        "adaptability",
+        "clarity"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "09",
+      "slug": "chapter-09-the-keystone-system-effect",
+      "title": "The Keystone System Effect",
+      "summary": "A keystone system is one that, when strengthened, improves multiple other systems simultaneously, acting as a force multiplier and holding the overall structure together [1:05:13, 1:05:33, 1:05:45]. Keystone systems produce a ripple effect, amplify other systems' effectiveness, and can stabilize momentum during disruptions. Examples include health (provides physical energy for all other systems), time management (creates operational space), and financial systems (provides resources and stability). Identifying and prioritizing the keystone system ensures focused investment for the highest return.",
+      "objectives": [
+        "Pinpoint the keystone system that amplifies multiple results.",
+        "Score systems by breadth of impact and ease of maintenance.",
+        "Sequence supporting systems around the keystone for momentum."
+      ],
+      "dependencies": [],
+      "topics": [
+        "leverage",
+        "alignment",
+        "system"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/09/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "10",
+      "slug": "chapter-10-energy-is-the-ultimate-currency",
+      "title": "Energy Is the Ultimate Currency",
+      "summary": "Energy is the foundational resource on which all systems depend; it determines consistency, focus, and resilience [1:12:20, 1:12:51]. Protecting and building energy multiplies the value of time [1:13:09, 1:13:15]. Energy is managed across four sources: 1. Physical: Through nutrition, movement, sleep, and overall health [1:13:41]. 2. Mental: Capacity for focus, protected by reducing unnecessary decisions and distractions [1:14:17].",
+      "objectives": [
+        "Manage four dimensions of energy as the currency of systems.",
+        "Diagnose leaks in physical, emotional, mental, and spiritual energy.",
+        "Design replenishment rituals that stabilize performance."
+      ],
+      "dependencies": [],
+      "topics": [
+        "energy",
+        "routine",
+        "resilience"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "11",
+      "slug": "chapter-11-time-multiplication-through-leverage",
+      "title": "Time Multiplication Through Leverage",
+      "summary": "Leverage allows one to multiply the impact of their time so that effort produces far more results, often independently [1:19:57, 1:20:03]. The three most powerful forms are: 1. Automation: Using tools or processes to handle repetitive tasks without constant input [1:20:32]. 2. Delegation: Entrusting tasks to others to free up personal time for high-return work [1:20:44, 1:21:52]. 3.",
+      "objectives": [
+        "Differentiate between spending time and multiplying time with leverage.",
+        "Apply automation, delegation, and elimination to reclaim capacity.",
+        "Map leverage plays to the system\u2019s maturity curve."
+      ],
+      "dependencies": [],
+      "topics": [
+        "time",
+        "leverage",
+        "automation"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "12",
+      "slug": "chapter-12-turning-networks-into-growth-engines",
+      "title": "Turning Networks into Growth Engines",
+      "summary": "Networks are treated as dynamic ecosystems of value exchange through which opportunities travel [1:27:00, 1:27:23]. Building a strong network requires clarity about desired connections, consistency (small, thoughtful, ongoing attention), and a mindset of reciprocity (giving value first and often) [1:28:13, 1:28:54, 1:29:31]. Leveraging the network involves connecting people to each other, strengthening the web without direct personal involvement in every interaction [1:30:08, 1:30:15]. The goal is a network anchored in trust and clarity about one's identity, which eventually becomes self-sustaining and attracts opportunities [1:31:49, 1:33:06].",
+      "objectives": [
+        "View networks as strategic assets, not passive connections.",
+        "Design systems that keep relationships reciprocal and purposeful.",
+        "Integrate contribution into network rhythms to compound trust."
+      ],
+      "dependencies": [],
+      "topics": [
+        "network",
+        "contribution",
+        "identity"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/12/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "13",
+      "slug": "chapter-13-failsafe-systems-for-tough-seasons",
+      "title": "Failsafe Systems for Tough Seasons",
+      "summary": "Failsafe systems are resilient, stripped-down versions of routines, built in advance as an \"emergency mode\" to survive disruptions (illness, strain) [1:35:01, 1:36:01]. These systems focus on non-negotiables\u2014the minimum actions needed to prevent major regression [1:36:22]. The strategy involves redefining success for the season (showing up for the basics, not peak performance) [1:37:06], reducing decision fatigue [1:37:43], and utilizing a reduced scope (e.g., writing 100 words instead of 1,000) to ensure the chain of action is never entirely broken [1:39:27, 1:39:46].",
+      "objectives": [
+        "Architect fail-safes that keep systems operational during disruption.",
+        "Define reduced modes and safety nets before crises arrive.",
+        "Test resilience plans so they activate without hesitation."
+      ],
+      "dependencies": [],
+      "topics": [
+        "resilience",
+        "system",
+        "risk"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/13/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "14",
+      "slug": "chapter-14-breaking-and-rebuilding-systems-when-you-outgrow-them",
+      "title": "Breaking and Rebuilding Systems When You Outgrow Them",
+      "summary": "Growth inevitably leads to systems becoming restrictive or irrelevant, often signaled by diminishing returns or increased friction (procrastination, working around the system) [1:42:10, 1:43:15, 1:43:52]. Outgrowing a system is a sign of success, not failure [1:42:38]. Rebuilding requires courage, analyzing what parts are still useful, and redesigning the structure based on current and future needs, incorporating greater leverage and scalability [1:44:21, 1:44:58, 1:45:35]. The ability to break and rebuild systems is a mark of adaptability, ensuring systems grow with the individual [1:47:34, 1:47:54].",
+      "objectives": [
+        "Recognize signals that a system has been outgrown.",
+        "Design upgrade loops that rebuild without losing momentum.",
+        "Document post-mortems to inform the next iteration."
+      ],
+      "dependencies": [],
+      "topics": [
+        "adaptability",
+        "feedback",
+        "structure"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/14/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "15",
+      "slug": "chapter-15-the-scarcity-trap-in-disguise",
+      "title": "The Scarcity Trap in Disguise",
+      "summary": "This chapter warns that scarcity thinking can subtly undermine abundant systems by disguising itself as productive behavior [1:49:04]. Disguised traps include:    Overoptimization: Shifting from healthy improvement to fear-driven control [1:49:40]. Hoarding Resources: Holding back time or money out of fear of running out, leading to stagnation [1:50:22]. Excessive Competition: Pushing systems harder to outpace others, driven by comparison [1:50:57]. Perfectionism: Delaying action due to the fear that anything less than perfect will lead to failure [1:51:36]. Overcommitment: Saying yes to everything out of fear that opportunities are rare [1:52:09].",
+      "objectives": [
+        "Detect scarcity traps disguised as productivity or success.",
+        "Challenge scripts that push reactive, fear-driven behaviour.",
+        "Replace hidden scarcity reflexes with abundance-based responses."
+      ],
+      "dependencies": [],
+      "topics": [
+        "mindset",
+        "abundance",
+        "awareness"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "16",
+      "slug": "chapter-16-your-future-is-a-living-system",
+      "title": "Your Future Is a Living System",
+      "summary": "The future is described as a living, constantly shaped, and adaptive system, not a fixed point [1:56:06, 1:56:19]. Designing for a living future requires adaptability to unexpected setbacks and opportunities [1:57:19, 1:58:03]. Maintaining it requires regular evaluation to ensure systems still align with current goals and values [1:58:28]. Flexibility allows the individual to adjust their destination without losing momentum [1:59:22]. This mindset frees one from the pressure of perfect planning, allowing them to shape an adaptable, abundant life [2:01:44, 2:01:55].",
+      "objectives": [
+        "Treat the future as a living system under active construction.",
+        "Use scenario design to test resilience of long-term plans.",
+        "Anchor daily actions in the identity of the future builder."
+      ],
+      "dependencies": [],
+      "topics": [
+        "futurecasting",
+        "identity",
+        "alignment"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/16/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "17",
+      "slug": "chapter-17-generational-and-legacy-systems",
+      "title": "Generational and Legacy Systems",
+      "summary": "This chapter addresses building systems that outlast the individual, such as financial frameworks, educational processes, or organizational models, to create enduring impact [2:02:34, 2:03:09]. Key elements include documentation (writing down processes for others to replicate and adapt) [2:04:15, 2:04:33], resilience (adaptability to different people and eras) [2:04:45], and clear values (acting as a compass to maintain the system's original purpose) [2:05:18, 2:05:29]. Building with legacy in mind shifts the focus from immediate results to lasting influence and ensures the impact continues to unfold long after one's own chapter is complete [2:07:50, 2:08:34].",
+      "objectives": [
+        "Extend systems thinking to generational impact and stewardship.",
+        "Define what legacy-quality systems look like in practice.",
+        "Create governance rhythms that keep successors empowered."
+      ],
+      "dependencies": [],
+      "topics": [
+        "legacy",
+        "contribution",
+        "structure"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/17/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "18",
+      "slug": "chapter-18-systems-for-contribution-and-impact",
+      "title": "Systems for Contribution and Impact",
+      "summary": "The ultimate measure of life is found in what is created for others [2:09:14]. Contribution systems structure generosity (time, resources, knowledge) to make it consistent, sustainable, and far-reaching, rather than spontaneous [2:09:59, 2:10:05]. Contribution should be intentional, focused on where unique skills can have the greatest effect [2:10:23]. Methods (financial, skill-based, relational) must be sustainable and integrated into regular life [2:11:02, 2:12:06]. The systems should be measurable for improvement and driven by purpose and values, not recognition [2:12:21, 2:13:48].",
+      "objectives": [
+        "Align personal systems with contribution and service.",
+        "Design impact loops that deliver value to others reliably.",
+        "Measure contribution alongside personal metrics of success."
+      ],
+      "dependencies": [],
+      "topics": [
+        "contribution",
+        "network",
+        "alignment"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/18/chapter.md:3"
+      ],
+      "assets": {}
+    },
+    {
+      "id": "19",
+      "slug": "chapter-19-one-system-at-a-time-forever",
+      "title": "One System at a Time, Forever",
+      "summary": "This concluding chapter reaffirms that transformation is a continuous, lifelong process [2:15:41]. The focus on building one system at a time removes pressure and creates steady layering that accelerates progress exponentially [2:16:05, 2:17:18]. This mindset protects against complacency, keeps systems adaptable, and makes growth forgiving [2:17:33, 2:18:34]. The ultimate goal is to internalize the habit of systems thinking, allowing one to continually refine their life structure and intentionally create an abundant future [2:20:41, 2:21:06].",
+      "objectives": [
+        "Adopt a life-long posture of building one system at a time.",
+        "Sustain growth by iterating with patience and rhythm.",
+        "Celebrate identity evolution as the true reward of systems work."
+      ],
+      "dependencies": [],
+      "topics": [
+        "mindset",
+        "rhythm",
+        "resilience"
+      ],
+      "source_refs": [
+        "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/19/chapter.md:3"
+      ],
+      "assets": {}
+    }
+  ],
+  "topics": {
+    "clarity": [
+      "idea-03-clarity-of-purpose",
+      "idea-03-information",
+      "idea-03-leverage",
+      "idea-03-must-align-with-a-long-term-vision",
+      "idea-03-must-be-flexible-enough-to-adjust-to-changing-circumstances-while-remaining-true-to-the-purpose",
+      "idea-03-must-be-maintainable-even-on-your-worst-days",
+      "idea-03-must-connect-and-reinforce-other-systems-in-your-life",
+      "idea-03-must-have-built-in-safety-nets-or-reduced-modes-to-absorb-shocks-and-continue-moving-forward-during",
+      "idea-03-outlines-the-ten-essential-principles-for-building-transformative-and-lasting-systems-23",
+      "idea-03-should-be-designed-with-room-to-grow-as-resources-and-ambitions-expand",
+      "idea-03-should-create-results-greater-than-the-effort-put-in",
+      "idea-03-should-create-value-not-only-for-you-but-also-for-others",
+      "idea-03-sustainability",
+      "idea-03-the-system-must-reinforce-the-identity-of-the-person-you-are-becoming",
+      "idea-04-instead-of-trying-to-fix-everything-at-once",
+      "idea-04-strategic-considerations-include",
+      "idea-04-the-starting-point-must-be-clearly-defined-e",
+      "idea-02-a-system-is-defined-as-a-repeatable-process-that-produces-a-predictable-result",
+      "idea-02-building-systems-creates-freedom-by-removing-the-constant-mental-burden-of-daily-decisions-and-makes-desired",
+      "idea-02-goals-are-described-as-incomplete-because-they-define-what-you-want-but-not-how-you-will",
+      "idea-02-goals-should-serve-as-signposts",
+      "idea-02-relying-on-goals-alone-makes-success-temporary-and-dependent-on-unreliable-willpower",
+      "idea-02-shift-the-focus-from-the-outcome-to-the-process-that-creates-the-outcome",
+      "idea-08-feedback-is-simply-informationa-tool-for-growth-59",
+      "idea-08-feedback-should-guide-improvements-that-make-the-system-easier-and-more-reliable",
+      "idea-08-regular-check-ins",
+      "idea-08-require-two-types-of-feedback",
+      "idea-08-since-systems-are-never-truly-finished"
+    ],
+    "leverage": [
+      "idea-03-clarity-of-purpose",
+      "idea-03-information",
+      "idea-03-leverage",
+      "idea-03-must-align-with-a-long-term-vision",
+      "idea-03-must-be-flexible-enough-to-adjust-to-changing-circumstances-while-remaining-true-to-the-purpose",
+      "idea-03-must-be-maintainable-even-on-your-worst-days",
+      "idea-03-must-connect-and-reinforce-other-systems-in-your-life",
+      "idea-03-must-have-built-in-safety-nets-or-reduced-modes-to-absorb-shocks-and-continue-moving-forward-during",
+      "idea-03-outlines-the-ten-essential-principles-for-building-transformative-and-lasting-systems-23",
+      "idea-03-should-be-designed-with-room-to-grow-as-resources-and-ambitions-expand",
+      "idea-03-should-create-results-greater-than-the-effort-put-in",
+      "idea-03-should-create-value-not-only-for-you-but-also-for-others",
+      "idea-03-sustainability",
+      "idea-03-the-system-must-reinforce-the-identity-of-the-person-you-are-becoming",
+      "idea-09-a-keystone-system-is-one-that",
+      "idea-09-examples-include-health-provides-physical-energy-for-all-other-systems",
+      "idea-09-identifying-and-prioritizing-the-keystone-system-ensures-focused-investment-for-the-highest-return",
+      "idea-09-keystone-systems-produce-a-ripple-effect",
+      "idea-04-instead-of-trying-to-fix-everything-at-once",
+      "idea-04-strategic-considerations-include",
+      "idea-04-the-starting-point-must-be-clearly-defined-e",
+      "idea-11-automation",
+      "idea-11-delegation",
+      "idea-11-entrusting-tasks-to-others-to-free-up-personal-time-for-high-return-work-1",
+      "idea-11-leverage-allows-one-to-multiply-the-impact-of-their-time-so-that-effort-produces-far-more",
+      "idea-11-removing-non-essential-tasks-and-commitments-entirely-1",
+      "idea-11-the-three-most-powerful-forms-are",
+      "idea-11-using-tools-or-processes-to-handle-repetitive-tasks-without-constant-input-1"
+    ],
+    "feedback": [
+      "idea-03-clarity-of-purpose",
+      "idea-03-information",
+      "idea-03-leverage",
+      "idea-03-must-align-with-a-long-term-vision",
+      "idea-03-must-be-flexible-enough-to-adjust-to-changing-circumstances-while-remaining-true-to-the-purpose",
+      "idea-03-must-be-maintainable-even-on-your-worst-days",
+      "idea-03-must-connect-and-reinforce-other-systems-in-your-life",
+      "idea-03-must-have-built-in-safety-nets-or-reduced-modes-to-absorb-shocks-and-continue-moving-forward-during",
+      "idea-03-outlines-the-ten-essential-principles-for-building-transformative-and-lasting-systems-23",
+      "idea-03-should-be-designed-with-room-to-grow-as-resources-and-ambitions-expand",
+      "idea-03-should-create-results-greater-than-the-effort-put-in",
+      "idea-03-should-create-value-not-only-for-you-but-also-for-others",
+      "idea-03-sustainability",
+      "idea-03-the-system-must-reinforce-the-identity-of-the-person-you-are-becoming",
+      "idea-14-growth-inevitably-leads-to-systems-becoming-restrictive-or-irrelevant",
+      "idea-14-outgrowing-a-system-is-a-sign-of-success",
+      "idea-14-rebuilding-requires-courage",
+      "idea-14-the-ability-to-break-and-rebuild-systems-is-a-mark-of-adaptability",
+      "idea-08-feedback-is-simply-informationa-tool-for-growth-59",
+      "idea-08-feedback-should-guide-improvements-that-make-the-system-easier-and-more-reliable",
+      "idea-08-regular-check-ins",
+      "idea-08-require-two-types-of-feedback",
+      "idea-08-since-systems-are-never-truly-finished"
+    ],
+    "automation": [
+      "idea-05-a-systems-success-depends-on-its-ability-to-be-repeated-consistently",
+      "idea-05-other-elements-include-reducing-variability-so-the-system-functions-under-a-wide-range-of-conditions",
+      "idea-05-this-is-achieved-through-simplicity-using-the-smallest-working-version-automation-removing-the-need-for-daily",
+      "idea-11-automation",
+      "idea-11-delegation",
+      "idea-11-entrusting-tasks-to-others-to-free-up-personal-time-for-high-return-work-1",
+      "idea-11-leverage-allows-one-to-multiply-the-impact-of-their-time-so-that-effort-produces-far-more",
+      "idea-11-removing-non-essential-tasks-and-commitments-entirely-1",
+      "idea-11-the-three-most-powerful-forms-are",
+      "idea-11-using-tools-or-processes-to-handle-repetitive-tasks-without-constant-input-1",
+      "idea-06-environmental-design-shifts-responsibility-from-the-mind-to-the-surroundings",
+      "idea-06-explains-that-a-system-is-much-stronger-when-supported-by-the-physical-and-digital-environment-43",
+      "idea-06-strategies-include-identifying-physical-supports-e"
+    ],
+    "resilience": [
+      "idea-05-a-systems-success-depends-on-its-ability-to-be-repeated-consistently",
+      "idea-05-other-elements-include-reducing-variability-so-the-system-functions-under-a-wide-range-of-conditions",
+      "idea-05-this-is-achieved-through-simplicity-using-the-smallest-working-version-automation-removing-the-need-for-daily",
+      "idea-19-the-focus-on-building-one-system-at-a-time-removes-pressure-and-creates-steady-layering-that",
+      "idea-19-the-ultimate-goal-is-to-internalize-the-habit-of-systems-thinking",
+      "idea-19-this-concluding-chapter-reaffirms-that-transformation-is-a-continuous",
+      "idea-19-this-mindset-protects-against-complacency",
+      "idea-10-capacity-for-focus",
+      "idea-10-energy-derived-from-meaning-and-living-in-harmony-with-purpose-and-values-1",
+      "idea-10-energy-is-managed-across-four-sources",
+      "idea-10-energy-is-the-foundational-resource-on-which-all-systems-depend-it-determines-consistency",
+      "idea-10-mental",
+      "idea-10-motivation-and-resilience",
+      "idea-10-physical",
+      "idea-10-protecting-and-building-energy-multiplies-the-value-of-time-1",
+      "idea-10-through-nutrition",
+      "idea-13-failsafe-systems-are-resilient",
+      "idea-13-systems-focus-on-non-negotiablesthe-minimum-actions-needed-to-prevent-major-regression-1",
+      "idea-13-the-strategy-involves-redefining-success-for-the-season-showing-up-for-the-basics"
+    ],
+    "structure": [
+      "idea-05-a-systems-success-depends-on-its-ability-to-be-repeated-consistently",
+      "idea-05-other-elements-include-reducing-variability-so-the-system-functions-under-a-wide-range-of-conditions",
+      "idea-05-this-is-achieved-through-simplicity-using-the-smallest-working-version-automation-removing-the-need-for-daily",
+      "idea-14-growth-inevitably-leads-to-systems-becoming-restrictive-or-irrelevant",
+      "idea-14-outgrowing-a-system-is-a-sign-of-success",
+      "idea-14-rebuilding-requires-courage",
+      "idea-14-the-ability-to-break-and-rebuild-systems-is-a-mark-of-adaptability",
+      "idea-02-a-system-is-defined-as-a-repeatable-process-that-produces-a-predictable-result",
+      "idea-02-building-systems-creates-freedom-by-removing-the-constant-mental-burden-of-daily-decisions-and-makes-desired",
+      "idea-02-goals-are-described-as-incomplete-because-they-define-what-you-want-but-not-how-you-will",
+      "idea-02-goals-should-serve-as-signposts",
+      "idea-02-relying-on-goals-alone-makes-success-temporary-and-dependent-on-unreliable-willpower",
+      "idea-02-shift-the-focus-from-the-outcome-to-the-process-that-creates-the-outcome",
+      "idea-17-addresses-building-systems-that-outlast-the-individual",
+      "idea-17-building-with-legacy-in-mind-shifts-the-focus-from-immediate-results-to-lasting-influence-and-ensures",
+      "idea-17-key-elements-include-documentation-writing-down-processes-for-others-to-replicate-and-adapt-2"
+    ],
+    "alignment": [
+      "idea-09-a-keystone-system-is-one-that",
+      "idea-09-examples-include-health-provides-physical-energy-for-all-other-systems",
+      "idea-09-identifying-and-prioritizing-the-keystone-system-ensures-focused-investment-for-the-highest-return",
+      "idea-09-keystone-systems-produce-a-ripple-effect",
+      "idea-04-instead-of-trying-to-fix-everything-at-once",
+      "idea-04-strategic-considerations-include",
+      "idea-04-the-starting-point-must-be-clearly-defined-e",
+      "idea-18-contribution-should-be-intentional",
+      "idea-18-contribution-systems-structure-generosity-time",
+      "idea-18-methods-financial",
+      "idea-18-the-systems-should-be-measurable-for-improvement-and-driven-by-purpose-and-values",
+      "idea-18-the-ultimate-measure-of-life-is-found-in-what-is-created-for-others-2",
+      "idea-06-environmental-design-shifts-responsibility-from-the-mind-to-the-surroundings",
+      "idea-06-explains-that-a-system-is-much-stronger-when-supported-by-the-physical-and-digital-environment-43",
+      "idea-06-strategies-include-identifying-physical-supports-e",
+      "idea-16-designing-for-a-living-future-requires-adaptability-to-unexpected-setbacks-and-opportunities-1",
+      "idea-16-flexibility-allows-the-individual-to-adjust-their-destination-without-losing-momentum-1",
+      "idea-16-maintaining-it-requires-regular-evaluation-to-ensure-systems-still-align-with-current-goals-and-values-1",
+      "idea-16-the-future-is-described-as-a-living",
+      "idea-16-this-mindset-frees-one-from-the-pressure-of-perfect-planning"
+    ],
+    "system": [
+      "idea-09-a-keystone-system-is-one-that",
+      "idea-09-examples-include-health-provides-physical-energy-for-all-other-systems",
+      "idea-09-identifying-and-prioritizing-the-keystone-system-ensures-focused-investment-for-the-highest-return",
+      "idea-09-keystone-systems-produce-a-ripple-effect",
+      "idea-00-behind-every-success-story-is-a-system-quietly-converting-vision-into-daily-action",
+      "idea-00-critiques-the-use-of-one-off-goals",
+      "idea-00-the-book-introduces-the-shift-from-scarcity-thinking-fear-based",
+      "idea-00-the-introduction-establishes-that-transformation-requires-intentional-design-and-is-engineered-piece-by-piece-through",
+      "idea-07-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+      "idea-07-layering-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+      "idea-07-linking-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+      "idea-07-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+      "idea-07-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+      "idea-07-shows-how-to-combine-individual-systems-to-multiply-their-results-50",
+      "idea-07-stacking-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+      "idea-07-this-integration-creates-a-self-reinforcing-network-that-leads-to-exponential-growth-and-increased-resilience",
+      "idea-01-abundance-thinking-views-the-world-as-fluid-and-expansive",
+      "idea-01-scarcity-thinking-views-the-world-as-a-place-of-limitation",
+      "idea-01-success-is-measured-by-the-quality-of-your-systems",
+      "idea-01-the-fundamental-shift-in-mindset-required-before-building-effective-systems",
+      "idea-01-thinking-means-relying-on-consistent-structures-that-operate-whether-you-feel-inspired-or-not",
+      "idea-02-a-system-is-defined-as-a-repeatable-process-that-produces-a-predictable-result",
+      "idea-02-building-systems-creates-freedom-by-removing-the-constant-mental-burden-of-daily-decisions-and-makes-desired",
+      "idea-02-goals-are-described-as-incomplete-because-they-define-what-you-want-but-not-how-you-will",
+      "idea-02-goals-should-serve-as-signposts",
+      "idea-02-relying-on-goals-alone-makes-success-temporary-and-dependent-on-unreliable-willpower",
+      "idea-02-shift-the-focus-from-the-outcome-to-the-process-that-creates-the-outcome",
+      "idea-13-failsafe-systems-are-resilient",
+      "idea-13-systems-focus-on-non-negotiablesthe-minimum-actions-needed-to-prevent-major-regression-1",
+      "idea-13-the-strategy-involves-redefining-success-for-the-season-showing-up-for-the-basics"
+    ],
+    "abundance": [
+      "idea-00-behind-every-success-story-is-a-system-quietly-converting-vision-into-daily-action",
+      "idea-00-critiques-the-use-of-one-off-goals",
+      "idea-00-the-book-introduces-the-shift-from-scarcity-thinking-fear-based",
+      "idea-00-the-introduction-establishes-that-transformation-requires-intentional-design-and-is-engineered-piece-by-piece-through",
+      "idea-15-delaying-action-due-to-the-fear-that-anything-less-than-perfect-will-lead-to-failure-1",
+      "idea-15-disguised-traps-include",
+      "idea-15-excessive-competition",
+      "idea-15-hoarding-resources",
+      "idea-15-holding-back-time-or-money-out-of-fear-of-running-out",
+      "idea-15-overcommitment",
+      "idea-15-perfectionism",
+      "idea-15-pushing-systems-harder-to-outpace-others",
+      "idea-15-saying-yes-to-everything-out-of-fear-that-opportunities-are-rare-1",
+      "idea-15-shifting-from-healthy-improvement-to-fear-driven-control-1",
+      "idea-15-warns-that-scarcity-thinking-can-subtly-undermine-abundant-systems-by-disguising-itself-as-productive-behavior-1",
+      "idea-01-abundance-thinking-views-the-world-as-fluid-and-expansive",
+      "idea-01-scarcity-thinking-views-the-world-as-a-place-of-limitation",
+      "idea-01-success-is-measured-by-the-quality-of-your-systems",
+      "idea-01-the-fundamental-shift-in-mindset-required-before-building-effective-systems",
+      "idea-01-thinking-means-relying-on-consistent-structures-that-operate-whether-you-feel-inspired-or-not"
+    ],
+    "mindset": [
+      "idea-00-behind-every-success-story-is-a-system-quietly-converting-vision-into-daily-action",
+      "idea-00-critiques-the-use-of-one-off-goals",
+      "idea-00-the-book-introduces-the-shift-from-scarcity-thinking-fear-based",
+      "idea-00-the-introduction-establishes-that-transformation-requires-intentional-design-and-is-engineered-piece-by-piece-through",
+      "idea-15-delaying-action-due-to-the-fear-that-anything-less-than-perfect-will-lead-to-failure-1",
+      "idea-15-disguised-traps-include",
+      "idea-15-excessive-competition",
+      "idea-15-hoarding-resources",
+      "idea-15-holding-back-time-or-money-out-of-fear-of-running-out",
+      "idea-15-overcommitment",
+      "idea-15-perfectionism",
+      "idea-15-pushing-systems-harder-to-outpace-others",
+      "idea-15-saying-yes-to-everything-out-of-fear-that-opportunities-are-rare-1",
+      "idea-15-shifting-from-healthy-improvement-to-fear-driven-control-1",
+      "idea-15-warns-that-scarcity-thinking-can-subtly-undermine-abundant-systems-by-disguising-itself-as-productive-behavior-1",
+      "idea-01-abundance-thinking-views-the-world-as-fluid-and-expansive",
+      "idea-01-scarcity-thinking-views-the-world-as-a-place-of-limitation",
+      "idea-01-success-is-measured-by-the-quality-of-your-systems",
+      "idea-01-the-fundamental-shift-in-mindset-required-before-building-effective-systems",
+      "idea-01-thinking-means-relying-on-consistent-structures-that-operate-whether-you-feel-inspired-or-not",
+      "idea-19-the-focus-on-building-one-system-at-a-time-removes-pressure-and-creates-steady-layering-that",
+      "idea-19-the-ultimate-goal-is-to-internalize-the-habit-of-systems-thinking",
+      "idea-19-this-concluding-chapter-reaffirms-that-transformation-is-a-continuous",
+      "idea-19-this-mindset-protects-against-complacency"
+    ],
+    "integration": [
+      "idea-07-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+      "idea-07-layering-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+      "idea-07-linking-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+      "idea-07-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+      "idea-07-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+      "idea-07-shows-how-to-combine-individual-systems-to-multiply-their-results-50",
+      "idea-07-stacking-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+      "idea-07-this-integration-creates-a-self-reinforcing-network-that-leads-to-exponential-growth-and-increased-resilience"
+    ],
+    "rhythm": [
+      "idea-07-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+      "idea-07-layering-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+      "idea-07-linking-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+      "idea-07-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+      "idea-07-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+      "idea-07-shows-how-to-combine-individual-systems-to-multiply-their-results-50",
+      "idea-07-stacking-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+      "idea-07-this-integration-creates-a-self-reinforcing-network-that-leads-to-exponential-growth-and-increased-resilience",
+      "idea-19-the-focus-on-building-one-system-at-a-time-removes-pressure-and-creates-steady-layering-that",
+      "idea-19-the-ultimate-goal-is-to-internalize-the-habit-of-systems-thinking",
+      "idea-19-this-concluding-chapter-reaffirms-that-transformation-is-a-continuous",
+      "idea-19-this-mindset-protects-against-complacency"
+    ],
+    "contribution": [
+      "idea-18-contribution-should-be-intentional",
+      "idea-18-contribution-systems-structure-generosity-time",
+      "idea-18-methods-financial",
+      "idea-18-the-systems-should-be-measurable-for-improvement-and-driven-by-purpose-and-values",
+      "idea-18-the-ultimate-measure-of-life-is-found-in-what-is-created-for-others-2",
+      "idea-12-building-a-strong-network-requires-clarity-about-desired-connections",
+      "idea-12-leveraging-the-network-involves-connecting-people-to-each-other",
+      "idea-12-networks-are-treated-as-dynamic-ecosystems-of-value-exchange-through-which-opportunities-travel-1",
+      "idea-12-the-goal-is-a-network-anchored-in-trust-and-clarity-about-ones-identity",
+      "idea-17-addresses-building-systems-that-outlast-the-individual",
+      "idea-17-building-with-legacy-in-mind-shifts-the-focus-from-immediate-results-to-lasting-influence-and-ensures",
+      "idea-17-key-elements-include-documentation-writing-down-processes-for-others-to-replicate-and-adapt-2"
+    ],
+    "network": [
+      "idea-18-contribution-should-be-intentional",
+      "idea-18-contribution-systems-structure-generosity-time",
+      "idea-18-methods-financial",
+      "idea-18-the-systems-should-be-measurable-for-improvement-and-driven-by-purpose-and-values",
+      "idea-18-the-ultimate-measure-of-life-is-found-in-what-is-created-for-others-2",
+      "idea-12-building-a-strong-network-requires-clarity-about-desired-connections",
+      "idea-12-leveraging-the-network-involves-connecting-people-to-each-other",
+      "idea-12-networks-are-treated-as-dynamic-ecosystems-of-value-exchange-through-which-opportunities-travel-1",
+      "idea-12-the-goal-is-a-network-anchored-in-trust-and-clarity-about-ones-identity"
+    ],
+    "adaptability": [
+      "idea-14-growth-inevitably-leads-to-systems-becoming-restrictive-or-irrelevant",
+      "idea-14-outgrowing-a-system-is-a-sign-of-success",
+      "idea-14-rebuilding-requires-courage",
+      "idea-14-the-ability-to-break-and-rebuild-systems-is-a-mark-of-adaptability",
+      "idea-08-feedback-is-simply-informationa-tool-for-growth-59",
+      "idea-08-feedback-should-guide-improvements-that-make-the-system-easier-and-more-reliable",
+      "idea-08-regular-check-ins",
+      "idea-08-require-two-types-of-feedback",
+      "idea-08-since-systems-are-never-truly-finished"
+    ],
+    "awareness": [
+      "idea-15-delaying-action-due-to-the-fear-that-anything-less-than-perfect-will-lead-to-failure-1",
+      "idea-15-disguised-traps-include",
+      "idea-15-excessive-competition",
+      "idea-15-hoarding-resources",
+      "idea-15-holding-back-time-or-money-out-of-fear-of-running-out",
+      "idea-15-overcommitment",
+      "idea-15-perfectionism",
+      "idea-15-pushing-systems-harder-to-outpace-others",
+      "idea-15-saying-yes-to-everything-out-of-fear-that-opportunities-are-rare-1",
+      "idea-15-shifting-from-healthy-improvement-to-fear-driven-control-1",
+      "idea-15-warns-that-scarcity-thinking-can-subtly-undermine-abundant-systems-by-disguising-itself-as-productive-behavior-1"
+    ],
+    "time": [
+      "idea-11-automation",
+      "idea-11-delegation",
+      "idea-11-entrusting-tasks-to-others-to-free-up-personal-time-for-high-return-work-1",
+      "idea-11-leverage-allows-one-to-multiply-the-impact-of-their-time-so-that-effort-produces-far-more",
+      "idea-11-removing-non-essential-tasks-and-commitments-entirely-1",
+      "idea-11-the-three-most-powerful-forms-are",
+      "idea-11-using-tools-or-processes-to-handle-repetitive-tasks-without-constant-input-1"
+    ],
+    "identity": [
+      "idea-12-building-a-strong-network-requires-clarity-about-desired-connections",
+      "idea-12-leveraging-the-network-involves-connecting-people-to-each-other",
+      "idea-12-networks-are-treated-as-dynamic-ecosystems-of-value-exchange-through-which-opportunities-travel-1",
+      "idea-12-the-goal-is-a-network-anchored-in-trust-and-clarity-about-ones-identity",
+      "idea-16-designing-for-a-living-future-requires-adaptability-to-unexpected-setbacks-and-opportunities-1",
+      "idea-16-flexibility-allows-the-individual-to-adjust-their-destination-without-losing-momentum-1",
+      "idea-16-maintaining-it-requires-regular-evaluation-to-ensure-systems-still-align-with-current-goals-and-values-1",
+      "idea-16-the-future-is-described-as-a-living",
+      "idea-16-this-mindset-frees-one-from-the-pressure-of-perfect-planning"
+    ],
+    "energy": [
+      "idea-10-capacity-for-focus",
+      "idea-10-energy-derived-from-meaning-and-living-in-harmony-with-purpose-and-values-1",
+      "idea-10-energy-is-managed-across-four-sources",
+      "idea-10-energy-is-the-foundational-resource-on-which-all-systems-depend-it-determines-consistency",
+      "idea-10-mental",
+      "idea-10-motivation-and-resilience",
+      "idea-10-physical",
+      "idea-10-protecting-and-building-energy-multiplies-the-value-of-time-1",
+      "idea-10-through-nutrition"
+    ],
+    "routine": [
+      "idea-10-capacity-for-focus",
+      "idea-10-energy-derived-from-meaning-and-living-in-harmony-with-purpose-and-values-1",
+      "idea-10-energy-is-managed-across-four-sources",
+      "idea-10-energy-is-the-foundational-resource-on-which-all-systems-depend-it-determines-consistency",
+      "idea-10-mental",
+      "idea-10-motivation-and-resilience",
+      "idea-10-physical",
+      "idea-10-protecting-and-building-energy-multiplies-the-value-of-time-1",
+      "idea-10-through-nutrition"
+    ],
+    "environment": [
+      "idea-06-environmental-design-shifts-responsibility-from-the-mind-to-the-surroundings",
+      "idea-06-explains-that-a-system-is-much-stronger-when-supported-by-the-physical-and-digital-environment-43",
+      "idea-06-strategies-include-identifying-physical-supports-e"
+    ],
+    "futurecasting": [
+      "idea-16-designing-for-a-living-future-requires-adaptability-to-unexpected-setbacks-and-opportunities-1",
+      "idea-16-flexibility-allows-the-individual-to-adjust-their-destination-without-losing-momentum-1",
+      "idea-16-maintaining-it-requires-regular-evaluation-to-ensure-systems-still-align-with-current-goals-and-values-1",
+      "idea-16-the-future-is-described-as-a-living",
+      "idea-16-this-mindset-frees-one-from-the-pressure-of-perfect-planning"
+    ],
+    "risk": [
+      "idea-13-failsafe-systems-are-resilient",
+      "idea-13-systems-focus-on-non-negotiablesthe-minimum-actions-needed-to-prevent-major-regression-1",
+      "idea-13-the-strategy-involves-redefining-success-for-the-season-showing-up-for-the-basics"
+    ],
+    "legacy": [
+      "idea-17-addresses-building-systems-that-outlast-the-individual",
+      "idea-17-building-with-legacy-in-mind-shifts-the-focus-from-immediate-results-to-lasting-influence-and-ensures",
+      "idea-17-key-elements-include-documentation-writing-down-processes-for-others-to-replicate-and-adapt-2"
+    ]
+  }
+}

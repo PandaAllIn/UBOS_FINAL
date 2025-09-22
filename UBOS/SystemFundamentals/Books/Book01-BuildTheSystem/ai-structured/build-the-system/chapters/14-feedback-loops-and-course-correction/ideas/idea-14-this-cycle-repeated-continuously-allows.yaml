@@ -1,0 +1,13 @@
+id: idea-14-this-cycle-repeated-continuously-allows
+chapter: '14'
+kind: principle
+title: This Cycle Repeated Continuously Allows
+one_liner: This cycle repeated continuously allows your system to evolve in real time.
+description: This cycle repeated continuously allows your system to evolve in real
+  time.
+topics:
+- system
+- feedback
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:7

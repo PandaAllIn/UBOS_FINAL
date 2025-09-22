@@ -1,0 +1,18 @@
+id: practice-05-scenario-anticipation-drill
+chapter: '05'
+kind: checklist
+title: Scenario Anticipation Drill
+prompt: Practice staying ahead of obstacles before they become emergencies.
+steps:
+- List the three most likely disruptions to your current plan.
+- For each, write the earliest signal that the scenario is emerging.
+- Decide on your first strategic response if the signal appears.
+- Schedule a review cadence to refresh scenarios as conditions change.
+expected_outcome: Confidence that you can adapt quickly because contingencies are
+  pre-planned.
+topics:
+- anticipation
+- foresight
+- planning
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/05/exercises.md:3

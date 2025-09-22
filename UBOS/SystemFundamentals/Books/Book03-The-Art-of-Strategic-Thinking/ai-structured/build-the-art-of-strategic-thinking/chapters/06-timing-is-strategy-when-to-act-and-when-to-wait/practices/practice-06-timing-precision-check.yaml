@@ -1,0 +1,17 @@
+id: practice-06-timing-precision-check
+chapter: '06'
+kind: checklist
+title: Timing Precision Check
+prompt: Align decisions with the ripest moment for impact.
+steps:
+- Review a decision you rushed or delayed and note the cost.
+- Define criteria that signal the right time to move in similar situations.
+- Outline preparatory actions required so you can act fast when timing is right.
+- Document a pre-mortem to ensure patience never becomes paralysis.
+expected_outcome: A timing framework that balances readiness with decisive action.
+topics:
+- timing
+- precision
+- decision
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/06/exercises.md:3

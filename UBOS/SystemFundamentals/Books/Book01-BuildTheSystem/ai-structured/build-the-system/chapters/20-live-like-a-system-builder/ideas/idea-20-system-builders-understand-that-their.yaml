@@ -1,0 +1,12 @@
+id: idea-20-system-builders-understand-that-their
+chapter: '20'
+kind: principle
+title: System Builders Understand That Their
+one_liner: System builders understand that their future is their responsibility.
+description: System builders understand that their future is their responsibility.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:10

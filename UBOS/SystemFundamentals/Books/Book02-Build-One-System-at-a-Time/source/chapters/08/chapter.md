@@ -1,0 +1,3 @@
+# Chapter 08 – Feedback loops that fuel growth
+
+Since systems are never truly finished, feedback loops allow systems to evolve and self-improve over time [58:11, 58:50]. Feedback is simply information—a tool for growth [59:02]. Systems require two types of feedback: **outcome feedback** (measuring final results, like savings accumulated) and **process feedback** (measuring execution consistency, like skipping review sessions). Regular check-ins, tracking, and seeking external perspectives are key methods. Feedback should guide improvements that make the system easier and more reliable, ensuring it is adaptable and aligned with needs.

@@ -1,0 +1,14 @@
+id: idea-10-if-your-screen-is-filled
+chapter: '10'
+kind: principle
+title: If Your Screen Is Filled
+one_liner: If your screen is filled with alerts, badges, and open loops, your nervous
+  system is in a constant state of micro stress.
+description: If your screen is filled with alerts, badges, and open loops, your nervous
+  system is in a constant state of micro stress.
+topics:
+- system
+- design
+- environment
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:11

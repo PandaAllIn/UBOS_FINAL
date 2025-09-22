@@ -1,0 +1,14 @@
+id: idea-08-feedback-should-guide-improvements-that-make-the-system-easier-and-more-reliable
+chapter: 08
+kind: principle
+title: Feedback Should Guide Improvements That Make The System Easier And More Reliable
+one_liner: Feedback should guide improvements that make the system easier and more
+  reliable, ensuring it is adaptable and aligned with needs.
+description: Feedback should guide improvements that make the system easier and more
+  reliable, ensuring it is adaptable and aligned with needs.
+topics:
+- feedback
+- adaptability
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3

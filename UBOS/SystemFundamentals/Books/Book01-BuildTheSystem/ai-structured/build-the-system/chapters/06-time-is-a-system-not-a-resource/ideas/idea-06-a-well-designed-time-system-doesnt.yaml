@@ -1,0 +1,12 @@
+id: idea-06-a-well-designed-time-system-doesnt
+chapter: '06'
+kind: principle
+title: A Well Designed Time System Doesnt
+one_liner: A well-designed time system doesn't start with a to-do list.
+description: A well-designed time system doesn't start with a to-do list.
+topics:
+- design
+- system
+- energy
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:6

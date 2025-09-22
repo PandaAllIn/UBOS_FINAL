@@ -1,0 +1,12 @@
+id: idea-19-you-dont-build-a-system
+chapter: '19'
+kind: principle
+title: You Dont Build A System
+one_liner: You don't build a system so you can micromanage it.
+description: You don't build a system so you can micromanage it.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:5

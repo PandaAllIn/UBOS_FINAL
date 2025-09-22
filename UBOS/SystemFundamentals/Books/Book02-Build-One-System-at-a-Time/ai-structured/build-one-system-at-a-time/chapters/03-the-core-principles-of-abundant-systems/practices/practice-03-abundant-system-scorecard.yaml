@@ -1,0 +1,20 @@
+id: practice-03-abundant-system-scorecard
+chapter: '03'
+kind: checklist
+title: Abundant System Scorecard
+prompt: Evaluate a current system against the ten abundant system principles.
+steps:
+- Select one existing system to assess in depth.
+- 'Score the system 1-5 for each principle: clarity, sustainability, leverage, adaptability,
+  feedback, integration, identity alignment, scalability, resilience, contribution.'
+- Highlight principles scoring three or below and note specific shortcomings.
+- Design targeted upgrades for the weakest principles and schedule implementation
+  dates.
+expected_outcome: Prioritized upgrade plan that strengthens the system across all
+  abundance principles.
+topics:
+- clarity
+- leverage
+- feedback
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/exercises.md:3

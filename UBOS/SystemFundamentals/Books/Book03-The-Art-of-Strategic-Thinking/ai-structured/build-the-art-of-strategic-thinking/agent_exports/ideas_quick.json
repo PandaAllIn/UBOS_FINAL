@@ -1,0 +1,648 @@
+[
+  {
+    "id": "idea-07-how-to-win-with-less-effort",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "How To Win With Less Effort",
+    "one_liner": "How to win with less effort.",
+    "description": "How to win with less effort. There's a secret behind every outsiz success story.",
+    "topics": [
+      "leverage",
+      "resources",
+      "efficiency"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/07-leverage-how-to-win-with-less-effort/ideas/idea-07-how-to-win-with-less-effort.yaml"
+  },
+  {
+    "id": "idea-07-its-not-about-working-18our-days-grinding-through-burnout-or-carrying-the-whole-weight-on-your",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "It'S Not About Working 18Our Days Grinding Through Burnout Or Carrying The Whole Weight On Your",
+    "one_liner": "It's not about working 18our days grinding through burnout or carrying the whole weight on your shoulders.",
+    "description": "It's not about working 18our days grinding through burnout or carrying the whole weight on your shoulders. Leverage means using a small input to create a massive output.",
+    "topics": [
+      "leverage",
+      "resources",
+      "efficiency"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/07-leverage-how-to-win-with-less-effort/ideas/idea-07-its-not-about-working-18our-days-grinding-through-burnout-or-carrying-the-whole-weight-on-your.yaml"
+  },
+  {
+    "id": "idea-07-step-three",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Step Three",
+    "one_liner": "Step three, leveraging relationships.",
+    "description": "Step three, leveraging relationships. One of the most powerful but underused.",
+    "topics": [
+      "leverage",
+      "resources",
+      "efficiency"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/07/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/07-leverage-how-to-win-with-less-effort/ideas/idea-07-step-three.yaml"
+  },
+  {
+    "id": "idea-07-theres-a-secret-behind-every-outsiz-success-story",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "There'S A Secret Behind Every Outsiz Success Story",
+    "one_liner": "There's a secret behind every outsiz success story.",
+    "description": "There's a secret behind every outsiz success story. It's not about working 18our days grinding through burnout or carrying the whole weight on your shoulders.",
+    "topics": [
+      "leverage",
+      "resources",
+      "efficiency"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/07-leverage-how-to-win-with-less-effort/ideas/idea-07-theres-a-secret-behind-every-outsiz-success-story.yaml"
+  },
+  {
+    "id": "idea-02-let-me-ask-you-a-question",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Let Me Ask You A Question",
+    "one_liner": "Let me ask you a question.",
+    "description": "Let me ask you a question. One that sounds simple but reveals everything.",
+    "topics": [
+      "clarity",
+      "vision",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/02-clarity-is-power-defining-your-endgame/ideas/idea-02-let-me-ask-you-a-question.yaml"
+  },
+  {
+    "id": "idea-02-most-people-cant-answer-that-with-any-real-precision",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Most People Can'T Answer That With Any Real Precision",
+    "one_liner": "Most people can't answer that with any real precision.",
+    "description": "Most people can't answer that with any real precision. They'll say things like, \"I want to be successful.",
+    "topics": [
+      "clarity",
+      "vision",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/02-clarity-is-power-defining-your-endgame/ideas/idea-02-most-people-cant-answer-that-with-any-real-precision.yaml"
+  },
+  {
+    "id": "idea-02-one-that-sounds-simple-but-reveals-everything",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "One That Sounds Simple But Reveals Everything",
+    "one_liner": "One that sounds simple but reveals everything.",
+    "description": "One that sounds simple but reveals everything. Most people can't answer that with any real precision.",
+    "topics": [
+      "clarity",
+      "vision",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/02-clarity-is-power-defining-your-endgame/ideas/idea-02-one-that-sounds-simple-but-reveals-everything.yaml"
+  },
+  {
+    "id": "idea-02-step-two",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Step Two",
+    "one_liner": "Step two, reverse engineering success.",
+    "description": "Step two, reverse engineering success. Once you've defined your goal, don't.",
+    "topics": [
+      "clarity",
+      "vision",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/02/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/02-clarity-is-power-defining-your-endgame/ideas/idea-02-step-two.yaml"
+  },
+  {
+    "id": "idea-00-in-this-audio-book",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "In This Audio Book",
+    "one_liner": "In this audio book, you'll discover the powerful strategies top thinkers use to anticipate change, make smarter decisions, and achieve lasting success.",
+    "description": "In this audio book, you'll discover the powerful strategies top thinkers use to anticipate change, make smarter decisions, and achieve lasting success. Unlock your potential to outthink obstacles, act with precision, and take confident control of your life's direction.",
+    "topics": [
+      "strategy",
+      "mindset",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/00-introduction/ideas/idea-00-in-this-audio-book.yaml"
+  },
+  {
+    "id": "idea-00-introduction-why-strategic-thinking-is-your-greatest-superpower",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "Introduction Why Strategic Thinking Is Your Greatest Superpower",
+    "one_liner": "Introduction Why strategic thinking is your greatest superpower.",
+    "description": "Introduction Why strategic thinking is your greatest superpower. Let me ask you a simple question.",
+    "topics": [
+      "strategy",
+      "mindset",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/00-introduction/ideas/idea-00-introduction-why-strategic-thinking-is-your-greatest-superpower.yaml"
+  },
+  {
+    "id": "idea-00-introduction",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "Introduction",
+    "one_liner": "Introduction: Why Strategic Thinking Is Your Greatest Superpower What if the key to mastering any challenge isn't about pushing harder, but about thinking sharper?",
+    "description": "Introduction: Why Strategic Thinking Is Your Greatest Superpower What if the key to mastering any challenge isn't about pushing harder, but about thinking sharper? In this audio book, you'll discover the powerful strategies top thinkers use to anticipate change, make smarter decisions, and achieve lasting success.",
+    "topics": [
+      "strategy",
+      "mindset",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/00-introduction/ideas/idea-00-introduction.yaml"
+  },
+  {
+    "id": "idea-00-let-me-ask-you-a-simple-question",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "Let Me Ask You A Simple Question",
+    "one_liner": "Let me ask you a simple question.",
+    "description": "Let me ask you a simple question. When life throws you a curveball, do you react or do you respond strategically?",
+    "topics": [
+      "strategy",
+      "mindset",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/00-introduction/ideas/idea-00-let-me-ask-you-a-simple-question.yaml"
+  },
+  {
+    "id": "idea-00-unlock-your-potential-to-outthink-obstacles",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "Unlock Your Potential To Outthink Obstacles",
+    "one_liner": "Unlock your potential to outthink obstacles, act with precision, and take confident control of your life's direction.",
+    "description": "Unlock your potential to outthink obstacles, act with precision, and take confident control of your life's direction. Introduction Why strategic thinking is your greatest superpower.",
+    "topics": [
+      "strategy",
+      "mindset",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/00-introduction/ideas/idea-00-unlock-your-potential-to-outthink-obstacles.yaml"
+  },
+  {
+    "id": "idea-00-when-life-throws-you-a-curveball",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "When Life Throws You A Curveball",
+    "one_liner": "When life throws you a curveball, do you react or do you respond strategically?",
+    "description": "When life throws you a curveball, do you react or do you respond strategically? In a world that constantly demands your attention, that pressures you to move fast, to speak up, to take action.",
+    "topics": [
+      "strategy",
+      "mindset",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/00-introduction/ideas/idea-00-when-life-throws-you-a-curveball.yaml"
+  },
+  {
+    "id": "idea-06-if-you-move-too-soon",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "If You Move Too Soon",
+    "one_liner": "If you move too soon, you waste energy.",
+    "description": "If you move too soon, you waste energy. If you wait too long, you miss opportunity.",
+    "topics": [
+      "timing",
+      "precision",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/06/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/06-timing-is-strategy-when-to-act-and-when-to-wait/ideas/idea-06-if-you-move-too-soon.yaml"
+  },
+  {
+    "id": "idea-06-none-of-it-matters-if-your-timing-is-off",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "None Of It Matters If Your Timing Is Off",
+    "one_liner": "None of it matters if your timing is off.",
+    "description": "None of it matters if your timing is off. If you move too soon, you waste energy.",
+    "topics": [
+      "timing",
+      "precision",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/06/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/06-timing-is-strategy-when-to-act-and-when-to-wait/ideas/idea-06-none-of-it-matters-if-your-timing-is-off.yaml"
+  },
+  {
+    "id": "idea-06-theres-a-saying-among-seasoned-strategists",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "There'S A Saying Among Seasoned Strategists",
+    "one_liner": "There's a saying among seasoned strategists, the right move at the wrong time is still the wrong move.",
+    "description": "There's a saying among seasoned strategists, the right move at the wrong time is still the wrong move. None of it matters if your timing is off.",
+    "topics": [
+      "timing",
+      "precision",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/06/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/06-timing-is-strategy-when-to-act-and-when-to-wait/ideas/idea-06-theres-a-saying-among-seasoned-strategists.yaml"
+  },
+  {
+    "id": "idea-06-when-to-move-and-when-to-wait",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "When To Move And When To Wait",
+    "one_liner": "When to move and when to wait.",
+    "description": "When to move and when to wait. There's a saying among seasoned strategists, the right move at the wrong time is still the wrong move.",
+    "topics": [
+      "timing",
+      "precision",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/06/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/06-timing-is-strategy-when-to-act-and-when-to-wait/ideas/idea-06-when-to-move-and-when-to-wait.yaml"
+  },
+  {
+    "id": "idea-09-in-the-chess-game-of-life-and-leadership",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "In The Chess Game Of Life And Leadership",
+    "one_liner": "In the chess game of life and leadership, brute force is rarely the winning move.",
+    "description": "In the chess game of life and leadership, brute force is rarely the winning move. The subtle art of guiding others thoughts, feelings, and actions without them realizing it.",
+    "topics": [
+      "psychology",
+      "influence",
+      "communication"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/09/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/09-psychological-warfare-outsmarting-people-with-integrity/ideas/idea-09-in-the-chess-game-of-life-and-leadership.yaml"
+  },
+  {
+    "id": "idea-09-in-the-chess-game-of-life-and-through-influence",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "In The Chess Game Of Life And Through Influence",
+    "one_liner": "In the chess game of life and through influence.",
+    "description": "In the chess game of life and through influence. In the chess game of life and leadership, brute force is rarely the winning move.",
+    "topics": [
+      "psychology",
+      "influence",
+      "communication"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/09/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/09-psychological-warfare-outsmarting-people-with-integrity/ideas/idea-09-in-the-chess-game-of-life-and-through-influence.yaml"
+  },
+  {
+    "id": "idea-09-the-subtle-art-of-guiding-others-thoughts",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "The Subtle Art Of Guiding Others Thoughts",
+    "one_liner": "The subtle art of guiding others thoughts, feelings, and actions without them realizing it.",
+    "description": "The subtle art of guiding others thoughts, feelings, and actions without them realizing it. Not the war of violence, but the battle of minds.",
+    "topics": [
+      "psychology",
+      "influence",
+      "communication"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/09/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/09-psychological-warfare-outsmarting-people-with-integrity/ideas/idea-09-the-subtle-art-of-guiding-others-thoughts.yaml"
+  },
+  {
+    "id": "idea-04-one-is-focused-on-their-next-move",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "One Is Focused On Their Next Move",
+    "one_liner": "One is focused on their next move.",
+    "description": "One is focused on their next move. The other is watching the entire board several moves ahead.",
+    "topics": [
+      "systems",
+      "vision",
+      "analysis"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/04/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/04-seeing-the-board-mastering-the-big-picture/ideas/idea-04-one-is-focused-on-their-next-move.yaml"
+  },
+  {
+    "id": "idea-04-seeing-the-board",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "Seeing The Board",
+    "one_liner": "Seeing the board, mastering the big picture.",
+    "description": "Seeing the board, mastering the big picture.",
+    "topics": [
+      "systems",
+      "vision",
+      "analysis"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/04/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/04-seeing-the-board-mastering-the-big-picture/ideas/idea-04-seeing-the-board.yaml"
+  },
+  {
+    "id": "idea-04-the-other-is-watching-the-entire-board-several-moves-ahead",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "The Other Is Watching The Entire Board Several Moves Ahead",
+    "one_liner": "The other is watching the entire board several moves ahead.",
+    "description": "The other is watching the entire board several moves ahead. Thinking not just about pieces but about patterns.",
+    "topics": [
+      "systems",
+      "vision",
+      "analysis"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/04/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/04-seeing-the-board-mastering-the-big-picture/ideas/idea-04-the-other-is-watching-the-entire-board-several-moves-ahead.yaml"
+  },
+  {
+    "id": "idea-04-thinking-not-just-about-pieces-but-about-patterns",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "Thinking Not Just About Pieces But About Patterns",
+    "one_liner": "Thinking not just about pieces but about patterns.",
+    "description": "Thinking not just about pieces but about patterns. It's the one who sees the big picture.",
+    "topics": [
+      "systems",
+      "vision",
+      "analysis"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/04/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/04-seeing-the-board-mastering-the-big-picture/ideas/idea-04-thinking-not-just-about-pieces-but-about-patterns.yaml"
+  },
+  {
+    "id": "idea-03-imagine-youre-walking-onto-a-battlefield",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Imagine You'Re Walking Onto A Battlefield",
+    "one_liner": "Imagine you're walking onto a battlefield.",
+    "description": "Imagine you're walking onto a battlefield. You don't know where the enemy is hiding.",
+    "topics": [
+      "information",
+      "strategy",
+      "execution"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/03/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/03-information-is-ammunition-learn-before-you-move/ideas/idea-03-imagine-youre-walking-onto-a-battlefield.yaml"
+  },
+  {
+    "id": "idea-03-you-dont-know-where-the-enemy-is-hiding",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "You Don'T Know Where The Enemy Is Hiding",
+    "one_liner": "You don't know where the enemy is hiding.",
+    "description": "You don't know where the enemy is hiding. You have no idea what weapons are available.",
+    "topics": [
+      "information",
+      "strategy",
+      "execution"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/03/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/03-information-is-ammunition-learn-before-you-move/ideas/idea-03-you-dont-know-where-the-enemy-is-hiding.yaml"
+  },
+  {
+    "id": "idea-03-you-have-no-idea-what-weapons-are-available",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "You Have No Idea What Weapons Are Available",
+    "one_liner": "You have no idea what weapons are available.",
+    "description": "You have no idea what weapons are available. Now tell me, would you charge forward?",
+    "topics": [
+      "information",
+      "strategy",
+      "execution"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/03/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/03-information-is-ammunition-learn-before-you-move/ideas/idea-03-you-have-no-idea-what-weapons-are-available.yaml"
+  },
+  {
+    "id": "idea-08-life-rarely-goes-according-to-plan",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Life Rarely Goes According To Plan",
+    "one_liner": "Life rarely goes according to plan.",
+    "description": "Life rarely goes according to plan.",
+    "topics": [
+      "adaptability",
+      "resilience",
+      "change"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/08/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/08-adapting-on-the-move-staying-agile-without-losing-the-vision/ideas/idea-08-life-rarely-goes-according-to-plan.yaml"
+  },
+  {
+    "id": "idea-08-you-may-have-prepared-for-everything-you-thought-could-happen",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "You May Have Prepared For Everything You Thought Could Happen",
+    "one_liner": "You may have prepared for everything you thought could happen.",
+    "description": "You may have prepared for everything you thought could happen.",
+    "topics": [
+      "adaptability",
+      "resilience",
+      "change"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/08/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/08-adapting-on-the-move-staying-agile-without-losing-the-vision/ideas/idea-08-you-may-have-prepared-for-everything-you-thought-could-happen.yaml"
+  },
+  {
+    "id": "idea-10-you-know-how-to-influence-and-lead",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "You Know How To Influence And Lead",
+    "one_liner": "You know how to influence and lead.",
+    "description": "You know how to influence and lead. But none of it matters if you don't execute.",
+    "topics": [
+      "execution",
+      "discipline",
+      "action"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/10/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/10-execution-turning-strategy-into-results/ideas/idea-10-you-know-how-to-influence-and-lead.yaml"
+  },
+  {
+    "id": "idea-01-because-in-the-end",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Because In The End",
+    "one_liner": "Because in the end, it's not the smartest, fastest, or strongest people who win.",
+    "description": "Because in the end, it's not the smartest, fastest, or strongest people who win. It's the ones who can pause, evaluate, and think clearly under pressure.",
+    "topics": [
+      "mindset",
+      "strategy",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/01-the-strategic-mindset-how-to-think-before-you-react/ideas/idea-01-because-in-the-end.yaml"
+  },
+  {
+    "id": "idea-01-begin-with-a-truth-most-people-overlook",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Begin With A Truth Most People Overlook",
+    "one_liner": "Let's begin with a truth most people overlook.",
+    "description": "Let's begin with a truth most people overlook. Your greatest power isn't your knowledge, your talent, or even your experience.",
+    "topics": [
+      "mindset",
+      "strategy",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/01-the-strategic-mindset-how-to-think-before-you-react/ideas/idea-01-begin-with-a-truth-most-people-overlook.yaml"
+  },
+  {
+    "id": "idea-01-how-to-think-before-you-react",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "How To Think Before You React",
+    "one_liner": "How to think before you react.",
+    "description": "How to think before you react. Let's begin with a truth most people overlook.",
+    "topics": [
+      "mindset",
+      "strategy",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/01-the-strategic-mindset-how-to-think-before-you-react/ideas/idea-01-how-to-think-before-you-react.yaml"
+  },
+  {
+    "id": "idea-01-your-greatest-power-is-the-ability-to-choose-how-you-think",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Your Greatest Power Is The Ability To Choose How You Think",
+    "one_liner": "Your greatest power is the ability to choose how you think.",
+    "description": "Your greatest power is the ability to choose how you think. Because in the end, it's not the smartest, fastest, or strongest people who win.",
+    "topics": [
+      "mindset",
+      "strategy",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/01-the-strategic-mindset-how-to-think-before-you-react/ideas/idea-01-your-greatest-power-is-the-ability-to-choose-how-you-think.yaml"
+  },
+  {
+    "id": "idea-01-your-greatest-power-isnt-your-knowledge",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Your Greatest Power Isn'T Your Knowledge",
+    "one_liner": "Your greatest power isn't your knowledge, your talent, or even your experience.",
+    "description": "Your greatest power isn't your knowledge, your talent, or even your experience. Your greatest power is the ability to choose how you think.",
+    "topics": [
+      "mindset",
+      "strategy",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/01-the-strategic-mindset-how-to-think-before-you-react/ideas/idea-01-your-greatest-power-isnt-your-knowledge.yaml"
+  },
+  {
+    "id": "idea-05-no-drama",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "No Drama",
+    "one_liner": "No drama, no sudden moves, just calm calculation.",
+    "description": "No drama, no sudden moves, just calm calculation.",
+    "topics": [
+      "anticipation",
+      "foresight",
+      "planning"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/05/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/05-anticipation-the-key-to-outsmarting-obstacles/ideas/idea-05-no-drama.yaml"
+  },
+  {
+    "id": "idea-05-theres-a-moment-in-every-game",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "There'S A Moment In Every Game",
+    "one_liner": "There's a moment in every game, every negotiation, every challenge when the one who sees ahead quietly takes the lead.",
+    "description": "There's a moment in every game, every negotiation, every challenge when the one who sees ahead quietly takes the lead. No drama, no sudden moves, just calm calculation.",
+    "topics": [
+      "anticipation",
+      "foresight",
+      "planning"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/05/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/05-anticipation-the-key-to-outsmarting-obstacles/ideas/idea-05-theres-a-moment-in-every-game.yaml"
+  }
+]

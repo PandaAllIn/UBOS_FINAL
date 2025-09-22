@@ -1,0 +1,6 @@
+# Exercises
+
+- This chapter addresses building systems that outlast the individual, such as financial frameworks, educational processes, or organizational models, to create enduring impact [2: 02:34, 2:03:09]
+- Key elements include **documentation** (writing down processes for others to replicate and adapt) [2: 04:15, 2:04:33], **resilience** (adaptability to different people and eras) [2:04:45]
+- Key elements include **documentation** (writing down processes for others to replicate and adapt) [2: and clear **values** (acting as a compass to maintain the system's original purpose) [2:05:18, 2:05:29]
+- Building with legacy in mind shifts the focus from immediate results to lasting influence and ensures the impact continues to unfold long after one's own chapter is complete [2: 07:50, 2:08:34]

@@ -1,0 +1,255 @@
+[
+  {
+    "id": "practice-07-leverage-inventory-sprint",
+    "chapter": "07",
+    "kind": "checklist",
+    "title": "Leverage Inventory Sprint",
+    "prompt": "Locate assets that can multiply results with less exertion.",
+    "steps": [
+      "List resources\u2014skills, technology, relationships\u2014you are underutilizing.",
+      "Brainstorm leverage moves that would expand results without proportional effort.",
+      "Prioritize one leverage play and design the first experiment.",
+      "Track hours saved or output gained to validate the leverage."
+    ],
+    "expected_outcome": "A tested leverage play that magnifies output while protecting energy.",
+    "topics": [
+      "leverage",
+      "resources",
+      "efficiency"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/07/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/07-leverage-how-to-win-with-less-effort/practices/practice-07-leverage-inventory-sprint.yaml"
+  },
+  {
+    "id": "practice-02-endgame-clarity-map",
+    "chapter": "02",
+    "kind": "checklist",
+    "title": "Endgame Clarity Map",
+    "prompt": "Translate strategic clarity into measurable checkpoints.",
+    "steps": [
+      "Write the future state you are building in vivid detail.",
+      "List three milestone outcomes that prove you are on track.",
+      "Define inputs and behaviours required for the next milestone.",
+      "Schedule a monthly review to adjust targets as clarity sharpens."
+    ],
+    "expected_outcome": "A reverse-engineered roadmap that keeps execution tethered to the vision.",
+    "topics": [
+      "clarity",
+      "vision",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/02/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/02-clarity-is-power-defining-your-endgame/practices/practice-02-endgame-clarity-map.yaml"
+  },
+  {
+    "id": "practice-00-strategic-mindset-primer",
+    "chapter": "00",
+    "kind": "checklist",
+    "title": "Strategic Mindset Primer",
+    "prompt": "Anchor the introductory lessons by defining your strategic posture.",
+    "steps": [
+      "List three moments this week when you reacted instead of responded.",
+      "Describe how a strategic pause would have changed each outcome.",
+      "Write a one-sentence definition of strategic thinking for your life.",
+      "Choose one daily cue that will remind you to slow down and think before acting."
+    ],
+    "expected_outcome": "Personal definition and trigger that begin the strategic mindset shift.",
+    "topics": [
+      "strategy",
+      "mindset",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/00/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/00-introduction/practices/practice-00-strategic-mindset-primer.yaml"
+  },
+  {
+    "id": "practice-06-timing-precision-check",
+    "chapter": "06",
+    "kind": "checklist",
+    "title": "Timing Precision Check",
+    "prompt": "Align decisions with the ripest moment for impact.",
+    "steps": [
+      "Review a decision you rushed or delayed and note the cost.",
+      "Define criteria that signal the right time to move in similar situations.",
+      "Outline preparatory actions required so you can act fast when timing is right.",
+      "Document a pre-mortem to ensure patience never becomes paralysis."
+    ],
+    "expected_outcome": "A timing framework that balances readiness with decisive action.",
+    "topics": [
+      "timing",
+      "precision",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/06/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/06-timing-is-strategy-when-to-act-and-when-to-wait/practices/practice-06-timing-precision-check.yaml"
+  },
+  {
+    "id": "practice-09-influence-calibration-session",
+    "chapter": "09",
+    "kind": "checklist",
+    "title": "Influence Calibration Session",
+    "prompt": "Use psychology and empathy to design the next persuasive move.",
+    "steps": [
+      "Clarify the other party\u2019s motives, concerns, and desired wins.",
+      "Craft a message that aligns their incentives with your strategic objective.",
+      "Decide what emotional tone best opens the conversation.",
+      "Plan follow-up actions that reinforce trust after the interaction."
+    ],
+    "expected_outcome": "A thoughtful influence plan that advances results while preserving integrity.",
+    "topics": [
+      "psychology",
+      "influence",
+      "communication"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/09/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/09-psychological-warfare-outsmarting-people-with-integrity/practices/practice-09-influence-calibration-session.yaml"
+  },
+  {
+    "id": "practice-04-board-mapping-session",
+    "chapter": "04",
+    "kind": "checklist",
+    "title": "Board Mapping Session",
+    "prompt": "Visualize the system you are playing within before choosing moves.",
+    "steps": [
+      "Sketch the key players, resources, and constraints influencing your objective.",
+      "Mark leverage points where small actions create big shifts.",
+      "Identify blind spots requiring more data.",
+      "Choose the single positioning move that strengthens your advantage this week."
+    ],
+    "expected_outcome": "A systems view that informs where to stand and what to influence next.",
+    "topics": [
+      "systems",
+      "vision",
+      "analysis"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/04/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/04-seeing-the-board-mastering-the-big-picture/practices/practice-04-board-mapping-session.yaml"
+  },
+  {
+    "id": "practice-03-intelligence-gathering-framework",
+    "chapter": "03",
+    "kind": "checklist",
+    "title": "Intelligence Gathering Framework",
+    "prompt": "Install a repeatable system for turning information into action.",
+    "steps": [
+      "State the strategic decision you need to support with research.",
+      "List trusted sources and criteria for what counts as quality intel.",
+      "Capture insights in a single document with signals, assumptions, and implications.",
+      "Decide how new intelligence will alter timing, resources, or tactics."
+    ],
+    "expected_outcome": "A living intelligence file that guides smarter strategic moves.",
+    "topics": [
+      "information",
+      "strategy",
+      "execution"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/03/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/03-information-is-ammunition-learn-before-you-move/practices/practice-03-intelligence-gathering-framework.yaml"
+  },
+  {
+    "id": "practice-08-adaptive-pulse-review",
+    "chapter": "08",
+    "kind": "checklist",
+    "title": "Adaptive Pulse Review",
+    "prompt": "Ensure agility without losing the throughline of your strategy.",
+    "steps": [
+      "Audit recent pivots and rank whether they were reactive or strategic.",
+      "Clarify which elements of the vision are fixed versus flexible.",
+      "Create a checklist that triggers adaptation only when criteria are met.",
+      "Plan a resilience ritual that keeps morale high during shifts."
+    ],
+    "expected_outcome": "An adaptation protocol that keeps change intentional and values-based.",
+    "topics": [
+      "adaptability",
+      "resilience",
+      "change"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/08/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/08-adapting-on-the-move-staying-agile-without-losing-the-vision/practices/practice-08-adaptive-pulse-review.yaml"
+  },
+  {
+    "id": "practice-10-execution-launch-plan",
+    "chapter": "10",
+    "kind": "checklist",
+    "title": "Execution Launch Plan",
+    "prompt": "Convert a strategic initiative into disciplined rhythm.",
+    "steps": [
+      "Break the initiative into weekly commitments with owners and deadlines.",
+      "Define the scorecard that will show momentum or drift.",
+      "Schedule implementation reviews that protect focus.",
+      "Document lessons learned to fuel the next strategic cycle."
+    ],
+    "expected_outcome": "A cadence that keeps strategy alive through consistent, measurable execution.",
+    "topics": [
+      "execution",
+      "discipline",
+      "action"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/10/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/10-execution-turning-strategy-into-results/practices/practice-10-execution-launch-plan.yaml"
+  },
+  {
+    "id": "practice-01-pause-and-plan-drill",
+    "chapter": "01",
+    "kind": "checklist",
+    "title": "Pause-and-Plan Drill",
+    "prompt": "Train your response loop to default to evaluation over impulse.",
+    "steps": [
+      "Identify a recurring trigger that usually provokes a fast reaction.",
+      "Script three questions you will ask yourself before responding.",
+      "Role-play or journal the strategic response you will use next time.",
+      "Debrief after the next trigger to refine the pause practice."
+    ],
+    "expected_outcome": "A rehearsed response protocol that keeps emotions in strategic service.",
+    "topics": [
+      "mindset",
+      "strategy",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/01/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/01-the-strategic-mindset-how-to-think-before-you-react/practices/practice-01-pause-and-plan-drill.yaml"
+  },
+  {
+    "id": "practice-05-scenario-anticipation-drill",
+    "chapter": "05",
+    "kind": "checklist",
+    "title": "Scenario Anticipation Drill",
+    "prompt": "Practice staying ahead of obstacles before they become emergencies.",
+    "steps": [
+      "List the three most likely disruptions to your current plan.",
+      "For each, write the earliest signal that the scenario is emerging.",
+      "Decide on your first strategic response if the signal appears.",
+      "Schedule a review cadence to refresh scenarios as conditions change."
+    ],
+    "expected_outcome": "Confidence that you can adapt quickly because contingencies are pre-planned.",
+    "topics": [
+      "anticipation",
+      "foresight",
+      "planning"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/05/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/ai-structured/build-the-art-of-strategic-thinking/chapters/05-anticipation-the-key-to-outsmarting-obstacles/practices/practice-05-scenario-anticipation-drill.yaml"
+  }
+]

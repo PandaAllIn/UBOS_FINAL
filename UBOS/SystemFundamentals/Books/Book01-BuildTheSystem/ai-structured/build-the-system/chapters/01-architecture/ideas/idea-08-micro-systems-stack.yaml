@@ -1,0 +1,25 @@
+id: idea-08-micro-systems-stack
+chapter: "01"
+kind: framework
+title: Micro-Systems Stack Identity
+one_liner: "Consistently executed micro-systems transform you from reactive to intentional."
+description: |
+  The chapter advocates starting with one corner of life and building a micro-system that works every day.
+  As these small systems accumulate, they reshape identity—you become someone who designs, not someone who reacts.
+  Consistency and stacking replace complexity and spurts of effort.
+topics:
+  - routine
+  - habit
+  - identity
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:87
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:95
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:98
+actions:
+  - Define the smallest daily system you can execute reliably for the next 14 days.
+  - After proving consistency, document how that system shifts your self-perception before adding the next layer.
+related_ids:
+  - practice-04-micro-system
+metadata:
+  token_estimate: 120
+  reading_time_seconds: 45

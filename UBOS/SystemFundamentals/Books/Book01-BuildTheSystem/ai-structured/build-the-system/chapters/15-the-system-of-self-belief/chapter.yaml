@@ -1,0 +1,25 @@
+id: '15'
+slug: chapter-15-the-system-of-self-belief
+title: The System of Self-belief
+summary: "Self-belief is not a feeling you hope to have\u2014it's a system you build\
+  \ through evidence gathering, consistent action, and deliberate confidence cultivation.\
+  \ Like any other system, belief can be engineered, maintained, and strengthened\
+  \ through intentional practices."
+objectives:
+- Evidence-Based Belief System
+- Belief-Action Loop
+- Confidence Architecture
+dependencies: []
+topics:
+- system
+- goal
+- structure
+- design
+- habit
+- identity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/15-chapter-15-system-self-belief/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/15-chapter-15-system-self-belief/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/15-chapter-15-system-self-belief/key-concepts.md

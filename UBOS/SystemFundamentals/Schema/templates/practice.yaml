@@ -1,0 +1,24 @@
+# Template for practices/<id>.yaml
+id: practice-01-architecture-audit
+chapter: "01"
+kind: checklist
+title: Life Architecture Audit
+prompt: |
+  Use this checklist to rate the current design of your core routines.
+steps:
+  - Evaluate morning routine against energy goals.
+  - Review workspace setup for focus friction.
+  - Inspect calendar alignment with priorities.
+expected_outcome: |
+  A scored snapshot of system strengths and weaknesses.
+topics:
+  - alignment
+  - structure
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/exercises.md:1
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:7
+related_ids:
+  - idea-01-blueprint-thinking
+metadata:
+  difficulty: foundation
+  token_estimate: 100

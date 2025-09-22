@@ -1,0 +1,14 @@
+id: idea-04-it-is-the-operating-system
+chapter: '04'
+kind: principle
+title: It Is The Operating System
+one_liner: It is the operating system that determines what kind of future you are
+  able to sustain.
+description: It is the operating system that determines what kind of future you are
+  able to sustain.
+topics:
+- system
+- identity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:6

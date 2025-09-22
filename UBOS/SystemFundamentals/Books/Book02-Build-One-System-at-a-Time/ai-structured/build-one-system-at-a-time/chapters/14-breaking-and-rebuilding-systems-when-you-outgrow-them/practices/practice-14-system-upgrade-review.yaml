@@ -1,0 +1,18 @@
+id: practice-14-system-upgrade-review
+chapter: '14'
+kind: checklist
+title: System Upgrade Review
+prompt: Decide when to redesign versus maintain.
+steps:
+- List signals that the system is producing diminishing returns or friction.
+- Capture lessons learned from recent breakdowns or plateaus.
+- Draft the next version of the system, noting what to preserve and what to replace.
+- Plan a pilot period and review criteria for the upgraded system.
+expected_outcome: Clarity on how to rebuild the system without losing accumulated
+  momentum.
+topics:
+- adaptability
+- feedback
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/14/exercises.md:3

@@ -1,0 +1,18 @@
+id: '03'
+slug: chapter-03-information-is-ammunition-learn-before-you-move
+title: "Information Is Ammunition \u2013 Learn Before You Move"
+summary: Information is ammunition. Learn before you move. Imagine you're walking
+  onto a battlefield. You can't see the terrain. You don't know where the enemy is
+  hiding. You have no idea what weapons are available.
+objectives:
+- Treat research as ammunition that improves timing and execution.
+- Develop filters for separating noise from actionable intelligence.
+- Integrate learning loops that inform every major move.
+dependencies: []
+topics:
+- information
+- strategy
+- execution
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/03/chapter.md:3
+assets: {}

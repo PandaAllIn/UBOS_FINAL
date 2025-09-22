@@ -1,0 +1,12 @@
+id: idea-16-they-treat-it-like-a
+chapter: '16'
+kind: principle
+title: They Treat It Like A
+one_liner: They treat it like a relief valve instead of a core system.
+description: They treat it like a relief valve instead of a core system.
+topics:
+- system
+- clarity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:3

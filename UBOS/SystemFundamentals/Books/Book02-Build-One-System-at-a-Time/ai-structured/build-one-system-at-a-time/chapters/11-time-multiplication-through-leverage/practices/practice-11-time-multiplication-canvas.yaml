@@ -1,0 +1,17 @@
+id: practice-11-time-multiplication-canvas
+chapter: '11'
+kind: checklist
+title: Time Multiplication Canvas
+prompt: Apply leverage to reclaim meaningful hours.
+steps:
+- List recurring tasks consuming the most time inside the system.
+- Decide which tasks can be automated, delegated, or eliminated entirely.
+- Design SOPs or automations for the top leverage opportunities.
+- Track the hours saved and reinvest them into higher-value work.
+expected_outcome: A leverage playbook that multiplies available time for the system.
+topics:
+- time
+- leverage
+- automation
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/exercises.md:3

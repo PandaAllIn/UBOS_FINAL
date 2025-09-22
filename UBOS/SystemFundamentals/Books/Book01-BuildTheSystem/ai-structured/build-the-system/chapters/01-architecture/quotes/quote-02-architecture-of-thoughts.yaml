@@ -1,0 +1,17 @@
+id: quote-02-architecture-of-thoughts
+chapter: "01"
+kind: quote
+speaker: Kelvin W. Nathan
+text: |
+  "Not the architecture of buildings, but the architecture of your thoughts, systems, and inner alignment."
+context: |
+  Reinforces that system design is internal before it is external.
+topics:
+  - architecture
+  - alignment
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/quotes.md:4
+related_ids:
+  - idea-03-alignment-questions
+metadata:
+  token_estimate: 35

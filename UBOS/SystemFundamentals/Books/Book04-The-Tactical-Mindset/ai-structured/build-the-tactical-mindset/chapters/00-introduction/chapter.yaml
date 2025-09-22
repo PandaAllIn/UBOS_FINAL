@@ -1,0 +1,21 @@
+id: '00'
+slug: chapter-00-introduction
+title: Introduction
+summary: 'Introduction: Why Strategic Thinking Is Your Superpower Imagine facing any
+  setback and knowing exactly what to do. In this audio book, you''ll unlock the tactical
+  mindset used by elite thinkers to stay calm, plan smarter, and win when it matters
+  most. This isn''t about motivation. It''s about mastering strategy for real life.
+  Introduction: Life is a mental battlefield. What if I told you the real war isn''t
+  out there?'
+objectives:
+- Frame the tactical mindset as proactive rather than reactive.
+- Shift focus from chaos to controlled response.
+- Commit to training composure alongside strategy.
+dependencies: []
+topics:
+- strategy
+- mindset
+- response
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/00/chapter.md:3
+assets: {}

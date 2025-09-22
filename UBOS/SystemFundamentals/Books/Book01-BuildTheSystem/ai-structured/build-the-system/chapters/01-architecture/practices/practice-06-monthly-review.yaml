@@ -1,0 +1,25 @@
+id: practice-06-monthly-review
+chapter: "01"
+kind: ritual
+title: Monthly Architecture Retrospective
+prompt: |
+  Conduct a 30-day retrospective to decide what to refine, expand, or retire.
+steps:
+  - Review which systems produced measurable improvements.
+  - Document adjustments required for underperforming structures.
+  - Decide which new system to layer next month and why.
+  - Record lessons about identity shifts or friction patterns observed.
+expected_outcome: |
+  A monthly decision log that keeps the architectural portfolio aligned with long-term vision.
+topics:
+  - alignment
+  - feedback
+  - scale
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:178
+related_ids:
+  - idea-07-small-hinges
+  - idea-09-build-on-purpose
+metadata:
+  difficulty: intermediate
+  token_estimate: 120

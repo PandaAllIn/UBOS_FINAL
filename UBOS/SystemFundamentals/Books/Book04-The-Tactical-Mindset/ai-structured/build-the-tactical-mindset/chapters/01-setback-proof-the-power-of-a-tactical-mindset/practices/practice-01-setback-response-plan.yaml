@@ -1,0 +1,17 @@
+id: practice-01-setback-response-plan
+chapter: '01'
+kind: checklist
+title: Setback Response Plan
+prompt: Design a response kit for the next unexpected hit.
+steps:
+- Define the most common setbacks in your arena.
+- Write your default emotional reaction and its cost.
+- Script the tactical response that keeps you moving forward.
+- Choose a grounding ritual that activates the plan.
+expected_outcome: Confidence that setbacks will trigger strategy instead of spirals.
+topics:
+- resilience
+- strategy
+- decision
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/01/exercises.md:3

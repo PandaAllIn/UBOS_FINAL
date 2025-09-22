@@ -1,0 +1,10 @@
+# Quotes
+
+> If you're feeding your system chaos, distraction, or negativity, your outcomes will always reflect that.
+> In an abundance-based system, inputs are not background noise.
+> The people who create consistently excellent results aren't just more focused.
+> Media is designed to provoke outrage. and social feeds are endless loops of comparison and noise.
+> You must become the gatekeeper of your system, not to block the world out, but to filter it through intention.
+> A high performance system doesn't avoid input.
+> These small shifts create large returns in focus, clarity, and creativity.
+> They reduce the cognitive junk that slows your system down.

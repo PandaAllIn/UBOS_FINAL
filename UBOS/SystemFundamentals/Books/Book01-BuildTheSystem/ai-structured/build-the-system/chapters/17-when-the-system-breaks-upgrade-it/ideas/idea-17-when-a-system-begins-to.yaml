@@ -1,0 +1,14 @@
+id: idea-17-when-a-system-begins-to
+chapter: '17'
+kind: principle
+title: When A System Begins To
+one_liner: When a system begins to break, the first step is not to panic or power
+  through.
+description: When a system begins to break, the first step is not to panic or power
+  through.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:12

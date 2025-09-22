@@ -1,0 +1,12 @@
+id: idea-06-and-when-interruptions-arise-theyre
+chapter: '06'
+kind: principle
+title: And When Interruptions Arise Theyre
+one_liner: And when interruptions arise, they're handled by system, not panic.
+description: And when interruptions arise, they're handled by system, not panic.
+topics:
+- design
+- system
+- energy
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:10

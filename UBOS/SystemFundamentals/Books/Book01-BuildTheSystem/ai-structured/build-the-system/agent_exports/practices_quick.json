@@ -1,0 +1,673 @@
+[
+  {
+    "id": "practice-13-core-exercises",
+    "chapter": "13",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What tasks repeat?",
+      "What decisions are you making over and over?",
+      "Where do delays, confusion, or overwhelm typically show up?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/practices/practice-13-core-exercises.yaml"
+  },
+  {
+    "id": "practice-15-core-exercises",
+    "chapter": "15",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What do you say when you miss a target?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/practices/practice-15-core-exercises.yaml"
+  },
+  {
+    "id": "practice-08-core-exercises",
+    "chapter": "08",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "Where are your patterns of effort?",
+      "What decisions are you making over and over?",
+      "What tasks eat your time every week?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/practices/practice-08-core-exercises.yaml"
+  },
+  {
+    "id": "practice-19-core-exercises",
+    "chapter": "19",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/practices/practice-19-core-exercises.yaml"
+  },
+  {
+    "id": "practice-05-core-exercises",
+    "chapter": "05",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "Then ask yourself, how can I make this so simple, so obvious that doing it becomes easier than not doing it?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/practices/practice-05-core-exercises.yaml"
+  },
+  {
+    "id": "practice-17-core-exercises",
+    "chapter": "17",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "Where is the friction showing up?",
+      "What feels heavy, inefficient or misaligned?",
+      "Where are you spending energy just to maintain basic function?",
+      "If someone else were running this system, what would you tell them to fix?",
+      "What part is over complicated?",
+      "What needs to be automated, delegated, or eliminated entirely?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/practices/practice-17-core-exercises.yaml"
+  },
+  {
+    "id": "practice-07-core-exercises",
+    "chapter": "07",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "After spending time with certain people, do you feel drained or inspired?",
+      "After scrolling through news or social media, are you more focused or more scattered?",
+      "After binging information, do you take more action or less?",
+      "They filter everything through the lens of does this help me build?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/practices/practice-07-core-exercises.yaml"
+  },
+  {
+    "id": "practice-16-core-exercises",
+    "chapter": "16",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/practices/practice-16-core-exercises.yaml"
+  },
+  {
+    "id": "practice-09-core-exercises",
+    "chapter": "09",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "Am I spending time on what actually matters to me or just what's urgent?",
+      "Am I building routines that reflect my values or someone else's expectations?",
+      "Is my work feeding my soul or just my schedule?",
+      "Am I saying yes because it's aligned or because I'm afraid to say no?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/practices/practice-09-core-exercises.yaml"
+  },
+  {
+    "id": "practice-18-core-exercises",
+    "chapter": "18",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What daily habits reinforce the future you're working toward?",
+      "What boundaries protect your focus?",
+      "What structures prevent decision fatigue and emotional burnout?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/practices/practice-18-core-exercises.yaml"
+  },
+  {
+    "id": "practice-03-core-exercises",
+    "chapter": "03",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What kind of life do you want to live in specific terms?",
+      "What does abundance mean to you?",
+      "Is it creative freedom?",
+      "Is it time with your family?",
+      "Is it the ability to work without financial anxiety?",
+      "What does a great day look like for you?",
+      "What kind of work are you doing?",
+      "What kind of people are you surrounded by?",
+      "What's your energy like?",
+      "Where do you live?",
+      "What problems are you solving?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/practices/practice-03-core-exercises.yaml"
+  },
+  {
+    "id": "practice-06-core-exercises",
+    "chapter": "06",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What are you building?",
+      "What kind of life do you want this day, this week, this season to support?",
+      "Weekly or monthly step back and ask, is my time being spent in alignment with my values?",
+      "Are my highest priorities getting the focus they deserve?",
+      "What needs to be adjusted to better support my goals?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/practices/practice-06-core-exercises.yaml"
+  },
+  {
+    "id": "practice-20-core-exercises",
+    "chapter": "20",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What system is creating this result?",
+      "What structure is missing?",
+      "What layer needs reinforcing?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/practices/practice-20-core-exercises.yaml"
+  },
+  {
+    "id": "practice-11-core-exercises",
+    "chapter": "11",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What am I trying to accomplish?",
+      "What system do I need to get there?",
+      "How can I simplify my workflow so that success becomes easier to repeat?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/practices/practice-11-core-exercises.yaml"
+  },
+  {
+    "id": "practice-01-architecture-audit",
+    "chapter": "01",
+    "kind": "checklist",
+    "title": "Life Architecture Audit",
+    "prompt": "Use this checklist to rate the structural health of core life systems before designing upgrades.\n",
+    "steps": [
+      "Score your morning routine for consistency, energy, and intention.",
+      "Review physical and digital workspace friction points.",
+      "Evaluate time management boundaries and planning cadence.",
+      "Assess energy management habits, including recovery systems.",
+      "Examine financial workflows for strategic alignment."
+    ],
+    "expected_outcome": "A scored snapshot that highlights which systems need redesign to support abundance.\n",
+    "topics": [
+      "structure",
+      "alignment",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:5"
+    ],
+    "related_ids": [
+      "idea-01-blueprint-thinking"
+    ],
+    "metadata": {
+      "difficulty": "foundation",
+      "token_estimate": 130
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/practices/practice-01-architecture-audit.yaml"
+  },
+  {
+    "id": "practice-02-alignment-session",
+    "chapter": "01",
+    "kind": "ritual",
+    "title": "Alignment Question Session",
+    "prompt": "Block 30 minutes to answer the four alignment questions with depth and specificity.\n",
+    "steps": [
+      "Describe your ideal daily life, environment, and relationships.",
+      "Note the emotional state you need to sustain and what undermines it.",
+      "List work that makes you lose track of time and the impact you seek.",
+      "Identify routines and commitments that consistently drain energy."
+    ],
+    "expected_outcome": "A written alignment profile highlighting mismatches between desired life and current architecture.\n",
+    "topics": [
+      "alignment",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:35",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/exercises.md:3"
+    ],
+    "related_ids": [
+      "idea-03-alignment-questions"
+    ],
+    "metadata": {
+      "difficulty": "foundation",
+      "token_estimate": 120
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/practices/practice-02-alignment-session.yaml"
+  },
+  {
+    "id": "practice-03-first-project",
+    "chapter": "01",
+    "kind": "checklist",
+    "title": "Choose Your First Architecture Project",
+    "prompt": "Select one life domain to redesign using the provided implementation checklist.\n",
+    "steps": [
+      "Pick a focus area (morning routine, digital architecture, workspace, or financial system).",
+      "Follow the corresponding four-step implementation plan from the chapter insights.",
+      "Note obstacles encountered and adjustments made during the first week.",
+      "Capture metrics that signal improvement (energy, clarity, time saved)."
+    ],
+    "expected_outcome": "A completed mini-project that proves structural redesign delivers better results than hustle.\n",
+    "topics": [
+      "architecture",
+      "structure",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:59"
+    ],
+    "related_ids": [
+      "idea-05-structure-not-control",
+      "idea-06-garden-ecosystem"
+    ],
+    "metadata": {
+      "difficulty": "foundation",
+      "token_estimate": 130
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/practices/practice-03-first-project.yaml"
+  },
+  {
+    "id": "practice-04-micro-system",
+    "chapter": "01",
+    "kind": "ritual",
+    "title": "Micro-System Design Sprint",
+    "prompt": "Define the What, When, Where, and Why of a single micro-system you can execute daily.\n",
+    "steps": [
+      "Specify the exact action and duration (What).",
+      "Attach it to a trigger or time block (When).",
+      "Identify the physical/digital context that supports it (Where).",
+      "Tie the routine to the larger architectural vision (Why).",
+      "Run the system for seven consecutive days and log friction points."
+    ],
+    "expected_outcome": "A proven micro-system ready to stack with future routines, reducing reliance on motivation.\n",
+    "topics": [
+      "routine",
+      "habit",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:101"
+    ],
+    "related_ids": [
+      "idea-04-systems-beat-willpower",
+      "idea-08-micro-systems-stack"
+    ],
+    "metadata": {
+      "difficulty": "foundation",
+      "token_estimate": 125
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/practices/practice-04-micro-system.yaml"
+  },
+  {
+    "id": "practice-05-weekly-review",
+    "chapter": "01",
+    "kind": "checklist",
+    "title": "Weekly System Review",
+    "prompt": "Run this review each week to evaluate how your new architecture performed.\n",
+    "steps": [
+      "Answer the five reflection questions covering execution, wins, friction, energy, and improvements.",
+      "Rate success metrics for consistency, energy, results, and ease.",
+      "Capture insights to iterate on the next week's system configuration."
+    ],
+    "expected_outcome": "A feedback loop that keeps small systems evolving without relying on memory or mood.\n",
+    "topics": [
+      "feedback",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:115"
+    ],
+    "related_ids": [
+      "idea-02-systems-produce-results"
+    ],
+    "metadata": {
+      "difficulty": "intermediate",
+      "token_estimate": 120
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/practices/practice-05-weekly-review.yaml"
+  },
+  {
+    "id": "practice-06-monthly-review",
+    "chapter": "01",
+    "kind": "ritual",
+    "title": "Monthly Architecture Retrospective",
+    "prompt": "Conduct a 30-day retrospective to decide what to refine, expand, or retire.\n",
+    "steps": [
+      "Review which systems produced measurable improvements.",
+      "Document adjustments required for underperforming structures.",
+      "Decide which new system to layer next month and why.",
+      "Record lessons about identity shifts or friction patterns observed."
+    ],
+    "expected_outcome": "A monthly decision log that keeps the architectural portfolio aligned with long-term vision.\n",
+    "topics": [
+      "alignment",
+      "feedback",
+      "scale"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:178"
+    ],
+    "related_ids": [
+      "idea-07-small-hinges",
+      "idea-09-build-on-purpose"
+    ],
+    "metadata": {
+      "difficulty": "intermediate",
+      "token_estimate": 120
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/practices/practice-06-monthly-review.yaml"
+  },
+  {
+    "id": "practice-10-core-exercises",
+    "chapter": "10",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "It requires asking, \"What is this space helping me become?",
+      "Is it designed for who I've been or who I'm becoming?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/practices/practice-10-core-exercises.yaml"
+  },
+  {
+    "id": "practice-12-core-exercises",
+    "chapter": "12",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What am I reinforcing today?",
+      "What is this layer adding to the system I'm building?",
+      "How will this habit support the next phase of growth?",
+      "Are your mornings chaotic?",
+      "Is your focus fragmented?",
+      "Is your creative energy scattered?",
+      "Choose one area and ask, \"What single shift can I make here that when repeated will create long-term benefit?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/practices/practice-12-core-exercises.yaml"
+  },
+  {
+    "id": "practice-02-core-exercises",
+    "chapter": "02",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "So, how do you begin to shift from hustle to rhythm?",
+      "Are you sacrificing long-term clarity for short-term intensity?",
+      "Are you constantly tired but proud of it?",
+      "Are you checking off boxes without feeling a deeper sense of progress?",
+      "Is it built around your natural energy patterns or someone else's expectations?",
+      "Are you working when you're sharpest?",
+      "Are you resting when you're depleted?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/practices/practice-02-core-exercises.yaml"
+  },
+  {
+    "id": "practice-04-core-exercises",
+    "chapter": "04",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "How does that person think, speak, decide, and behave?",
+      "What kind of routine support that identity?",
+      "What kind of people does that version of you surround themselves with?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/practices/practice-04-core-exercises.yaml"
+  },
+  {
+    "id": "practice-14-core-exercises",
+    "chapter": "14",
+    "kind": "checklist",
+    "title": "Chapter Exercises",
+    "prompt": "Work through the reflection prompts for this chapter to evaluate your architecture.",
+    "steps": [
+      "What worked well this week?",
+      "What didn't?",
+      "Where did I lose focus or momentum?",
+      "What can I adjust for next week?",
+      "Map your current daily/weekly routines as a system diagram.",
+      "Identify 3 system flaws and propose one redesign for each.",
+      "Define one ritual to protect focus and one to restore energy."
+    ],
+    "expected_outcome": "A clarified view of where the system supports or obstructs your goals.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/exercises.md:1"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/practices/practice-14-core-exercises.yaml"
+  }
+]

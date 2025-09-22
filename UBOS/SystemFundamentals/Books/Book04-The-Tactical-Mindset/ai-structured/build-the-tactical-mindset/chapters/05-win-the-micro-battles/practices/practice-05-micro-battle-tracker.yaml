@@ -1,0 +1,17 @@
+id: practice-05-micro-battle-tracker
+chapter: '05'
+kind: checklist
+title: Micro-Battle Tracker
+prompt: Stack daily wins that keep momentum alive.
+steps:
+- Determine the three micro-battles that define a successful day.
+- Record a simple win/lose score for each battle.
+- Note the trigger that helped you win or lose the battle.
+- Plan the next day's adjustments based on the tracker.
+expected_outcome: Quantified micro wins that preserve long-term momentum.
+topics:
+- discipline
+- habit
+- momentum
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/05/exercises.md:3

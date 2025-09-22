@@ -1,0 +1,12 @@
+id: idea-18-but-a-future-built-by
+chapter: '18'
+kind: principle
+title: But A Future Built By
+one_liner: But a future built by design follows a different path.
+description: But a future built by design follows a different path.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:7

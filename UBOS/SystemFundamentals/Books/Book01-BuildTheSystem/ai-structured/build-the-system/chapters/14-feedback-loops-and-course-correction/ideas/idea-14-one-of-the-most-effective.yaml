@@ -1,0 +1,14 @@
+id: idea-14-one-of-the-most-effective
+chapter: '14'
+kind: principle
+title: One Of The Most Effective
+one_liner: One of the most effective ways to implement feedback loops in your system
+  is through regular review.
+description: One of the most effective ways to implement feedback loops in your system
+  is through regular review.
+topics:
+- system
+- feedback
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:12

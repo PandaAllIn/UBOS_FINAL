@@ -1,0 +1,22 @@
+id: '06'
+slug: chapter-06-embedding-systems-into-your-environment
+title: Embedding Systems into Your Environment
+summary: This chapter explains that a system is much stronger when supported by the
+  physical and digital environment [43:34, 46:57]. Environmental design shifts responsibility
+  from the mind to the surroundings, acting as an autopilot [44:33]. Strategies include
+  identifying physical supports (e.g., readying tools in the workspace) [44:40], removing
+  conflicting triggers (e.g., moving a phone away during deep work), using visual
+  cues (e.g., a checklist), and ensuring the social environment (people) reinforces
+  the process.
+objectives:
+- Recognize environment as silent architecture shaping behaviour.
+- Audit physical, digital, and social spaces for alignment with systems.
+- Deliberately embed cues that keep priority work on autopilot.
+dependencies: []
+topics:
+- environment
+- alignment
+- automation
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/06/chapter.md:3
+assets: {}

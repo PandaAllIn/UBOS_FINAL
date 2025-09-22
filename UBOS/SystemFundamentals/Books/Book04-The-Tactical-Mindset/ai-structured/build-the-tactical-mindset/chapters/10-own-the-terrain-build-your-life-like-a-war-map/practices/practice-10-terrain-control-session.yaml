@@ -1,0 +1,17 @@
+id: practice-10-terrain-control-session
+chapter: '10'
+kind: checklist
+title: Terrain Control Session
+prompt: Design an environment that guarantees tactical readiness.
+steps:
+- Map the spaces you use daily and assign each a tactical purpose.
+- Remove objects or distractions that contradict the mission.
+- Add tools or cues that trigger your best routines in each zone.
+- Schedule a weekly terrain inspection to keep the map current.
+expected_outcome: A controlled environment that supports every strategic objective.
+topics:
+- environment
+- planning
+- execution
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/10/exercises.md:3

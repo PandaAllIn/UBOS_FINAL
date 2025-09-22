@@ -1,0 +1,13 @@
+{
+  "id": "research-20250921-143300-test-research-storage-system",
+  "timestamp": "2025-09-21T14:33:00.963044+00:00",
+  "agent_version": "1.0.0",
+  "query": {
+    "original": "test research storage system",
+    "complexity_score": 2,
+    "analysis": {
+      "score": 2,
+      "word_count": 4,
+      "has_complex_terms": true,
+      "has_reasoning_terms": false,
+      "recommended_model": 

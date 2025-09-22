@@ -1,0 +1,22 @@
+id: "01"
+slug: chapter-01-architecture
+title: Abundance Begins with Architecture
+summary: |
+  Abundance is engineered by designing intentional life architecture before chasing outcomes. The chapter
+  shows how existing routines already form a system, introduces alignment diagnostics, and urges builders to
+  start with small structural upgrades that compound into identity change.
+objectives:
+  - Recognize that current results are produced by existing system design.
+  - Use alignment questions to expose structural gaps.
+  - Launch micro-systems that stack toward a deliberate architecture.
+dependencies: []
+topics:
+  - architecture
+  - system
+  - alignment
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/key-concepts.md

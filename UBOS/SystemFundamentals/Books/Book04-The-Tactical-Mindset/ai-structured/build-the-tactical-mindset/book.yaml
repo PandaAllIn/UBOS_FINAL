@@ -1,0 +1,74 @@
+id: build-the-tactical-mindset
+title: "The Tactical Mindset"
+author: Unknown
+publisher: Audio Books Office
+source_files:
+  - UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/The_Tactical_Mindset.md
+chapters:
+  - id: "00"
+    slug: introduction
+    title: Introduction
+  - id: "01"
+    slug: chapter-1
+    title: Setback-Proof – The Power of a Tactical Mindset
+  - id: "02"
+    slug: chapter-2
+    title: Slow Is Smooth, Smooth Is Fast
+  - id: "03"
+    slug: chapter-3
+    title: Think in Contingencies, Not Catastrophes
+  - id: "04"
+    slug: chapter-4
+    title: Tactical Self-Talk – Mastering the Voice in Your Head
+  - id: "05"
+    slug: chapter-5
+    title: Win the Micro-Battles
+  - id: "06"
+    slug: chapter-6
+    title: The 24-Hour Rule – Don’t React, Respond
+  - id: "07"
+    slug: chapter-7
+    title: Adapt Like a General – When Plans Go to Hell
+  - id: "08"
+    slug: chapter-8
+    title: Read the Room – Strategic Emotional Intelligence
+  - id: "09"
+    slug: chapter-9
+    title: Bounce Back Stronger – Turning Losses into Leverage
+  - id: "10"
+    slug: chapter-10
+    title: Own the Terrain – Build Your Life Like a War Map
+
+topics:
+  - strategy
+  - mindset
+  - resilience
+  - anticipation
+  - adaptability
+  - emotional-intelligence
+  - emotional-control
+  - decision
+  - focus
+  - discipline
+  - precision
+  - patience
+  - timing
+  - preparation
+  - recovery
+  - leverage
+  - communication
+  - environment
+  - execution
+  - clarity
+  - calm
+  - response
+  - planning
+  - leadership
+  - habit
+  - momentum
+  - energy
+exports:
+  ideas_jsonl: chapters/all/ideas.jsonl
+  practices_jsonl: chapters/all/practices.jsonl
+  quotes_jsonl: chapters/all/quotes.jsonl
+  topic_index: chapters/all/topic_index.json

@@ -1,0 +1,18 @@
+id: idea-14-rebuilding-requires-courage
+chapter: '14'
+kind: principle
+title: Rebuilding Requires Courage
+one_liner: Rebuilding requires courage, analyzing what parts are still useful, and
+  redesigning the structure based on current and future needs, incorporating greater
+  leverage and scalability [1:44:21, 1:44:58, 1:45:35].
+description: Rebuilding requires courage, analyzing what parts are still useful, and
+  redesigning the structure based on current and future needs, incorporating greater
+  leverage and scalability [1:44:21, 1:44:58, 1:45:35]. The ability to break and rebuild
+  systems is a mark of adaptability, ensuring systems grow with the individual [1:47:34,
+  1:47:54].
+topics:
+- adaptability
+- feedback
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/14/chapter.md:3

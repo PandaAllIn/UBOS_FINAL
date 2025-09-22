@@ -1,0 +1,17 @@
+id: practice-01-pause-and-plan-drill
+chapter: '01'
+kind: checklist
+title: Pause-and-Plan Drill
+prompt: Train your response loop to default to evaluation over impulse.
+steps:
+- Identify a recurring trigger that usually provokes a fast reaction.
+- Script three questions you will ask yourself before responding.
+- Role-play or journal the strategic response you will use next time.
+- Debrief after the next trigger to refine the pause practice.
+expected_outcome: A rehearsed response protocol that keeps emotions in strategic service.
+topics:
+- mindset
+- strategy
+- decision
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/01/exercises.md:3

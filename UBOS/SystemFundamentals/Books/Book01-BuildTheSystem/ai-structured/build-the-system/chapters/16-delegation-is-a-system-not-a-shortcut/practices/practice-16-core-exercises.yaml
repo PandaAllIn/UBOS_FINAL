@@ -1,0 +1,17 @@
+id: practice-16-core-exercises
+chapter: '16'
+kind: checklist
+title: Chapter Exercises
+prompt: Work through the reflection prompts for this chapter to evaluate your architecture.
+steps:
+- Map your current daily/weekly routines as a system diagram.
+- Identify 3 system flaws and propose one redesign for each.
+- Define one ritual to protect focus and one to restore energy.
+expected_outcome: A clarified view of where the system supports or obstructs your
+  goals.
+topics:
+- system
+- clarity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/exercises.md:1

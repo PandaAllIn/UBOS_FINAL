@@ -1,0 +1,22 @@
+# Template for ideas/<id>.yaml
+id: idea-01-blueprint-thinking
+chapter: "01"
+kind: principle
+title: Blueprint Thinking
+one_liner: "Sustainable abundance requires intentional life architecture."
+description: |
+  Multi-paragraph explanation describing the core insight in neutral tone.
+topics:
+  - architecture
+  - abundance
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:5
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/key-ideas.md:2
+actions:
+  - Observe a routine that currently runs on willpower alone.
+  - Sketch the supporting structure that would make it reliable.
+related_ids:
+  - practice-01-architecture-audit
+metadata:
+  token_estimate: 120
+  reading_time_seconds: 45

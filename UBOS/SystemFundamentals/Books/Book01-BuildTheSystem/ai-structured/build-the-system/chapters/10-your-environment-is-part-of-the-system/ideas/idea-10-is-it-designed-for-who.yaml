@@ -1,0 +1,12 @@
+id: idea-10-is-it-designed-for-who
+chapter: '10'
+kind: principle
+title: Is It Designed For Who
+one_liner: Is it designed for who I've been or who I'm becoming?
+description: Is it designed for who I've been or who I'm becoming?
+topics:
+- system
+- design
+- environment
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:9

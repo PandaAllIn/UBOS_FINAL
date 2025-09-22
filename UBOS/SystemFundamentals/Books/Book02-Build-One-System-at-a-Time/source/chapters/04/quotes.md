@@ -1,0 +1,4 @@
+# Quotes
+
+> Instead of trying to fix everything at once, this chapter advises beginning with one carefully chosen, **high-leverage** system that will produce ripple effects across multiple life aspects (e.g., health or finances).
+> Strategic considerations include: **urgency** (addressing severe pain points, balanced with achievability), **confidence** (choosing an area where early wins build belief), and **alignment** with the long-term vision.

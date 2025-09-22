@@ -1,0 +1,18 @@
+id: practice-10-execution-launch-plan
+chapter: '10'
+kind: checklist
+title: Execution Launch Plan
+prompt: Convert a strategic initiative into disciplined rhythm.
+steps:
+- Break the initiative into weekly commitments with owners and deadlines.
+- Define the scorecard that will show momentum or drift.
+- Schedule implementation reviews that protect focus.
+- Document lessons learned to fuel the next strategic cycle.
+expected_outcome: A cadence that keeps strategy alive through consistent, measurable
+  execution.
+topics:
+- execution
+- discipline
+- action
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/10/exercises.md:3

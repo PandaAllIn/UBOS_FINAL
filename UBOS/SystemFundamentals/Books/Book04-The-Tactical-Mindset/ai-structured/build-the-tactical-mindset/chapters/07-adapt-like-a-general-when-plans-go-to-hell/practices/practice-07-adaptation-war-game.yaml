@@ -1,0 +1,17 @@
+id: practice-07-adaptation-war-game
+chapter: '07'
+kind: checklist
+title: Adaptation War Game
+prompt: Practice pivoting while staying on mission.
+steps:
+- Choose a current objective and list variables that could change rapidly.
+- Design three pivot options that still protect the objective.
+- Assign roles or resources required for each pivot.
+- Run a quick simulation to ensure the team can execute when change hits.
+expected_outcome: A flexible battle plan that keeps intent intact when reality shifts.
+topics:
+- adaptability
+- resilience
+- leadership
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/07/exercises.md:3

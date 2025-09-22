@@ -1,0 +1,17 @@
+id: idea-13-failsafe-systems-are-resilient
+chapter: '13'
+kind: principle
+title: Failsafe Systems Are Resilient
+one_liner: Failsafe systems are resilient, stripped-down versions of routines, built
+  in advance as an "emergency mode" to survive disruptions (illness, strain) [1:35:01,
+  1:36:01].
+description: "Failsafe systems are resilient, stripped-down versions of routines,\
+  \ built in advance as an \"emergency mode\" to survive disruptions (illness, strain)\
+  \ [1:35:01, 1:36:01]. These systems focus on non-negotiables\u2014the minimum actions\
+  \ needed to prevent major regression [1:36:22]."
+topics:
+- resilience
+- system
+- risk
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/13/chapter.md:3

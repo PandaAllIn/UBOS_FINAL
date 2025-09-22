@@ -1,0 +1,14 @@
+id: idea-03-should-create-results-greater-than-the-effort-put-in
+chapter: '03'
+kind: principle
+title: Should Create Results Greater Than The Effort Put In
+one_liner: Systems should create results greater than the effort put in, utilizing
+  technology, relationships, or skills to multiply impact.
+description: Systems should create results greater than the effort put in, utilizing
+  technology, relationships, or skills to multiply impact.
+topics:
+- clarity
+- leverage
+- feedback
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:9

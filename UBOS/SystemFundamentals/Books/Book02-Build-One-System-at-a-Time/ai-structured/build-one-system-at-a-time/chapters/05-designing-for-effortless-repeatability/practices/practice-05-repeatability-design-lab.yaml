@@ -1,0 +1,18 @@
+id: practice-05-repeatability-design-lab
+chapter: '05'
+kind: checklist
+title: Repeatability Design Lab
+prompt: Refine a system so it runs smoothly even on chaotic days.
+steps:
+- Document the current steps of the system you want to stabilize.
+- List friction points or dependencies that cause inconsistency.
+- Introduce triggers, automation, or support assets that remove those frictions.
+- Stress-test the redesign against a low-energy day and adjust until it still performs.
+expected_outcome: A simplified, automation-ready routine that works under pressure
+  and fatigue.
+topics:
+- automation
+- resilience
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/exercises.md:3

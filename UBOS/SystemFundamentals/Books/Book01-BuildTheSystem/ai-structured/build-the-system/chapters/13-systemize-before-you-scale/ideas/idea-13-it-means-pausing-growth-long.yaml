@@ -1,0 +1,14 @@
+id: idea-13-it-means-pausing-growth-long
+chapter: '13'
+kind: principle
+title: It Means Pausing Growth Long
+one_liner: It means pausing growth long enough to build the structure that will support
+  it.
+description: It means pausing growth long enough to build the structure that will
+  support it.
+topics:
+- system
+- structure
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:8

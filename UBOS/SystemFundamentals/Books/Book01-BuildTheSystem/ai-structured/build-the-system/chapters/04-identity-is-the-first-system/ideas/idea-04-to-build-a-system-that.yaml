@@ -1,0 +1,14 @@
+id: idea-04-to-build-a-system-that
+chapter: '04'
+kind: principle
+title: To Build A System That
+one_liner: To build a system that leads to the future you want, you must first become
+  the kind of person who can live inside that future.
+description: To build a system that leads to the future you want, you must first become
+  the kind of person who can live inside that future.
+topics:
+- system
+- identity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:10

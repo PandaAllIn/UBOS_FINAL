@@ -1,0 +1,17 @@
+id: idea-05-other-elements-include-reducing-variability-so-the-system-functions-under-a-wide-range-of-conditions
+chapter: '05'
+kind: principle
+title: Other Elements Include Reducing Variability So The System Functions Under A
+  Wide Range Of Conditions
+one_liner: Other elements include reducing variability so the system functions under
+  a wide range of conditions, and building in a reduced version to use on difficult
+  days to prevent breaking the chain entirely.
+description: Other elements include reducing variability so the system functions under
+  a wide range of conditions, and building in a reduced version to use on difficult
+  days to prevent breaking the chain entirely.
+topics:
+- automation
+- resilience
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/chapter.md:3

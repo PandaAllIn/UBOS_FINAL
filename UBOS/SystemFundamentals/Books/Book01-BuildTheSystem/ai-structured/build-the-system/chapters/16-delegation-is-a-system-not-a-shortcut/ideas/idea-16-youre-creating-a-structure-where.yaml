@@ -1,0 +1,14 @@
+id: idea-16-youre-creating-a-structure-where
+chapter: '16'
+kind: principle
+title: Youre Creating A Structure Where
+one_liner: You're creating a structure where others can contribute meaningfully to
+  a shared goal.
+description: You're creating a structure where others can contribute meaningfully
+  to a shared goal.
+topics:
+- system
+- clarity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:10

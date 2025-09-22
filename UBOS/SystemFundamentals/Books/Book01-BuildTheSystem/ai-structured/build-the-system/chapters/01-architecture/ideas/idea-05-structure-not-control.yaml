@@ -1,0 +1,24 @@
+id: idea-05-structure-not-control
+chapter: "01"
+kind: principle
+title: Structure Over Control
+one_liner: "Abundance trades micromanagement for intentional frameworks that free energy."
+description: |
+  Scarcity tries to hold everything manually, exhausting the builder. Abundance focuses on designing
+  structures that make desired behaviors effortless. The chapter contrasts clutching for control with
+  architecting smarter pathways that protect time, energy, and focus.
+topics:
+  - architecture
+  - structure
+  - energy
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:57
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:60
+actions:
+  - Replace one micromanaged process with a lightweight framework or template.
+  - Note areas where control drains energy and outline structural fixes.
+related_ids:
+  - practice-03-first-project
+metadata:
+  token_estimate: 110
+  reading_time_seconds: 40

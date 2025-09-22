@@ -1,0 +1,26 @@
+id: '04'
+slug: chapter-04-identity-is-the-first-system
+title: Identity Is the First System
+summary: Identity is the operating system that determines what kind of future you
+  can sustain. No external system can consistently outperform the identity it's built
+  upon.
+objectives:
+- Identity as Operating System
+- The Identity-System Performance Loop
+- Identity Programmability Principle
+dependencies: []
+topics:
+- system
+- identity
+- design
+- alignment
+- focus
+- routine
+- habit
+- goal
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/05-chapter-04-identity-first-system/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/05-chapter-04-identity-first-system/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/05-chapter-04-identity-first-system/key-concepts.md

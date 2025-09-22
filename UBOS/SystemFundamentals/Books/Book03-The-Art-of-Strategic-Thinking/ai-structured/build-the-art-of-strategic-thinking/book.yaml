@@ -1,0 +1,74 @@
+id: build-the-art-of-strategic-thinking
+title: "The Art of Strategic Thinking"
+author: Unknown
+publisher: Audio Books Office
+source_files:
+  - UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/The_Art_of_Strategic_Thinking.md
+chapters:
+  - id: "00"
+    slug: introduction
+    title: Introduction
+  - id: "01"
+    slug: chapter-1
+    title: The Strategic Mindset – How to Think Before You React
+  - id: "02"
+    slug: chapter-2
+    title: Clarity Is Power – Defining Your Endgame
+  - id: "03"
+    slug: chapter-3
+    title: Information Is Ammunition – Learn Before You Move
+  - id: "04"
+    slug: chapter-4
+    title: Seeing the Board – Mastering the Big Picture
+  - id: "05"
+    slug: chapter-5
+    title: Anticipation – The Key to Outsmarting Obstacles
+  - id: "06"
+    slug: chapter-6
+    title: Timing Is Strategy – When to Act and When to Wait
+  - id: "07"
+    slug: chapter-7
+    title: Leverage – How to Win with Less Effort
+  - id: "08"
+    slug: chapter-8
+    title: Adapting on the Move – Staying Agile Without Losing the Vision
+  - id: "09"
+    slug: chapter-9
+    title: Psychological Warfare – Outsmarting People with Integrity
+  - id: "10"
+    slug: chapter-10
+    title: Execution – Turning Strategy into Results
+
+topics:
+  - strategy
+  - mindset
+  - clarity
+  - information
+  - systems
+  - anticipation
+  - timing
+  - leverage
+  - adaptability
+  - psychology
+  - execution
+  - decision
+  - vision
+  - resources
+  - efficiency
+  - foresight
+  - planning
+  - communication
+  - resilience
+  - change
+  - alignment
+  - precision
+  - discipline
+  - action
+  - analysis
+  - influence
+
+exports:
+  ideas_jsonl: chapters/all/ideas.jsonl
+  practices_jsonl: chapters/all/practices.jsonl
+  quotes_jsonl: chapters/all/quotes.jsonl
+  topic_index: chapters/all/topic_index.json

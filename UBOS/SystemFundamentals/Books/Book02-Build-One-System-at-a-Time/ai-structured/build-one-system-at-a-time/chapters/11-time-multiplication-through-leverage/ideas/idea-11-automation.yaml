@@ -1,0 +1,15 @@
+id: idea-11-automation
+chapter: '11'
+kind: principle
+title: Automation
+one_liner: 'Automation: Using tools or processes to handle repetitive tasks without
+  constant input [1:20:32].'
+description: 'Automation: Using tools or processes to handle repetitive tasks without
+  constant input [1:20:32]. Delegation: Entrusting tasks to others to free up personal
+  time for high-return work [1:20:44, 1:21:52].'
+topics:
+- time
+- leverage
+- automation
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/chapter.md:3

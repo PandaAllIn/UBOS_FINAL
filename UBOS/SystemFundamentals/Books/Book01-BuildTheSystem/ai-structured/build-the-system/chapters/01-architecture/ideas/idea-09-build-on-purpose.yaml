@@ -1,0 +1,24 @@
+id: idea-09-build-on-purpose
+chapter: "01"
+kind: principle
+title: Build on Purpose, Not by Accident
+one_liner: "Choose to be the architect of your life rather than a firefighter reacting to chaos."
+description: |
+  The chapter closes with a direct choice: keep reacting to fires or build systems that prevent them. Intentional
+  architecture makes abundant futures inevitable by aligning structure with dreams. Designing with clarity and
+  courage ensures the architecture you build today can carry tomorrow's ambitions.
+topics:
+  - alignment
+  - architecture
+  - system
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:99
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:103
+actions:
+  - Write a commitment statement declaring the future you are architecting and the system you will build next.
+  - Identify one fire you regularly fight and design a preventative system to remove it.
+related_ids:
+  - practice-06-monthly-review
+metadata:
+  token_estimate: 110
+  reading_time_seconds: 40

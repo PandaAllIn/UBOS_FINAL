@@ -1,0 +1,26 @@
+id: '13'
+slug: chapter-13-systemize-before-you-scale
+title: Systemize Before You Scale
+summary: Attempting to scale without proper systems in place leads to chaos, burnout,
+  and eventual collapse. True scaling power comes from building robust systems that
+  can handle increased capacity without breaking down or requiring constant manual
+  intervention.
+objectives:
+- Systemize-First Principle
+- True Scaling vs. False Scaling
+- The Foundation-Load Relationship
+dependencies: []
+topics:
+- system
+- structure
+- design
+- energy
+- routine
+- clarity
+- scale
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/13-chapter-13-systemize-before-scale/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/13-chapter-13-systemize-before-scale/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/13-chapter-13-systemize-before-scale/key-concepts.md

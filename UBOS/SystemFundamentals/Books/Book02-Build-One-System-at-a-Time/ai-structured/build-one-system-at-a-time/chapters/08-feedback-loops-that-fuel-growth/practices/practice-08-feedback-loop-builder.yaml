@@ -1,0 +1,17 @@
+id: practice-08-feedback-loop-builder
+chapter: 08
+kind: checklist
+title: Feedback Loop Builder
+prompt: Create data-driven reviews that keep systems on course.
+steps:
+- Define the outcome metric and leading indicators that matter for the system.
+- Decide when and how those indicators will be captured without adding heavy overhead.
+- Write three review questions that convert data into decisions.
+- Schedule recurring reflection blocks to close the loop and apply adjustments.
+expected_outcome: A feedback cadence that keeps the system adaptive instead of reactive.
+topics:
+- feedback
+- adaptability
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/exercises.md:3

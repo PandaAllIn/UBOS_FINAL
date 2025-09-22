@@ -1,0 +1,20 @@
+id: practice-11-core-exercises
+chapter: '11'
+kind: checklist
+title: Chapter Exercises
+prompt: Work through the reflection prompts for this chapter to evaluate your architecture.
+steps:
+- What am I trying to accomplish?
+- What system do I need to get there?
+- How can I simplify my workflow so that success becomes easier to repeat?
+- Map your current daily/weekly routines as a system diagram.
+- Identify 3 system flaws and propose one redesign for each.
+- Define one ritual to protect focus and one to restore energy.
+expected_outcome: A clarified view of where the system supports or obstructs your
+  goals.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/exercises.md:1

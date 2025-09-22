@@ -1,0 +1,12 @@
+id: idea-16-you-cant-hand-off-confusion
+chapter: '16'
+kind: principle
+title: You Cant Hand Off Confusion
+one_liner: You can't hand off confusion and expect clarity in return.
+description: You can't hand off confusion and expect clarity in return.
+topics:
+- system
+- clarity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:12

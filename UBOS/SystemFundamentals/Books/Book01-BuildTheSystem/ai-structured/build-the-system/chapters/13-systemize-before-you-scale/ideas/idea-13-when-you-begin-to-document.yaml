@@ -1,0 +1,16 @@
+id: idea-13-when-you-begin-to-document
+chapter: '13'
+kind: principle
+title: When You Begin To Document
+one_liner: When you begin to document and structure your workflow, you'll quickly
+  see where friction exists, where things break down, and where you're relying too
+  much on guesswork.
+description: When you begin to document and structure your workflow, you'll quickly
+  see where friction exists, where things break down, and where you're relying too
+  much on guesswork.
+topics:
+- system
+- structure
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:10

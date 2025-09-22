@@ -1,0 +1,14 @@
+id: idea-14-the-more-honest-and-consistent
+chapter: '14'
+kind: principle
+title: The More Honest And Consistent
+one_liner: The more honest and consistent the feedback, the stronger and more flexible
+  your system becomes.
+description: The more honest and consistent the feedback, the stronger and more flexible
+  your system becomes.
+topics:
+- system
+- feedback
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:6

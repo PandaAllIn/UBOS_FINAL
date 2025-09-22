@@ -1,0 +1,12 @@
+id: idea-19-but-control-is-not-the
+chapter: '19'
+kind: principle
+title: But Control Is Not The
+one_liner: But control is not the goal of building systems. Freedom is.
+description: But control is not the goal of building systems. Freedom is.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:4

@@ -1,0 +1,18 @@
+id: practice-04-board-mapping-session
+chapter: '04'
+kind: checklist
+title: Board Mapping Session
+prompt: Visualize the system you are playing within before choosing moves.
+steps:
+- Sketch the key players, resources, and constraints influencing your objective.
+- Mark leverage points where small actions create big shifts.
+- Identify blind spots requiring more data.
+- Choose the single positioning move that strengthens your advantage this week.
+expected_outcome: A systems view that informs where to stand and what to influence
+  next.
+topics:
+- systems
+- vision
+- analysis
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/04/exercises.md:3

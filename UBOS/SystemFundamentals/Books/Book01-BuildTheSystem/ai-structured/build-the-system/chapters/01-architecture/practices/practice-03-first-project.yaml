@@ -1,0 +1,25 @@
+id: practice-03-first-project
+chapter: "01"
+kind: checklist
+title: Choose Your First Architecture Project
+prompt: |
+  Select one life domain to redesign using the provided implementation checklist.
+steps:
+  - Pick a focus area (morning routine, digital architecture, workspace, or financial system).
+  - Follow the corresponding four-step implementation plan from the chapter insights.
+  - Note obstacles encountered and adjustments made during the first week.
+  - Capture metrics that signal improvement (energy, clarity, time saved).
+expected_outcome: |
+  A completed mini-project that proves structural redesign delivers better results than hustle.
+topics:
+  - architecture
+  - structure
+  - energy
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:59
+related_ids:
+  - idea-05-structure-not-control
+  - idea-06-garden-ecosystem
+metadata:
+  difficulty: foundation
+  token_estimate: 130

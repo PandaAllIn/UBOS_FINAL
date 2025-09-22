@@ -1,0 +1,14 @@
+id: idea-10-to-build-systems-that-produce
+chapter: '10'
+kind: principle
+title: To Build Systems That Produce
+one_liner: To build systems that produce consistent output, you must treat your digital
+  space with the same intentionality as your physical one.
+description: To build systems that produce consistent output, you must treat your
+  digital space with the same intentionality as your physical one.
+topics:
+- system
+- design
+- environment
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:12

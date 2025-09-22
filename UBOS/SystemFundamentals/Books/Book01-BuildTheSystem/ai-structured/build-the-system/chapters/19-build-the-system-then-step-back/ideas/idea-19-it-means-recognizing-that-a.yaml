@@ -1,0 +1,14 @@
+id: idea-19-it-means-recognizing-that-a
+chapter: '19'
+kind: principle
+title: It Means Recognizing That A
+one_liner: It means recognizing that a system once welldesigned should be able to
+  operate with minimal friction.
+description: It means recognizing that a system once welldesigned should be able to
+  operate with minimal friction.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:6

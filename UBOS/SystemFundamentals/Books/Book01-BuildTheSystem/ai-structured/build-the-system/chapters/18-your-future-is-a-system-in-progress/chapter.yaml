@@ -1,0 +1,23 @@
+id: '18'
+slug: chapter-18-your-future-is-a-system-in-progress
+title: Your Future Is a System in Progress
+summary: "The most powerful systems are not just effective today\u2014they're designed\
+  \ to evolve, adapt, and improve over time. Future-proofing your systems means building\
+  \ adaptive capacity that enables continuous progress without constant rebuilding."
+objectives:
+- Evolutionary Systems Design
+- Four Design Principles for Evolution
+- 1. Modular Architecture
+dependencies: []
+topics:
+- system
+- design
+- structure
+- clarity
+- habit
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/18-chapter-18-future-system-progress/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/18-chapter-18-future-system-progress/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/18-chapter-18-future-system-progress/key-concepts.md

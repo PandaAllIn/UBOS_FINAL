@@ -1,0 +1,4 @@
+# Key Ideas
+
+- A **keystone system** is one that, when strengthened, improves multiple other systems simultaneously, acting as a force multiplier and holding the overall structure together [1:05:13, 1:05:33, 1:05:45].
+- A **keystone system** is one that, when strengthened, improves multiple other systems simultaneously, acting as a force multiplier and holding the overall structure together [1:05:13, 1:05:33, 1:05:45]. Keystone systems produce a ripple effect, amplify other systems' effectiveness, and can stabilize momentum during disruptions. Examples include health (provides physical energy for all other systems), time management (creates operational space), and financial systems (provides resources and stability). Identifying and prioritizing the keystone system ensures focused investment for the highest return.

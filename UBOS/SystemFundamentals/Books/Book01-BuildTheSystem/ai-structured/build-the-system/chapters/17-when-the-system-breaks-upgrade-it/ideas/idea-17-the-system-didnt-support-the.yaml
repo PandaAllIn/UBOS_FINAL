@@ -1,0 +1,12 @@
+id: idea-17-the-system-didnt-support-the
+chapter: '17'
+kind: principle
+title: The System Didnt Support The
+one_liner: The system didn't support the pressure, the pace, or the season.
+description: The system didn't support the pressure, the pace, or the season.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:8

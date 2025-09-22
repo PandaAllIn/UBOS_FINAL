@@ -1,0 +1,26 @@
+id: '14'
+slug: chapter-14-feedback-loops-and-course-correction
+title: Feedback Loops and Course Correction
+summary: "Feedback loops are the intelligence of any system\u2014they enable self-correction,\
+  \ continuous improvement, and adaptation without constant manual intervention. Building\
+  \ effective feedback mechanisms transforms static systems into dynamic, evolving,\
+  \ and self-optimizing structures."
+objectives:
+- Feedback Loop System
+- Four Types of Feedback Loops
+- 1. Performance Feedback Loops
+dependencies: []
+topics:
+- system
+- feedback
+- design
+- energy
+- routine
+- habit
+- identity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/14-chapter-14-feedback-loops/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/14-chapter-14-feedback-loops/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/14-chapter-14-feedback-loops/key-concepts.md

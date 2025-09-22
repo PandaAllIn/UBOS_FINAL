@@ -1,0 +1,18 @@
+id: practice-13-failsafe-design-drill
+chapter: '13'
+kind: checklist
+title: Failsafe Design Drill
+prompt: Prepare your system to operate during turbulence.
+steps:
+- List realistic stress scenarios that could derail the system.
+- For each scenario, define the reduced mode that keeps progress alive.
+- Assign responsibilities or triggers for activating each failsafe.
+- Run a tabletop simulation to ensure the plan works when pressure hits.
+expected_outcome: Documented contingency plans that keep the system resilient under
+  pressure.
+topics:
+- resilience
+- system
+- risk
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/13/exercises.md:3

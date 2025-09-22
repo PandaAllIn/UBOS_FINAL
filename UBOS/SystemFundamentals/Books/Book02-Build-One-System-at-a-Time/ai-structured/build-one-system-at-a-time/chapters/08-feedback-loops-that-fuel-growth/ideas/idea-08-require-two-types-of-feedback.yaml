@@ -1,0 +1,17 @@
+id: idea-08-require-two-types-of-feedback
+chapter: 08
+kind: principle
+title: Require Two Types Of Feedback
+one_liner: 'Systems require two types of feedback: outcome feedback (measuring final
+  results, like savings accumulated) and process feedback (measuring execution consistency,
+  like skipping review sessions).'
+description: 'Systems require two types of feedback: outcome feedback (measuring final
+  results, like savings accumulated) and process feedback (measuring execution consistency,
+  like skipping review sessions). Regular check-ins, tracking, and seeking external
+  perspectives are key methods.'
+topics:
+- feedback
+- adaptability
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3

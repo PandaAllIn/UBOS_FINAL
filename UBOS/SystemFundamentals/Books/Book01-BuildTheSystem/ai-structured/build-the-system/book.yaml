@@ -1,0 +1,94 @@
+id: build-the-system
+title: Build the System
+author: Kelvin W. Nathan
+publisher: Audio Books Office
+source_files:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem.md
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/01-introduction/introduction.md
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/meta/manifest.json
+chapters:
+  - id: "01"
+    slug: chapter-1
+    title: Abundance Begins with Architecture
+  - id: "02"
+    slug: chapter-2
+    title: The Myth of Hustle and the Power of Rhythm
+  - id: "03"
+    slug: chapter-3
+    title: Define It So You Can Build It
+  - id: "04"
+    slug: chapter-4
+    title: Identity Is the First System
+  - id: "05"
+    slug: chapter-5
+    title: Systems Eat Motivation for Breakfast
+  - id: "06"
+    slug: chapter-6
+    title: Time Is a System, Not a Resource
+  - id: "07"
+    slug: chapter-7
+    title: The Input Equation
+  - id: "08"
+    slug: chapter-8
+    title: Build Once, Benefit Daily
+  - id: "09"
+    slug: chapter-9
+    title: Wealth Is a Byproduct of Alignment
+  - id: "10"
+    slug: chapter-10
+    title: Your Environment Is Part of the System
+  - id: "11"
+    slug: chapter-11
+    title: Tools Don't Matter Until Systems Do
+  - id: "12"
+    slug: chapter-12
+    title: Think in Layers, Not Leaps
+  - id: "13"
+    slug: chapter-13
+    title: Systemize Before You Scale
+  - id: "14"
+    slug: chapter-14
+    title: Feedback Loops and Course Correction
+  - id: "15"
+    slug: chapter-15
+    title: The System of Self-belief
+  - id: "16"
+    slug: chapter-16
+    title: Delegation Is a System, Not a Shortcut
+  - id: "17"
+    slug: chapter-17
+    title: When the System Breaks, Upgrade It
+  - id: "18"
+    slug: chapter-18
+    title: Your Future Is a System in Progress
+  - id: "19"
+    slug: chapter-19
+    title: Build the System, Then Step Back
+  - id: "20"
+    slug: chapter-20
+    title: Live Like a System Builder
+topics:
+  - abundance
+  - architecture
+  - system
+  - design
+  - structure
+  - alignment
+  - rhythm
+  - focus
+  - energy
+  - routine
+  - habit
+  - goal
+  - clarity
+  - delegation
+  - feedback
+  - environment
+  - identity
+  - scale
+exports:
+  ideas_jsonl: chapters/all/ideas.jsonl
+  practices_jsonl: chapters/all/practices.jsonl
+  quotes_jsonl: chapters/all/quotes.jsonl
+  topic_index: chapters/all/topic_index.json

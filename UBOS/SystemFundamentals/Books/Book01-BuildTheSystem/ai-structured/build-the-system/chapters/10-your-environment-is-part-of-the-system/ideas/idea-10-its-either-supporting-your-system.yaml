@@ -1,0 +1,12 @@
+id: idea-10-its-either-supporting-your-system
+chapter: '10'
+kind: principle
+title: Its Either Supporting Your System
+one_liner: It's either supporting your system or sabotaging it.
+description: It's either supporting your system or sabotaging it.
+topics:
+- system
+- design
+- environment
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:3

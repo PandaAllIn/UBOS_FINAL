@@ -1,0 +1,14 @@
+id: idea-13-if-your-business-or-personal
+chapter: '13'
+kind: principle
+title: If Your Business Or Personal
+one_liner: If your business or personal routines only work when you're managing every
+  detail, they are not scalable.
+description: If your business or personal routines only work when you're managing
+  every detail, they are not scalable.
+topics:
+- system
+- structure
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:12

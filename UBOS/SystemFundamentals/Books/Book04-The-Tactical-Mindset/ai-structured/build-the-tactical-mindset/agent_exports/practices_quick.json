@@ -1,0 +1,255 @@
+[
+  {
+    "id": "practice-09-bounce-back-blueprint",
+    "chapter": "09",
+    "kind": "checklist",
+    "title": "Bounce-Back Blueprint",
+    "prompt": "Turn losses into leverage for the next fight.",
+    "steps": [
+      "Document the setback and the specific system that failed.",
+      "Extract three lessons that will prevent a repeat.",
+      "Design a recovery ritual that restores confidence quickly.",
+      "Plan the comeback move and metrics that will prove progress."
+    ],
+    "expected_outcome": "Structured recovery that converts setbacks into renewed strength.",
+    "topics": [
+      "recovery",
+      "resilience",
+      "leverage"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/09/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/09-bounce-back-stronger-turning-losses-into-leverage/practices/practice-09-bounce-back-blueprint.yaml"
+  },
+  {
+    "id": "practice-00-tactical-mindset-inventory",
+    "chapter": "00",
+    "kind": "checklist",
+    "title": "Tactical Mindset Inventory",
+    "prompt": "Assess where you currently react and where you respond with intent.",
+    "steps": [
+      "List three recent situations where you defaulted to reaction.",
+      "Describe the tactical alternative response you wish you had used.",
+      "Identify habits that keep you in control during stress.",
+      "Commit to one daily drill that reinforces calm execution."
+    ],
+    "expected_outcome": "Awareness of current reflexes and a plan to build tactical composure.",
+    "topics": [
+      "strategy",
+      "mindset",
+      "response"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/00/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/00-introduction/practices/practice-00-tactical-mindset-inventory.yaml"
+  },
+  {
+    "id": "practice-08-room-intelligence-brief",
+    "chapter": "08",
+    "kind": "checklist",
+    "title": "Room Intelligence Brief",
+    "prompt": "Prepare to read and direct the emotional climate.",
+    "steps": [
+      "Before a key interaction, note the stakeholders and likely emotional states.",
+      "Decide the energy you want to project and why.",
+      "Plan questions that surface hidden tension without escalating it.",
+      "Outline closing actions that align everyone around the mission."
+    ],
+    "expected_outcome": "A deliberate influence plan that keeps the room aligned and calm.",
+    "topics": [
+      "emotional-intelligence",
+      "communication",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/08/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/08-read-the-room-strategic-emotional-intelligence/practices/practice-08-room-intelligence-brief.yaml"
+  },
+  {
+    "id": "practice-02-slow-is-smooth-drill",
+    "chapter": "02",
+    "kind": "checklist",
+    "title": "Slow Is Smooth Drill",
+    "prompt": "Train precision before speed.",
+    "steps": [
+      "Select a high-stakes routine that collapses when rushed.",
+      "Break the routine into three deliberate micro-steps.",
+      "Practice each step slowly while narrating the desired outcome.",
+      "Gradually reintroduce speed without losing form."
+    ],
+    "expected_outcome": "Calibrated execution that remains steady when pressure rises.",
+    "topics": [
+      "calm",
+      "discipline",
+      "precision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/02/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/02-slow-is-smooth-smooth-is-fast/practices/practice-02-slow-is-smooth-drill.yaml"
+  },
+  {
+    "id": "practice-01-setback-response-plan",
+    "chapter": "01",
+    "kind": "checklist",
+    "title": "Setback Response Plan",
+    "prompt": "Design a response kit for the next unexpected hit.",
+    "steps": [
+      "Define the most common setbacks in your arena.",
+      "Write your default emotional reaction and its cost.",
+      "Script the tactical response that keeps you moving forward.",
+      "Choose a grounding ritual that activates the plan."
+    ],
+    "expected_outcome": "Confidence that setbacks will trigger strategy instead of spirals.",
+    "topics": [
+      "resilience",
+      "strategy",
+      "decision"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/01/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/01-setback-proof-the-power-of-a-tactical-mindset/practices/practice-01-setback-response-plan.yaml"
+  },
+  {
+    "id": "practice-04-self-talk-command-rewrite",
+    "chapter": "04",
+    "kind": "checklist",
+    "title": "Self-Talk Command Rewrite",
+    "prompt": "Replace negative loops with tactical language.",
+    "steps": [
+      "Journal the phrases you use when stress spikes.",
+      "Translate each into a concise command that supports execution.",
+      "Create a pocket-sized card with your new tactical prompts.",
+      "Run a daily rehearsal reciting the commands aloud."
+    ],
+    "expected_outcome": "Internal dialogue that keeps focus, not fear, in charge.",
+    "topics": [
+      "mindset",
+      "emotional-control",
+      "focus"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/04/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/04-tactical-self-talk-mastering-the-voice-in-your-head/practices/practice-04-self-talk-command-rewrite.yaml"
+  },
+  {
+    "id": "practice-03-contingency-builder",
+    "chapter": "03",
+    "kind": "checklist",
+    "title": "Contingency Builder",
+    "prompt": "Capture scenarios before they catch you.",
+    "steps": [
+      "List the most probable ways your current mission can go sideways.",
+      "Assign early warning signals for each scenario.",
+      "Define the first corrective move you will take when the signal appears.",
+      "Schedule a quarterly review to refresh scenarios."
+    ],
+    "expected_outcome": "A playbook that turns uncertainty into calculated readiness.",
+    "topics": [
+      "anticipation",
+      "planning",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/03/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/03-think-in-contingencies-not-catastrophes/practices/practice-03-contingency-builder.yaml"
+  },
+  {
+    "id": "practice-06-24-hour-response-protocol",
+    "chapter": "06",
+    "kind": "checklist",
+    "title": "24-Hour Response Protocol",
+    "prompt": "Build a buffer between emotion and action.",
+    "steps": [
+      "Document scenarios where you commit to waiting 24 hours before responding.",
+      "List reflection questions you will answer during the delay.",
+      "Identify a mentor or ally to consult before final decisions.",
+      "Review the result after the waiting period to refine the protocol."
+    ],
+    "expected_outcome": "A tested waiting ritual that prevents impulsive moves.",
+    "topics": [
+      "patience",
+      "timing",
+      "response"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/06/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/06-the-24-hour-rule-dont-react-respond/practices/practice-06-24-hour-response-protocol.yaml"
+  },
+  {
+    "id": "practice-07-adaptation-war-game",
+    "chapter": "07",
+    "kind": "checklist",
+    "title": "Adaptation War Game",
+    "prompt": "Practice pivoting while staying on mission.",
+    "steps": [
+      "Choose a current objective and list variables that could change rapidly.",
+      "Design three pivot options that still protect the objective.",
+      "Assign roles or resources required for each pivot.",
+      "Run a quick simulation to ensure the team can execute when change hits."
+    ],
+    "expected_outcome": "A flexible battle plan that keeps intent intact when reality shifts.",
+    "topics": [
+      "adaptability",
+      "resilience",
+      "leadership"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/07/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/07-adapt-like-a-general-when-plans-go-to-hell/practices/practice-07-adaptation-war-game.yaml"
+  },
+  {
+    "id": "practice-05-micro-battle-tracker",
+    "chapter": "05",
+    "kind": "checklist",
+    "title": "Micro-Battle Tracker",
+    "prompt": "Stack daily wins that keep momentum alive.",
+    "steps": [
+      "Determine the three micro-battles that define a successful day.",
+      "Record a simple win/lose score for each battle.",
+      "Note the trigger that helped you win or lose the battle.",
+      "Plan the next day's adjustments based on the tracker."
+    ],
+    "expected_outcome": "Quantified micro wins that preserve long-term momentum.",
+    "topics": [
+      "discipline",
+      "habit",
+      "momentum"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/05/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/05-win-the-micro-battles/practices/practice-05-micro-battle-tracker.yaml"
+  },
+  {
+    "id": "practice-10-terrain-control-session",
+    "chapter": "10",
+    "kind": "checklist",
+    "title": "Terrain Control Session",
+    "prompt": "Design an environment that guarantees tactical readiness.",
+    "steps": [
+      "Map the spaces you use daily and assign each a tactical purpose.",
+      "Remove objects or distractions that contradict the mission.",
+      "Add tools or cues that trigger your best routines in each zone.",
+      "Schedule a weekly terrain inspection to keep the map current."
+    ],
+    "expected_outcome": "A controlled environment that supports every strategic objective.",
+    "topics": [
+      "environment",
+      "planning",
+      "execution"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/10/exercises.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/ai-structured/build-the-tactical-mindset/chapters/10-own-the-terrain-build-your-life-like-a-war-map/practices/practice-10-terrain-control-session.yaml"
+  }
+]

@@ -1,0 +1,14 @@
+id: idea-03-should-be-designed-with-room-to-grow-as-resources-and-ambitions-expand
+chapter: '03'
+kind: principle
+title: Should Be Designed With Room To Grow As Resources And Ambitions Expand
+one_liner: Systems should be designed with room to grow as resources and ambitions
+  expand, avoiding the need to dismantle them later.
+description: Systems should be designed with room to grow as resources and ambitions
+  expand, avoiding the need to dismantle them later.
+topics:
+- clarity
+- leverage
+- feedback
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:11

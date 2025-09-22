@@ -1,0 +1,17 @@
+id: practice-03-contingency-builder
+chapter: '03'
+kind: checklist
+title: Contingency Builder
+prompt: Capture scenarios before they catch you.
+steps:
+- List the most probable ways your current mission can go sideways.
+- Assign early warning signals for each scenario.
+- Define the first corrective move you will take when the signal appears.
+- Schedule a quarterly review to refresh scenarios.
+expected_outcome: A playbook that turns uncertainty into calculated readiness.
+topics:
+- anticipation
+- planning
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/03/exercises.md:3

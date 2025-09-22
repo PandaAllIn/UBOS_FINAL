@@ -1,0 +1,24 @@
+id: practice-02-alignment-session
+chapter: "01"
+kind: ritual
+title: Alignment Question Session
+prompt: |
+  Block 30 minutes to answer the four alignment questions with depth and specificity.
+steps:
+  - Describe your ideal daily life, environment, and relationships.
+  - Note the emotional state you need to sustain and what undermines it.
+  - List work that makes you lose track of time and the impact you seek.
+  - Identify routines and commitments that consistently drain energy.
+expected_outcome: |
+  A written alignment profile highlighting mismatches between desired life and current architecture.
+topics:
+  - alignment
+  - clarity
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:35
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/exercises.md:3
+related_ids:
+  - idea-03-alignment-questions
+metadata:
+  difficulty: foundation
+  token_estimate: 120

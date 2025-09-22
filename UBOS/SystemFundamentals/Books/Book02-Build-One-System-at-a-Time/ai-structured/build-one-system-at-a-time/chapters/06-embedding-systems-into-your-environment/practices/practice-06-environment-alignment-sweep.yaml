@@ -1,0 +1,18 @@
+id: practice-06-environment-alignment-sweep
+chapter: '06'
+kind: checklist
+title: Environment Alignment Sweep
+prompt: Engineer spaces that make your priority system the default.
+steps:
+- Walk through your physical workspace and mark any element that disrupts focus.
+- Audit your digital environment for notifications, tabs, or files that create drag.
+- Identify people or contexts that reinforce or erode the system and plan adjustments.
+- Install cues, tools, or boundaries that keep the environment reinforcing your design.
+expected_outcome: An environment intentionally configured to keep the target system
+  on autopilot.
+topics:
+- environment
+- alignment
+- automation
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/06/exercises.md:3

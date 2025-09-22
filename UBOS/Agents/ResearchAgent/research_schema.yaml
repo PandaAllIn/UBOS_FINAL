@@ -1,0 +1,100 @@
+# UBOS Research Agent Schema
+# Defines how research findings are stored in AI-friendly format
+# Following UBOS SystemFundamentals schema patterns
+
+research_document:
+  # Core identification
+  id: research-YYYYMMDD-HHMMSS-<slug>
+  timestamp: ISO8601_datetime
+  agent_version: "1.0.0"
+
+  # Query metadata
+  query:
+    original: "user query string"
+    complexity_score: 0-5
+    analysis:
+      word_count: number
+      has_complex_terms: boolean
+      has_reasoning_terms: boolean
+      recommended_model: "sonar_model_name"
+
+  # Execution details
+  execution:
+    model_used: "actual_sonar_model"
+    depth: "quick|medium|deep"
+    search_mode: "low|medium|high"
+    duration_seconds: number
+
+  # Research findings
+  findings:
+    summary: "one_liner summary"
+    content: |
+      Full research content
+    key_insights:
+      - insight: "extracted insight"
+        confidence: 0.0-1.0
+        source_count: number
+      - insight: "another insight"
+        confidence: 0.0-1.0
+        source_count: number
+
+  # Source attribution
+  sources:
+    - url: "source_url"
+      title: "source_title"
+      relevance: 0.0-1.0
+      access_date: ISO8601_date
+    - url: "another_source"
+      title: "source_title"
+      relevance: 0.0-1.0
+      access_date: ISO8601_date
+
+  # Topic classification
+  topics:
+    - architecture
+    - ai_agents
+    - knowledge_management
+
+  # API usage tracking
+  usage:
+    prompt_tokens: number
+    completion_tokens: number
+    total_tokens: number
+    cost:
+      input_cost: number
+      output_cost: number
+      request_cost: number
+      total_cost: number
+
+  # AI consumption metadata
+  metadata:
+    token_estimate: number
+    reading_time_seconds: number
+    language: "en"
+    extractable_facts: number
+    citation_count: number
+
+  # Relationships and follow-ups
+  related_research:
+    - research_id: "related-research-id"
+      relationship: "builds_on|contradicts|supports|extends"
+    - research_id: "another-research-id"
+      relationship: "builds_on|contradicts|supports|extends"
+
+  # Agent recommendations
+  agent_notes:
+    follow_up_queries:
+      - "suggested follow-up query"
+      - "another follow-up"
+    applications:
+      - context: "agent_type"
+        use_case: "how this research helps"
+      - context: "another_agent"
+        use_case: "another application"
+
+  # Quality metrics
+  quality:
+    factual_confidence: 0.0-1.0
+    source_diversity: 0.0-1.0
+    recency_score: 0.0-1.0
+    depth_score: 0.0-1.0

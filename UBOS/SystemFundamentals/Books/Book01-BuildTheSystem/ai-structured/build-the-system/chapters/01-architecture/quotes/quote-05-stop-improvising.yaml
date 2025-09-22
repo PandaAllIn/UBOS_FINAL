@@ -1,0 +1,17 @@
+id: quote-05-stop-improvising
+chapter: "01"
+kind: quote
+speaker: Kelvin W. Nathan
+text: |
+  "If your architecture doesn't answer these questions, you're not building, you're improvising."
+context: |
+  Calls out the risk of operating without intentional design principles.
+topics:
+  - architecture
+  - clarity
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/quotes.md:8
+related_ids:
+  - idea-03-alignment-questions
+metadata:
+  token_estimate: 30

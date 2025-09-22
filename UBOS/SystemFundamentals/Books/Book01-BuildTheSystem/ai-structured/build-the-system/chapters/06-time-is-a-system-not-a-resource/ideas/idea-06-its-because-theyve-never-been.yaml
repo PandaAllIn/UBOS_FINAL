@@ -1,0 +1,14 @@
+id: idea-06-its-because-theyve-never-been
+chapter: '06'
+kind: principle
+title: Its Because Theyve Never Been
+one_liner: It's because they've never been taught to architect time like the system
+  it is.
+description: It's because they've never been taught to architect time like the system
+  it is.
+topics:
+- design
+- system
+- energy
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:5

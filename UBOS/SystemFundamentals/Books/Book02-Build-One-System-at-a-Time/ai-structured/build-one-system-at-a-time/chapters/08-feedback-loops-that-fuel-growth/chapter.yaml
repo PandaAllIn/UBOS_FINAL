@@ -1,0 +1,23 @@
+id: 08
+slug: chapter-08-feedback-loops-that-fuel-growth
+title: Feedback Loops that Fuel Growth
+summary: "Since systems are never truly finished, feedback loops allow systems to\
+  \ evolve and self-improve over time [58:11, 58:50]. Feedback is simply information\u2014\
+  a tool for growth [59:02]. Systems require two types of feedback: outcome feedback\
+  \ (measuring final results, like savings accumulated) and process feedback (measuring\
+  \ execution consistency, like skipping review sessions). Regular check-ins, tracking,\
+  \ and seeking external perspectives are key methods. Feedback should guide improvements\
+  \ that make the system easier and more reliable, ensuring it is adaptable and aligned\
+  \ with needs."
+objectives:
+- Construct feedback loops that inform both outcomes and process.
+- Distinguish between momentum signals and warning indicators.
+- Schedule reviews that translate data into actionable refinements.
+dependencies: []
+topics:
+- feedback
+- adaptability
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3
+assets: {}

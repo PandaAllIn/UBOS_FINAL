@@ -1,0 +1,23 @@
+id: '11'
+slug: chapter-11-tools-dont-matter-until-systems-do
+title: Tools Don't Matter Until Systems Do
+summary: "In an age of endless productivity tools and platforms, people mistake tool\
+  \ optimization for progress. The truth is that tools are only amplifiers\u2014they\
+  \ enhance existing systems but cannot create clarity or consistency where none exists.\
+  \ Systems must come first, tools second."
+objectives:
+- Tools as Amplifiers, Not Creators
+- System-First Hierarchy
+- The Tool Distraction Matrix
+dependencies: []
+topics:
+- system
+- design
+- structure
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/11-chapter-11-tools-dont-matter/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/11-chapter-11-tools-dont-matter/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/11-chapter-11-tools-dont-matter/key-concepts.md

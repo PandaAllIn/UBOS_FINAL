@@ -1,0 +1,17 @@
+id: quote-01-begin-with-architecture
+chapter: "01"
+kind: quote
+speaker: Kelvin W. Nathan
+text: |
+  "If you're chasing abundance, chasing purpose, chasing a future you haven't yet lived, you must begin with architecture."
+context: |
+  Highlights the core premise that intentional design precedes sustainable success.
+topics:
+  - architecture
+  - abundance
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/quotes.md:3
+related_ids:
+  - idea-01-blueprint-thinking
+metadata:
+  token_estimate: 35

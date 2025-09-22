@@ -1,0 +1,3 @@
+# Chapter 14 – Breaking and rebuilding systems when you outgrow them
+
+Growth inevitably leads to systems becoming restrictive or irrelevant, often signaled by **diminishing returns** or increased **friction** (procrastination, working around the system) [1:42:10, 1:43:15, 1:43:52]. Outgrowing a system is a sign of success, not failure [1:42:38]. Rebuilding requires courage, analyzing what parts are still useful, and redesigning the structure based on current and future needs, incorporating greater leverage and scalability [1:44:21, 1:44:58, 1:45:35]. The ability to break and rebuild systems is a mark of adaptability, ensuring systems grow *with* the individual [1:47:34, 1:47:54].

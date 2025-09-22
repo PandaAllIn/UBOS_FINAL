@@ -1,0 +1,12 @@
+id: idea-12-what-is-this-layer-adding
+chapter: '12'
+kind: principle
+title: What Is This Layer Adding
+one_liner: What is this layer adding to the system I'm building?
+description: What is this layer adding to the system I'm building?
+topics:
+- habit
+- system
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:6

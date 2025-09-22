@@ -1,0 +1,14 @@
+id: idea-13-repeatability-means-your-results-are
+chapter: '13'
+kind: principle
+title: Repeatability Means Your Results Are
+one_liner: Repeatability means your results are not dependent on your mood, your energy
+  level, or your memory.
+description: Repeatability means your results are not dependent on your mood, your
+  energy level, or your memory.
+topics:
+- system
+- structure
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:9

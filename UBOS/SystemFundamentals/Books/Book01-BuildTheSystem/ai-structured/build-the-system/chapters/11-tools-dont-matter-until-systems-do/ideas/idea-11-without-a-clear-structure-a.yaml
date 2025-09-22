@@ -1,0 +1,14 @@
+id: idea-11-without-a-clear-structure-a
+chapter: '11'
+kind: principle
+title: Without A Clear Structure A
+one_liner: Without a clear structure, a repeatable process, and a defined purpose,
+  no tool will save you from disorganization or inconsistency.
+description: Without a clear structure, a repeatable process, and a defined purpose,
+  no tool will save you from disorganization or inconsistency.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:4

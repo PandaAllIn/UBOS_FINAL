@@ -1,0 +1,18 @@
+id: practice-04-high-leverage-start-blueprint
+chapter: '04'
+kind: checklist
+title: High-Leverage Start Blueprint
+prompt: Choose the first system with maximum upside and realistic capacity.
+steps:
+- Brainstorm potential starting systems and note why each matters now.
+- Rate candidates on urgency, confidence, and alignment with your long-term vision.
+- Select the top-scoring system and write a precise problem statement it will solve.
+- Define what early momentum looks like in the next 30 days and set checkpoints.
+expected_outcome: Clarity on the single system to build first, backed by a motivation
+  and capacity map.
+topics:
+- alignment
+- leverage
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/04/exercises.md:3

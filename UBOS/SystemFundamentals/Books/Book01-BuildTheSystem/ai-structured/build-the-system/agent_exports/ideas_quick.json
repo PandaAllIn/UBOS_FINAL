@@ -1,0 +1,3499 @@
+[
+  {
+    "id": "idea-13-as-a-result-they-end",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "As A Result They End",
+    "one_liner": "As a result, they end up buried in stress, constantly putting out fires and trying to maintain a fragile structure that was never designed to support that level of output.",
+    "description": "As a result, they end up buried in stress, constantly putting out fires and trying to maintain a fragile structure that was never designed to support that level of output.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-as-a-result-they-end.yaml"
+  },
+  {
+    "id": "idea-13-if-your-business-or-personal",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "If Your Business Or Personal",
+    "one_liner": "If your business or personal routines only work when you're managing every detail, they are not scalable.",
+    "description": "If your business or personal routines only work when you're managing every detail, they are not scalable.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-if-your-business-or-personal.yaml"
+  },
+  {
+    "id": "idea-13-it-means-pausing-growth-long",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "It Means Pausing Growth Long",
+    "one_liner": "It means pausing growth long enough to build the structure that will support it.",
+    "description": "It means pausing growth long enough to build the structure that will support it.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-it-means-pausing-growth-long.yaml"
+  },
+  {
+    "id": "idea-13-one-of-the-most-valuable",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "One Of The Most Valuable",
+    "one_liner": "One of the most valuable aspects of a systemized structure is that it allows other people to step in.",
+    "description": "One of the most valuable aspects of a systemized structure is that it allows other people to step in.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-one-of-the-most-valuable.yaml"
+  },
+  {
+    "id": "idea-13-repeatability-means-your-results-are",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "Repeatability Means Your Results Are",
+    "one_liner": "Repeatability means your results are not dependent on your mood, your energy level, or your memory.",
+    "description": "Repeatability means your results are not dependent on your mood, your energy level, or your memory.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-repeatability-means-your-results-are.yaml"
+  },
+  {
+    "id": "idea-13-scaling-anything-before-its-been",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "Scaling Anything Before Its Been",
+    "one_liner": "Scaling anything before it's been systemized is a recipe for failure.",
+    "description": "Scaling anything before it's been systemized is a recipe for failure.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-scaling-anything-before-its-been.yaml"
+  },
+  {
+    "id": "idea-13-systemizing-means-creating-a-foundation",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "Systemizing Means Creating A Foundation",
+    "one_liner": "Systemizing means creating a foundation that runs without constant improvisation.",
+    "description": "Systemizing means creating a foundation that runs without constant improvisation.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-systemizing-means-creating-a-foundation.yaml"
+  },
+  {
+    "id": "idea-13-when-you-begin-to-document",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "When You Begin To Document",
+    "one_liner": "When you begin to document and structure your workflow, you'll quickly see where friction exists, where things break down, and where you're relying too much on guesswork.",
+    "description": "When you begin to document and structure your workflow, you'll quickly see where friction exists, where things break down, and where you're relying too much on guesswork.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-when-you-begin-to-document.yaml"
+  },
+  {
+    "id": "idea-13-when-you-systemize-properly-growth",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "When You Systemize Properly Growth",
+    "one_liner": "When you systemize properly, growth becomes a natural extension of the structure.",
+    "description": "When you systemize properly, growth becomes a natural extension of the structure.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-when-you-systemize-properly-growth.yaml"
+  },
+  {
+    "id": "idea-13-you-can-scale-with-clarity",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "You Can Scale With Clarity",
+    "one_liner": "You can scale with clarity knowing your system will hold under pressure, but systemizing requires discipline.",
+    "description": "You can scale with clarity knowing your system will hold under pressure, but systemizing requires discipline.",
+    "topics": [
+      "system",
+      "structure",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/13-systemize-before-you-scale/ideas/idea-13-you-can-scale-with-clarity.yaml"
+  },
+  {
+    "id": "idea-15-behind-every-action-you-take",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Behind Every Action You Take",
+    "one_liner": "Behind every action you take, every goal you pursue, and every system you try to build is a silent force that either fuels or frustrates your progress, your self-belief.",
+    "description": "Behind every action you take, every goal you pursue, and every system you try to build is a silent force that either fuels or frustrates your progress, your self-belief.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-behind-every-action-you-take.yaml"
+  },
+  {
+    "id": "idea-15-long-before-a-habit-is",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Long Before A Habit Is",
+    "one_liner": "Long before a habit is formed or a task is completed, there is a thought.",
+    "description": "Long before a habit is formed or a task is completed, there is a thought.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-long-before-a-habit-is.yaml"
+  },
+  {
+    "id": "idea-15-no-matter-how-advanced-the",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "No Matter How Advanced The",
+    "one_liner": "No matter how advanced the system, if the story you're telling yourself contradicts it, the story wins.",
+    "description": "No matter how advanced the system, if the story you're telling yourself contradicts it, the story wins.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-no-matter-how-advanced-the.yaml"
+  },
+  {
+    "id": "idea-15-people-who-have-strong-external",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "People Who Have Strong External",
+    "one_liner": "People who have strong external systems but weak internal belief structures tend to sabotage their own momentum.",
+    "description": "People who have strong external systems but weak internal belief structures tend to sabotage their own momentum.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-people-who-have-strong-external.yaml"
+  },
+  {
+    "id": "idea-15-the-reason-many-people-fail",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "The Reason Many People Fail",
+    "one_liner": "The reason many people fail to sustain change is because their systems are built on top of an old identity.",
+    "description": "The reason many people fail to sustain change is because their systems are built on top of an old identity.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-the-reason-many-people-fail.yaml"
+  },
+  {
+    "id": "idea-15-they-set-goals-without-believing",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "They Set Goals Without Believing",
+    "one_liner": "They set goals without believing they are the kind of person who achieves those goals.",
+    "description": "They set goals without believing they are the kind of person who achieves those goals.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-they-set-goals-without-believing.yaml"
+  },
+  {
+    "id": "idea-15-this-internal-narrative-functions-like",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "This Internal Narrative Functions Like",
+    "one_liner": "This internal narrative functions like an operating system.",
+    "description": "This internal narrative functions like an operating system.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-this-internal-narrative-functions-like.yaml"
+  },
+  {
+    "id": "idea-15-to-create-lasting-change-you",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "To Create Lasting Change You",
+    "one_liner": "To create lasting change, you must build a system of self-belief that matches the structure of the life you're trying to create.",
+    "description": "To create lasting change, you must build a system of self-belief that matches the structure of the life you're trying to create.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-to-create-lasting-change-you.yaml"
+  },
+  {
+    "id": "idea-15-when-your-self-concept-supports-your",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "When Your Self Concept Supports Your",
+    "one_liner": "When your self-concept supports your goals, your behavior becomes more consistent.",
+    "description": "When your self-concept supports your goals, your behavior becomes more consistent.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-when-your-self-concept-supports-your.yaml"
+  },
+  {
+    "id": "idea-15-without-a-system-of-self-belief",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Without A System Of Self Belief",
+    "one_liner": "Without a system of self-belief that supports growth, even the best designed external systems will struggle to gain traction.",
+    "description": "Without a system of self-belief that supports growth, even the best designed external systems will struggle to gain traction.",
+    "topics": [
+      "system",
+      "goal",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/15-the-system-of-self-belief/ideas/idea-15-without-a-system-of-self-belief.yaml"
+  },
+  {
+    "id": "idea-08-most-people-spend-their-entire",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Most People Spend Their Entire",
+    "one_liner": "Most people spend their entire lives reacting, fixing what breaks, solving what's urgent, repeating what they forgot to systemize.",
+    "description": "Most people spend their entire lives reacting, fixing what breaks, solving what's urgent, repeating what they forgot to systemize.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-most-people-spend-their-entire.yaml"
+  },
+  {
+    "id": "idea-08-their-days-are-filled-with",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Their Days Are Filled With",
+    "one_liner": "Their days are filled with effort, but their systems produce nothing that outlives the moment.",
+    "description": "Their days are filled with effort, but their systems produce nothing that outlives the moment.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-their-days-are-filled-with.yaml"
+  },
+  {
+    "id": "idea-08-there-is-a-quiet-power",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "There Is A Quiet Power",
+    "one_liner": "There is a quiet power in systems that require one act of creation and then serve you again and again.",
+    "description": "There is a quiet power in systems that require one act of creation and then serve you again and again.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-there-is-a-quiet-power.yaml"
+  },
+  {
+    "id": "idea-08-they-are-not-instagrammable-but",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "They Are Not Instagrammable But",
+    "one_liner": "They are not Instagrammable, but they are the bedrock of a systemized scalable life.",
+    "description": "They are not Instagrammable, but they are the bedrock of a systemized scalable life.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-they-are-not-instagrammable-but.yaml"
+  },
+  {
+    "id": "idea-08-they-are-setting-up-processes",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "They Are Setting Up Processes",
+    "one_liner": "They are setting up processes, automations, habits, and workflows that create results long after the initial effort has been applied.",
+    "description": "They are setting up processes, automations, habits, and workflows that create results long after the initial effort has been applied.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-they-are-setting-up-processes.yaml"
+  },
+  {
+    "id": "idea-08-they-wake-up-respond-to",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "They Wake Up Respond To",
+    "one_liner": "They wake up, respond to the same problems, rebuild the same routines, relearn the same lessons.",
+    "description": "They wake up, respond to the same problems, rebuild the same routines, relearn the same lessons.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-they-wake-up-respond-to.yaml"
+  },
+  {
+    "id": "idea-08-to-live-in-abundance-you",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "To Live In Abundance You",
+    "one_liner": "To live in abundance, you must learn to shift from reacting to designing.",
+    "description": "To live in abundance, you must learn to shift from reacting to designing.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-to-live-in-abundance-you.yaml"
+  },
+  {
+    "id": "idea-08-when-systems-run-in-the",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "When Systems Run In The",
+    "one_liner": "When systems run in the background, your mental bandwidth is freed up for high leverage thinking and deep creative work.",
+    "description": "When systems run in the background, your mental bandwidth is freed up for high leverage thinking and deep creative work.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-when-systems-run-in-the.yaml"
+  },
+  {
+    "id": "idea-08-you-spend-energy-once-designing",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "You Spend Energy Once Designing",
+    "one_liner": "You spend energy once designing a habit that removes decision-making from your morning routine.",
+    "description": "You spend energy once designing a habit that removes decision-making from your morning routine.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-you-spend-energy-once-designing.yaml"
+  },
+  {
+    "id": "idea-08-youre-no-longer-spending-energy",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Youre No Longer Spending Energy",
+    "one_liner": "You're no longer spending energy remembering what to do, when to do it, or how to do it.",
+    "description": "You're no longer spending energy remembering what to do, when to do it, or how to do it.",
+    "topics": [
+      "system",
+      "design",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/08/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/08-build-once-benefit-daily/ideas/idea-08-youre-no-longer-spending-energy.yaml"
+  },
+  {
+    "id": "idea-19-always-being-inside-the-system",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "Always Being Inside The System",
+    "one_liner": "Always being inside the system makes it harder to see what needs to be improved.",
+    "description": "Always being inside the system makes it harder to see what needs to be improved.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-always-being-inside-the-system.yaml"
+  },
+  {
+    "id": "idea-19-and-once-those-elements-are",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "And Once Those Elements Are",
+    "one_liner": "And once those elements are in place, you allow the system to do what it was designed to do. sustain momentum, deliver results, and hold your direction while you focus on higher level thinking.",
+    "description": "And once those elements are in place, you allow the system to do what it was designed to do. sustain momentum, deliver results, and hold your direction while you focus on higher level thinking.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-and-once-those-elements-are.yaml"
+  },
+  {
+    "id": "idea-19-but-control-is-not-the",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "But Control Is Not The",
+    "one_liner": "But control is not the goal of building systems. Freedom is.",
+    "description": "But control is not the goal of building systems. Freedom is.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-but-control-is-not-the.yaml"
+  },
+  {
+    "id": "idea-19-it-means-recognizing-that-a",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "It Means Recognizing That A",
+    "one_liner": "It means recognizing that a system once welldesigned should be able to operate with minimal friction.",
+    "description": "It means recognizing that a system once welldesigned should be able to operate with minimal friction.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-it-means-recognizing-that-a.yaml"
+  },
+  {
+    "id": "idea-19-so-when-the-system-starts",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "So When The System Starts",
+    "one_liner": "So, when the system starts to work without them, they panic.",
+    "description": "So, when the system starts to work without them, they panic.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-so-when-the-system-starts.yaml"
+  },
+  {
+    "id": "idea-19-the-final-test-of-a",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "The Final Test Of A",
+    "one_liner": "The final test of a system is whether it can run without constant supervision.",
+    "description": "The final test of a system is whether it can run without constant supervision.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-the-final-test-of-a.yaml"
+  },
+  {
+    "id": "idea-19-you-adjust-when-appropriate-but",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "You Adjust When Appropriate But",
+    "one_liner": "You adjust when appropriate, but your presence is not required for the system to function.",
+    "description": "You adjust when appropriate, but your presence is not required for the system to function.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-you-adjust-when-appropriate-but.yaml"
+  },
+  {
+    "id": "idea-19-you-clarify-the-structure-refine",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "You Clarify The Structure Refine",
+    "one_liner": "You clarify the structure, refine the flow, create the automation, delegate the tasks, and build the feedback loops.",
+    "description": "You clarify the structure, refine the flow, create the automation, delegate the tasks, and build the feedback loops.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-you-clarify-the-structure-refine.yaml"
+  },
+  {
+    "id": "idea-19-you-dont-build-a-system",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "You Dont Build A System",
+    "one_liner": "You don't build a system so you can micromanage it.",
+    "description": "You don't build a system so you can micromanage it.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-you-dont-build-a-system.yaml"
+  },
+  {
+    "id": "idea-19-you-gain-clarity-not-by",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "You Gain Clarity Not By",
+    "one_liner": "You gain clarity not by doing more, but by allowing the structure you've built to do its work.",
+    "description": "You gain clarity not by doing more, but by allowing the structure you've built to do its work.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/19-build-the-system-then-step-back/ideas/idea-19-you-gain-clarity-not-by.yaml"
+  },
+  {
+    "id": "idea-05-every-day-you-wake-up",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "Every Day You Wake Up",
+    "one_liner": "Every day you wake up and debate with yourself about what to do next is a day you lose energy to decision fatigue.",
+    "description": "Every day you wake up and debate with yourself about what to do next is a day you lose energy to decision fatigue.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-every-day-you-wake-up.yaml"
+  },
+  {
+    "id": "idea-05-its-a-day-you-spend",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "Its A Day You Spend",
+    "one_liner": "It's a day you spend negotiating with your lower self, postponing progress, or overanalyzing what should already be structured. systems eliminate that negotiation.",
+    "description": "It's a day you spend negotiating with your lower self, postponing progress, or overanalyzing what should already be structured. systems eliminate that negotiation.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-its-a-day-you-spend.yaml"
+  },
+  {
+    "id": "idea-05-now-imagine-if-your-fitness",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "Now Imagine If Your Fitness",
+    "one_liner": "Now, imagine if your fitness, your creative output, your learning, or your financial habits were treated the same way.",
+    "description": "Now, imagine if your fitness, your creative output, your learning, or your financial habits were treated the same way.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-now-imagine-if-your-fitness.yaml"
+  },
+  {
+    "id": "idea-05-that-may-sound-strange-in",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "That May Sound Strange In",
+    "one_liner": "That may sound strange in a world obsessed with motivation quotes, hype videos, and high energy morning routines, but the truth is simple.",
+    "description": "That may sound strange in a world obsessed with motivation quotes, hype videos, and high energy morning routines, but the truth is simple.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-that-may-sound-strange-in.yaml"
+  },
+  {
+    "id": "idea-05-the-key-to-building-systems",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "The Key To Building Systems",
+    "one_liner": "The key to building systems that outlast motivation is simplicity.",
+    "description": "The key to building systems that outlast motivation is simplicity.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-the-key-to-building-systems.yaml"
+  },
+  {
+    "id": "idea-05-they-rely-on-systems-because",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "They Rely On Systems Because",
+    "one_liner": "They rely on systems because systems don't ask how you feel.",
+    "description": "They rely on systems because systems don't ask how you feel.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-they-rely-on-systems-because.yaml"
+  },
+  {
+    "id": "idea-05-they-remove-the-emotional-resistance",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "They Remove The Emotional Resistance",
+    "one_liner": "They remove the emotional resistance and replace it with clarity and flow.",
+    "description": "They remove the emotional resistance and replace it with clarity and flow.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-they-remove-the-emotional-resistance.yaml"
+  },
+  {
+    "id": "idea-05-they-turn-important-behaviors-into",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "They Turn Important Behaviors Into",
+    "one_liner": "They turn important behaviors into routines, routines into rhythms, and rhythms into results.",
+    "description": "They turn important behaviors into routines, routines into rhythms, and rhythms into results.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-they-turn-important-behaviors-into.yaml"
+  },
+  {
+    "id": "idea-05-they-understand-that-when-the",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "They Understand That When The",
+    "one_liner": "They understand that when the right system is in place, action becomes automatic.",
+    "description": "They understand that when the right system is in place, action becomes automatic.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-they-understand-that-when-the.yaml"
+  },
+  {
+    "id": "idea-05-you-do-it-because-its",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "You Do It Because Its",
+    "one_liner": "You do it because it's embedded into your system of hygiene.",
+    "description": "You do it because it's embedded into your system of hygiene.",
+    "topics": [
+      "system",
+      "energy",
+      "routine"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/05/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/05-systems-eat-motivation-for-breakfast/ideas/idea-05-you-do-it-because-its.yaml"
+  },
+  {
+    "id": "idea-17-every-system-no-matter-how",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "Every System No Matter How",
+    "one_liner": "Every system, no matter how carefully designed, eventually encounters friction.",
+    "description": "Every system, no matter how carefully designed, eventually encounters friction.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-every-system-no-matter-how.yaml"
+  },
+  {
+    "id": "idea-17-growth-is-what-breaks-systems",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "Growth Is What Breaks Systems",
+    "one_liner": "Growth is what breaks systems. As you evolve, your life becomes more complex.",
+    "description": "Growth is what breaks systems. As you evolve, your life becomes more complex.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-growth-is-what-breaks-systems.yaml"
+  },
+  {
+    "id": "idea-17-systems-must-be-living-frameworks",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "Systems Must Be Living Frameworks",
+    "one_liner": "Systems must be living frameworks, not monuments to the past.",
+    "description": "Systems must be living frameworks, not monuments to the past.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-systems-must-be-living-frameworks.yaml"
+  },
+  {
+    "id": "idea-17-systems-that-once-felt-powerful",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "Systems That Once Felt Powerful",
+    "one_liner": "Systems that once felt powerful start to feel constraining.",
+    "description": "Systems that once felt powerful start to feel constraining.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-systems-that-once-felt-powerful.yaml"
+  },
+  {
+    "id": "idea-17-the-most-common-mistake-people",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "The Most Common Mistake People",
+    "one_liner": "The most common mistake people make when a system fails is blaming themselves instead of examining the structure.",
+    "description": "The most common mistake people make when a system fails is blaming themselves instead of examining the structure.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-the-most-common-mistake-people.yaml"
+  },
+  {
+    "id": "idea-17-the-system-didnt-support-the",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "The System Didnt Support The",
+    "one_liner": "The system didn't support the pressure, the pace, or the season.",
+    "description": "The system didn't support the pressure, the pace, or the season.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-the-system-didnt-support-the.yaml"
+  },
+  {
+    "id": "idea-17-they-think-they-just-werent",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "They Think They Just Werent",
+    "one_liner": "They think they just weren't disciplined enough, motivated enough, focused enough.",
+    "description": "They think they just weren't disciplined enough, motivated enough, focused enough.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-they-think-they-just-werent.yaml"
+  },
+  {
+    "id": "idea-17-what-matters-most-in-those",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "What Matters Most In Those",
+    "one_liner": "What matters most in those moments isn't whether your system failed.",
+    "description": "What matters most in those moments isn't whether your system failed.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-what-matters-most-in-those.yaml"
+  },
+  {
+    "id": "idea-17-when-a-system-begins-to",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "When A System Begins To",
+    "one_liner": "When a system begins to break, the first step is not to panic or power through.",
+    "description": "When a system begins to break, the first step is not to panic or power through.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-when-a-system-begins-to.yaml"
+  },
+  {
+    "id": "idea-17-when-a-system-breaks-its",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "When A System Breaks Its",
+    "one_liner": "When a system breaks, it's not a sign that you failed.",
+    "description": "When a system breaks, it's not a sign that you failed.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/17-when-the-system-breaks-upgrade-it/ideas/idea-17-when-a-system-breaks-its.yaml"
+  },
+  {
+    "id": "idea-07-after-scrolling-through-news-or",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "After Scrolling Through News Or",
+    "one_liner": "After scrolling through news or social media, are you more focused or more scattered?",
+    "description": "After scrolling through news or social media, are you more focused or more scattered?",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-after-scrolling-through-news-or.yaml"
+  },
+  {
+    "id": "idea-07-and-allowing-random-or-toxic",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "And Allowing Random Or Toxic",
+    "one_liner": "And allowing random or toxic inputs into that space is a violation of the system they've built to protect their clarity and momentum.",
+    "description": "And allowing random or toxic inputs into that space is a violation of the system they've built to protect their clarity and momentum.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-and-allowing-random-or-toxic.yaml"
+  },
+  {
+    "id": "idea-07-if-youre-feeding-your-system",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "If Youre Feeding Your System",
+    "one_liner": "If you're feeding your system chaos, distraction, or negativity, your outcomes will always reflect that.",
+    "description": "If you're feeding your system chaos, distraction, or negativity, your outcomes will always reflect that.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-if-youre-feeding-your-system.yaml"
+  },
+  {
+    "id": "idea-07-in-an-abundance-based-system-inputs",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "In An Abundance Based System Inputs",
+    "one_liner": "In an abundance-based system, inputs are not background noise.",
+    "description": "In an abundance-based system, inputs are not background noise.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-in-an-abundance-based-system-inputs.yaml"
+  },
+  {
+    "id": "idea-07-it-selects-books-conversations-mentors",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "It Selects Books Conversations Mentors",
+    "one_liner": "It selects books, conversations, mentors, environments, and routines that elevate thought, expand creativity, and support the long game.",
+    "description": "It selects books, conversations, mentors, environments, and routines that elevate thought, expand creativity, and support the long game.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-it-selects-books-conversations-mentors.yaml"
+  },
+  {
+    "id": "idea-07-media-is-designed-to-provoke",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Media Is Designed To Provoke",
+    "one_liner": "Media is designed to provoke outrage. and social feeds are endless loops of comparison and noise.",
+    "description": "Media is designed to provoke outrage. and social feeds are endless loops of comparison and noise.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-media-is-designed-to-provoke.yaml"
+  },
+  {
+    "id": "idea-07-the-people-who-create-consistently",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "The People Who Create Consistently",
+    "one_liner": "The people who create consistently excellent results aren't just more focused.",
+    "description": "The people who create consistently excellent results aren't just more focused.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-the-people-who-create-consistently.yaml"
+  },
+  {
+    "id": "idea-07-what-you-produce-in-life",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "What You Produce In Life",
+    "one_liner": "What you produce in life, your thoughts, your energy, your work, your results, is shaped not only by your effort, but by what you allow in.",
+    "description": "What you produce in life, your thoughts, your energy, your work, your results, is shaped not only by your effort, but by what you allow in.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-what-you-produce-in-life.yaml"
+  },
+  {
+    "id": "idea-07-you-can-use-noiseancelling-habits",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "You Can Use Noiseancelling Habits",
+    "one_liner": "You can use noiseancelling habits, reading instead of scrolling, long walks without headphones, journaling before checking email.",
+    "description": "You can use noiseancelling habits, reading instead of scrolling, long walks without headphones, journaling before checking email.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-you-can-use-noiseancelling-habits.yaml"
+  },
+  {
+    "id": "idea-07-you-must-become-the-gatekeeper",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "You Must Become The Gatekeeper",
+    "one_liner": "You must become the gatekeeper of your system, not to block the world out, but to filter it through intention.",
+    "description": "You must become the gatekeeper of your system, not to block the world out, but to filter it through intention.",
+    "topics": [
+      "system",
+      "focus",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/07/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/07-the-input-equation/ideas/idea-07-you-must-become-the-gatekeeper.yaml"
+  },
+  {
+    "id": "idea-16-energy-is-drained-not-from",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Energy Is Drained Not From",
+    "one_liner": "Energy is drained not from the work itself but from the weight of having to manage it all.",
+    "description": "Energy is drained not from the work itself but from the weight of having to manage it all.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-energy-is-drained-not-from.yaml"
+  },
+  {
+    "id": "idea-16-its-about-multiplying-capacity-and",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Its About Multiplying Capacity And",
+    "one_liner": "It's about multiplying capacity, and building leverage into your system.",
+    "description": "It's about multiplying capacity, and building leverage into your system.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-its-about-multiplying-capacity-and.yaml"
+  },
+  {
+    "id": "idea-16-outsourcing-tasks-when-things-start",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Outsourcing Tasks When Things Start",
+    "one_liner": "Outsourcing tasks when things start to break down instead of designing support from the start.",
+    "description": "Outsourcing tasks when things start to break down instead of designing support from the start.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-outsourcing-tasks-when-things-start.yaml"
+  },
+  {
+    "id": "idea-16-they-treat-it-like-a",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "They Treat It Like A",
+    "one_liner": "They treat it like a relief valve instead of a core system.",
+    "description": "They treat it like a relief valve instead of a core system.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-they-treat-it-like-a.yaml"
+  },
+  {
+    "id": "idea-16-when-you-delegate-with-clarity",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "When You Delegate With Clarity",
+    "one_liner": "When you delegate with clarity and intention, you're not just getting help.",
+    "description": "When you delegate with clarity and intention, you're not just getting help.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-when-you-delegate-with-clarity.yaml"
+  },
+  {
+    "id": "idea-16-you-become-the-system-and",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "You Become The System And",
+    "one_liner": "You become the system and the system becomes unsustainable.",
+    "description": "You become the system and the system becomes unsustainable.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-you-become-the-system-and.yaml"
+  },
+  {
+    "id": "idea-16-you-cant-hand-off-confusion",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "You Cant Hand Off Confusion",
+    "one_liner": "You can't hand off confusion and expect clarity in return.",
+    "description": "You can't hand off confusion and expect clarity in return.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-you-cant-hand-off-confusion.yaml"
+  },
+  {
+    "id": "idea-16-you-wear-exhaustion-like-a",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "You Wear Exhaustion Like A",
+    "one_liner": "You wear exhaustion like a badge, forgetting that freedom was the reason you started building systems in the first place.",
+    "description": "You wear exhaustion like a badge, forgetting that freedom was the reason you started building systems in the first place.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-you-wear-exhaustion-like-a.yaml"
+  },
+  {
+    "id": "idea-16-youre-building-trust-developing-people",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Youre Building Trust Developing People",
+    "one_liner": "You're building trust, developing people, and reinforcing your core systems. The key to effective delegation is systems. Without systems, delegation creates chaos.",
+    "description": "You're building trust, developing people, and reinforcing your core systems. The key to effective delegation is systems. Without systems, delegation creates chaos.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-youre-building-trust-developing-people.yaml"
+  },
+  {
+    "id": "idea-16-youre-creating-a-structure-where",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Youre Creating A Structure Where",
+    "one_liner": "You're creating a structure where others can contribute meaningfully to a shared goal.",
+    "description": "You're creating a structure where others can contribute meaningfully to a shared goal.",
+    "topics": [
+      "system",
+      "clarity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/16-delegation-is-a-system-not-a-shortcut/ideas/idea-16-youre-creating-a-structure-where.yaml"
+  },
+  {
+    "id": "idea-09-if-your-systems-are-built",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "If Your Systems Are Built",
+    "one_liner": "If your systems are built around external validation, social pressure, or outdated goals, they will produce stress and misalignment.",
+    "description": "If your systems are built around external validation, social pressure, or outdated goals, they will produce stress and misalignment.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-if-your-systems-are-built.yaml"
+  },
+  {
+    "id": "idea-09-it-begins-by-understanding-who",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "It Begins By Understanding Who",
+    "one_liner": "It begins by understanding who you are at your core, your values, your temperament, your vision, and designing systems that protect and express that identity.",
+    "description": "It begins by understanding who you are at your core, your values, your temperament, your vision, and designing systems that protect and express that identity.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-it-begins-by-understanding-who.yaml"
+  },
+  {
+    "id": "idea-09-it-includes-time-energy-relationships",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "It Includes Time Energy Relationships",
+    "one_liner": "It includes time, energy, relationships, peace of mind, and freedom of choice.",
+    "description": "It includes time, energy, relationships, peace of mind, and freedom of choice.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-it-includes-time-energy-relationships.yaml"
+  },
+  {
+    "id": "idea-09-it-is-created-by-building",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "It Is Created By Building",
+    "one_liner": "It is created by building a system that reflects your truth and allows prosperity to grow as a natural result of alignment.",
+    "description": "It is created by building a system that reflects your truth and allows prosperity to grow as a natural result of alignment.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-it-is-created-by-building.yaml"
+  },
+  {
+    "id": "idea-09-it-strengthens-your-system-instead",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "It Strengthens Your System Instead",
+    "one_liner": "It strengthens your system instead of draining it.",
+    "description": "It strengthens your system instead of draining it.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-it-strengthens-your-system-instead.yaml"
+  },
+  {
+    "id": "idea-09-the-abundance-mindset-recognizes-that",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "The Abundance Mindset Recognizes That",
+    "one_liner": "The abundance mindset recognizes that wealth is not merely about what you accumulate, but about how well your life aligns with your values, your purpose, and your natural strengths.",
+    "description": "The abundance mindset recognizes that wealth is not merely about what you accumulate, but about how well your life aligns with your values, your purpose, and your natural strengths.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-the-abundance-mindset-recognizes-that.yaml"
+  },
+  {
+    "id": "idea-09-to-build-aligned-systems-you",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "To Build Aligned Systems You",
+    "one_liner": "To build aligned systems, you must give yourself permission to define success on your own terms, not what you were taught, not what others expect, but what genuinely matters to you.",
+    "description": "To build aligned systems, you must give yourself permission to define success on your own terms, not what you were taught, not what others expect, but what genuinely matters to you.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-to-build-aligned-systems-you.yaml"
+  },
+  {
+    "id": "idea-09-when-you-operate-from-alignment",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "When You Operate From Alignment",
+    "one_liner": "When you operate from alignment, you naturally create value.",
+    "description": "When you operate from alignment, you naturally create value.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-when-you-operate-from-alignment.yaml"
+  },
+  {
+    "id": "idea-09-when-your-systems-reflect-your",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "When Your Systems Reflect Your",
+    "one_liner": "When your systems reflect your own metrics for a rich life, wealth begins to flow with less resistance.",
+    "description": "When your systems reflect your own metrics for a rich life, wealth begins to flow with less resistance.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-when-your-systems-reflect-your.yaml"
+  },
+  {
+    "id": "idea-09-you-might-achieve-success-by",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "You Might Achieve Success By",
+    "one_liner": "You might achieve success by the world's standards, but you will feel empty because the structure you built doesn't serve your inner life.",
+    "description": "You might achieve success by the world's standards, but you will feel empty because the structure you built doesn't serve your inner life.",
+    "topics": [
+      "system",
+      "alignment",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/09/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/09-wealth-is-a-byproduct-of-alignment/ideas/idea-09-you-might-achieve-success-by.yaml"
+  },
+  {
+    "id": "idea-18-but-a-future-built-by",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "But A Future Built By",
+    "one_liner": "But a future built by design follows a different path.",
+    "description": "But a future built by design follows a different path.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-but-a-future-built-by.yaml"
+  },
+  {
+    "id": "idea-18-if-theyre-intentional-repeatable-and",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "If Theyre Intentional Repeatable And",
+    "one_liner": "If they're intentional, repeatable, and rooted in clarity, your future becomes something you can influence and refine.",
+    "description": "If they're intentional, repeatable, and rooted in clarity, your future becomes something you can influence and refine.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-if-theyre-intentional-repeatable-and.yaml"
+  },
+  {
+    "id": "idea-18-it-emerges-as-a-pattern",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "It Emerges As A Pattern",
+    "one_liner": "It emerges as a pattern, a byproduct of your current design.",
+    "description": "It emerges as a pattern, a byproduct of your current design.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-it-emerges-as-a-pattern.yaml"
+  },
+  {
+    "id": "idea-18-it-happens-gradually-through-consistent",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "It Happens Gradually Through Consistent",
+    "one_liner": "It happens gradually through consistent structure.",
+    "description": "It happens gradually through consistent structure.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-it-happens-gradually-through-consistent.yaml"
+  },
+  {
+    "id": "idea-18-its-formed-by-the-systems",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "Its Formed By The Systems",
+    "one_liner": "It's formed by the systems you build today, the habits you maintain, and the values the future doesn't appear one day as a gift.",
+    "description": "It's formed by the systems you build today, the habits you maintain, and the values the future doesn't appear one day as a gift.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-its-formed-by-the-systems.yaml"
+  },
+  {
+    "id": "idea-18-over-time-the-result-is",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "Over Time The Result Is",
+    "one_liner": "Over time, the result is something that looks like momentum but feels like clarity.",
+    "description": "Over time, the result is something that looks like momentum but feels like clarity.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-over-time-the-result-is.yaml"
+  },
+  {
+    "id": "idea-18-the-beauty-of-a-future",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "The Beauty Of A Future",
+    "one_liner": "The beauty of a future built through systems is that it doesn't rely on willpower or luck.",
+    "description": "The beauty of a future built through systems is that it doesn't rely on willpower or luck.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-the-beauty-of-a-future.yaml"
+  },
+  {
+    "id": "idea-18-you-begin-to-realize-that",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "You Begin To Realize That",
+    "one_liner": "You begin to realize that the most reliable way to predict your future is to examine your present systems. If they're chaotic, inconsistent, or misaligned, your future will reflect that.",
+    "description": "You begin to realize that the most reliable way to predict your future is to examine your present systems. If they're chaotic, inconsistent, or misaligned, your future will reflect that.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-you-begin-to-realize-that.yaml"
+  },
+  {
+    "id": "idea-18-you-create-structure-around-what",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "You Create Structure Around What",
+    "one_liner": "You create structure around what you value most and trust that those structures will carry you forward.",
+    "description": "You create structure around what you value most and trust that those structures will carry you forward.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-you-create-structure-around-what.yaml"
+  },
+  {
+    "id": "idea-18-you-just-need-to-create",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "You Just Need To Create",
+    "one_liner": "You just need to create a system that supports the next step and then another and then another.",
+    "description": "You just need to create a system that supports the next step and then another and then another.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/18-your-future-is-a-system-in-progress/ideas/idea-18-you-just-need-to-create.yaml"
+  },
+  {
+    "id": "idea-03-and-if-youre-not-willing",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "And If Youre Not Willing",
+    "one_liner": "And if you're not willing to do this part, every system you try to build will feel hollow, misaligned, or forced.",
+    "description": "And if you're not willing to do this part, every system you try to build will feel hollow, misaligned, or forced.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-and-if-youre-not-willing.yaml"
+  },
+  {
+    "id": "idea-03-but-building-a-system-that",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "But Building A System That",
+    "one_liner": "But building a system that actually works, a system that supports your vision of abundance, begins by getting radically clear about what you want and why it matters.",
+    "description": "But building a system that actually works, a system that supports your vision of abundance, begins by getting radically clear about what you want and why it matters.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-but-building-a-system-that.yaml"
+  },
+  {
+    "id": "idea-03-its-about-giving-your-life",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Its About Giving Your Life",
+    "one_liner": "It's about giving your life structure so your energy can flow in a meaningful direction.",
+    "description": "It's about giving your life structure so your energy can flow in a meaningful direction.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-its-about-giving-your-life.yaml"
+  },
+  {
+    "id": "idea-03-its-the-real-function-of",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Its The Real Function Of",
+    "one_liner": "It's the real function of vision to direct your energy toward what's meaningful and away from what's simply available.",
+    "description": "It's the real function of vision to direct your energy toward what's meaningful and away from what's simply available.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-its-the-real-function-of.yaml"
+  },
+  {
+    "id": "idea-03-thats-the-truth-most-people",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Thats The Truth Most People",
+    "one_liner": "That's the truth most people avoid because definition requires clarity and clarity requires slowing down.",
+    "description": "That's the truth most people avoid because definition requires clarity and clarity requires slowing down.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-thats-the-truth-most-people.yaml"
+  },
+  {
+    "id": "idea-03-their-systems-follow-their-vision",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Their Systems Follow Their Vision",
+    "one_liner": "Their systems follow their vision, not the other way around.",
+    "description": "Their systems follow their vision, not the other way around.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-their-systems-follow-their-vision.yaml"
+  },
+  {
+    "id": "idea-03-theyre-the-ones-who-define",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Theyre The Ones Who Define",
+    "one_liner": "They're the ones who define their mission with such clarity that they can organize their lives around it.",
+    "description": "They're the ones who define their mission with such clarity that they can organize their lives around it.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-theyre-the-ones-who-define.yaml"
+  },
+  {
+    "id": "idea-03-too-many-people-resist-clarity",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Too Many People Resist Clarity",
+    "one_liner": "Too many people resist clarity because it requires commitment.",
+    "description": "Too many people resist clarity because it requires commitment.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-too-many-people-resist-clarity.yaml"
+  },
+  {
+    "id": "idea-03-without-it-even-the-best",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Without It Even The Best",
+    "one_liner": "Without it, even the best systems collapse under confusion.",
+    "description": "Without it, even the best systems collapse under confusion.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-without-it-even-the-best.yaml"
+  },
+  {
+    "id": "idea-03-you-cant-build-a-system",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "You Cant Build A System",
+    "one_liner": "You can't build a system for a life you haven't imagined with clarity.",
+    "description": "You can't build a system for a life you haven't imagined with clarity.",
+    "topics": [
+      "system",
+      "clarity",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/03/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/03-define-it-so-you-can-build-it/ideas/idea-03-you-cant-build-a-system.yaml"
+  },
+  {
+    "id": "idea-06-a-well-designed-time-system-doesnt",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "A Well Designed Time System Doesnt",
+    "one_liner": "A well-designed time system doesn't start with a to-do list.",
+    "description": "A well-designed time system doesn't start with a to-do list.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-a-well-designed-time-system-doesnt.yaml"
+  },
+  {
+    "id": "idea-06-and-until-you-treat-it",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "And Until You Treat It",
+    "one_liner": "And until you treat it like one, until you learn to shape, structure, and defend it, your future will remain vulnerable to distraction, interruption, and exhaustion.",
+    "description": "And until you treat it like one, until you learn to shape, structure, and defend it, your future will remain vulnerable to distraction, interruption, and exhaustion.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-and-until-you-treat-it.yaml"
+  },
+  {
+    "id": "idea-06-and-when-interruptions-arise-theyre",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "And When Interruptions Arise Theyre",
+    "one_liner": "And when interruptions arise, they're handled by system, not panic.",
+    "description": "And when interruptions arise, they're handled by system, not panic.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-and-when-interruptions-arise-theyre.yaml"
+  },
+  {
+    "id": "idea-06-and-yet-most-people-treat",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "And Yet Most People Treat",
+    "one_liner": "And yet, most people treat time carelessly, reacting to it rather than designing it.",
+    "description": "And yet, most people treat time carelessly, reacting to it rather than designing it.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-and-yet-most-people-treat.yaml"
+  },
+  {
+    "id": "idea-06-from-there-you-can-reverse",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "From There You Can Reverse",
+    "one_liner": "From there you can reverse engineer the hours you have into meaningful containers of focused energy.",
+    "description": "From there you can reverse engineer the hours you have into meaningful containers of focused energy.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-from-there-you-can-reverse.yaml"
+  },
+  {
+    "id": "idea-06-it-means-noticing-when-your",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "It Means Noticing When Your",
+    "one_liner": "It means noticing when your time is being stolen by things that don't align with your goals.",
+    "description": "It means noticing when your time is being stolen by things that don't align with your goals.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-it-means-noticing-when-your.yaml"
+  },
+  {
+    "id": "idea-06-its-because-theyve-never-been",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "Its Because Theyve Never Been",
+    "one_liner": "It's because they've never been taught to architect time like the system it is.",
+    "description": "It's because they've never been taught to architect time like the system it is.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-its-because-theyve-never-been.yaml"
+  },
+  {
+    "id": "idea-06-the-shift-from-time-management",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "The Shift From Time Management",
+    "one_liner": "The shift from time management to time design requires awareness.",
+    "description": "The shift from time management to time design requires awareness.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-the-shift-from-time-management.yaml"
+  },
+  {
+    "id": "idea-06-they-shape-it-so-that",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "They Shape It So That",
+    "one_liner": "They shape it so that the most valuable work happens when their energy is highest.",
+    "description": "They shape it so that the most valuable work happens when their energy is highest.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-they-shape-it-so-that.yaml"
+  },
+  {
+    "id": "idea-06-time-design-begins-when-you",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "Time Design Begins When You",
+    "one_liner": "Time design begins when you stop asking what do I have to do today and start asking what matters most today.",
+    "description": "Time design begins when you stop asking what do I have to do today and start asking what matters most today.",
+    "topics": [
+      "design",
+      "system",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/06/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/06-time-is-a-system-not-a-resource/ideas/idea-06-time-design-begins-when-you.yaml"
+  },
+  {
+    "id": "idea-20-because-systems-dont-only-serve",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "Because Systems Dont Only Serve",
+    "one_liner": "Because systems don't only serve you, they shape you.",
+    "description": "Because systems don't only serve you, they shape you.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-because-systems-dont-only-serve.yaml"
+  },
+  {
+    "id": "idea-20-idea09",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "Idea09",
+    "one_liner": "Living like a system builder also changes your relationship with time.",
+    "description": "Living like a system builder also changes your relationship with time.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-idea09.yaml"
+  },
+  {
+    "id": "idea-20-its-a-mindset-shift-one",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "Its A Mindset Shift One",
+    "one_liner": "It's a mindset shift. one that changes everything from how you set goals to how you respond to setback.",
+    "description": "It's a mindset shift. one that changes everything from how you set goals to how you respond to setback.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-its-a-mindset-shift-one.yaml"
+  },
+  {
+    "id": "idea-20-living-like-a-system-builder",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "Living Like A System Builder",
+    "one_liner": "Living like a system builder means seeing life through the lens of structure and sustainability.",
+    "description": "Living like a system builder means seeing life through the lens of structure and sustainability.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-living-like-a-system-builder.yaml"
+  },
+  {
+    "id": "idea-20-system-builders-understand-that-their",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "System Builders Understand That Their",
+    "one_liner": "System builders understand that their future is their responsibility.",
+    "description": "System builders understand that their future is their responsibility.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-system-builders-understand-that-their.yaml"
+  },
+  {
+    "id": "idea-20-the-process-of-designing-structure",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "The Process Of Designing Structure",
+    "one_liner": "The process of designing structure, aligning your habits, managing your energy, and living with clarity transforms how you think, work, and show up in the world.",
+    "description": "The process of designing structure, aligning your habits, managing your energy, and living with clarity transforms how you think, work, and show up in the world.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-the-process-of-designing-structure.yaml"
+  },
+  {
+    "id": "idea-20-you-also-start-designing-systems",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "You Also Start Designing Systems",
+    "one_liner": "You also start designing systems in more areas of your life.",
+    "description": "You also start designing systems in more areas of your life.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-you-also-start-designing-systems.yaml"
+  },
+  {
+    "id": "idea-20-you-become-a-system-builder",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "You Become A System Builder",
+    "one_liner": "You become a system builder, someone who doesn't chase outcomes, but creates the conditions in which outcomes emerge.",
+    "description": "You become a system builder, someone who doesn't chase outcomes, but creates the conditions in which outcomes emerge.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-you-become-a-system-builder.yaml"
+  },
+  {
+    "id": "idea-20-you-stop-being-impressed-by",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "You Stop Being Impressed By",
+    "one_liner": "You stop being impressed by sudden breakthroughs and start being committed to the daily architecture of a well-designed life.",
+    "description": "You stop being impressed by sudden breakthroughs and start being committed to the daily architecture of a well-designed life.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-you-stop-being-impressed-by.yaml"
+  },
+  {
+    "id": "idea-20-youve-seen-the-compound-effect",
+    "chapter": "20",
+    "kind": "principle",
+    "title": "Youve Seen The Compound Effect",
+    "one_liner": "You've seen the compound effect of habits well-kept time used intentionally energy protected through boundaries and decisions made with clarity.",
+    "description": "You've seen the compound effect of habits well-kept time used intentionally energy protected through boundaries and decisions made with clarity.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/20/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/20-live-like-a-system-builder/ideas/idea-20-youve-seen-the-compound-effect.yaml"
+  },
+  {
+    "id": "idea-11-a-tool-is-only-valuable",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "A Tool Is Only Valuable",
+    "one_liner": "A tool is only valuable when it serves a repeatable behavior that aligns with your system.",
+    "description": "A tool is only valuable when it serves a repeatable behavior that aligns with your system.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-a-tool-is-only-valuable.yaml"
+  },
+  {
+    "id": "idea-11-every-week-theres-a-new",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Every Week Theres A New",
+    "one_liner": "Every week there's a new app, a new platform, a new productivity system, promising to change your life.",
+    "description": "Every week there's a new app, a new platform, a new productivity system, promising to change your life.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-every-week-theres-a-new.yaml"
+  },
+  {
+    "id": "idea-11-if-your-system-is-unclear",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "If Your System Is Unclear",
+    "one_liner": "If your system is unclear or broken, the tool will amplify the chaos.",
+    "description": "If your system is unclear or broken, the tool will amplify the chaos.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-if-your-system-is-unclear.yaml"
+  },
+  {
+    "id": "idea-11-if-your-system-is-welldesigned",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "If Your System Is Welldesigned",
+    "one_liner": "If your system is welldesigned, the tool will enhance it.",
+    "description": "If your system is welldesigned, the tool will enhance it.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-if-your-system-is-welldesigned.yaml"
+  },
+  {
+    "id": "idea-11-it-will-speed-up-whatever",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "It Will Speed Up Whatever",
+    "one_liner": "It will speed up whatever system you already have in place.",
+    "description": "It will speed up whatever system you already have in place.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-it-will-speed-up-whatever.yaml"
+  },
+  {
+    "id": "idea-11-its-not-the-sophistication-of",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Its Not The Sophistication Of",
+    "one_liner": "It's not the sophistication of the tool, it's the clarity of the system behind it.",
+    "description": "It's not the sophistication of the tool, it's the clarity of the system behind it.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-its-not-the-sophistication-of.yaml"
+  },
+  {
+    "id": "idea-11-the-core-of-any-effective",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "The Core Of Any Effective",
+    "one_liner": "The core of any effective system is not the tool, but the process.",
+    "description": "The core of any effective system is not the tool, but the process.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-the-core-of-any-effective.yaml"
+  },
+  {
+    "id": "idea-11-they-require-discipline-reflection-and",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "They Require Discipline Reflection And",
+    "one_liner": "They require discipline, reflection, and intentional design.",
+    "description": "They require discipline, reflection, and intentional design.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-they-require-discipline-reflection-and.yaml"
+  },
+  {
+    "id": "idea-11-they-think-they-need-to",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "They Think They Need To",
+    "one_liner": "They think they need to find the perfect tool first. the perfect planner, the perfect calendar system, the perfect project management software.",
+    "description": "They think they need to find the perfect tool first. the perfect planner, the perfect calendar system, the perfect project management software.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-they-think-they-need-to.yaml"
+  },
+  {
+    "id": "idea-11-without-a-clear-structure-a",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Without A Clear Structure A",
+    "one_liner": "Without a clear structure, a repeatable process, and a defined purpose, no tool will save you from disorganization or inconsistency.",
+    "description": "Without a clear structure, a repeatable process, and a defined purpose, no tool will save you from disorganization or inconsistency.",
+    "topics": [
+      "system",
+      "design",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/11-tools-dont-matter-until-systems-do/ideas/idea-11-without-a-clear-structure-a.yaml"
+  },
+  {
+    "id": "idea-01-blueprint-thinking",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Blueprint Thinking",
+    "one_liner": "Every abundant life begins with a deliberate blueprint, not improvisation.",
+    "description": "The chapter opens by comparing life design to skyscraper construction: no lasting structure goes up without\na carefully drafted plan. Abundance is engineered by specifying the architecture of thoughts, systems,\nand alignment before chasing outcomes. Treating the future as a build requires slowing down to map the\nfoundational structure that can hold long-term ambition.\n",
+    "topics": [
+      "architecture",
+      "system",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:11",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:5"
+    ],
+    "actions": [
+      "Draft a one-page blueprint describing the future life you intend to build before adjusting routines.",
+      "Audit current goals and flag any that lack a supporting structural plan."
+    ],
+    "related_ids": [
+      "practice-01-architecture-audit"
+    ],
+    "metadata": {
+      "token_estimate": 120,
+      "reading_time_seconds": 45
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-01-blueprint-thinking.yaml"
+  },
+  {
+    "id": "idea-02-systems-produce-results",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Systems Produce Current Results",
+    "one_liner": "Your routines already form a system delivering exactly what you experience.",
+    "description": "The chapter reframes daily outcomes as the predictable outputs of existing routines, beliefs, and defaults.\nChaos, inconsistent energy, and unfinished goals are not character defects\u2014they are evidence of system design.\nBy diagnosing the architecture instead of blaming the individual, builders can target structural redesigns that\nchange results without relying on more effort or motivation.\n",
+    "topics": [
+      "system",
+      "structure",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:23",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:27",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:29"
+    ],
+    "actions": [
+      "List three recurring outcomes you dislike and link each to the routine or default producing it.",
+      "Identify one flawed component in your current system and outline a redesign."
+    ],
+    "related_ids": [
+      "practice-05-weekly-review"
+    ],
+    "metadata": {
+      "token_estimate": 130,
+      "reading_time_seconds": 50
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-02-systems-produce-results.yaml"
+  },
+  {
+    "id": "idea-03-alignment-questions",
+    "chapter": "01",
+    "kind": "question",
+    "title": "Alignment Diagnostic Questions",
+    "one_liner": "Four core questions reveal whether your architecture supports the life you claim to want.",
+    "description": "Alignment starts by interrogating the system with intentional prompts: What life do you want daily?\nWhich emotional state must be sustained? What work brings you alive? Which routines drain you?\nAnswering these questions surfaces the structural gaps between current design and desired identity,\ndirecting attention toward upgrades that actually matter.\n",
+    "topics": [
+      "alignment",
+      "clarity",
+      "architecture"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:36",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/exercises.md:3",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:35"
+    ],
+    "actions": [
+      "Schedule a 30-minute session to journal answers to the four alignment questions.",
+      "Highlight misalignments between answers and current routines for redesign."
+    ],
+    "related_ids": [
+      "practice-02-alignment-session"
+    ],
+    "metadata": {
+      "token_estimate": 110,
+      "reading_time_seconds": 40
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-03-alignment-questions.yaml"
+  },
+  {
+    "id": "idea-04-systems-beat-willpower",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Systems Outperform Willpower",
+    "one_liner": "When motivation drops, structure keeps you operating like your highest self.",
+    "description": "The text argues that the purpose of architecture is to eliminate the daily battle of willpower. Repeatable\nrituals and flexible frameworks hold you up when internal drive fades, letting creativity and focus thrive.\nInstead of relying on emotional spikes, a deliberate system becomes the scaffolding that carries you through\nfriction and sustains consistency.\n",
+    "topics": [
+      "system",
+      "structure",
+      "focus"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:50",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:55",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/key-concepts.md:19"
+    ],
+    "actions": [
+      "Identify one habit that currently depends on motivation and design a supporting routine to automate it.",
+      "Review which parts of your workflow collapse when motivation drops and add guardrails."
+    ],
+    "related_ids": [
+      "practice-04-micro-system",
+      "quote-07-system-battle-willpower"
+    ],
+    "metadata": {
+      "token_estimate": 125,
+      "reading_time_seconds": 45
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-04-systems-beat-willpower.yaml"
+  },
+  {
+    "id": "idea-05-structure-not-control",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Structure Over Control",
+    "one_liner": "Abundance trades micromanagement for intentional frameworks that free energy.",
+    "description": "Scarcity tries to hold everything manually, exhausting the builder. Abundance focuses on designing\nstructures that make desired behaviors effortless. The chapter contrasts clutching for control with\narchitecting smarter pathways that protect time, energy, and focus.\n",
+    "topics": [
+      "architecture",
+      "structure",
+      "energy"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:57",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:60"
+    ],
+    "actions": [
+      "Replace one micromanaged process with a lightweight framework or template.",
+      "Note areas where control drains energy and outline structural fixes."
+    ],
+    "related_ids": [
+      "practice-03-first-project"
+    ],
+    "metadata": {
+      "token_estimate": 110,
+      "reading_time_seconds": 40
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-05-structure-not-control.yaml"
+  },
+  {
+    "id": "idea-06-garden-ecosystem",
+    "chapter": "01",
+    "kind": "metaphor",
+    "title": "Garden Ecosystem Design",
+    "one_liner": "Like a garden, your life flourishes when the environment supports the seeds you plant.",
+    "description": "The author asks readers to see life as an ecosystem. Intentions, values, and ideas are seeds that only grow\nwhen the surrounding environment\u2014time, energy, physical space\u2014is designed to nourish them. System builders\nfocus on shaping the soil, sunlight, and watering schedule so growth becomes natural rather than forced.\n",
+    "topics": [
+      "environment",
+      "architecture",
+      "abundance"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:64",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/key-concepts.md:52"
+    ],
+    "actions": [
+      "Map the \"soil,\" \"sunlight,\" and \"water\" equivalents for a single goal (environment, time, energy).",
+      "Adjust one environmental factor to better support the intention you are cultivating."
+    ],
+    "related_ids": [
+      "practice-03-first-project"
+    ],
+    "metadata": {
+      "token_estimate": 125,
+      "reading_time_seconds": 45
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-06-garden-ecosystem.yaml"
+  },
+  {
+    "id": "idea-07-small-hinges",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Small Hinges Swing Big Doors",
+    "one_liner": "Tiny architectural upgrades compound into disproportionate gains.",
+    "description": "Systems scale by stacking modest but consistent improvements. One restructured routine, environment tweak,\nor boundary can unlock cascading benefits. Rather than overhaul everything, system builders iterate on small\nhinges that gradually swing bigger results.\n",
+    "topics": [
+      "scale",
+      "structure",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:77",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:84",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:83"
+    ],
+    "actions": [
+      "Choose one small routine to redesign and document downstream effects over two weeks.",
+      "Create a list of \"hinge\" opportunities where minor changes could free significant capacity."
+    ],
+    "related_ids": [
+      "practice-06-monthly-review"
+    ],
+    "metadata": {
+      "token_estimate": 110,
+      "reading_time_seconds": 40
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-07-small-hinges.yaml"
+  },
+  {
+    "id": "idea-08-micro-systems-stack",
+    "chapter": "01",
+    "kind": "framework",
+    "title": "Micro-Systems Stack Identity",
+    "one_liner": "Consistently executed micro-systems transform you from reactive to intentional.",
+    "description": "The chapter advocates starting with one corner of life and building a micro-system that works every day.\nAs these small systems accumulate, they reshape identity\u2014you become someone who designs, not someone who reacts.\nConsistency and stacking replace complexity and spurts of effort.\n",
+    "topics": [
+      "routine",
+      "habit",
+      "identity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:87",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:95",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:98"
+    ],
+    "actions": [
+      "Define the smallest daily system you can execute reliably for the next 14 days.",
+      "After proving consistency, document how that system shifts your self-perception before adding the next layer."
+    ],
+    "related_ids": [
+      "practice-04-micro-system"
+    ],
+    "metadata": {
+      "token_estimate": 120,
+      "reading_time_seconds": 45
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-08-micro-systems-stack.yaml"
+  },
+  {
+    "id": "idea-09-build-on-purpose",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Build on Purpose, Not by Accident",
+    "one_liner": "Choose to be the architect of your life rather than a firefighter reacting to chaos.",
+    "description": "The chapter closes with a direct choice: keep reacting to fires or build systems that prevent them. Intentional\narchitecture makes abundant futures inevitable by aligning structure with dreams. Designing with clarity and\ncourage ensures the architecture you build today can carry tomorrow's ambitions.\n",
+    "topics": [
+      "alignment",
+      "architecture",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:99",
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:103"
+    ],
+    "actions": [
+      "Write a commitment statement declaring the future you are architecting and the system you will build next.",
+      "Identify one fire you regularly fight and design a preventative system to remove it."
+    ],
+    "related_ids": [
+      "practice-06-monthly-review"
+    ],
+    "metadata": {
+      "token_estimate": 110,
+      "reading_time_seconds": 40
+    },
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/01-architecture/ideas/idea-09-build-on-purpose.yaml"
+  },
+  {
+    "id": "idea-10-but-over-time-the-environment",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "But Over Time The Environment",
+    "one_liner": "But over time, the environment shapes your habits, your energy levels, your focus, and even your identity.",
+    "description": "But over time, the environment shapes your habits, your energy levels, your focus, and even your identity.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-but-over-time-the-environment.yaml"
+  },
+  {
+    "id": "idea-10-designing-a-supportive-environment-doesnt",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Designing A Supportive Environment Doesnt",
+    "one_liner": "Designing a supportive environment doesn't require money.",
+    "description": "Designing a supportive environment doesn't require money.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-designing-a-supportive-environment-doesnt.yaml"
+  },
+  {
+    "id": "idea-10-if-your-home-communicates-rest",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "If Your Home Communicates Rest",
+    "one_liner": "If your home communicates rest and clarity, then that becomes your default energy.",
+    "description": "If your home communicates rest and clarity, then that becomes your default energy.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-if-your-home-communicates-rest.yaml"
+  },
+  {
+    "id": "idea-10-if-your-screen-is-filled",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "If Your Screen Is Filled",
+    "one_liner": "If your screen is filled with alerts, badges, and open loops, your nervous system is in a constant state of micro stress.",
+    "description": "If your screen is filled with alerts, badges, and open loops, your nervous system is in a constant state of micro stress.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-if-your-screen-is-filled.yaml"
+  },
+  {
+    "id": "idea-10-is-it-designed-for-who",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Is It Designed For Who",
+    "one_liner": "Is it designed for who I've been or who I'm becoming?",
+    "description": "Is it designed for who I've been or who I'm becoming?",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-is-it-designed-for-who.yaml"
+  },
+  {
+    "id": "idea-10-its-either-pulling-you-into",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Its Either Pulling You Into",
+    "one_liner": "It's either pulling you into alignment or pulling you into distraction.",
+    "description": "It's either pulling you into alignment or pulling you into distraction.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-its-either-pulling-you-into.yaml"
+  },
+  {
+    "id": "idea-10-its-either-supporting-your-system",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Its Either Supporting Your System",
+    "one_liner": "It's either supporting your system or sabotaging it.",
+    "description": "It's either supporting your system or sabotaging it.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-its-either-supporting-your-system.yaml"
+  },
+  {
+    "id": "idea-10-the-devices-you-use-daily",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "The Devices You Use Daily",
+    "one_liner": "The devices you use daily have the power to amplify your focus or destroy it. your phone, your laptop, your notifications, your browser tabs, they form a kind of digital atmosphere that follows you wherever you go.",
+    "description": "The devices you use daily have the power to amplify your focus or destroy it. your phone, your laptop, your notifications, your browser tabs, they form a kind of digital atmosphere that follows you wherever you go.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-the-devices-you-use-daily.yaml"
+  },
+  {
+    "id": "idea-10-this-is-why-the-most",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "This Is Why The Most",
+    "one_liner": "This is why the most intentional people design their environment with the same level of care they use to design their calendar or their goals.",
+    "description": "This is why the most intentional people design their environment with the same level of care they use to design their calendar or their goals.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-this-is-why-the-most.yaml"
+  },
+  {
+    "id": "idea-10-to-build-systems-that-produce",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "To Build Systems That Produce",
+    "one_liner": "To build systems that produce consistent output, you must treat your digital space with the same intentionality as your physical one.",
+    "description": "To build systems that produce consistent output, you must treat your digital space with the same intentionality as your physical one.",
+    "topics": [
+      "system",
+      "design",
+      "environment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/10-your-environment-is-part-of-the-system/ideas/idea-10-to-build-systems-that-produce.yaml"
+  },
+  {
+    "id": "idea-12-and-the-systems-that-endure",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "And The Systems That Endure",
+    "one_liner": "And the systems that endure, the ones that actually support abundance, are almost always the ones built patiently, brick by brick, day by day.",
+    "description": "And the systems that endure, the ones that actually support abundance, are almost always the ones built patiently, brick by brick, day by day.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-and-the-systems-that-endure.yaml"
+  },
+  {
+    "id": "idea-12-every-small-effort-becomes-a",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "Every Small Effort Becomes A",
+    "one_liner": "Every small effort becomes a contribution to the larger architecture.",
+    "description": "Every small effort becomes a contribution to the larger architecture.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-every-small-effort-becomes-a.yaml"
+  },
+  {
+    "id": "idea-12-habits-formed-identity-shaped-priorities",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "Habits Formed Identity Shaped Priorities",
+    "one_liner": "Habits formed, identity shaped, priorities clarified, distractions removed.",
+    "description": "Habits formed, identity shaped, priorities clarified, distractions removed.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-habits-formed-identity-shaped-priorities.yaml"
+  },
+  {
+    "id": "idea-12-how-will-this-habit-support",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "How Will This Habit Support",
+    "one_liner": "How will this habit support the next phase of growth?",
+    "description": "How will this habit support the next phase of growth?",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-how-will-this-habit-support.yaml"
+  },
+  {
+    "id": "idea-12-it-gives-you-permission-to",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "It Gives You Permission To",
+    "one_liner": "It gives you permission to grow in a way that honors your energy and respects your season of life.",
+    "description": "It gives you permission to grow in a way that honors your energy and respects your season of life.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-it-gives-you-permission-to.yaml"
+  },
+  {
+    "id": "idea-12-it-shifts-the-focus-from",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "It Shifts The Focus From",
+    "one_liner": "It shifts the focus from intensity to consistency.",
+    "description": "It shifts the focus from intensity to consistency.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-it-shifts-the-focus-from.yaml"
+  },
+  {
+    "id": "idea-12-what-is-this-layer-adding",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "What Is This Layer Adding",
+    "one_liner": "What is this layer adding to the system I'm building?",
+    "description": "What is this layer adding to the system I'm building?",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-what-is-this-layer-adding.yaml"
+  },
+  {
+    "id": "idea-12-what-looks-like-a-breakthrough",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "What Looks Like A Breakthrough",
+    "one_liner": "What looks like a breakthrough to the outside world is often the result of deeply layered structure beneath the surface.",
+    "description": "What looks like a breakthrough to the outside world is often the result of deeply layered structure beneath the surface.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-what-looks-like-a-breakthrough.yaml"
+  },
+  {
+    "id": "idea-12-when-you-think-in-layers",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "When You Think In Layers",
+    "one_liner": "When you think in layers, you understand that greatness is built in quiet, disciplined steps, one page written, one habit kept, one hour of focus.",
+    "description": "When you think in layers, you understand that greatness is built in quiet, disciplined steps, one page written, one habit kept, one hour of focus.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-when-you-think-in-layers.yaml"
+  },
+  {
+    "id": "idea-12-you-begin-to-see-your",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "You Begin To See Your",
+    "one_liner": "You begin to see your time as an investment, your routines as infrastructure, and your habits as scaffolding.",
+    "description": "You begin to see your time as an investment, your routines as infrastructure, and your habits as scaffolding.",
+    "topics": [
+      "habit",
+      "system",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/12/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/12-think-in-layers-not-leaps/ideas/idea-12-you-begin-to-see-your.yaml"
+  },
+  {
+    "id": "idea-02-a-person-who-works-with",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "A Person Who Works With",
+    "one_liner": "A person who works with rhythm and structure over a year will outperform someone who hustles in bursts every time.",
+    "description": "A person who works with rhythm and structure over a year will outperform someone who hustles in bursts every time.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-a-person-who-works-with.yaml"
+  },
+  {
+    "id": "idea-02-because-abundance-is-a-long",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Because Abundance Is A Long",
+    "one_liner": "Because abundance is a long game, and long games are one with systems, not sprints.",
+    "description": "Because abundance is a long game, and long games are one with systems, not sprints.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-because-abundance-is-a-long.yaml"
+  },
+  {
+    "id": "idea-02-it-relies-on-emotional-spikes",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "It Relies On Emotional Spikes",
+    "one_liner": "It relies on emotional spikes, adrenaline, and caffeine to cover for the absence of sustainable systems. Rhythm, on the other hand, is clean fuel.",
+    "description": "It relies on emotional spikes, adrenaline, and caffeine to cover for the absence of sustainable systems. Rhythm, on the other hand, is clean fuel.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-it-relies-on-emotional-spikes.yaml"
+  },
+  {
+    "id": "idea-02-it-respects-the-cycles-of",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "It Respects The Cycles Of",
+    "one_liner": "It respects the cycles of energy, creativity, and recovery.",
+    "description": "It respects the cycles of energy, creativity, and recovery.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-it-respects-the-cycles-of.yaml"
+  },
+  {
+    "id": "idea-02-people-resist-rhythm-because-it",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "People Resist Rhythm Because It",
+    "one_liner": "People resist rhythm because it feels slower at first.",
+    "description": "People resist rhythm because it feels slower at first.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-people-resist-rhythm-because-it.yaml"
+  },
+  {
+    "id": "idea-02-rhythm-asks-how-do-i",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Rhythm Asks How Do I",
+    "one_liner": "Rhythm asks, \"How do I build something that works even when I'm not at my best?\" Hustle never asks that question.",
+    "description": "Rhythm asks, \"How do I build something that works even when I'm not at my best?\" Hustle never asks that question.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-rhythm-asks-how-do-i.yaml"
+  },
+  {
+    "id": "idea-02-rhythm-is-what-converts-energy",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Rhythm Is What Converts Energy",
+    "one_liner": "Rhythm is what converts energy into results without collapse.",
+    "description": "Rhythm is what converts energy into results without collapse.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-rhythm-is-what-converts-energy.yaml"
+  },
+  {
+    "id": "idea-02-the-abundance-mindset-doesnt-reject",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "The Abundance Mindset Doesnt Reject",
+    "one_liner": "The abundance mindset doesn't reject hard work, but it redefes its context.",
+    "description": "The abundance mindset doesn't reject hard work, but it redefes its context.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-the-abundance-mindset-doesnt-reject.yaml"
+  },
+  {
+    "id": "idea-02-the-person-who-never-stops",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "The Person Who Never Stops",
+    "one_liner": "The person who never stops, who sacrifices sleep, relationships, and sanity in pursuit of their goals.",
+    "description": "The person who never stops, who sacrifices sleep, relationships, and sanity in pursuit of their goals.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-the-person-who-never-stops.yaml"
+  },
+  {
+    "id": "idea-02-they-operate-with-a-structured",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "They Operate With A Structured",
+    "one_liner": "They operate with a structured flow that maximizes their performance across time, not just in a moment.",
+    "description": "They operate with a structured flow that maximizes their performance across time, not just in a moment.",
+    "topics": [
+      "rhythm",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/02-the-myth-of-hustle-and-the-power-of-rhythm/ideas/idea-02-they-operate-with-a-structured.yaml"
+  },
+  {
+    "id": "idea-04-but-the-truth-is-that",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "But The Truth Is That",
+    "one_liner": "But the truth is that no system can consistently outperform the identity it's built upon.",
+    "description": "But the truth is that no system can consistently outperform the identity it's built upon.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-but-the-truth-is-that.yaml"
+  },
+  {
+    "id": "idea-04-every-action-you-take-every",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "Every Action You Take Every",
+    "one_liner": "Every action you take, every habit you repeat, every goal you pursue is a reflection of one thing. your identity.",
+    "description": "Every action you take, every habit you repeat, every goal you pursue is a reflection of one thing. your identity.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-every-action-you-take-every.yaml"
+  },
+  {
+    "id": "idea-04-every-time-you-show-up",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "Every Time You Show Up",
+    "one_liner": "Every time you show up with discipline, every time you speak from truth, every time you honor a commitment, you reinforce the identity of someone who builds systems that work.",
+    "description": "Every time you show up with discipline, every time you speak from truth, every time you honor a commitment, you reinforce the identity of someone who builds systems that work.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-every-time-you-show-up.yaml"
+  },
+  {
+    "id": "idea-04-if-your-internal-narrative-is",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "If Your Internal Narrative Is",
+    "one_liner": "If your internal narrative is fragmented, self-sabotaging, or borrowed from someone else's expectations, then even the most well-designed external system will fail to produce sustainable growth.",
+    "description": "If your internal narrative is fragmented, self-sabotaging, or borrowed from someone else's expectations, then even the most well-designed external system will fail to produce sustainable growth.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-if-your-internal-narrative-is.yaml"
+  },
+  {
+    "id": "idea-04-it-is-the-operating-system",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "It Is The Operating System",
+    "one_liner": "It is the operating system that determines what kind of future you are able to sustain.",
+    "description": "It is the operating system that determines what kind of future you are able to sustain.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-it-is-the-operating-system.yaml"
+  },
+  {
+    "id": "idea-04-the-more-you-act-in",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "The More You Act In",
+    "one_liner": "The more you act in alignment with the version of yourself you are becoming, the more that version becomes real.",
+    "description": "The more you act in alignment with the version of yourself you are becoming, the more that version becomes real.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-the-more-you-act-in.yaml"
+  },
+  {
+    "id": "idea-04-the-story-you-believe-about",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "The Story You Believe About",
+    "one_liner": "The story you believe about yourself becomes the foundation of the systems you build, the behaviors you adopt, and the future you expect.",
+    "description": "The story you believe about yourself becomes the foundation of the systems you build, the behaviors you adopt, and the future you expect.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-the-story-you-believe-about.yaml"
+  },
+  {
+    "id": "idea-04-to-build-a-system-that",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "To Build A System That",
+    "one_liner": "To build a system that leads to the future you want, you must first become the kind of person who can live inside that future.",
+    "description": "To build a system that leads to the future you want, you must first become the kind of person who can live inside that future.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-to-build-a-system-that.yaml"
+  },
+  {
+    "id": "idea-04-we-chase-new-routines-new",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "We Chase New Routines New",
+    "one_liner": "We chase new routines, new tools, new strategies, hoping they'll finally create the breakthrough.",
+    "description": "We chase new routines, new tools, new strategies, hoping they'll finally create the breakthrough.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-we-chase-new-routines-new.yaml"
+  },
+  {
+    "id": "idea-04-we-often-try-to-build",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "We Often Try To Build",
+    "one_liner": "We often try to build our lives by focusing on external results.",
+    "description": "We often try to build our lives by focusing on external results.",
+    "topics": [
+      "system",
+      "identity",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/04-identity-is-the-first-system/ideas/idea-04-we-often-try-to-build.yaml"
+  },
+  {
+    "id": "idea-14-but-feedback-when-viewed-through",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "But Feedback When Viewed Through",
+    "one_liner": "But feedback, when viewed through the lens of systems thinking, is never about your identity.",
+    "description": "But feedback, when viewed through the lens of systems thinking, is never about your identity.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-but-feedback-when-viewed-through.yaml"
+  },
+  {
+    "id": "idea-14-every-system-no-matter-how",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Every System No Matter How",
+    "one_liner": "Every system, no matter how carefully designed, needs feedback.",
+    "description": "Every system, no matter how carefully designed, needs feedback.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-every-system-no-matter-how.yaml"
+  },
+  {
+    "id": "idea-14-its-how-you-feel-what",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Its How You Feel What",
+    "one_liner": "It's how you feel, what you observe, the energy you bring, and the resistance you face.",
+    "description": "It's how you feel, what you observe, the energy you bring, and the resistance you face.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-its-how-you-feel-what.yaml"
+  },
+  {
+    "id": "idea-14-its-noticing-that-a-routine",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Its Noticing That A Routine",
+    "one_liner": "It's noticing that a routine is draining instead of energizing.",
+    "description": "It's noticing that a routine is draining instead of energizing.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-its-noticing-that-a-routine.yaml"
+  },
+  {
+    "id": "idea-14-its-realizing-that-a-habit",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Its Realizing That A Habit",
+    "one_liner": "It's realizing that a habit you once loved no longer fits the season you're in.",
+    "description": "It's realizing that a habit you once loved no longer fits the season you're in.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-its-realizing-that-a-habit.yaml"
+  },
+  {
+    "id": "idea-14-one-of-the-most-effective",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "One Of The Most Effective",
+    "one_liner": "One of the most effective ways to implement feedback loops in your system is through regular review.",
+    "description": "One of the most effective ways to implement feedback loops in your system is through regular review.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-one-of-the-most-effective.yaml"
+  },
+  {
+    "id": "idea-14-the-more-honest-and-consistent",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "The More Honest And Consistent",
+    "one_liner": "The more honest and consistent the feedback, the stronger and more flexible your system becomes.",
+    "description": "The more honest and consistent the feedback, the stronger and more flexible your system becomes.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-the-more-honest-and-consistent.yaml"
+  },
+  {
+    "id": "idea-14-there-are-two-types-of",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "There Are Two Types Of",
+    "one_liner": "There are two types of feedback every system needs.",
+    "description": "There are two types of feedback every system needs.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-there-are-two-types-of.yaml"
+  },
+  {
+    "id": "idea-14-this-cycle-repeated-continuously-allows",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "This Cycle Repeated Continuously Allows",
+    "one_liner": "This cycle repeated continuously allows your system to evolve in real time.",
+    "description": "This cycle repeated continuously allows your system to evolve in real time.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-this-cycle-repeated-continuously-allows.yaml"
+  },
+  {
+    "id": "idea-14-without-a-system-for-measuring",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Without A System For Measuring",
+    "one_liner": "Without a system for measuring and adjusting, even the most thoughtful plans become rigid.",
+    "description": "Without a system for measuring and adjusting, even the most thoughtful plans become rigid.",
+    "topics": [
+      "system",
+      "feedback",
+      "design"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/ai-structured/build-the-system/chapters/14-feedback-loops-and-course-correction/ideas/idea-14-without-a-system-for-measuring.yaml"
+  }
+]

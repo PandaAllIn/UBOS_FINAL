@@ -1,0 +1,12 @@
+id: idea-14-every-system-no-matter-how
+chapter: '14'
+kind: principle
+title: Every System No Matter How
+one_liner: Every system, no matter how carefully designed, needs feedback.
+description: Every system, no matter how carefully designed, needs feedback.
+topics:
+- system
+- feedback
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:3

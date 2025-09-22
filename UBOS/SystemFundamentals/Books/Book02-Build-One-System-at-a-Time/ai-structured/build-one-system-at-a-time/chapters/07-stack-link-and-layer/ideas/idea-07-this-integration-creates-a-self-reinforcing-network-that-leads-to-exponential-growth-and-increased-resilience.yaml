@@ -1,0 +1,15 @@
+id: idea-07-this-integration-creates-a-self-reinforcing-network-that-leads-to-exponential-growth-and-increased-resilience
+chapter: '07'
+kind: principle
+title: This Integration Creates A Self-Reinforcing Network That Leads To Exponential
+  Growth And Increased Resilience
+one_liner: This integration creates a self-reinforcing network that leads to exponential
+  growth and increased resilience.
+description: This integration creates a self-reinforcing network that leads to exponential
+  growth and increased resilience.
+topics:
+- integration
+- rhythm
+- system
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3

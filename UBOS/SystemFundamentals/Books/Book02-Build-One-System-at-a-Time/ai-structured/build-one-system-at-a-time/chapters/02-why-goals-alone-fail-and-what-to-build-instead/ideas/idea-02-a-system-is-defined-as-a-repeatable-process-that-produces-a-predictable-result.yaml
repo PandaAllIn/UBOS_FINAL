@@ -1,0 +1,15 @@
+id: idea-02-a-system-is-defined-as-a-repeatable-process-that-produces-a-predictable-result
+chapter: '02'
+kind: principle
+title: A System Is Defined As A Repeatable Process That Produces A Predictable Result
+one_liner: A  system is defined as a repeatable process that produces a predictable
+  result, operating regardless of daily feelings.
+description: A  system is defined as a repeatable process that produces a predictable
+  result, operating regardless of daily feelings. Systems shift the focus from the
+  outcome to the process that creates the outcome.
+topics:
+- system
+- structure
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3

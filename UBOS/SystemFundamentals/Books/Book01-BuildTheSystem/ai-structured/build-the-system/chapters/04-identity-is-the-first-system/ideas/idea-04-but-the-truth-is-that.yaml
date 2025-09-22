@@ -1,0 +1,14 @@
+id: idea-04-but-the-truth-is-that
+chapter: '04'
+kind: principle
+title: But The Truth Is That
+one_liner: But the truth is that no system can consistently outperform the identity
+  it's built upon.
+description: But the truth is that no system can consistently outperform the identity
+  it's built upon.
+topics:
+- system
+- identity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:9

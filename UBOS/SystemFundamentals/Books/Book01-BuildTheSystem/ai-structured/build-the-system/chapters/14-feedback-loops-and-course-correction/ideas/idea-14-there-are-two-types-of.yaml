@@ -1,0 +1,12 @@
+id: idea-14-there-are-two-types-of
+chapter: '14'
+kind: principle
+title: There Are Two Types Of
+one_liner: There are two types of feedback every system needs.
+description: There are two types of feedback every system needs.
+topics:
+- system
+- feedback
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:8

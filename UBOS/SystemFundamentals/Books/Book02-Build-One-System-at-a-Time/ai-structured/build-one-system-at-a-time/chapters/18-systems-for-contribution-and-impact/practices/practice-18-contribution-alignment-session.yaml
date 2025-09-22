@@ -1,0 +1,18 @@
+id: practice-18-contribution-alignment-session
+chapter: '18'
+kind: checklist
+title: Contribution Alignment Session
+prompt: Ensure your systems deliver value beyond personal gain.
+steps:
+- Name the communities or audiences you intend to serve consistently.
+- Match existing systems with the contribution each audience receives.
+- Identify gaps where service is inconsistent or transactional.
+- Design a contribution loop that delivers value and captures learning from recipients.
+expected_outcome: Aligned systems that create meaningful impact while reinforcing
+  personal growth.
+topics:
+- contribution
+- network
+- alignment
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/18/exercises.md:3

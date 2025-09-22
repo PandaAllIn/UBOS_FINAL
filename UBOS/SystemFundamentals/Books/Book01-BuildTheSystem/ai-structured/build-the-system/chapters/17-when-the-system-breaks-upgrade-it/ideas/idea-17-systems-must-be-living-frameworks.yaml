@@ -1,0 +1,12 @@
+id: idea-17-systems-must-be-living-frameworks
+chapter: '17'
+kind: principle
+title: Systems Must Be Living Frameworks
+one_liner: Systems must be living frameworks, not monuments to the past.
+description: Systems must be living frameworks, not monuments to the past.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:11

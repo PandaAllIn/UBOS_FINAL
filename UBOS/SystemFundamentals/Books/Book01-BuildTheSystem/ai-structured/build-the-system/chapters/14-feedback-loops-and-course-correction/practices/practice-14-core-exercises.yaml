@@ -1,0 +1,21 @@
+id: practice-14-core-exercises
+chapter: '14'
+kind: checklist
+title: Chapter Exercises
+prompt: Work through the reflection prompts for this chapter to evaluate your architecture.
+steps:
+- What worked well this week?
+- What didn't?
+- Where did I lose focus or momentum?
+- What can I adjust for next week?
+- Map your current daily/weekly routines as a system diagram.
+- Identify 3 system flaws and propose one redesign for each.
+- Define one ritual to protect focus and one to restore energy.
+expected_outcome: A clarified view of where the system supports or obstructs your
+  goals.
+topics:
+- system
+- feedback
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/exercises.md:1

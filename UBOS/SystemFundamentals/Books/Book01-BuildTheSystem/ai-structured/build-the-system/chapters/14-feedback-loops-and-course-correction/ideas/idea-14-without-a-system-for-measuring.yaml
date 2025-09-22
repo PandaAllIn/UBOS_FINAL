@@ -1,0 +1,14 @@
+id: idea-14-without-a-system-for-measuring
+chapter: '14'
+kind: principle
+title: Without A System For Measuring
+one_liner: Without a system for measuring and adjusting, even the most thoughtful
+  plans become rigid.
+description: Without a system for measuring and adjusting, even the most thoughtful
+  plans become rigid.
+topics:
+- system
+- feedback
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/14/key-ideas.md:4

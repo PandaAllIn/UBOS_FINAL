@@ -1,0 +1,15 @@
+id: idea-08-regular-check-ins
+chapter: 08
+kind: principle
+title: Regular Check-Ins
+one_liner: Regular check-ins, tracking, and seeking external perspectives are key
+  methods.
+description: Regular check-ins, tracking, and seeking external perspectives are key
+  methods. Feedback should guide improvements that make the system easier and more
+  reliable, ensuring it is adaptable and aligned with needs.
+topics:
+- feedback
+- adaptability
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3

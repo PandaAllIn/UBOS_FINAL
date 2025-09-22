@@ -1,0 +1,22 @@
+id: '05'
+slug: chapter-05-designing-for-effortless-repeatability
+title: Designing for Effortless Repeatability
+summary: "A system\u2019s success depends on its ability to be repeated consistently,\
+  \ making the desired action easier to do than to avoid [36:25, 36:44]. This is achieved\
+  \ through simplicity (using the smallest working version); automation (removing\
+  \ the need for daily willpower by scheduling or prepping the environment); and triggers\
+  \ (cues that turn the system into a reflex). Other elements include reducing variability\
+  \ so the system functions under a wide range of conditions, and building in a reduced\
+  \ version to use on difficult days to prevent breaking the chain entirely."
+objectives:
+- Engineer routines for effortless repeatability instead of heroic effort.
+- Use triggers, automation, and friction removal to stabilize execution.
+- Build resilient systems that work on hard days as well as ideal ones.
+dependencies: []
+topics:
+- automation
+- resilience
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/chapter.md:3
+assets: {}

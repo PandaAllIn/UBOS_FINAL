@@ -1,0 +1,17 @@
+id: quote-07-system-battle-willpower
+chapter: "01"
+kind: quote
+speaker: Kelvin W. Nathan
+text: |
+  "You don't have to win the battle of willpower if the system is built right."
+context: |
+  Summarizes why structure is more reliable than motivation for long-term growth.
+topics:
+  - system
+  - habit
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/quotes.md:10
+related_ids:
+  - idea-04-systems-beat-willpower
+metadata:
+  token_estimate: 30

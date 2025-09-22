@@ -1,0 +1,15 @@
+id: idea-08-since-systems-are-never-truly-finished
+chapter: 08
+kind: principle
+title: Since Systems Are Never Truly Finished
+one_liner: Since systems are never truly finished, feedback loops allow systems to
+  evolve and self-improve over time [58:11, 58:50].
+description: "Since systems are never truly finished, feedback loops allow systems\
+  \ to evolve and self-improve over time [58:11, 58:50]. Feedback is simply information\u2014\
+  a tool for growth [59:02]."
+topics:
+- feedback
+- adaptability
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3

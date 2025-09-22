@@ -1,0 +1,12 @@
+id: idea-13-scaling-anything-before-its-been
+chapter: '13'
+kind: principle
+title: Scaling Anything Before Its Been
+one_liner: Scaling anything before it's been systemized is a recipe for failure.
+description: Scaling anything before it's been systemized is a recipe for failure.
+topics:
+- system
+- structure
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:3

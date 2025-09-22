@@ -1,0 +1,18 @@
+id: practice-17-legacy-stewardship-plan
+chapter: '17'
+kind: checklist
+title: Legacy Stewardship Plan
+prompt: Extend system thinking beyond your personal involvement.
+steps:
+- Define the values and outcomes your legacy system must protect.
+- List stakeholders who will inherit or benefit from the system.
+- Document governance rhythms (reviews, decision rights, escalation paths).
+- Create onboarding materials that teach successors how to maintain and evolve the
+  system.
+expected_outcome: A stewardship framework that keeps the system thriving across generations.
+topics:
+- legacy
+- contribution
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/17/exercises.md:3

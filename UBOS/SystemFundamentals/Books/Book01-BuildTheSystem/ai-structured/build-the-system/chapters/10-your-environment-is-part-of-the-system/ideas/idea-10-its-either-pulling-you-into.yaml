@@ -1,0 +1,12 @@
+id: idea-10-its-either-pulling-you-into
+chapter: '10'
+kind: principle
+title: Its Either Pulling You Into
+one_liner: It's either pulling you into alignment or pulling you into distraction.
+description: It's either pulling you into alignment or pulling you into distraction.
+topics:
+- system
+- design
+- environment
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/10/key-ideas.md:4

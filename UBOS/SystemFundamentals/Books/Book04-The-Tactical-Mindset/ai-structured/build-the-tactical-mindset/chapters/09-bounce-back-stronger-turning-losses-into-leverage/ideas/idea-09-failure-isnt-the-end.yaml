@@ -1,0 +1,13 @@
+id: idea-09-failure-isnt-the-end
+chapter: 09
+kind: principle
+title: Failure Isn'T The End
+one_liner: Failure isn't the end, it's the intel.
+description: Failure isn't the end, it's the intel. If you're playing life like a
+  tactician, failure isn't optional, it's inevitable.
+topics:
+- recovery
+- resilience
+- leverage
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/09/chapter.md:3

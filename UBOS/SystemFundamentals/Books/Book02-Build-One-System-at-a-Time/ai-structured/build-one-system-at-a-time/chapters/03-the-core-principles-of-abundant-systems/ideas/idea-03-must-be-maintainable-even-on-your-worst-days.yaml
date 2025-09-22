@@ -1,0 +1,14 @@
+id: idea-03-must-be-maintainable-even-on-your-worst-days
+chapter: '03'
+kind: principle
+title: Must Be Maintainable Even On Your Worst Days
+one_liner: Systems must be maintainable even on your worst days, integrating smoothly
+  into life; starting small is a sign of wisdom.
+description: Systems must be maintainable even on your worst days, integrating smoothly
+  into life; starting small is a sign of wisdom.
+topics:
+- clarity
+- leverage
+- feedback
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:12

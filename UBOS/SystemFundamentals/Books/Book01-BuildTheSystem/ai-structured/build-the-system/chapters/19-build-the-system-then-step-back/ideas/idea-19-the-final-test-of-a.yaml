@@ -1,0 +1,12 @@
+id: idea-19-the-final-test-of-a
+chapter: '19'
+kind: principle
+title: The Final Test Of A
+one_liner: The final test of a system is whether it can run without constant supervision.
+description: The final test of a system is whether it can run without constant supervision.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:3

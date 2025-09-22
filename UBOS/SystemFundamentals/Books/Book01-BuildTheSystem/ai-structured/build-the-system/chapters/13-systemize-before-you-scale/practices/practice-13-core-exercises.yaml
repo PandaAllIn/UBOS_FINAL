@@ -1,0 +1,20 @@
+id: practice-13-core-exercises
+chapter: '13'
+kind: checklist
+title: Chapter Exercises
+prompt: Work through the reflection prompts for this chapter to evaluate your architecture.
+steps:
+- What tasks repeat?
+- What decisions are you making over and over?
+- Where do delays, confusion, or overwhelm typically show up?
+- Map your current daily/weekly routines as a system diagram.
+- Identify 3 system flaws and propose one redesign for each.
+- Define one ritual to protect focus and one to restore energy.
+expected_outcome: A clarified view of where the system supports or obstructs your
+  goals.
+topics:
+- system
+- structure
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/exercises.md:1

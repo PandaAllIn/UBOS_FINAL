@@ -1,0 +1,19 @@
+# Template for chapter.yaml
+id: "01"
+slug: chapter-1-architecture
+title: Abundance Begins with Architecture
+summary: |
+  Two to three sentence machine-consumable overview.
+objectives:
+  - Describe the shift from outcome chasing to system design.
+  - Explain why intentional architecture precedes abundance.
+dependencies: []
+topics:
+  - architecture
+  - system
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/key-concepts.md

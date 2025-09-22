@@ -1,0 +1,24 @@
+id: practice-02-core-exercises
+chapter: '02'
+kind: checklist
+title: Chapter Exercises
+prompt: Work through the reflection prompts for this chapter to evaluate your architecture.
+steps:
+- So, how do you begin to shift from hustle to rhythm?
+- Are you sacrificing long-term clarity for short-term intensity?
+- Are you constantly tired but proud of it?
+- Are you checking off boxes without feeling a deeper sense of progress?
+- Is it built around your natural energy patterns or someone else's expectations?
+- Are you working when you're sharpest?
+- Are you resting when you're depleted?
+- Map your current daily/weekly routines as a system diagram.
+- Identify 3 system flaws and propose one redesign for each.
+- Define one ritual to protect focus and one to restore energy.
+expected_outcome: A clarified view of where the system supports or obstructs your
+  goals.
+topics:
+- rhythm
+- abundance
+- system
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/02/exercises.md:1

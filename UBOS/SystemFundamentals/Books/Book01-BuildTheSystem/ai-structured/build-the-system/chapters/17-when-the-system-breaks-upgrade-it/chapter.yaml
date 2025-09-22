@@ -1,0 +1,23 @@
+id: '17'
+slug: chapter-17-when-the-system-breaks-upgrade-it
+title: When the System Breaks, Upgrade It
+summary: "Systems break down\u2014it's inevitable. The key is developing diagnostic\
+  \ skills to quickly identify problems and systematic repair methods to restore and\
+  \ strengthen functionality. Every breakdown is an opportunity to build more resilient\
+  \ systems."
+objectives:
+- System Breakdown Types
+- Gradual Decay
+- Overload Collapse
+dependencies: []
+topics:
+- system
+- design
+- structure
+- focus
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/chapter.md:1
+assets:
+  summary: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/17-chapter-17-when-system-breaks/chapter-summary.md
+  actionable_insights: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/17-chapter-17-when-system-breaks/actionable-insights.md
+  key_concepts: UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/17-chapter-17-when-system-breaks/key-concepts.md

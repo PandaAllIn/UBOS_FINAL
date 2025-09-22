@@ -1,0 +1,18 @@
+id: quote-03-design-ecosystems
+chapter: "01"
+kind: quote
+speaker: Kelvin W. Nathan
+text: |
+  "It comes to those who design ecosystems. An ecosystem where every part of your life is rooted in intentional design."
+context: |
+  Emphasizes building interconnected structures instead of chasing isolated results.
+topics:
+  - system
+  - design
+  - architecture
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/quotes.md:6
+related_ids:
+  - idea-06-garden-ecosystem
+metadata:
+  token_estimate: 40

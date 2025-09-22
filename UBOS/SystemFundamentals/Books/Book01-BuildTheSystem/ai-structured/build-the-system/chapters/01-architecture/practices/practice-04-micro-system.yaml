@@ -1,0 +1,26 @@
+id: practice-04-micro-system
+chapter: "01"
+kind: ritual
+title: Micro-System Design Sprint
+prompt: |
+  Define the What, When, Where, and Why of a single micro-system you can execute daily.
+steps:
+  - Specify the exact action and duration (What).
+  - Attach it to a trigger or time block (When).
+  - Identify the physical/digital context that supports it (Where).
+  - Tie the routine to the larger architectural vision (Why).
+  - Run the system for seven consecutive days and log friction points.
+expected_outcome: |
+  A proven micro-system ready to stack with future routines, reducing reliance on motivation.
+topics:
+  - routine
+  - habit
+  - alignment
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:101
+related_ids:
+  - idea-04-systems-beat-willpower
+  - idea-08-micro-systems-stack
+metadata:
+  difficulty: foundation
+  token_estimate: 125

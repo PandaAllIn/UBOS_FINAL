@@ -1,0 +1,22 @@
+id: '07'
+slug: chapter-07-stack-link-and-layer
+title: Stack, Link, and Layer
+summary: This chapter shows how to combine individual systems to multiply their results
+  [50:57, 51:17]. Stacking means the output of one system becomes the input for the
+  next (e.g., fitness boosting productivity). Linking creates direct connections where
+  one action automatically triggers the next (e.g., finishing a workout triggers journaling).
+  Layering means running multiple supportive systems in parallel for synergy (e.g.,
+  learning and networking systems). This integration creates a self-reinforcing network
+  that leads to exponential growth and increased resilience.
+objectives:
+- Link systems so energy and insight compound across domains.
+- Identify hinge habits that can be stacked for leverage.
+- Draft rhythm maps that keep linked systems synchronized.
+dependencies: []
+topics:
+- integration
+- rhythm
+- system
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3
+assets: {}

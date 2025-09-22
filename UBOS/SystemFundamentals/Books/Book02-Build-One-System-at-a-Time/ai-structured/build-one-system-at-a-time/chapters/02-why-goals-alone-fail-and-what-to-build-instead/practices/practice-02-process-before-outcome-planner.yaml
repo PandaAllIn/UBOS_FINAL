@@ -1,0 +1,18 @@
+id: practice-02-process-before-outcome-planner
+chapter: '02'
+kind: checklist
+title: Process Before Outcome Planner
+prompt: Transform a lingering goal into a dependable system.
+steps:
+- State the goal that has stalled or repeatedly reset.
+- Define the repeatable actions that would guarantee progress regardless of motivation.
+- Design checkpoints and triggers that keep the process running automatically.
+- Write a personal rule that prioritizes running the system over chasing the metric.
+expected_outcome: A documented system that makes the desired outcome a byproduct of
+  consistent execution.
+topics:
+- system
+- structure
+- clarity
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/exercises.md:3

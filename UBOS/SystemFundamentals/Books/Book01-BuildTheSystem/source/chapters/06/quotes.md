@@ -1,0 +1,3 @@
+# Quotes
+
+> And yet, most people treat time carelessly, reacting to it rather than designing it. It's because they've never been taught to architect time like the system it is. A well-designed time system doesn't start with a to-do list. Time design begins when you stop asking what do I have to do today and start asking what matters most today. From there you can reverse engineer the hours you have into meaningful containers of focused energy. They use their calendar as a design canvas. And when interruptions arise, they're handled by system, not panic. The shift from time management to time design requires awareness.

@@ -1,0 +1,17 @@
+id: practice-06-24-hour-response-protocol
+chapter: '06'
+kind: checklist
+title: 24-Hour Response Protocol
+prompt: Build a buffer between emotion and action.
+steps:
+- Document scenarios where you commit to waiting 24 hours before responding.
+- List reflection questions you will answer during the delay.
+- Identify a mentor or ally to consult before final decisions.
+- Review the result after the waiting period to refine the protocol.
+expected_outcome: A tested waiting ritual that prevents impulsive moves.
+topics:
+- patience
+- timing
+- response
+source_refs:
+- UBOS/SystemFundamentals/Books/Book04-The-Tactical-Mindset/source/chapters/06/exercises.md:3

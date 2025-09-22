@@ -1,0 +1,314 @@
+{
+  "title": "Build The System",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "Abundance Begins with Architecture",
+      "path": "docs/chapters/01/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/01/key-ideas.md",
+        "exercises": "docs/chapters/01/exercises.md",
+        "quotes": "docs/chapters/01/quotes.md"
+      },
+      "slug": "chapter-1"
+    },
+    {
+      "id": "02",
+      "title": "The Myth of Hustle and the Power of Rhythm",
+      "path": "docs/chapters/02/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/02/key-ideas.md",
+        "exercises": "docs/chapters/02/exercises.md",
+        "quotes": "docs/chapters/02/quotes.md"
+      },
+      "slug": "chapter-2"
+    },
+    {
+      "id": "03",
+      "title": "Define It So You Can Build It",
+      "path": "docs/chapters/03/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/03/key-ideas.md",
+        "exercises": "docs/chapters/03/exercises.md",
+        "quotes": "docs/chapters/03/quotes.md"
+      },
+      "slug": "chapter-3"
+    },
+    {
+      "id": "04",
+      "title": "Identity Is the First System",
+      "path": "docs/chapters/04/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/04/key-ideas.md",
+        "exercises": "docs/chapters/04/exercises.md",
+        "quotes": "docs/chapters/04/quotes.md"
+      },
+      "slug": "chapter-4"
+    },
+    {
+      "id": "05",
+      "title": "Systems Eat Motivation for Breakfast",
+      "path": "docs/chapters/05/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/05/key-ideas.md",
+        "exercises": "docs/chapters/05/exercises.md",
+        "quotes": "docs/chapters/05/quotes.md"
+      },
+      "slug": "chapter-5"
+    },
+    {
+      "id": "06",
+      "title": "Time Is a System, Not a Resource",
+      "path": "docs/chapters/06/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/06/key-ideas.md",
+        "exercises": "docs/chapters/06/exercises.md",
+        "quotes": "docs/chapters/06/quotes.md"
+      },
+      "slug": "chapter-6"
+    },
+    {
+      "id": "07",
+      "title": "The Input Equation",
+      "path": "docs/chapters/07/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/07/key-ideas.md",
+        "exercises": "docs/chapters/07/exercises.md",
+        "quotes": "docs/chapters/07/quotes.md"
+      },
+      "slug": "chapter-7"
+    },
+    {
+      "id": "08",
+      "title": "Build Once, Benefit Daily",
+      "path": "docs/chapters/08/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/08/key-ideas.md",
+        "exercises": "docs/chapters/08/exercises.md",
+        "quotes": "docs/chapters/08/quotes.md"
+      },
+      "slug": "chapter-8"
+    },
+    {
+      "id": "09",
+      "title": "Wealth Is a Byproduct of Alignment",
+      "path": "docs/chapters/09/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/09/key-ideas.md",
+        "exercises": "docs/chapters/09/exercises.md",
+        "quotes": "docs/chapters/09/quotes.md"
+      },
+      "slug": "chapter-9"
+    },
+    {
+      "id": "10",
+      "title": "Your Environment Is Part of the System",
+      "path": "docs/chapters/10/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/10/key-ideas.md",
+        "exercises": "docs/chapters/10/exercises.md",
+        "quotes": "docs/chapters/10/quotes.md"
+      },
+      "slug": "chapter-10"
+    },
+    {
+      "id": "11",
+      "title": "Tools Don't Matter Until Systems Do",
+      "path": "docs/chapters/11/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/11/key-ideas.md",
+        "exercises": "docs/chapters/11/exercises.md",
+        "quotes": "docs/chapters/11/quotes.md"
+      },
+      "slug": "chapter-11"
+    },
+    {
+      "id": "12",
+      "title": "Think in Layers, Not Leaps",
+      "path": "docs/chapters/12/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/12/key-ideas.md",
+        "exercises": "docs/chapters/12/exercises.md",
+        "quotes": "docs/chapters/12/quotes.md"
+      },
+      "slug": "chapter-12"
+    },
+    {
+      "id": "13",
+      "title": "Systemize Before You Scale",
+      "path": "docs/chapters/13/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/13/key-ideas.md",
+        "exercises": "docs/chapters/13/exercises.md",
+        "quotes": "docs/chapters/13/quotes.md"
+      },
+      "slug": "chapter-13"
+    },
+    {
+      "id": "14",
+      "title": "Feedback Loops and Course Correction",
+      "path": "docs/chapters/14/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/14/key-ideas.md",
+        "exercises": "docs/chapters/14/exercises.md",
+        "quotes": "docs/chapters/14/quotes.md"
+      },
+      "slug": "chapter-14"
+    },
+    {
+      "id": "15",
+      "title": "The System of Self-belief",
+      "path": "docs/chapters/15/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/15/key-ideas.md",
+        "exercises": "docs/chapters/15/exercises.md",
+        "quotes": "docs/chapters/15/quotes.md"
+      },
+      "slug": "chapter-15"
+    },
+    {
+      "id": "16",
+      "title": "Delegation Is a System, Not a Shortcut",
+      "path": "docs/chapters/16/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/16/key-ideas.md",
+        "exercises": "docs/chapters/16/exercises.md",
+        "quotes": "docs/chapters/16/quotes.md"
+      },
+      "slug": "chapter-16"
+    },
+    {
+      "id": "17",
+      "title": "When the System Breaks, Upgrade It",
+      "path": "docs/chapters/17/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/17/key-ideas.md",
+        "exercises": "docs/chapters/17/exercises.md",
+        "quotes": "docs/chapters/17/quotes.md"
+      },
+      "slug": "chapter-17"
+    },
+    {
+      "id": "18",
+      "title": "Your Future Is a System in Progress",
+      "path": "docs/chapters/18/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/18/key-ideas.md",
+        "exercises": "docs/chapters/18/exercises.md",
+        "quotes": "docs/chapters/18/quotes.md"
+      },
+      "slug": "chapter-18"
+    },
+    {
+      "id": "19",
+      "title": "Build the System, Then Step Back",
+      "path": "docs/chapters/19/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/19/key-ideas.md",
+        "exercises": "docs/chapters/19/exercises.md",
+        "quotes": "docs/chapters/19/quotes.md"
+      },
+      "slug": "chapter-19"
+    },
+    {
+      "id": "20",
+      "title": "Live Like a System Builder",
+      "path": "docs/chapters/20/chapter.md",
+      "artifacts": {
+        "key_ideas": "docs/chapters/20/key-ideas.md",
+        "exercises": "docs/chapters/20/exercises.md",
+        "quotes": "docs/chapters/20/quotes.md"
+      },
+      "slug": "chapter-20"
+    }
+  ],
+  "source": "BuildTheSystem.md",
+  "normalized_sentences": "docs/meta/BuildTheSystem.sentences.md",
+  "format": {
+    "sentence_per_line": true,
+    "chapter_boundary": "^Chapter (\\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty).*$"
+  },
+  "indexes": {
+    "key_ideas_matrix_md": "docs/meta/key_ideas_matrix.md",
+    "key_ideas_index_json": "docs/meta/key_ideas_index.json",
+    "topics_index_json": "docs/meta/topics_index.json",
+    "search_index_json": "docs/meta/search_index.json"
+  },
+  "topics": [
+    {
+      "path": "docs/topics/abundance.md",
+      "title": "Abundance"
+    },
+    {
+      "path": "docs/topics/architecture.md",
+      "title": "Architecture"
+    },
+    {
+      "path": "docs/topics/system.md",
+      "title": "System"
+    },
+    {
+      "path": "docs/topics/design.md",
+      "title": "Design"
+    },
+    {
+      "path": "docs/topics/structure.md",
+      "title": "Structure"
+    },
+    {
+      "path": "docs/topics/alignment.md",
+      "title": "Alignment"
+    },
+    {
+      "path": "docs/topics/rhythm.md",
+      "title": "Rhythm"
+    },
+    {
+      "path": "docs/topics/focus.md",
+      "title": "Focus"
+    },
+    {
+      "path": "docs/topics/energy.md",
+      "title": "Energy"
+    },
+    {
+      "path": "docs/topics/routine.md",
+      "title": "Routine"
+    },
+    {
+      "path": "docs/topics/habit.md",
+      "title": "Habit"
+    },
+    {
+      "path": "docs/topics/goal.md",
+      "title": "Goal"
+    },
+    {
+      "path": "docs/topics/clarity.md",
+      "title": "Clarity"
+    },
+    {
+      "path": "docs/topics/delegation.md",
+      "title": "Delegation"
+    },
+    {
+      "path": "docs/topics/feedback.md",
+      "title": "Feedback"
+    },
+    {
+      "path": "docs/topics/environment.md",
+      "title": "Environment"
+    },
+    {
+      "path": "docs/topics/identity.md",
+      "title": "Identity"
+    },
+    {
+      "path": "docs/topics/scale.md",
+      "title": "Scale"
+    }
+  ],
+  "tools": {
+    "search_cli": "scripts/search_docs.py"
+  }
+}

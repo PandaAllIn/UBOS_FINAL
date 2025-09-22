@@ -1,0 +1,19 @@
+id: practice-09-keystone-system-discovery
+chapter: 09
+kind: checklist
+title: Keystone System Discovery
+prompt: Surface the single system that multiplies results elsewhere.
+steps:
+- Create a matrix of current systems versus domains they influence (health, work,
+  finances, relationships).
+- Score each system on breadth of impact and ease of maintenance.
+- Select the system with the highest combined score as your keystone.
+- Design supporting routines that protect and amplify the keystone system.
+expected_outcome: Focused attention on the keystone system with supporting structures
+  to magnify its reach.
+topics:
+- leverage
+- alignment
+- system
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/09/exercises.md:3

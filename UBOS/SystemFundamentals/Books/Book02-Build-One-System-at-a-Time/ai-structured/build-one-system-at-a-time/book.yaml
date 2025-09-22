@@ -1,0 +1,100 @@
+id: build-one-system-at-a-time
+title: "Transform Your Future: Learn to Build One System at a Time"
+author: Justice O. Malcolm
+publisher: Audio Books Office
+source_files:
+  - UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/Build_One_System_at_a_Time.md
+chapters:
+  - id: "00"
+    slug: introduction
+    title: Introduction
+  - id: "01"
+    slug: chapter-1
+    title: From Scarcity to Systems Thinking
+  - id: "02"
+    slug: chapter-2
+    title: Why Goals Alone Fail and What to Build Instead
+  - id: "03"
+    slug: chapter-3
+    title: The Core Principles of Abundant Systems
+  - id: "04"
+    slug: chapter-4
+    title: Choosing the Right Starting Point
+  - id: "05"
+    slug: chapter-5
+    title: Designing for Effortless Repeatability
+  - id: "06"
+    slug: chapter-6
+    title: Embedding Systems into Your Environment
+  - id: "07"
+    slug: chapter-7
+    title: Stack, Link, and Layer
+  - id: "08"
+    slug: chapter-8
+    title: Feedback Loops that Fuel Growth
+  - id: "09"
+    slug: chapter-9
+    title: The Keystone System Effect
+  - id: "10"
+    slug: chapter-10
+    title: Energy Is the Ultimate Currency
+  - id: "11"
+    slug: chapter-11
+    title: Time Multiplication Through Leverage
+  - id: "12"
+    slug: chapter-12
+    title: Turning Networks into Growth Engines
+  - id: "13"
+    slug: chapter-13
+    title: Failsafe Systems for Tough Seasons
+  - id: "14"
+    slug: chapter-14
+    title: Breaking and Rebuilding Systems When You Outgrow Them
+  - id: "15"
+    slug: chapter-15
+    title: The Scarcity Trap in Disguise
+  - id: "16"
+    slug: chapter-16
+    title: Your Future Is a Living System
+  - id: "17"
+    slug: chapter-17
+    title: Generational and Legacy Systems
+  - id: "18"
+    slug: chapter-18
+    title: Systems for Contribution and Impact
+  - id: "19"
+    slug: chapter-19
+    title: One System at a Time, Forever
+
+# topic vocabulary shared across this book
+topics:
+  - abundance
+  - system
+  - structure
+  - alignment
+  - rhythm
+  - energy
+  - feedback
+  - environment
+  - leverage
+  - network
+  - resilience
+  - identity
+  - contribution
+  - time
+  - legacy
+  - automation
+  - scalability
+  - mindset
+  - clarity
+  - integration
+  - adaptability
+  - awareness
+  - routine
+  - futurecasting
+  - risk
+exports:
+  ideas_jsonl: chapters/all/ideas.jsonl
+  practices_jsonl: chapters/all/practices.jsonl
+  quotes_jsonl: chapters/all/quotes.jsonl
+  topic_index: chapters/all/topic_index.json

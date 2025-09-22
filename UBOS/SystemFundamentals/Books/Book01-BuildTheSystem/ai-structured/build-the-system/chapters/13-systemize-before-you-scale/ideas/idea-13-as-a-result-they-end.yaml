@@ -1,0 +1,16 @@
+id: idea-13-as-a-result-they-end
+chapter: '13'
+kind: principle
+title: As A Result They End
+one_liner: As a result, they end up buried in stress, constantly putting out fires
+  and trying to maintain a fragile structure that was never designed to support that
+  level of output.
+description: As a result, they end up buried in stress, constantly putting out fires
+  and trying to maintain a fragile structure that was never designed to support that
+  level of output.
+topics:
+- system
+- structure
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/13/key-ideas.md:4

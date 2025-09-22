@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "idea-03-clarity-of-purpose",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Clarity Of Purpose",
+    "one_liner": "Clarity of Purpose: Systems must align with a long-term vision, not just avoid immediate problems.",
+    "description": "Clarity of Purpose: Systems must align with a long-term vision, not just avoid immediate problems. Sustainability: Systems must be maintainable even on your worst days, integrating smoothly into life; starting small is a sign of wisdom.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-clarity-of-purpose.yaml"
+  },
+  {
+    "id": "idea-03-information",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Information",
+    "one_liner": "Information, seen as a tool for growth, must be built in (checkpoints) to analyze progress and adjust.",
+    "description": "Information, seen as a tool for growth, must be built in (checkpoints) to analyze progress and adjust.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-information.yaml"
+  },
+  {
+    "id": "idea-03-leverage",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Leverage",
+    "one_liner": "Leverage: Systems should create results greater than the effort put in, utilizing technology, relationships, or skills to multiply impact.",
+    "description": "Leverage: Systems should create results greater than the effort put in, utilizing technology, relationships, or skills to multiply impact. Adaptability: Systems must be flexible enough to adjust to changing circumstances while remaining true to the purpose.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-leverage.yaml"
+  },
+  {
+    "id": "idea-03-must-align-with-a-long-term-vision",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Must Align With A Long-Term Vision",
+    "one_liner": "Systems must align with a long-term vision, not just avoid immediate problems.",
+    "description": "Systems must align with a long-term vision, not just avoid immediate problems.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-must-align-with-a-long-term-vision.yaml"
+  },
+  {
+    "id": "idea-03-must-be-flexible-enough-to-adjust-to-changing-circumstances-while-remaining-true-to-the-purpose",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Must Be Flexible Enough To Adjust To Changing Circumstances While Remaining True To The Purpose",
+    "one_liner": "Systems must be flexible enough to adjust to changing circumstances while remaining true to the purpose.",
+    "description": "Systems must be flexible enough to adjust to changing circumstances while remaining true to the purpose.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-must-be-flexible-enough-to-adjust-to-changing-circumstances-while-remaining-true-to-the-purpose.yaml"
+  },
+  {
+    "id": "idea-03-must-be-maintainable-even-on-your-worst-days",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Must Be Maintainable Even On Your Worst Days",
+    "one_liner": "Systems must be maintainable even on your worst days, integrating smoothly into life; starting small is a sign of wisdom.",
+    "description": "Systems must be maintainable even on your worst days, integrating smoothly into life; starting small is a sign of wisdom.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:12"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-must-be-maintainable-even-on-your-worst-days.yaml"
+  },
+  {
+    "id": "idea-03-must-connect-and-reinforce-other-systems-in-your-life",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Must Connect And Reinforce Other Systems In Your Life",
+    "one_liner": "Systems must connect and reinforce other systems in your life, creating compounding effects.",
+    "description": "Systems must connect and reinforce other systems in your life, creating compounding effects.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:8"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-must-connect-and-reinforce-other-systems-in-your-life.yaml"
+  },
+  {
+    "id": "idea-03-must-have-built-in-safety-nets-or-reduced-modes-to-absorb-shocks-and-continue-moving-forward-during",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Must Have Built-In Safety Nets Or Reduced Modes To Absorb Shocks And Continue Moving Forward During",
+    "one_liner": "Systems must have built-in safety nets or reduced modes to absorb shocks and continue moving forward during challenges.",
+    "description": "Systems must have built-in safety nets or reduced modes to absorb shocks and continue moving forward during challenges.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:10"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-must-have-built-in-safety-nets-or-reduced-modes-to-absorb-shocks-and-continue-moving-forward-during.yaml"
+  },
+  {
+    "id": "idea-03-outlines-the-ten-essential-principles-for-building-transformative-and-lasting-systems-23",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Outlines The Ten Essential Principles For Building Transformative And Lasting Systems [23",
+    "one_liner": "This chapter outlines the ten essential principles for building transformative and lasting systems [23, 20:56]: 1.",
+    "description": "This chapter outlines the ten essential principles for building transformative and lasting systems [23, 20:56]: 1. Clarity of Purpose: Systems must align with a long-term vision, not just avoid immediate problems.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-outlines-the-ten-essential-principles-for-building-transformative-and-lasting-systems-23.yaml"
+  },
+  {
+    "id": "idea-03-should-be-designed-with-room-to-grow-as-resources-and-ambitions-expand",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Should Be Designed With Room To Grow As Resources And Ambitions Expand",
+    "one_liner": "Systems should be designed with room to grow as resources and ambitions expand, avoiding the need to dismantle them later.",
+    "description": "Systems should be designed with room to grow as resources and ambitions expand, avoiding the need to dismantle them later.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:11"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-should-be-designed-with-room-to-grow-as-resources-and-ambitions-expand.yaml"
+  },
+  {
+    "id": "idea-03-should-create-results-greater-than-the-effort-put-in",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Should Create Results Greater Than The Effort Put In",
+    "one_liner": "Systems should create results greater than the effort put in, utilizing technology, relationships, or skills to multiply impact.",
+    "description": "Systems should create results greater than the effort put in, utilizing technology, relationships, or skills to multiply impact.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:9"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-should-create-results-greater-than-the-effort-put-in.yaml"
+  },
+  {
+    "id": "idea-03-should-create-value-not-only-for-you-but-also-for-others",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Should Create Value Not Only For You But Also For Others",
+    "one_liner": "Systems should create value not only for you but also for others, which accelerates your own growth.",
+    "description": "Systems should create value not only for you but also for others, which accelerates your own growth.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-should-create-value-not-only-for-you-but-also-for-others.yaml"
+  },
+  {
+    "id": "idea-03-sustainability",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "Sustainability",
+    "one_liner": "Sustainability: Systems must be maintainable even on your worst days, integrating smoothly into life; starting small is a sign of wisdom.",
+    "description": "Sustainability: Systems must be maintainable even on your worst days, integrating smoothly into life; starting small is a sign of wisdom. Leverage: Systems should create results greater than the effort put in, utilizing technology, relationships, or skills to multiply impact.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-sustainability.yaml"
+  },
+  {
+    "id": "idea-03-the-system-must-reinforce-the-identity-of-the-person-you-are-becoming",
+    "chapter": "03",
+    "kind": "principle",
+    "title": "The System Must Reinforce The Identity Of The Person You Are Becoming",
+    "one_liner": "The system must reinforce the identity of the person you are becoming, making the process feel natural.",
+    "description": "The system must reinforce the identity of the person you are becoming, making the process feel natural.",
+    "topics": [
+      "clarity",
+      "leverage",
+      "feedback"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/03/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/03-the-core-principles-of-abundant-systems/ideas/idea-03-the-system-must-reinforce-the-identity-of-the-person-you-are-becoming.yaml"
+  },
+  {
+    "id": "idea-05-a-systems-success-depends-on-its-ability-to-be-repeated-consistently",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "A System\u2019S Success Depends On Its Ability To Be Repeated Consistently",
+    "one_liner": "A system\u2019s success depends on its ability to be repeated consistently, making the desired action easier to do than to avoid [36:25, 36:44].",
+    "description": "A system\u2019s success depends on its ability to be repeated consistently, making the desired action easier to do than to avoid [36:25, 36:44]. This is achieved through simplicity (using the smallest working version); automation (removing the need for daily willpower by scheduling or prepping the environment); and triggers (cues that turn the system into a reflex).",
+    "topics": [
+      "automation",
+      "resilience",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/05-designing-for-effortless-repeatability/ideas/idea-05-a-systems-success-depends-on-its-ability-to-be-repeated-consistently.yaml"
+  },
+  {
+    "id": "idea-05-other-elements-include-reducing-variability-so-the-system-functions-under-a-wide-range-of-conditions",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "Other Elements Include Reducing Variability So The System Functions Under A Wide Range Of Conditions",
+    "one_liner": "Other elements include reducing variability so the system functions under a wide range of conditions, and building in a reduced version to use on difficult days to prevent breaking the chain entirely.",
+    "description": "Other elements include reducing variability so the system functions under a wide range of conditions, and building in a reduced version to use on difficult days to prevent breaking the chain entirely.",
+    "topics": [
+      "automation",
+      "resilience",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/05-designing-for-effortless-repeatability/ideas/idea-05-other-elements-include-reducing-variability-so-the-system-functions-under-a-wide-range-of-conditions.yaml"
+  },
+  {
+    "id": "idea-05-this-is-achieved-through-simplicity-using-the-smallest-working-version-automation-removing-the-need-for-daily",
+    "chapter": "05",
+    "kind": "principle",
+    "title": "This Is Achieved Through Simplicity (Using The Smallest Working Version); Automation (Removing The Need For Daily",
+    "one_liner": "This is achieved through simplicity (using the smallest working version); automation (removing the need for daily willpower by scheduling or prepping the environment); and triggers (cues that turn the system into a reflex).",
+    "description": "This is achieved through simplicity (using the smallest working version); automation (removing the need for daily willpower by scheduling or prepping the environment); and triggers (cues that turn the system into a reflex). Other elements include reducing variability so the system functions under a wide range of conditions, and building in a reduced version to use on difficult days to prevent breaking the chain entirely.",
+    "topics": [
+      "automation",
+      "resilience",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/05-designing-for-effortless-repeatability/ideas/idea-05-this-is-achieved-through-simplicity-using-the-smallest-working-version-automation-removing-the-need-for-daily.yaml"
+  },
+  {
+    "id": "idea-09-a-keystone-system-is-one-that",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "A Keystone System Is One That",
+    "one_liner": "A keystone system is one that, when strengthened, improves multiple other systems simultaneously, acting as a force multiplier and holding the overall structure together [1:05:13, 1:05:33, 1:05:45].",
+    "description": "A keystone system is one that, when strengthened, improves multiple other systems simultaneously, acting as a force multiplier and holding the overall structure together [1:05:13, 1:05:33, 1:05:45]. Keystone systems produce a ripple effect, amplify other systems' effectiveness, and can stabilize momentum during disruptions.",
+    "topics": [
+      "leverage",
+      "alignment",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/09/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/09-the-keystone-system-effect/ideas/idea-09-a-keystone-system-is-one-that.yaml"
+  },
+  {
+    "id": "idea-09-examples-include-health-provides-physical-energy-for-all-other-systems",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "Examples Include Health (Provides Physical Energy For All Other Systems)",
+    "one_liner": "Examples include health (provides physical energy for all other systems), time management (creates operational space), and financial systems (provides resources and stability).",
+    "description": "Examples include health (provides physical energy for all other systems), time management (creates operational space), and financial systems (provides resources and stability). Identifying and prioritizing the keystone system ensures focused investment for the highest return.",
+    "topics": [
+      "leverage",
+      "alignment",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/09/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/09-the-keystone-system-effect/ideas/idea-09-examples-include-health-provides-physical-energy-for-all-other-systems.yaml"
+  },
+  {
+    "id": "idea-09-identifying-and-prioritizing-the-keystone-system-ensures-focused-investment-for-the-highest-return",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "Identifying And Prioritizing The Keystone System Ensures Focused Investment For The Highest Return",
+    "one_liner": "Identifying and prioritizing the keystone system ensures focused investment for the highest return.",
+    "description": "Identifying and prioritizing the keystone system ensures focused investment for the highest return.",
+    "topics": [
+      "leverage",
+      "alignment",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/09/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/09-the-keystone-system-effect/ideas/idea-09-identifying-and-prioritizing-the-keystone-system-ensures-focused-investment-for-the-highest-return.yaml"
+  },
+  {
+    "id": "idea-09-keystone-systems-produce-a-ripple-effect",
+    "chapter": "09",
+    "kind": "principle",
+    "title": "Keystone Systems Produce A Ripple Effect",
+    "one_liner": "Keystone systems produce a ripple effect, amplify other systems' effectiveness, and can stabilize momentum during disruptions.",
+    "description": "Keystone systems produce a ripple effect, amplify other systems' effectiveness, and can stabilize momentum during disruptions. Examples include health (provides physical energy for all other systems), time management (creates operational space), and financial systems (provides resources and stability).",
+    "topics": [
+      "leverage",
+      "alignment",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/09/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/09-the-keystone-system-effect/ideas/idea-09-keystone-systems-produce-a-ripple-effect.yaml"
+  },
+  {
+    "id": "idea-00-behind-every-success-story-is-a-system-quietly-converting-vision-into-daily-action",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "Behind Every Success Story Is A System Quietly Converting Vision Into Daily Action",
+    "one_liner": "Behind every success story is a system quietly converting vision into daily action.",
+    "description": "Behind every success story is a system quietly converting vision into daily action. It critiques the use of one-off goals, which cause energy to fade and lead to cycles of chasing outcomes without building the necessary underlying machinery.",
+    "topics": [
+      "abundance",
+      "mindset",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/00-introduction/ideas/idea-00-behind-every-success-story-is-a-system-quietly-converting-vision-into-daily-action.yaml"
+  },
+  {
+    "id": "idea-00-critiques-the-use-of-one-off-goals",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "Critiques The Use Of One-Off Goals",
+    "one_liner": "It critiques the use of one-off goals, which cause energy to fade and lead to cycles of chasing outcomes without building the necessary underlying machinery.",
+    "description": "It critiques the use of one-off goals, which cause energy to fade and lead to cycles of chasing outcomes without building the necessary underlying machinery. The book introduces the shift from scarcity thinking (fear-based, protective) to abundance thinking (creation-based, expansive) and advocates for building one high-leverage system at a time, preventing overwhelm and accelerating growth.",
+    "topics": [
+      "abundance",
+      "mindset",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/00-introduction/ideas/idea-00-critiques-the-use-of-one-off-goals.yaml"
+  },
+  {
+    "id": "idea-00-the-book-introduces-the-shift-from-scarcity-thinking-fear-based",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "The Book Introduces The Shift From Scarcity Thinking (Fear-Based",
+    "one_liner": "The book introduces the shift from scarcity thinking (fear-based, protective) to abundance thinking (creation-based, expansive) and advocates for building one high-leverage system at a time, preventing overwhelm and accelerating growth.",
+    "description": "The book introduces the shift from scarcity thinking (fear-based, protective) to abundance thinking (creation-based, expansive) and advocates for building one high-leverage system at a time, preventing overwhelm and accelerating growth.",
+    "topics": [
+      "abundance",
+      "mindset",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/00-introduction/ideas/idea-00-the-book-introduces-the-shift-from-scarcity-thinking-fear-based.yaml"
+  },
+  {
+    "id": "idea-00-the-introduction-establishes-that-transformation-requires-intentional-design-and-is-engineered-piece-by-piece-through",
+    "chapter": "00",
+    "kind": "principle",
+    "title": "The Introduction Establishes That Transformation Requires Intentional Design And Is Engineered Piece By Piece Through",
+    "one_liner": "The Introduction establishes that transformation requires intentional design and is engineered piece by piece through a series of systems.",
+    "description": "The Introduction establishes that transformation requires intentional design and is engineered piece by piece through a series of systems. Behind every success story is a system quietly converting vision into daily action.",
+    "topics": [
+      "abundance",
+      "mindset",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/00/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/00-introduction/ideas/idea-00-the-introduction-establishes-that-transformation-requires-intentional-design-and-is-engineered-piece-by-piece-through.yaml"
+  },
+  {
+    "id": "idea-07-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Creates Direct Connections Where One Action Automatically Triggers The Next (E",
+    "one_liner": "Creates direct connections where one action automatically triggers the next (e.",
+    "description": "Creates direct connections where one action automatically triggers the next (e.g., finishing a workout triggers journaling).",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-creates-direct-connections-where-one-action-automatically-triggers-the-next-e.yaml"
+  },
+  {
+    "id": "idea-07-layering-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Layering Means Running Multiple Supportive Systems In Parallel For Synergy (E",
+    "one_liner": "Layering means running multiple supportive systems in parallel for synergy (e.g., learning and networking systems).",
+    "description": "Layering means running multiple supportive systems in parallel for synergy (e.g., learning and networking systems). This integration creates a self-reinforcing network that leads to exponential growth and increased resilience.",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-layering-means-running-multiple-supportive-systems-in-parallel-for-synergy-e.yaml"
+  },
+  {
+    "id": "idea-07-linking-creates-direct-connections-where-one-action-automatically-triggers-the-next-e",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Linking Creates Direct Connections Where One Action Automatically Triggers The Next (E",
+    "one_liner": "Linking creates direct connections where one action automatically triggers the next (e.g., finishing a workout triggers journaling).",
+    "description": "Linking creates direct connections where one action automatically triggers the next (e.g., finishing a workout triggers journaling). Layering means running multiple supportive systems in parallel for synergy (e.g., learning and networking systems).",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-linking-creates-direct-connections-where-one-action-automatically-triggers-the-next-e.yaml"
+  },
+  {
+    "id": "idea-07-means-running-multiple-supportive-systems-in-parallel-for-synergy-e",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Means Running Multiple Supportive Systems In Parallel For Synergy (E",
+    "one_liner": "Means running multiple supportive systems in parallel for synergy (e.",
+    "description": "Means running multiple supportive systems in parallel for synergy (e.g., learning and networking systems).",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-means-running-multiple-supportive-systems-in-parallel-for-synergy-e.yaml"
+  },
+  {
+    "id": "idea-07-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Means The Output Of One System Becomes The Input For The Next (E",
+    "one_liner": "Means the output of one system becomes the input for the next (e.",
+    "description": "Means the output of one system becomes the input for the next (e.g., fitness boosting productivity).",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-means-the-output-of-one-system-becomes-the-input-for-the-next-e.yaml"
+  },
+  {
+    "id": "idea-07-shows-how-to-combine-individual-systems-to-multiply-their-results-50",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Shows How To Combine Individual Systems To Multiply Their Results [50",
+    "one_liner": "This chapter shows how to combine individual systems to multiply their results [50:57, 51:17].",
+    "description": "This chapter shows how to combine individual systems to multiply their results [50:57, 51:17]. Stacking means the output of one system becomes the input for the next (e.g., fitness boosting productivity).",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-shows-how-to-combine-individual-systems-to-multiply-their-results-50.yaml"
+  },
+  {
+    "id": "idea-07-stacking-means-the-output-of-one-system-becomes-the-input-for-the-next-e",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "Stacking Means The Output Of One System Becomes The Input For The Next (E",
+    "one_liner": "Stacking means the output of one system becomes the input for the next (e.g., fitness boosting productivity).",
+    "description": "Stacking means the output of one system becomes the input for the next (e.g., fitness boosting productivity). Linking creates direct connections where one action automatically triggers the next (e.g., finishing a workout triggers journaling).",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-stacking-means-the-output-of-one-system-becomes-the-input-for-the-next-e.yaml"
+  },
+  {
+    "id": "idea-07-this-integration-creates-a-self-reinforcing-network-that-leads-to-exponential-growth-and-increased-resilience",
+    "chapter": "07",
+    "kind": "principle",
+    "title": "This Integration Creates A Self-Reinforcing Network That Leads To Exponential Growth And Increased Resilience",
+    "one_liner": "This integration creates a self-reinforcing network that leads to exponential growth and increased resilience.",
+    "description": "This integration creates a self-reinforcing network that leads to exponential growth and increased resilience.",
+    "topics": [
+      "integration",
+      "rhythm",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/07/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/07-stack-link-and-layer/ideas/idea-07-this-integration-creates-a-self-reinforcing-network-that-leads-to-exponential-growth-and-increased-resilience.yaml"
+  },
+  {
+    "id": "idea-04-instead-of-trying-to-fix-everything-at-once",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "Instead Of Trying To Fix Everything At Once",
+    "one_liner": "Instead of trying to fix everything at once, this chapter advises beginning with one carefully chosen, high-leverage system that will produce ripple effects across multiple life aspects (e.g., health or finances).",
+    "description": "Instead of trying to fix everything at once, this chapter advises beginning with one carefully chosen, high-leverage system that will produce ripple effects across multiple life aspects (e.g., health or finances). Strategic considerations include: urgency (addressing severe pain points, balanced with achievability), confidence (choosing an area where early wins build belief), and alignment with the long-term vision.",
+    "topics": [
+      "alignment",
+      "leverage",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/04/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/04-choosing-the-right-starting-point/ideas/idea-04-instead-of-trying-to-fix-everything-at-once.yaml"
+  },
+  {
+    "id": "idea-04-strategic-considerations-include",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "Strategic Considerations Include",
+    "one_liner": "Strategic considerations include: urgency (addressing severe pain points, balanced with achievability), confidence (choosing an area where early wins build belief), and alignment with the long-term vision.",
+    "description": "Strategic considerations include: urgency (addressing severe pain points, balanced with achievability), confidence (choosing an area where early wins build belief), and alignment with the long-term vision. The starting point must be clearly defined (e.g., specifying \"health\" as \"improving sleep\") and matched to the current season of life or capacity.",
+    "topics": [
+      "alignment",
+      "leverage",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/04/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/04-choosing-the-right-starting-point/ideas/idea-04-strategic-considerations-include.yaml"
+  },
+  {
+    "id": "idea-04-the-starting-point-must-be-clearly-defined-e",
+    "chapter": "04",
+    "kind": "principle",
+    "title": "The Starting Point Must Be Clearly Defined (E",
+    "one_liner": "The starting point must be clearly defined (e.g., specifying \"health\" as \"improving sleep\") and matched to the current season of life or capacity.",
+    "description": "The starting point must be clearly defined (e.g., specifying \"health\" as \"improving sleep\") and matched to the current season of life or capacity.",
+    "topics": [
+      "alignment",
+      "leverage",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/04/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/04-choosing-the-right-starting-point/ideas/idea-04-the-starting-point-must-be-clearly-defined-e.yaml"
+  },
+  {
+    "id": "idea-18-contribution-should-be-intentional",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "Contribution Should Be Intentional",
+    "one_liner": "Contribution should be intentional, focused on where unique skills can have the greatest effect [2:10:23].",
+    "description": "Contribution should be intentional, focused on where unique skills can have the greatest effect [2:10:23]. Methods (financial, skill-based, relational) must be sustainable and integrated into regular life [2:11:02, 2:12:06].",
+    "topics": [
+      "contribution",
+      "network",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/18/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/18-systems-for-contribution-and-impact/ideas/idea-18-contribution-should-be-intentional.yaml"
+  },
+  {
+    "id": "idea-18-contribution-systems-structure-generosity-time",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "Contribution Systems Structure Generosity (Time",
+    "one_liner": "Contribution systems structure generosity (time, resources, knowledge) to make it consistent, sustainable, and far-reaching, rather than spontaneous [2:09:59, 2:10:05].",
+    "description": "Contribution systems structure generosity (time, resources, knowledge) to make it consistent, sustainable, and far-reaching, rather than spontaneous [2:09:59, 2:10:05]. Contribution should be intentional, focused on where unique skills can have the greatest effect [2:10:23].",
+    "topics": [
+      "contribution",
+      "network",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/18/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/18-systems-for-contribution-and-impact/ideas/idea-18-contribution-systems-structure-generosity-time.yaml"
+  },
+  {
+    "id": "idea-18-methods-financial",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "Methods (Financial",
+    "one_liner": "Methods (financial, skill-based, relational) must be sustainable and integrated into regular life [2:11:02, 2:12:06].",
+    "description": "Methods (financial, skill-based, relational) must be sustainable and integrated into regular life [2:11:02, 2:12:06]. The systems should be measurable for improvement and driven by purpose and values, not recognition [2:12:21, 2:13:48].",
+    "topics": [
+      "contribution",
+      "network",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/18/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/18-systems-for-contribution-and-impact/ideas/idea-18-methods-financial.yaml"
+  },
+  {
+    "id": "idea-18-the-systems-should-be-measurable-for-improvement-and-driven-by-purpose-and-values",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "The Systems Should Be Measurable For Improvement And Driven By Purpose And Values",
+    "one_liner": "The systems should be measurable for improvement and driven by purpose and values, not recognition [2:12:21, 2:13:48].",
+    "description": "The systems should be measurable for improvement and driven by purpose and values, not recognition [2:12:21, 2:13:48].",
+    "topics": [
+      "contribution",
+      "network",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/18/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/18-systems-for-contribution-and-impact/ideas/idea-18-the-systems-should-be-measurable-for-improvement-and-driven-by-purpose-and-values.yaml"
+  },
+  {
+    "id": "idea-18-the-ultimate-measure-of-life-is-found-in-what-is-created-for-others-2",
+    "chapter": "18",
+    "kind": "principle",
+    "title": "The Ultimate Measure Of Life Is Found In What Is Created For Others [2",
+    "one_liner": "The ultimate measure of life is found in what is created for others [2:09:14].",
+    "description": "The ultimate measure of life is found in what is created for others [2:09:14]. Contribution systems structure generosity (time, resources, knowledge) to make it consistent, sustainable, and far-reaching, rather than spontaneous [2:09:59, 2:10:05].",
+    "topics": [
+      "contribution",
+      "network",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/18/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/18-systems-for-contribution-and-impact/ideas/idea-18-the-ultimate-measure-of-life-is-found-in-what-is-created-for-others-2.yaml"
+  },
+  {
+    "id": "idea-14-growth-inevitably-leads-to-systems-becoming-restrictive-or-irrelevant",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Growth Inevitably Leads To Systems Becoming Restrictive Or Irrelevant",
+    "one_liner": "Growth inevitably leads to systems becoming restrictive or irrelevant, often signaled by diminishing returns or increased friction (procrastination, working around the system) [1:42:10, 1:43:15, 1:43:52].",
+    "description": "Growth inevitably leads to systems becoming restrictive or irrelevant, often signaled by diminishing returns or increased friction (procrastination, working around the system) [1:42:10, 1:43:15, 1:43:52]. Outgrowing a system is a sign of success, not failure [1:42:38].",
+    "topics": [
+      "adaptability",
+      "feedback",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/14/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/14-breaking-and-rebuilding-systems-when-you-outgrow-them/ideas/idea-14-growth-inevitably-leads-to-systems-becoming-restrictive-or-irrelevant.yaml"
+  },
+  {
+    "id": "idea-14-outgrowing-a-system-is-a-sign-of-success",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Outgrowing A System Is A Sign Of Success",
+    "one_liner": "Outgrowing a system is a sign of success, not failure [1:42:38].",
+    "description": "Outgrowing a system is a sign of success, not failure [1:42:38]. Rebuilding requires courage, analyzing what parts are still useful, and redesigning the structure based on current and future needs, incorporating greater leverage and scalability [1:44:21, 1:44:58, 1:45:35].",
+    "topics": [
+      "adaptability",
+      "feedback",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/14/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/14-breaking-and-rebuilding-systems-when-you-outgrow-them/ideas/idea-14-outgrowing-a-system-is-a-sign-of-success.yaml"
+  },
+  {
+    "id": "idea-14-rebuilding-requires-courage",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "Rebuilding Requires Courage",
+    "one_liner": "Rebuilding requires courage, analyzing what parts are still useful, and redesigning the structure based on current and future needs, incorporating greater leverage and scalability [1:44:21, 1:44:58, 1:45:35].",
+    "description": "Rebuilding requires courage, analyzing what parts are still useful, and redesigning the structure based on current and future needs, incorporating greater leverage and scalability [1:44:21, 1:44:58, 1:45:35]. The ability to break and rebuild systems is a mark of adaptability, ensuring systems grow with the individual [1:47:34, 1:47:54].",
+    "topics": [
+      "adaptability",
+      "feedback",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/14/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/14-breaking-and-rebuilding-systems-when-you-outgrow-them/ideas/idea-14-rebuilding-requires-courage.yaml"
+  },
+  {
+    "id": "idea-14-the-ability-to-break-and-rebuild-systems-is-a-mark-of-adaptability",
+    "chapter": "14",
+    "kind": "principle",
+    "title": "The Ability To Break And Rebuild Systems Is A Mark Of Adaptability",
+    "one_liner": "The ability to break and rebuild systems is a mark of adaptability, ensuring systems grow with the individual [1:47:34, 1:47:54].",
+    "description": "The ability to break and rebuild systems is a mark of adaptability, ensuring systems grow with the individual [1:47:34, 1:47:54].",
+    "topics": [
+      "adaptability",
+      "feedback",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/14/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/14-breaking-and-rebuilding-systems-when-you-outgrow-them/ideas/idea-14-the-ability-to-break-and-rebuild-systems-is-a-mark-of-adaptability.yaml"
+  },
+  {
+    "id": "idea-15-delaying-action-due-to-the-fear-that-anything-less-than-perfect-will-lead-to-failure-1",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Delaying Action Due To The Fear That Anything Less Than Perfect Will Lead To Failure [1",
+    "one_liner": "Delaying action due to the fear that anything less than perfect will lead to failure [1:51:36].",
+    "description": "Delaying action due to the fear that anything less than perfect will lead to failure [1:51:36].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-delaying-action-due-to-the-fear-that-anything-less-than-perfect-will-lead-to-failure-1.yaml"
+  },
+  {
+    "id": "idea-15-disguised-traps-include",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Disguised Traps Include",
+    "one_liner": "Disguised traps include:    Overoptimization: Shifting from healthy improvement to fear-driven control [1:49:40].",
+    "description": "Disguised traps include:    Overoptimization: Shifting from healthy improvement to fear-driven control [1:49:40]. Hoarding Resources: Holding back time or money out of fear of running out, leading to stagnation [1:50:22].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-disguised-traps-include.yaml"
+  },
+  {
+    "id": "idea-15-excessive-competition",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Excessive Competition",
+    "one_liner": "Excessive Competition: Pushing systems harder to outpace others, driven by comparison [1:50:57].",
+    "description": "Excessive Competition: Pushing systems harder to outpace others, driven by comparison [1:50:57]. Perfectionism: Delaying action due to the fear that anything less than perfect will lead to failure [1:51:36].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-excessive-competition.yaml"
+  },
+  {
+    "id": "idea-15-hoarding-resources",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Hoarding Resources",
+    "one_liner": "Hoarding Resources: Holding back time or money out of fear of running out, leading to stagnation [1:50:22].",
+    "description": "Hoarding Resources: Holding back time or money out of fear of running out, leading to stagnation [1:50:22]. Excessive Competition: Pushing systems harder to outpace others, driven by comparison [1:50:57].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-hoarding-resources.yaml"
+  },
+  {
+    "id": "idea-15-holding-back-time-or-money-out-of-fear-of-running-out",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Holding Back Time Or Money Out Of Fear Of Running Out",
+    "one_liner": "Holding back time or money out of fear of running out, leading to stagnation [1:50:22].",
+    "description": "Holding back time or money out of fear of running out, leading to stagnation [1:50:22].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-holding-back-time-or-money-out-of-fear-of-running-out.yaml"
+  },
+  {
+    "id": "idea-15-overcommitment",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Overcommitment",
+    "one_liner": "Overcommitment: Saying yes to everything out of fear that opportunities are rare [1:52:09].",
+    "description": "Overcommitment: Saying yes to everything out of fear that opportunities are rare [1:52:09]. Regular self-reflection is necessary to challenge whether decisions are driven by vision or by fear [1:53:11].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-overcommitment.yaml"
+  },
+  {
+    "id": "idea-15-perfectionism",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Perfectionism",
+    "one_liner": "Perfectionism: Delaying action due to the fear that anything less than perfect will lead to failure [1:51:36].",
+    "description": "Perfectionism: Delaying action due to the fear that anything less than perfect will lead to failure [1:51:36]. Overcommitment: Saying yes to everything out of fear that opportunities are rare [1:52:09].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-perfectionism.yaml"
+  },
+  {
+    "id": "idea-15-pushing-systems-harder-to-outpace-others",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Pushing Systems Harder To Outpace Others",
+    "one_liner": "Pushing systems harder to outpace others, driven by comparison [1:50:57].",
+    "description": "Pushing systems harder to outpace others, driven by comparison [1:50:57].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-pushing-systems-harder-to-outpace-others.yaml"
+  },
+  {
+    "id": "idea-15-saying-yes-to-everything-out-of-fear-that-opportunities-are-rare-1",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Saying Yes To Everything Out Of Fear That Opportunities Are Rare [1",
+    "one_liner": "Saying yes to everything out of fear that opportunities are rare [1:52:09].",
+    "description": "Saying yes to everything out of fear that opportunities are rare [1:52:09].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-saying-yes-to-everything-out-of-fear-that-opportunities-are-rare-1.yaml"
+  },
+  {
+    "id": "idea-15-shifting-from-healthy-improvement-to-fear-driven-control-1",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Shifting From Healthy Improvement To Fear-Driven Control [1",
+    "one_liner": "Shifting from healthy improvement to fear-driven control [1:49:40].",
+    "description": "Shifting from healthy improvement to fear-driven control [1:49:40].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-shifting-from-healthy-improvement-to-fear-driven-control-1.yaml"
+  },
+  {
+    "id": "idea-15-warns-that-scarcity-thinking-can-subtly-undermine-abundant-systems-by-disguising-itself-as-productive-behavior-1",
+    "chapter": "15",
+    "kind": "principle",
+    "title": "Warns That Scarcity Thinking Can Subtly Undermine Abundant Systems By Disguising Itself As Productive Behavior [1",
+    "one_liner": "This chapter warns that scarcity thinking can subtly undermine abundant systems by disguising itself as productive behavior [1:49:04].",
+    "description": "This chapter warns that scarcity thinking can subtly undermine abundant systems by disguising itself as productive behavior [1:49:04]. Disguised traps include:    Overoptimization: Shifting from healthy improvement to fear-driven control [1:49:40].",
+    "topics": [
+      "mindset",
+      "abundance",
+      "awareness"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/15/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/15-the-scarcity-trap-in-disguise/ideas/idea-15-warns-that-scarcity-thinking-can-subtly-undermine-abundant-systems-by-disguising-itself-as-productive-behavior-1.yaml"
+  },
+  {
+    "id": "idea-11-automation",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Automation",
+    "one_liner": "Automation: Using tools or processes to handle repetitive tasks without constant input [1:20:32].",
+    "description": "Automation: Using tools or processes to handle repetitive tasks without constant input [1:20:32]. Delegation: Entrusting tasks to others to free up personal time for high-return work [1:20:44, 1:21:52].",
+    "topics": [
+      "time",
+      "leverage",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/11-time-multiplication-through-leverage/ideas/idea-11-automation.yaml"
+  },
+  {
+    "id": "idea-11-delegation",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Delegation",
+    "one_liner": "Delegation: Entrusting tasks to others to free up personal time for high-return work [1:20:44, 1:21:52].",
+    "description": "Delegation: Entrusting tasks to others to free up personal time for high-return work [1:20:44, 1:21:52]. Elimination: Removing non-essential tasks and commitments entirely [1:22:30].",
+    "topics": [
+      "time",
+      "leverage",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/11-time-multiplication-through-leverage/ideas/idea-11-delegation.yaml"
+  },
+  {
+    "id": "idea-11-entrusting-tasks-to-others-to-free-up-personal-time-for-high-return-work-1",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Entrusting Tasks To Others To Free Up Personal Time For High-Return Work [1",
+    "one_liner": "Entrusting tasks to others to free up personal time for high-return work [1:20:44, 1:21:52].",
+    "description": "Entrusting tasks to others to free up personal time for high-return work [1:20:44, 1:21:52].",
+    "topics": [
+      "time",
+      "leverage",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/key-ideas.md:4"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/11-time-multiplication-through-leverage/ideas/idea-11-entrusting-tasks-to-others-to-free-up-personal-time-for-high-return-work-1.yaml"
+  },
+  {
+    "id": "idea-11-leverage-allows-one-to-multiply-the-impact-of-their-time-so-that-effort-produces-far-more",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Leverage Allows One To Multiply The Impact Of Their Time So That Effort Produces Far More",
+    "one_liner": "Leverage allows one to multiply the impact of their time so that effort produces far more results, often independently [1:19:57, 1:20:03].",
+    "description": "Leverage allows one to multiply the impact of their time so that effort produces far more results, often independently [1:19:57, 1:20:03]. The three most powerful forms are: 1.",
+    "topics": [
+      "time",
+      "leverage",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/11-time-multiplication-through-leverage/ideas/idea-11-leverage-allows-one-to-multiply-the-impact-of-their-time-so-that-effort-produces-far-more.yaml"
+  },
+  {
+    "id": "idea-11-removing-non-essential-tasks-and-commitments-entirely-1",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Removing Non-Essential Tasks And Commitments Entirely [1",
+    "one_liner": "Removing non-essential tasks and commitments entirely [1:22:30].",
+    "description": "Removing non-essential tasks and commitments entirely [1:22:30].",
+    "topics": [
+      "time",
+      "leverage",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/11-time-multiplication-through-leverage/ideas/idea-11-removing-non-essential-tasks-and-commitments-entirely-1.yaml"
+  },
+  {
+    "id": "idea-11-the-three-most-powerful-forms-are",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "The Three Most Powerful Forms Are",
+    "one_liner": "The three most powerful forms are: 1.",
+    "description": "The three most powerful forms are: 1. Automation: Using tools or processes to handle repetitive tasks without constant input [1:20:32].",
+    "topics": [
+      "time",
+      "leverage",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/11-time-multiplication-through-leverage/ideas/idea-11-the-three-most-powerful-forms-are.yaml"
+  },
+  {
+    "id": "idea-11-using-tools-or-processes-to-handle-repetitive-tasks-without-constant-input-1",
+    "chapter": "11",
+    "kind": "principle",
+    "title": "Using Tools Or Processes To Handle Repetitive Tasks Without Constant Input [1",
+    "one_liner": "Using tools or processes to handle repetitive tasks without constant input [1:20:32].",
+    "description": "Using tools or processes to handle repetitive tasks without constant input [1:20:32].",
+    "topics": [
+      "time",
+      "leverage",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/11/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/11-time-multiplication-through-leverage/ideas/idea-11-using-tools-or-processes-to-handle-repetitive-tasks-without-constant-input-1.yaml"
+  },
+  {
+    "id": "idea-12-building-a-strong-network-requires-clarity-about-desired-connections",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "Building A Strong Network Requires Clarity About Desired Connections",
+    "one_liner": "Building a strong network requires clarity about desired connections, consistency (small, thoughtful, ongoing attention), and a mindset of reciprocity (giving value first and often) [1:28:13, 1:28:54, 1:29:31].",
+    "description": "Building a strong network requires clarity about desired connections, consistency (small, thoughtful, ongoing attention), and a mindset of reciprocity (giving value first and often) [1:28:13, 1:28:54, 1:29:31]. Leveraging the network involves connecting people to each other, strengthening the web without direct personal involvement in every interaction [1:30:08, 1:30:15].",
+    "topics": [
+      "network",
+      "contribution",
+      "identity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/12/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/12-turning-networks-into-growth-engines/ideas/idea-12-building-a-strong-network-requires-clarity-about-desired-connections.yaml"
+  },
+  {
+    "id": "idea-12-leveraging-the-network-involves-connecting-people-to-each-other",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "Leveraging The Network Involves Connecting People To Each Other",
+    "one_liner": "Leveraging the network involves connecting people to each other, strengthening the web without direct personal involvement in every interaction [1:30:08, 1:30:15].",
+    "description": "Leveraging the network involves connecting people to each other, strengthening the web without direct personal involvement in every interaction [1:30:08, 1:30:15]. The goal is a network anchored in trust and clarity about one's identity, which eventually becomes self-sustaining and attracts opportunities [1:31:49, 1:33:06].",
+    "topics": [
+      "network",
+      "contribution",
+      "identity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/12/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/12-turning-networks-into-growth-engines/ideas/idea-12-leveraging-the-network-involves-connecting-people-to-each-other.yaml"
+  },
+  {
+    "id": "idea-12-networks-are-treated-as-dynamic-ecosystems-of-value-exchange-through-which-opportunities-travel-1",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "Networks Are Treated As Dynamic Ecosystems Of Value Exchange Through Which Opportunities Travel [1",
+    "one_liner": "Networks are treated as dynamic ecosystems of value exchange through which opportunities travel [1:27:00, 1:27:23].",
+    "description": "Networks are treated as dynamic ecosystems of value exchange through which opportunities travel [1:27:00, 1:27:23]. Building a strong network requires clarity about desired connections, consistency (small, thoughtful, ongoing attention), and a mindset of reciprocity (giving value first and often) [1:28:13, 1:28:54, 1:29:31].",
+    "topics": [
+      "network",
+      "contribution",
+      "identity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/12/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/12-turning-networks-into-growth-engines/ideas/idea-12-networks-are-treated-as-dynamic-ecosystems-of-value-exchange-through-which-opportunities-travel-1.yaml"
+  },
+  {
+    "id": "idea-12-the-goal-is-a-network-anchored-in-trust-and-clarity-about-ones-identity",
+    "chapter": "12",
+    "kind": "principle",
+    "title": "The Goal Is A Network Anchored In Trust And Clarity About One'S Identity",
+    "one_liner": "The goal is a network anchored in trust and clarity about one's identity, which eventually becomes self-sustaining and attracts opportunities [1:31:49, 1:33:06].",
+    "description": "The goal is a network anchored in trust and clarity about one's identity, which eventually becomes self-sustaining and attracts opportunities [1:31:49, 1:33:06].",
+    "topics": [
+      "network",
+      "contribution",
+      "identity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/12/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/12-turning-networks-into-growth-engines/ideas/idea-12-the-goal-is-a-network-anchored-in-trust-and-clarity-about-ones-identity.yaml"
+  },
+  {
+    "id": "idea-01-abundance-thinking-views-the-world-as-fluid-and-expansive",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Abundance Thinking Views The World As Fluid And Expansive",
+    "one_liner": "Abundance thinking views the world as fluid and expansive, prompting the creation of systems that generate more opportunities, resources, and freedom.",
+    "description": "Abundance thinking views the world as fluid and expansive, prompting the creation of systems that generate more opportunities, resources, and freedom. Systems thinking means relying on consistent structures that operate whether you feel inspired or not, making the right actions easier than the wrong ones.",
+    "topics": [
+      "mindset",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/01-from-scarcity-to-systems-thinking/ideas/idea-01-abundance-thinking-views-the-world-as-fluid-and-expansive.yaml"
+  },
+  {
+    "id": "idea-01-scarcity-thinking-views-the-world-as-a-place-of-limitation",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Scarcity Thinking Views The World As A Place Of Limitation",
+    "one_liner": "Scarcity thinking views the world as a place of limitation, resulting in defensive systems built to protect against loss, which leads to comparison, fear, and hesitation.",
+    "description": "Scarcity thinking views the world as a place of limitation, resulting in defensive systems built to protect against loss, which leads to comparison, fear, and hesitation. Abundance thinking views the world as fluid and expansive, prompting the creation of systems that generate more opportunities, resources, and freedom.",
+    "topics": [
+      "mindset",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/01-from-scarcity-to-systems-thinking/ideas/idea-01-scarcity-thinking-views-the-world-as-a-place-of-limitation.yaml"
+  },
+  {
+    "id": "idea-01-success-is-measured-by-the-quality-of-your-systems",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Success Is Measured By The Quality Of Your Systems",
+    "one_liner": "Success is measured by the quality of your systems, not solely by outcomes.",
+    "description": "Success is measured by the quality of your systems, not solely by outcomes.",
+    "topics": [
+      "mindset",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/01-from-scarcity-to-systems-thinking/ideas/idea-01-success-is-measured-by-the-quality-of-your-systems.yaml"
+  },
+  {
+    "id": "idea-01-the-fundamental-shift-in-mindset-required-before-building-effective-systems",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "The Fundamental Shift In Mindset Required Before Building Effective Systems",
+    "one_liner": "This chapter focuses on the fundamental shift in mindset required before building effective systems.",
+    "description": "This chapter focuses on the fundamental shift in mindset required before building effective systems. Scarcity thinking views the world as a place of limitation, resulting in defensive systems built to protect against loss, which leads to comparison, fear, and hesitation.",
+    "topics": [
+      "mindset",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/01-from-scarcity-to-systems-thinking/ideas/idea-01-the-fundamental-shift-in-mindset-required-before-building-effective-systems.yaml"
+  },
+  {
+    "id": "idea-01-thinking-means-relying-on-consistent-structures-that-operate-whether-you-feel-inspired-or-not",
+    "chapter": "01",
+    "kind": "principle",
+    "title": "Thinking Means Relying On Consistent Structures That Operate Whether You Feel Inspired Or Not",
+    "one_liner": "Systems thinking means relying on consistent structures that operate whether you feel inspired or not, making the right actions easier than the wrong ones.",
+    "description": "Systems thinking means relying on consistent structures that operate whether you feel inspired or not, making the right actions easier than the wrong ones. Success is measured by the quality of your systems, not solely by outcomes.",
+    "topics": [
+      "mindset",
+      "abundance",
+      "system"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/01/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/01-from-scarcity-to-systems-thinking/ideas/idea-01-thinking-means-relying-on-consistent-structures-that-operate-whether-you-feel-inspired-or-not.yaml"
+  },
+  {
+    "id": "idea-19-the-focus-on-building-one-system-at-a-time-removes-pressure-and-creates-steady-layering-that",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "The Focus On Building One System At A Time Removes Pressure And Creates Steady Layering That",
+    "one_liner": "The focus on building one system at a time removes pressure and creates steady layering that accelerates progress exponentially [2:16:05, 2:17:18].",
+    "description": "The focus on building one system at a time removes pressure and creates steady layering that accelerates progress exponentially [2:16:05, 2:17:18]. This mindset protects against complacency, keeps systems adaptable, and makes growth forgiving [2:17:33, 2:18:34].",
+    "topics": [
+      "mindset",
+      "rhythm",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/19/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/19-one-system-at-a-time-forever/ideas/idea-19-the-focus-on-building-one-system-at-a-time-removes-pressure-and-creates-steady-layering-that.yaml"
+  },
+  {
+    "id": "idea-19-the-ultimate-goal-is-to-internalize-the-habit-of-systems-thinking",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "The Ultimate Goal Is To Internalize The Habit Of Systems Thinking",
+    "one_liner": "The ultimate goal is to internalize the habit of systems thinking, allowing one to continually refine their life structure and intentionally create an abundant future [2:20:41, 2:21:06].",
+    "description": "The ultimate goal is to internalize the habit of systems thinking, allowing one to continually refine their life structure and intentionally create an abundant future [2:20:41, 2:21:06].",
+    "topics": [
+      "mindset",
+      "rhythm",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/19/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/19-one-system-at-a-time-forever/ideas/idea-19-the-ultimate-goal-is-to-internalize-the-habit-of-systems-thinking.yaml"
+  },
+  {
+    "id": "idea-19-this-concluding-chapter-reaffirms-that-transformation-is-a-continuous",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "This Concluding Chapter Reaffirms That Transformation Is A Continuous",
+    "one_liner": "This concluding chapter reaffirms that transformation is a continuous, lifelong process [2:15:41].",
+    "description": "This concluding chapter reaffirms that transformation is a continuous, lifelong process [2:15:41]. The focus on building one system at a time removes pressure and creates steady layering that accelerates progress exponentially [2:16:05, 2:17:18].",
+    "topics": [
+      "mindset",
+      "rhythm",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/19/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/19-one-system-at-a-time-forever/ideas/idea-19-this-concluding-chapter-reaffirms-that-transformation-is-a-continuous.yaml"
+  },
+  {
+    "id": "idea-19-this-mindset-protects-against-complacency",
+    "chapter": "19",
+    "kind": "principle",
+    "title": "This Mindset Protects Against Complacency",
+    "one_liner": "This mindset protects against complacency, keeps systems adaptable, and makes growth forgiving [2:17:33, 2:18:34].",
+    "description": "This mindset protects against complacency, keeps systems adaptable, and makes growth forgiving [2:17:33, 2:18:34]. The ultimate goal is to internalize the habit of systems thinking, allowing one to continually refine their life structure and intentionally create an abundant future [2:20:41, 2:21:06].",
+    "topics": [
+      "mindset",
+      "rhythm",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/19/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/19-one-system-at-a-time-forever/ideas/idea-19-this-mindset-protects-against-complacency.yaml"
+  },
+  {
+    "id": "idea-02-a-system-is-defined-as-a-repeatable-process-that-produces-a-predictable-result",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "A System Is Defined As A Repeatable Process That Produces A Predictable Result",
+    "one_liner": "A  system is defined as a repeatable process that produces a predictable result, operating regardless of daily feelings.",
+    "description": "A  system is defined as a repeatable process that produces a predictable result, operating regardless of daily feelings. Systems shift the focus from the outcome to the process that creates the outcome.",
+    "topics": [
+      "system",
+      "structure",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/02-why-goals-alone-fail-and-what-to-build-instead/ideas/idea-02-a-system-is-defined-as-a-repeatable-process-that-produces-a-predictable-result.yaml"
+  },
+  {
+    "id": "idea-02-building-systems-creates-freedom-by-removing-the-constant-mental-burden-of-daily-decisions-and-makes-desired",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Building Systems Creates Freedom By Removing The Constant Mental Burden Of Daily Decisions And Makes Desired",
+    "one_liner": "Building systems creates freedom by removing the constant mental burden of daily decisions and makes desired outcomes inevitable.",
+    "description": "Building systems creates freedom by removing the constant mental burden of daily decisions and makes desired outcomes inevitable.",
+    "topics": [
+      "system",
+      "structure",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/02-why-goals-alone-fail-and-what-to-build-instead/ideas/idea-02-building-systems-creates-freedom-by-removing-the-constant-mental-burden-of-daily-decisions-and-makes-desired.yaml"
+  },
+  {
+    "id": "idea-02-goals-are-described-as-incomplete-because-they-define-what-you-want-but-not-how-you-will",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Goals Are Described As Incomplete Because They Define What You Want But Not How You Will",
+    "one_liner": "Goals are described as incomplete because they define what you want but not how you will consistently get it.",
+    "description": "Goals are described as incomplete because they define what you want but not how you will consistently get it. Relying on goals alone makes success temporary and dependent on unreliable willpower.",
+    "topics": [
+      "system",
+      "structure",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/02-why-goals-alone-fail-and-what-to-build-instead/ideas/idea-02-goals-are-described-as-incomplete-because-they-define-what-you-want-but-not-how-you-will.yaml"
+  },
+  {
+    "id": "idea-02-goals-should-serve-as-signposts",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Goals Should Serve As Signposts",
+    "one_liner": "Goals should serve as signposts, while the system is the true engine of movement.",
+    "description": "Goals should serve as signposts, while the system is the true engine of movement. Building systems creates freedom by removing the constant mental burden of daily decisions and makes desired outcomes inevitable.",
+    "topics": [
+      "system",
+      "structure",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/02-why-goals-alone-fail-and-what-to-build-instead/ideas/idea-02-goals-should-serve-as-signposts.yaml"
+  },
+  {
+    "id": "idea-02-relying-on-goals-alone-makes-success-temporary-and-dependent-on-unreliable-willpower",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Relying On Goals Alone Makes Success Temporary And Dependent On Unreliable Willpower",
+    "one_liner": "Relying on goals alone makes success temporary and dependent on unreliable willpower.",
+    "description": "Relying on goals alone makes success temporary and dependent on unreliable willpower. A  system is defined as a repeatable process that produces a predictable result, operating regardless of daily feelings.",
+    "topics": [
+      "system",
+      "structure",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/02-why-goals-alone-fail-and-what-to-build-instead/ideas/idea-02-relying-on-goals-alone-makes-success-temporary-and-dependent-on-unreliable-willpower.yaml"
+  },
+  {
+    "id": "idea-02-shift-the-focus-from-the-outcome-to-the-process-that-creates-the-outcome",
+    "chapter": "02",
+    "kind": "principle",
+    "title": "Shift The Focus From The Outcome To The Process That Creates The Outcome",
+    "one_liner": "Systems shift the focus from the outcome to the process that creates the outcome.",
+    "description": "Systems shift the focus from the outcome to the process that creates the outcome. Goals should serve as signposts, while the system is the true engine of movement.",
+    "topics": [
+      "system",
+      "structure",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/02/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/02-why-goals-alone-fail-and-what-to-build-instead/ideas/idea-02-shift-the-focus-from-the-outcome-to-the-process-that-creates-the-outcome.yaml"
+  },
+  {
+    "id": "idea-10-capacity-for-focus",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Capacity For Focus",
+    "one_liner": "Capacity for focus, protected by reducing unnecessary decisions and distractions [1:14:17].",
+    "description": "Capacity for focus, protected by reducing unnecessary decisions and distractions [1:14:17].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/key-ideas.md:5"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-capacity-for-focus.yaml"
+  },
+  {
+    "id": "idea-10-energy-derived-from-meaning-and-living-in-harmony-with-purpose-and-values-1",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Energy Derived From Meaning And Living In Harmony With Purpose And Values [1",
+    "one_liner": "Energy derived from meaning and living in harmony with purpose and values [1:15:36].",
+    "description": "Energy derived from meaning and living in harmony with purpose and values [1:15:36].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/key-ideas.md:7"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-energy-derived-from-meaning-and-living-in-harmony-with-purpose-and-values-1.yaml"
+  },
+  {
+    "id": "idea-10-energy-is-managed-across-four-sources",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Energy Is Managed Across Four Sources",
+    "one_liner": "Energy is managed across four sources: 1.",
+    "description": "Energy is managed across four sources: 1. Physical: Through nutrition, movement, sleep, and overall health [1:13:41].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-energy-is-managed-across-four-sources.yaml"
+  },
+  {
+    "id": "idea-10-energy-is-the-foundational-resource-on-which-all-systems-depend-it-determines-consistency",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Energy Is The Foundational Resource On Which All Systems Depend; It Determines Consistency",
+    "one_liner": "Energy is the foundational resource on which all systems depend; it determines consistency, focus, and resilience [1:12:20, 1:12:51].",
+    "description": "Energy is the foundational resource on which all systems depend; it determines consistency, focus, and resilience [1:12:20, 1:12:51]. Protecting and building energy multiplies the value of time [1:13:09, 1:13:15].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-energy-is-the-foundational-resource-on-which-all-systems-depend-it-determines-consistency.yaml"
+  },
+  {
+    "id": "idea-10-mental",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Mental",
+    "one_liner": "Mental: Capacity for focus, protected by reducing unnecessary decisions and distractions [1:14:17].",
+    "description": "Mental: Capacity for focus, protected by reducing unnecessary decisions and distractions [1:14:17]. Emotional: Motivation and resilience, maintained by setting boundaries and spending time on fulfilling activities [1:14:50, 1:15:04].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-mental.yaml"
+  },
+  {
+    "id": "idea-10-motivation-and-resilience",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Motivation And Resilience",
+    "one_liner": "Motivation and resilience, maintained by setting boundaries and spending time on fulfilling activities [1:14:50, 1:15:04].",
+    "description": "Motivation and resilience, maintained by setting boundaries and spending time on fulfilling activities [1:14:50, 1:15:04].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/key-ideas.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-motivation-and-resilience.yaml"
+  },
+  {
+    "id": "idea-10-physical",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Physical",
+    "one_liner": "Physical: Through nutrition, movement, sleep, and overall health [1:13:41].",
+    "description": "Physical: Through nutrition, movement, sleep, and overall health [1:13:41]. Mental: Capacity for focus, protected by reducing unnecessary decisions and distractions [1:14:17].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-physical.yaml"
+  },
+  {
+    "id": "idea-10-protecting-and-building-energy-multiplies-the-value-of-time-1",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Protecting And Building Energy Multiplies The Value Of Time [1",
+    "one_liner": "Protecting and building energy multiplies the value of time [1:13:09, 1:13:15].",
+    "description": "Protecting and building energy multiplies the value of time [1:13:09, 1:13:15]. Energy is managed across four sources: 1.",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-protecting-and-building-energy-multiplies-the-value-of-time-1.yaml"
+  },
+  {
+    "id": "idea-10-through-nutrition",
+    "chapter": "10",
+    "kind": "principle",
+    "title": "Through Nutrition",
+    "one_liner": "Through nutrition, movement, sleep, and overall health [1:13:41].",
+    "description": "Through nutrition, movement, sleep, and overall health [1:13:41].",
+    "topics": [
+      "energy",
+      "routine",
+      "resilience"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/10/key-ideas.md:6"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/10-energy-is-the-ultimate-currency/ideas/idea-10-through-nutrition.yaml"
+  },
+  {
+    "id": "idea-06-environmental-design-shifts-responsibility-from-the-mind-to-the-surroundings",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "Environmental Design Shifts Responsibility From The Mind To The Surroundings",
+    "one_liner": "Environmental design shifts responsibility from the mind to the surroundings, acting as an autopilot [44:33].",
+    "description": "Environmental design shifts responsibility from the mind to the surroundings, acting as an autopilot [44:33]. Strategies include identifying physical supports (e.g., readying tools in the workspace) [44:40], removing conflicting triggers (e.g., moving a phone away during deep work), using visual cues (e.g., a checklist), and ensuring the social environment (people) reinforces the process.",
+    "topics": [
+      "environment",
+      "alignment",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/06/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/06-embedding-systems-into-your-environment/ideas/idea-06-environmental-design-shifts-responsibility-from-the-mind-to-the-surroundings.yaml"
+  },
+  {
+    "id": "idea-06-explains-that-a-system-is-much-stronger-when-supported-by-the-physical-and-digital-environment-43",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "Explains That A System Is Much Stronger When Supported By The Physical And Digital Environment [43",
+    "one_liner": "This chapter explains that a system is much stronger when supported by the physical and digital environment [43:34, 46:57].",
+    "description": "This chapter explains that a system is much stronger when supported by the physical and digital environment [43:34, 46:57]. Environmental design shifts responsibility from the mind to the surroundings, acting as an autopilot [44:33].",
+    "topics": [
+      "environment",
+      "alignment",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/06/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/06-embedding-systems-into-your-environment/ideas/idea-06-explains-that-a-system-is-much-stronger-when-supported-by-the-physical-and-digital-environment-43.yaml"
+  },
+  {
+    "id": "idea-06-strategies-include-identifying-physical-supports-e",
+    "chapter": "06",
+    "kind": "principle",
+    "title": "Strategies Include Identifying Physical Supports (E",
+    "one_liner": "Strategies include identifying physical supports (e.g., readying tools in the workspace) [44:40], removing conflicting triggers (e.g., moving a phone away during deep work), using visual cues (e.g., a checklist), and ensuring the social environment (people) reinforces the process.",
+    "description": "Strategies include identifying physical supports (e.g., readying tools in the workspace) [44:40], removing conflicting triggers (e.g., moving a phone away during deep work), using visual cues (e.g., a checklist), and ensuring the social environment (people) reinforces the process.",
+    "topics": [
+      "environment",
+      "alignment",
+      "automation"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/06/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/06-embedding-systems-into-your-environment/ideas/idea-06-strategies-include-identifying-physical-supports-e.yaml"
+  },
+  {
+    "id": "idea-16-designing-for-a-living-future-requires-adaptability-to-unexpected-setbacks-and-opportunities-1",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Designing For A Living Future Requires Adaptability To Unexpected Setbacks And Opportunities [1",
+    "one_liner": "Designing for a living future requires adaptability to unexpected setbacks and opportunities [1:57:19, 1:58:03].",
+    "description": "Designing for a living future requires adaptability to unexpected setbacks and opportunities [1:57:19, 1:58:03]. Maintaining it requires regular evaluation to ensure systems still align with current goals and values [1:58:28].",
+    "topics": [
+      "futurecasting",
+      "identity",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/16/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/16-your-future-is-a-living-system/ideas/idea-16-designing-for-a-living-future-requires-adaptability-to-unexpected-setbacks-and-opportunities-1.yaml"
+  },
+  {
+    "id": "idea-16-flexibility-allows-the-individual-to-adjust-their-destination-without-losing-momentum-1",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Flexibility Allows The Individual To Adjust Their Destination Without Losing Momentum [1",
+    "one_liner": "Flexibility allows the individual to adjust their destination without losing momentum [1:59:22].",
+    "description": "Flexibility allows the individual to adjust their destination without losing momentum [1:59:22]. This mindset frees one from the pressure of perfect planning, allowing them to shape an adaptable, abundant life [2:01:44, 2:01:55].",
+    "topics": [
+      "futurecasting",
+      "identity",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/16/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/16-your-future-is-a-living-system/ideas/idea-16-flexibility-allows-the-individual-to-adjust-their-destination-without-losing-momentum-1.yaml"
+  },
+  {
+    "id": "idea-16-maintaining-it-requires-regular-evaluation-to-ensure-systems-still-align-with-current-goals-and-values-1",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "Maintaining It Requires Regular Evaluation To Ensure Systems Still Align With Current Goals And Values [1",
+    "one_liner": "Maintaining it requires regular evaluation to ensure systems still align with current goals and values [1:58:28].",
+    "description": "Maintaining it requires regular evaluation to ensure systems still align with current goals and values [1:58:28]. Flexibility allows the individual to adjust their destination without losing momentum [1:59:22].",
+    "topics": [
+      "futurecasting",
+      "identity",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/16/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/16-your-future-is-a-living-system/ideas/idea-16-maintaining-it-requires-regular-evaluation-to-ensure-systems-still-align-with-current-goals-and-values-1.yaml"
+  },
+  {
+    "id": "idea-16-the-future-is-described-as-a-living",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "The Future Is Described As A Living",
+    "one_liner": "The future is described as a living, constantly shaped, and adaptive system, not a fixed point [1:56:06, 1:56:19].",
+    "description": "The future is described as a living, constantly shaped, and adaptive system, not a fixed point [1:56:06, 1:56:19]. Designing for a living future requires adaptability to unexpected setbacks and opportunities [1:57:19, 1:58:03].",
+    "topics": [
+      "futurecasting",
+      "identity",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/16/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/16-your-future-is-a-living-system/ideas/idea-16-the-future-is-described-as-a-living.yaml"
+  },
+  {
+    "id": "idea-16-this-mindset-frees-one-from-the-pressure-of-perfect-planning",
+    "chapter": "16",
+    "kind": "principle",
+    "title": "This Mindset Frees One From The Pressure Of Perfect Planning",
+    "one_liner": "This mindset frees one from the pressure of perfect planning, allowing them to shape an adaptable, abundant life [2:01:44, 2:01:55].",
+    "description": "This mindset frees one from the pressure of perfect planning, allowing them to shape an adaptable, abundant life [2:01:44, 2:01:55].",
+    "topics": [
+      "futurecasting",
+      "identity",
+      "alignment"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/16/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/16-your-future-is-a-living-system/ideas/idea-16-this-mindset-frees-one-from-the-pressure-of-perfect-planning.yaml"
+  },
+  {
+    "id": "idea-13-failsafe-systems-are-resilient",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "Failsafe Systems Are Resilient",
+    "one_liner": "Failsafe systems are resilient, stripped-down versions of routines, built in advance as an \"emergency mode\" to survive disruptions (illness, strain) [1:35:01, 1:36:01].",
+    "description": "Failsafe systems are resilient, stripped-down versions of routines, built in advance as an \"emergency mode\" to survive disruptions (illness, strain) [1:35:01, 1:36:01]. These systems focus on non-negotiables\u2014the minimum actions needed to prevent major regression [1:36:22].",
+    "topics": [
+      "resilience",
+      "system",
+      "risk"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/13/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/13-failsafe-systems-for-tough-seasons/ideas/idea-13-failsafe-systems-are-resilient.yaml"
+  },
+  {
+    "id": "idea-13-systems-focus-on-non-negotiablesthe-minimum-actions-needed-to-prevent-major-regression-1",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "Systems Focus On Non-Negotiables\u2014The Minimum Actions Needed To Prevent Major Regression [1",
+    "one_liner": "These systems focus on non-negotiables\u2014the minimum actions needed to prevent major regression [1:36:22].",
+    "description": "These systems focus on non-negotiables\u2014the minimum actions needed to prevent major regression [1:36:22]. The strategy involves redefining success for the season (showing up for the basics, not peak performance) [1:37:06], reducing decision fatigue [1:37:43], and utilizing a reduced scope (e.g., writing 100 words instead of 1,000) to ensure the chain of action is never entirely broken [1:39:27, 1:39:46].",
+    "topics": [
+      "resilience",
+      "system",
+      "risk"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/13/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/13-failsafe-systems-for-tough-seasons/ideas/idea-13-systems-focus-on-non-negotiablesthe-minimum-actions-needed-to-prevent-major-regression-1.yaml"
+  },
+  {
+    "id": "idea-13-the-strategy-involves-redefining-success-for-the-season-showing-up-for-the-basics",
+    "chapter": "13",
+    "kind": "principle",
+    "title": "The Strategy Involves Redefining Success For The Season (Showing Up For The Basics",
+    "one_liner": "The strategy involves redefining success for the season (showing up for the basics, not peak performance) [1:37:06], reducing decision fatigue [1:37:43], and utilizing a reduced scope (e.g., writing 100 words instead of 1,000) to ensure the chain of action is never entirely broken [1:39:27, 1:39:46].",
+    "description": "The strategy involves redefining success for the season (showing up for the basics, not peak performance) [1:37:06], reducing decision fatigue [1:37:43], and utilizing a reduced scope (e.g., writing 100 words instead of 1,000) to ensure the chain of action is never entirely broken [1:39:27, 1:39:46].",
+    "topics": [
+      "resilience",
+      "system",
+      "risk"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/13/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/13-failsafe-systems-for-tough-seasons/ideas/idea-13-the-strategy-involves-redefining-success-for-the-season-showing-up-for-the-basics.yaml"
+  },
+  {
+    "id": "idea-17-addresses-building-systems-that-outlast-the-individual",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "Addresses Building Systems That Outlast The Individual",
+    "one_liner": "This chapter addresses building systems that outlast the individual, such as financial frameworks, educational processes, or organizational models, to create enduring impact [2:02:34, 2:03:09].",
+    "description": "This chapter addresses building systems that outlast the individual, such as financial frameworks, educational processes, or organizational models, to create enduring impact [2:02:34, 2:03:09]. Key elements include documentation (writing down processes for others to replicate and adapt) [2:04:15, 2:04:33], resilience (adaptability to different people and eras) [2:04:45], and clear values (acting as a compass to maintain the system's original purpose) [2:05:18, 2:05:29].",
+    "topics": [
+      "legacy",
+      "contribution",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/17/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/17-generational-and-legacy-systems/ideas/idea-17-addresses-building-systems-that-outlast-the-individual.yaml"
+  },
+  {
+    "id": "idea-17-building-with-legacy-in-mind-shifts-the-focus-from-immediate-results-to-lasting-influence-and-ensures",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "Building With Legacy In Mind Shifts The Focus From Immediate Results To Lasting Influence And Ensures",
+    "one_liner": "Building with legacy in mind shifts the focus from immediate results to lasting influence and ensures the impact continues to unfold long after one's own chapter is complete [2:07:50, 2:08:34].",
+    "description": "Building with legacy in mind shifts the focus from immediate results to lasting influence and ensures the impact continues to unfold long after one's own chapter is complete [2:07:50, 2:08:34].",
+    "topics": [
+      "legacy",
+      "contribution",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/17/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/17-generational-and-legacy-systems/ideas/idea-17-building-with-legacy-in-mind-shifts-the-focus-from-immediate-results-to-lasting-influence-and-ensures.yaml"
+  },
+  {
+    "id": "idea-17-key-elements-include-documentation-writing-down-processes-for-others-to-replicate-and-adapt-2",
+    "chapter": "17",
+    "kind": "principle",
+    "title": "Key Elements Include Documentation (Writing Down Processes For Others To Replicate And Adapt) [2",
+    "one_liner": "Key elements include documentation (writing down processes for others to replicate and adapt) [2:04:15, 2:04:33], resilience (adaptability to different people and eras) [2:04:45], and clear values (acting as a compass to maintain the system's original purpose) [2:05:18, 2:05:29].",
+    "description": "Key elements include documentation (writing down processes for others to replicate and adapt) [2:04:15, 2:04:33], resilience (adaptability to different people and eras) [2:04:45], and clear values (acting as a compass to maintain the system's original purpose) [2:05:18, 2:05:29]. Building with legacy in mind shifts the focus from immediate results to lasting influence and ensures the impact continues to unfold long after one's own chapter is complete [2:07:50, 2:08:34].",
+    "topics": [
+      "legacy",
+      "contribution",
+      "structure"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/17/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/17-generational-and-legacy-systems/ideas/idea-17-key-elements-include-documentation-writing-down-processes-for-others-to-replicate-and-adapt-2.yaml"
+  },
+  {
+    "id": "idea-08-feedback-is-simply-informationa-tool-for-growth-59",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Feedback Is Simply Information\u2014A Tool For Growth [59",
+    "one_liner": "Feedback is simply information\u2014a tool for growth [59:02].",
+    "description": "Feedback is simply information\u2014a tool for growth [59:02]. Systems require two types of feedback: outcome feedback (measuring final results, like savings accumulated) and process feedback (measuring execution consistency, like skipping review sessions).",
+    "topics": [
+      "feedback",
+      "adaptability",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/08-feedback-loops-that-fuel-growth/ideas/idea-08-feedback-is-simply-informationa-tool-for-growth-59.yaml"
+  },
+  {
+    "id": "idea-08-feedback-should-guide-improvements-that-make-the-system-easier-and-more-reliable",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Feedback Should Guide Improvements That Make The System Easier And More Reliable",
+    "one_liner": "Feedback should guide improvements that make the system easier and more reliable, ensuring it is adaptable and aligned with needs.",
+    "description": "Feedback should guide improvements that make the system easier and more reliable, ensuring it is adaptable and aligned with needs.",
+    "topics": [
+      "feedback",
+      "adaptability",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/08-feedback-loops-that-fuel-growth/ideas/idea-08-feedback-should-guide-improvements-that-make-the-system-easier-and-more-reliable.yaml"
+  },
+  {
+    "id": "idea-08-regular-check-ins",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Regular Check-Ins",
+    "one_liner": "Regular check-ins, tracking, and seeking external perspectives are key methods.",
+    "description": "Regular check-ins, tracking, and seeking external perspectives are key methods. Feedback should guide improvements that make the system easier and more reliable, ensuring it is adaptable and aligned with needs.",
+    "topics": [
+      "feedback",
+      "adaptability",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/08-feedback-loops-that-fuel-growth/ideas/idea-08-regular-check-ins.yaml"
+  },
+  {
+    "id": "idea-08-require-two-types-of-feedback",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Require Two Types Of Feedback",
+    "one_liner": "Systems require two types of feedback: outcome feedback (measuring final results, like savings accumulated) and process feedback (measuring execution consistency, like skipping review sessions).",
+    "description": "Systems require two types of feedback: outcome feedback (measuring final results, like savings accumulated) and process feedback (measuring execution consistency, like skipping review sessions). Regular check-ins, tracking, and seeking external perspectives are key methods.",
+    "topics": [
+      "feedback",
+      "adaptability",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/08-feedback-loops-that-fuel-growth/ideas/idea-08-require-two-types-of-feedback.yaml"
+  },
+  {
+    "id": "idea-08-since-systems-are-never-truly-finished",
+    "chapter": "08",
+    "kind": "principle",
+    "title": "Since Systems Are Never Truly Finished",
+    "one_liner": "Since systems are never truly finished, feedback loops allow systems to evolve and self-improve over time [58:11, 58:50].",
+    "description": "Since systems are never truly finished, feedback loops allow systems to evolve and self-improve over time [58:11, 58:50]. Feedback is simply information\u2014a tool for growth [59:02].",
+    "topics": [
+      "feedback",
+      "adaptability",
+      "clarity"
+    ],
+    "source_refs": [
+      "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/08/chapter.md:3"
+    ],
+    "path": "UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/ai-structured/build-one-system-at-a-time/chapters/08-feedback-loops-that-fuel-growth/ideas/idea-08-since-systems-are-never-truly-finished.yaml"
+  }
+]

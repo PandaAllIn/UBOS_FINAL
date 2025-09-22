@@ -1,0 +1,14 @@
+id: idea-11-every-week-theres-a-new
+chapter: '11'
+kind: principle
+title: Every Week Theres A New
+one_liner: Every week there's a new app, a new platform, a new productivity system,
+  promising to change your life.
+description: Every week there's a new app, a new platform, a new productivity system,
+  promising to change your life.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:3

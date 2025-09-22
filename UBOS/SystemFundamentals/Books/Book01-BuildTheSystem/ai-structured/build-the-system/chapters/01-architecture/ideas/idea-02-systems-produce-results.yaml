@@ -1,0 +1,26 @@
+id: idea-02-systems-produce-results
+chapter: "01"
+kind: principle
+title: Systems Produce Current Results
+one_liner: "Your routines already form a system delivering exactly what you experience."
+description: |
+  The chapter reframes daily outcomes as the predictable outputs of existing routines, beliefs, and defaults.
+  Chaos, inconsistent energy, and unfinished goals are not character defects—they are evidence of system design.
+  By diagnosing the architecture instead of blaming the individual, builders can target structural redesigns that
+  change results without relying on more effort or motivation.
+topics:
+  - system
+  - structure
+  - alignment
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:23
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:27
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:29
+actions:
+  - List three recurring outcomes you dislike and link each to the routine or default producing it.
+  - Identify one flawed component in your current system and outline a redesign.
+related_ids:
+  - practice-05-weekly-review
+metadata:
+  token_estimate: 130
+  reading_time_seconds: 50

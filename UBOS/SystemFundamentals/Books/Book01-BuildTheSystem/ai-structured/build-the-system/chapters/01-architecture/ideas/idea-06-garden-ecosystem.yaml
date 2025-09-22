@@ -1,0 +1,24 @@
+id: idea-06-garden-ecosystem
+chapter: "01"
+kind: metaphor
+title: Garden Ecosystem Design
+one_liner: "Like a garden, your life flourishes when the environment supports the seeds you plant."
+description: |
+  The author asks readers to see life as an ecosystem. Intentions, values, and ideas are seeds that only grow
+  when the surrounding environment—time, energy, physical space—is designed to nourish them. System builders
+  focus on shaping the soil, sunlight, and watering schedule so growth becomes natural rather than forced.
+topics:
+  - environment
+  - architecture
+  - abundance
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:64
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/key-concepts.md:52
+actions:
+  - Map the "soil," "sunlight," and "water" equivalents for a single goal (environment, time, energy).
+  - Adjust one environmental factor to better support the intention you are cultivating.
+related_ids:
+  - practice-03-first-project
+metadata:
+  token_estimate: 125
+  reading_time_seconds: 45

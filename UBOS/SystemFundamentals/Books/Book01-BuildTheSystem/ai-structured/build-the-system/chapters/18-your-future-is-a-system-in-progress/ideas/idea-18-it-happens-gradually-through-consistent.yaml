@@ -1,0 +1,12 @@
+id: idea-18-it-happens-gradually-through-consistent
+chapter: '18'
+kind: principle
+title: It Happens Gradually Through Consistent
+one_liner: It happens gradually through consistent structure.
+description: It happens gradually through consistent structure.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/18/key-ideas.md:10

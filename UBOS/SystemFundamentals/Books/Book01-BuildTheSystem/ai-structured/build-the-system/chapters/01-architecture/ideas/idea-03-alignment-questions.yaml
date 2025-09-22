@@ -1,0 +1,26 @@
+id: idea-03-alignment-questions
+chapter: "01"
+kind: question
+title: Alignment Diagnostic Questions
+one_liner: "Four core questions reveal whether your architecture supports the life you claim to want."
+description: |
+  Alignment starts by interrogating the system with intentional prompts: What life do you want daily?
+  Which emotional state must be sustained? What work brings you alive? Which routines drain you?
+  Answering these questions surfaces the structural gaps between current design and desired identity,
+  directing attention toward upgrades that actually matter.
+topics:
+  - alignment
+  - clarity
+  - architecture
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:36
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/exercises.md:3
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:35
+actions:
+  - Schedule a 30-minute session to journal answers to the four alignment questions.
+  - Highlight misalignments between answers and current routines for redesign.
+related_ids:
+  - practice-02-alignment-session
+metadata:
+  token_estimate: 110
+  reading_time_seconds: 40

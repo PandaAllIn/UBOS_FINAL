@@ -1,0 +1,18 @@
+id: practice-02-endgame-clarity-map
+chapter: '02'
+kind: checklist
+title: Endgame Clarity Map
+prompt: Translate strategic clarity into measurable checkpoints.
+steps:
+- Write the future state you are building in vivid detail.
+- List three milestone outcomes that prove you are on track.
+- Define inputs and behaviours required for the next milestone.
+- Schedule a monthly review to adjust targets as clarity sharpens.
+expected_outcome: A reverse-engineered roadmap that keeps execution tethered to the
+  vision.
+topics:
+- clarity
+- vision
+- alignment
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/02/exercises.md:3

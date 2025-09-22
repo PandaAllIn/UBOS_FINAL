@@ -1,0 +1,25 @@
+id: idea-07-small-hinges
+chapter: "01"
+kind: principle
+title: Small Hinges Swing Big Doors
+one_liner: "Tiny architectural upgrades compound into disproportionate gains."
+description: |
+  Systems scale by stacking modest but consistent improvements. One restructured routine, environment tweak,
+  or boundary can unlock cascading benefits. Rather than overhaul everything, system builders iterate on small
+  hinges that gradually swing bigger results.
+topics:
+  - scale
+  - structure
+  - alignment
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:77
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:84
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:83
+actions:
+  - Choose one small routine to redesign and document downstream effects over two weeks.
+  - Create a list of "hinge" opportunities where minor changes could free significant capacity.
+related_ids:
+  - practice-06-monthly-review
+metadata:
+  token_estimate: 110
+  reading_time_seconds: 40

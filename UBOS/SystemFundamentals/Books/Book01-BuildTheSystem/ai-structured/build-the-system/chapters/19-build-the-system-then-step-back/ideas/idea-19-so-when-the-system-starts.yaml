@@ -1,0 +1,12 @@
+id: idea-19-so-when-the-system-starts
+chapter: '19'
+kind: principle
+title: So When The System Starts
+one_liner: So, when the system starts to work without them, they panic.
+description: So, when the system starts to work without them, they panic.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/19/key-ideas.md:9

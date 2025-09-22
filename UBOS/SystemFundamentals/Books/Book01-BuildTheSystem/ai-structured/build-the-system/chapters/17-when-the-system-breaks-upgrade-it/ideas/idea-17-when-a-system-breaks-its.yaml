@@ -1,0 +1,12 @@
+id: idea-17-when-a-system-breaks-its
+chapter: '17'
+kind: principle
+title: When A System Breaks Its
+one_liner: When a system breaks, it's not a sign that you failed.
+description: When a system breaks, it's not a sign that you failed.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/17/key-ideas.md:5

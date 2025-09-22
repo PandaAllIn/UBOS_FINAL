@@ -1,0 +1,12 @@
+id: idea-11-the-core-of-any-effective
+chapter: '11'
+kind: principle
+title: The Core Of Any Effective
+one_liner: The core of any effective system is not the tool, but the process.
+description: The core of any effective system is not the tool, but the process.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:9

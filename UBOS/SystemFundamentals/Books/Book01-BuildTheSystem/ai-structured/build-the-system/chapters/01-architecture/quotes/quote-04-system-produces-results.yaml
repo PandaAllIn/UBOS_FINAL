@@ -1,0 +1,17 @@
+id: quote-04-system-produces-results
+chapter: "01"
+kind: quote
+speaker: Kelvin W. Nathan
+text: |
+  "It's because your system is producing exactly what it was built to produce."
+context: |
+  Underscores the idea that outcomes mirror design, not personal worth.
+topics:
+  - system
+  - structure
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/quotes.md:7
+related_ids:
+  - idea-02-systems-produce-results
+metadata:
+  token_estimate: 30

@@ -1,0 +1,14 @@
+id: idea-16-outsourcing-tasks-when-things-start
+chapter: '16'
+kind: principle
+title: Outsourcing Tasks When Things Start
+one_liner: Outsourcing tasks when things start to break down instead of designing
+  support from the start.
+description: Outsourcing tasks when things start to break down instead of designing
+  support from the start.
+topics:
+- system
+- clarity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/16/key-ideas.md:4

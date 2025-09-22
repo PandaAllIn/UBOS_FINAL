@@ -1,0 +1,25 @@
+id: idea-01-blueprint-thinking
+chapter: "01"
+kind: principle
+title: Blueprint Thinking
+one_liner: "Every abundant life begins with a deliberate blueprint, not improvisation."
+description: |
+  The chapter opens by comparing life design to skyscraper construction: no lasting structure goes up without
+  a carefully drafted plan. Abundance is engineered by specifying the architecture of thoughts, systems,
+  and alignment before chasing outcomes. Treating the future as a build requires slowing down to map the
+  foundational structure that can hold long-term ambition.
+topics:
+  - architecture
+  - system
+  - alignment
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/chapter.md:11
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/chapter-summary.md:5
+actions:
+  - Draft a one-page blueprint describing the future life you intend to build before adjusting routines.
+  - Audit current goals and flag any that lack a supporting structural plan.
+related_ids:
+  - practice-01-architecture-audit
+metadata:
+  token_estimate: 120
+  reading_time_seconds: 45

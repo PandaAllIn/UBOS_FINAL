@@ -1,0 +1,13 @@
+id: idea-03-you-dont-know-where-the-enemy-is-hiding
+chapter: '03'
+kind: principle
+title: You Don'T Know Where The Enemy Is Hiding
+one_liner: You don't know where the enemy is hiding.
+description: You don't know where the enemy is hiding. You have no idea what weapons
+  are available.
+topics:
+- information
+- strategy
+- execution
+source_refs:
+- UBOS/SystemFundamentals/Books/Book03-The-Art-of-Strategic-Thinking/source/chapters/03/chapter.md:3

@@ -1,0 +1,22 @@
+id: practice-05-weekly-review
+chapter: "01"
+kind: checklist
+title: Weekly System Review
+prompt: |
+  Run this review each week to evaluate how your new architecture performed.
+steps:
+  - Answer the five reflection questions covering execution, wins, friction, energy, and improvements.
+  - Rate success metrics for consistency, energy, results, and ease.
+  - Capture insights to iterate on the next week's system configuration.
+expected_outcome: |
+  A feedback loop that keeps small systems evolving without relying on memory or mood.
+topics:
+  - feedback
+  - structure
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:115
+related_ids:
+  - idea-02-systems-produce-results
+metadata:
+  difficulty: intermediate
+  token_estimate: 120

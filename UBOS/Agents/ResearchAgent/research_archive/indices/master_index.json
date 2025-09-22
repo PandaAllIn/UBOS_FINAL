@@ -1,0 +1,172 @@
+{
+  "total_research_count": 8,
+  "last_updated": "2025-09-21T16:29:06.105399+00:00",
+  "research_by_date": {
+    "2025-09-21": [
+      "research-20250921-143325-test-research-storage-system",
+      "research-20250921-160214-advanced-techniques-for-buildi",
+      "research-20250921-160306-google-gemini-25-pro-yaml-proc",
+      "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "research-20250921-160341-philosophical-concept-analysis",
+      "research-20250921-162843-google-gemini-api-python-integ",
+      "research-20250921-162855-yaml-processing-and-knowledge-",
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+    ]
+  },
+  "research_by_topic": {
+    "architecture": [
+      "research-20250921-143325-test-research-storage-system",
+      "research-20250921-160214-advanced-techniques-for-buildi",
+      "research-20250921-160306-google-gemini-25-pro-yaml-proc",
+      "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "research-20250921-162843-google-gemini-api-python-integ",
+      "research-20250921-162855-yaml-processing-and-knowledge-",
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+    ],
+    "knowledge_management": [
+      "research-20250921-143325-test-research-storage-system",
+      "research-20250921-160214-advanced-techniques-for-buildi",
+      "research-20250921-160306-google-gemini-25-pro-yaml-proc",
+      "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "research-20250921-160341-philosophical-concept-analysis",
+      "research-20250921-162843-google-gemini-api-python-integ",
+      "research-20250921-162855-yaml-processing-and-knowledge-",
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+    ],
+    "research": [
+      "research-20250921-143325-test-research-storage-system",
+      "research-20250921-160214-advanced-techniques-for-buildi",
+      "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "research-20250921-160341-philosophical-concept-analysis",
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+    ],
+    "technology": [
+      "research-20250921-143325-test-research-storage-system",
+      "research-20250921-160214-advanced-techniques-for-buildi",
+      "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "research-20250921-160341-philosophical-concept-analysis",
+      "research-20250921-162855-yaml-processing-and-knowledge-"
+    ],
+    "strategy": [
+      "research-20250921-143325-test-research-storage-system",
+      "research-20250921-162855-yaml-processing-and-knowledge-"
+    ],
+    "ai_agents": [
+      "research-20250921-160214-advanced-techniques-for-buildi",
+      "research-20250921-160328-knowledge-graph-pattern-recogn"
+    ],
+    "implementation": [
+      "research-20250921-160306-google-gemini-25-pro-yaml-proc",
+      "research-20250921-160341-philosophical-concept-analysis",
+      "research-20250921-162843-google-gemini-api-python-integ",
+      "research-20250921-162855-yaml-processing-and-knowledge-",
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+    ]
+  },
+  "research_by_model": {
+    "sonar": [
+      "research-20250921-143325-test-research-storage-system",
+      "research-20250921-160306-google-gemini-25-pro-yaml-proc",
+      "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "research-20250921-160341-philosophical-concept-analysis",
+      "research-20250921-162843-google-gemini-api-python-integ",
+      "research-20250921-162855-yaml-processing-and-knowledge-",
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+    ],
+    "sonar-pro": [
+      "research-20250921-160214-advanced-techniques-for-buildi"
+    ]
+  },
+  "recent_research": [
+    {
+      "id": "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
+      "query": "Neo4j or NetworkX for AI knowledge graphs Python implementation",
+      "timestamp": "2025-09-21T16:29:06.088537+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "research",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20250921-162855-yaml-processing-and-knowledge-",
+      "query": "YAML processing and knowledge graph creation with Python",
+      "timestamp": "2025-09-21T16:28:55.488763+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "technology",
+        "strategy",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20250921-162843-google-gemini-api-python-integ",
+      "query": "Google Gemini API Python integration patterns and best practices",
+      "timestamp": "2025-09-21T16:28:43.746198+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20250921-160341-philosophical-concept-analysis",
+      "query": "philosophical concept analysis AI systems",
+      "timestamp": "2025-09-21T16:03:41.539502+00:00",
+      "topics": [
+        "knowledge_management",
+        "research",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "query": "knowledge graph pattern recognition with AI",
+      "timestamp": "2025-09-21T16:03:28.781663+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "knowledge_management",
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "research-20250921-160306-google-gemini-25-pro-yaml-proc",
+      "query": "Google Gemini 2.5 Pro YAML processing capabilities",
+      "timestamp": "2025-09-21T16:03:06.036000+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20250921-160214-advanced-techniques-for-buildi",
+      "query": "advanced techniques for building foundational AI systems that serve as knowledge consultants for other AI agents, including graph databases and semantic relationships",
+      "timestamp": "2025-09-21T16:02:14.590687+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "knowledge_management",
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "research-20250921-143325-test-research-storage-system",
+      "query": "test research storage system",
+      "timestamp": "2025-09-21T14:33:25.589353+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "research",
+        "technology",
+        "strategy"
+      ]
+    }
+  ]
+}

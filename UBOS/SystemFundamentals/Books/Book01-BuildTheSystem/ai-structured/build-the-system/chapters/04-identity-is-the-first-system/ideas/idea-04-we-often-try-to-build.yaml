@@ -1,0 +1,12 @@
+id: idea-04-we-often-try-to-build
+chapter: '04'
+kind: principle
+title: We Often Try To Build
+one_liner: We often try to build our lives by focusing on external results.
+description: We often try to build our lives by focusing on external results.
+topics:
+- system
+- identity
+- design
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/04/key-ideas.md:7

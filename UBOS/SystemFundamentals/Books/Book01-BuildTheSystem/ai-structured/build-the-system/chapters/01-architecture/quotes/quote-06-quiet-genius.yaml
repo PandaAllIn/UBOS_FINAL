@@ -1,0 +1,17 @@
+id: quote-06-quiet-genius
+chapter: "01"
+kind: quote
+speaker: Kelvin W. Nathan
+text: |
+  "That's the quiet genius of a well-designed system."
+context: |
+  Highlights how invisible structure delivers consistent results without drama.
+topics:
+  - system
+  - structure
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/01/quotes.md:9
+related_ids:
+  - idea-04-systems-beat-willpower
+metadata:
+  token_estimate: 25

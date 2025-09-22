@@ -1,0 +1,12 @@
+id: idea-15-this-internal-narrative-functions-like
+chapter: '15'
+kind: principle
+title: This Internal Narrative Functions Like
+one_liner: This internal narrative functions like an operating system.
+description: This internal narrative functions like an operating system.
+topics:
+- system
+- goal
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/15/key-ideas.md:5

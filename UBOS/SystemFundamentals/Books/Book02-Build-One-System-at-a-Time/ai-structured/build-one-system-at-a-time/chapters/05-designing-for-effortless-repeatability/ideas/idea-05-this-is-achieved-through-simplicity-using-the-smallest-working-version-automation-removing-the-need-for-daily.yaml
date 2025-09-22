@@ -1,0 +1,20 @@
+id: idea-05-this-is-achieved-through-simplicity-using-the-smallest-working-version-automation-removing-the-need-for-daily
+chapter: '05'
+kind: principle
+title: This Is Achieved Through Simplicity (Using The Smallest Working Version); Automation
+  (Removing The Need For Daily
+one_liner: This is achieved through simplicity (using the smallest working version);
+  automation (removing the need for daily willpower by scheduling or prepping the
+  environment); and triggers (cues that turn the system into a reflex).
+description: This is achieved through simplicity (using the smallest working version);
+  automation (removing the need for daily willpower by scheduling or prepping the
+  environment); and triggers (cues that turn the system into a reflex). Other elements
+  include reducing variability so the system functions under a wide range of conditions,
+  and building in a reduced version to use on difficult days to prevent breaking the
+  chain entirely.
+topics:
+- automation
+- resilience
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book02-Build-One-System-at-a-Time/source/chapters/05/chapter.md:3

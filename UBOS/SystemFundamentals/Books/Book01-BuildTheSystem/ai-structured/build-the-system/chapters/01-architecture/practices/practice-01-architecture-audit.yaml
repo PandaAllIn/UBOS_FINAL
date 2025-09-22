@@ -1,0 +1,25 @@
+id: practice-01-architecture-audit
+chapter: "01"
+kind: checklist
+title: Life Architecture Audit
+prompt: |
+  Use this checklist to rate the structural health of core life systems before designing upgrades.
+steps:
+  - Score your morning routine for consistency, energy, and intention.
+  - Review physical and digital workspace friction points.
+  - Evaluate time management boundaries and planning cadence.
+  - Assess energy management habits, including recovery systems.
+  - Examine financial workflows for strategic alignment.
+expected_outcome: |
+  A scored snapshot that highlights which systems need redesign to support abundance.
+topics:
+  - structure
+  - alignment
+  - clarity
+source_refs:
+  - UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/BuildTheSystem/02-chapter-01-abundance-architecture/actionable-insights.md:5
+related_ids:
+  - idea-01-blueprint-thinking
+metadata:
+  difficulty: foundation
+  token_estimate: 130

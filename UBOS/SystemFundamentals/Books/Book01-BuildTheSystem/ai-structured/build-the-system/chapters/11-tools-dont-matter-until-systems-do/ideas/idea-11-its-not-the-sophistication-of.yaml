@@ -1,0 +1,14 @@
+id: idea-11-its-not-the-sophistication-of
+chapter: '11'
+kind: principle
+title: Its Not The Sophistication Of
+one_liner: It's not the sophistication of the tool, it's the clarity of the system
+  behind it.
+description: It's not the sophistication of the tool, it's the clarity of the system
+  behind it.
+topics:
+- system
+- design
+- structure
+source_refs:
+- UBOS/SystemFundamentals/Books/Book01-BuildTheSystem/source/docs/chapters/11/key-ideas.md:8
