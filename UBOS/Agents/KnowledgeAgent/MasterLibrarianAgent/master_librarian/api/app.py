@@ -1,10 +1,15 @@
-"""Flask application exposing the Master Librarian services."""
+"""Flask application exposing the Master Librarian services.
+
+Adds optional bearer token authentication for write endpoints when
+`LIBRARIAN_API_TOKEN` (or `ML_API_TOKEN`) is set in the environment.
+"""
 
 from __future__ import annotations
 
 import logging
 from typing import Dict, Optional
 
+import os
 from flask import Flask, jsonify, request
 
 from master_librarian.graph import UBOSKnowledgeGraph
@@ -39,6 +44,8 @@ def create_app(
         consultation_service = ConsultationService(concepts, graph, gemini_client)
 
     app = Flask(__name__)
+    # Optional bearer auth token
+    app.config["AUTH_TOKEN"] = os.getenv("LIBRARIAN_API_TOKEN") or os.getenv("ML_API_TOKEN")
 
     app.config["knowledge_concepts"] = concepts
     app.config["knowledge_graph"] = graph
@@ -73,6 +80,13 @@ def create_app(
     # ------------------------------------------------------------------
     @app.post("/consult")
     def consult():
+        # Optional bearer token enforcement
+        token = app.config.get("AUTH_TOKEN")
+        if token:
+            auth_header = request.headers.get("Authorization", "")
+            expected = f"Bearer {token}"
+            if auth_header != expected:
+                return jsonify({"error": "Unauthorized"}), 401
         payload = request.get_json(force=True) or {}
         req = ConsultationRequest(
             task_id=str(payload.get("task_id", "anonymous")),

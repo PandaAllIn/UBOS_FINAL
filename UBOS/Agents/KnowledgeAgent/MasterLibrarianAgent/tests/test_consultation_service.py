@@ -6,7 +6,7 @@ from master_librarian.llm import GeminiResponse, GeminiUnavailableError
 
 
 class StubGeminiClient:
-    def __init__(self, response: GeminiResponse | None = None):
+    def __init__(self, response = None):
         self._response = response
         self.calls = 0
 

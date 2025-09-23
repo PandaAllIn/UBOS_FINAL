@@ -26,3 +26,14 @@ dist/
 build/
 *.egg-info/
 
+# Test caches
+**/.pytest_cache/
+
+# Logs
+*.log
+
+# AI Prime artifacts (reports and outputs)
+UBOS/Agents/AIPrimeAgent/artifacts/
+
+# Local env overrides (already covered above, explicit paths for clarity)
+UBOS/Agents/KnowledgeAgent/MasterLibrarianAgent/.env

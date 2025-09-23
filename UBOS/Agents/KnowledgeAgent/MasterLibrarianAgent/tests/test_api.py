@@ -9,7 +9,7 @@ from master_librarian.services import ConsultationService
 
 
 class StubGeminiClient:
-    def __init__(self, response: GeminiResponse | None = None):
+    def __init__(self, response = None):
         self._response = response
 
     def available(self) -> bool:

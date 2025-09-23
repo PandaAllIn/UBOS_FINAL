@@ -9,10 +9,13 @@ from typing import Any, Dict, Optional
 
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-try:  # pragma: no cover - optional dependency
-    from google import genai
+# Use the modern Google GenerativeAI SDK
+try:
+    import google.generativeai as genai  # type: ignore
+    _GENAI_AVAILABLE = True
 except Exception:  # pragma: no cover
     genai = None
+    _GENAI_AVAILABLE = False
 
 
 @dataclass
@@ -37,34 +40,45 @@ class GeminiClient:
         self,
         api_key: Optional[str] = None,
         *,
-        model: str = "gemini-1.5-pro-latest",
+        model: str = "models/gemini-2.5-pro",
         temperature: float = 0.2,
     ) -> None:
         self._api_key = api_key or os.getenv("GEMINI_API_KEY")
-        self._model = model
+        self._model = os.getenv("GEMINI_MODEL", model)
         self._temperature = temperature
-        self._client = None
+        self._model_client = None
 
-        if genai and self._api_key:
+        # Initialize the modern Google GenerativeAI SDK
+        if _GENAI_AVAILABLE and self._api_key:
             try:  # pragma: no cover - SDK initialisation path
-                self._client = genai.Client(api_key=self._api_key)
+                genai.configure(api_key=self._api_key)
+                self._model_client = genai.GenerativeModel(
+                    model_name=self._model,
+                    generation_config=genai.types.GenerationConfig(
+                        temperature=self._temperature,
+                        max_output_tokens=4096,
+                    )
+                )
             except Exception:  # pragma: no cover
-                self._client = None
+                self._model_client = None
 
     # ------------------------------------------------------------------
     def available(self) -> bool:
-        return self._client is not None
+        return bool(self._model_client)
 
     # ------------------------------------------------------------------
     @retry(reraise=True, wait=wait_exponential(multiplier=2, max=8), stop=stop_after_attempt(3))
     def _generate(self, prompt: str) -> str:
         if not self.available():
             raise GeminiUnavailableError("Gemini client not configured")
-        response = self._client.models.generate_content(
-            model=self._model,
-            contents=prompt,
-        )
-        return response.text  # type: ignore[attr-defined]
+
+        # Use modern Google GenerativeAI SDK
+        if self._model_client is not None:
+            response = self._model_client.generate_content(prompt)
+            return response.text
+
+        # If we reach here, initialization failed at runtime
+        raise GeminiUnavailableError("Gemini SDK initialisation failed")
 
     # ------------------------------------------------------------------
     def generate_consultation(self, prompt: str) -> GeminiResponse:

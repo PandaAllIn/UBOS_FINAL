@@ -1,6 +1,6 @@
 {
-  "total_research_count": 8,
-  "last_updated": "2025-09-21T16:29:06.105399+00:00",
+  "total_research_count": 14,
+  "last_updated": "2025-09-22T18:43:35.535178+00:00",
   "research_by_date": {
     "2025-09-21": [
       "research-20250921-143325-test-research-storage-system",
@@ -11,6 +11,14 @@
       "research-20250921-162843-google-gemini-api-python-integ",
       "research-20250921-162855-yaml-processing-and-knowledge-",
       "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+    ],
+    "2025-09-22": [
+      "research-20250922-084145-ai-agent-architecture-trends",
+      "research-20250922-163104-production-deployment-roadmap-",
+      "research-20250922-163200-production-deployment-roadmap-",
+      "research-20250922-163306-production-deployment-roadmap-",
+      "research-20250922-180208-multiagent-ai-systems-market-a",
+      "research-20250922-184335-security-hardening-plan-for-ub"
     ]
   },
   "research_by_topic": {
@@ -21,7 +29,13 @@
       "research-20250921-160328-knowledge-graph-pattern-recogn",
       "research-20250921-162843-google-gemini-api-python-integ",
       "research-20250921-162855-yaml-processing-and-knowledge-",
-      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
+      "research-20250922-084145-ai-agent-architecture-trends",
+      "research-20250922-163104-production-deployment-roadmap-",
+      "research-20250922-163200-production-deployment-roadmap-",
+      "research-20250922-163306-production-deployment-roadmap-",
+      "research-20250922-180208-multiagent-ai-systems-market-a",
+      "research-20250922-184335-security-hardening-plan-for-ub"
     ],
     "knowledge_management": [
       "research-20250921-143325-test-research-storage-system",
@@ -31,29 +45,50 @@
       "research-20250921-160341-philosophical-concept-analysis",
       "research-20250921-162843-google-gemini-api-python-integ",
       "research-20250921-162855-yaml-processing-and-knowledge-",
-      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
+      "research-20250922-084145-ai-agent-architecture-trends",
+      "research-20250922-163104-production-deployment-roadmap-",
+      "research-20250922-163200-production-deployment-roadmap-",
+      "research-20250922-163306-production-deployment-roadmap-",
+      "research-20250922-184335-security-hardening-plan-for-ub"
     ],
     "research": [
       "research-20250921-143325-test-research-storage-system",
       "research-20250921-160214-advanced-techniques-for-buildi",
       "research-20250921-160328-knowledge-graph-pattern-recogn",
       "research-20250921-160341-philosophical-concept-analysis",
-      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
+      "research-20250922-163200-production-deployment-roadmap-",
+      "research-20250922-180208-multiagent-ai-systems-market-a"
     ],
     "technology": [
       "research-20250921-143325-test-research-storage-system",
       "research-20250921-160214-advanced-techniques-for-buildi",
       "research-20250921-160328-knowledge-graph-pattern-recogn",
       "research-20250921-160341-philosophical-concept-analysis",
-      "research-20250921-162855-yaml-processing-and-knowledge-"
+      "research-20250921-162855-yaml-processing-and-knowledge-",
+      "research-20250922-084145-ai-agent-architecture-trends",
+      "research-20250922-163104-production-deployment-roadmap-",
+      "research-20250922-163200-production-deployment-roadmap-",
+      "research-20250922-163306-production-deployment-roadmap-",
+      "research-20250922-180208-multiagent-ai-systems-market-a",
+      "research-20250922-184335-security-hardening-plan-for-ub"
     ],
     "strategy": [
       "research-20250921-143325-test-research-storage-system",
-      "research-20250921-162855-yaml-processing-and-knowledge-"
+      "research-20250921-162855-yaml-processing-and-knowledge-",
+      "research-20250922-084145-ai-agent-architecture-trends",
+      "research-20250922-163104-production-deployment-roadmap-",
+      "research-20250922-163306-production-deployment-roadmap-"
     ],
     "ai_agents": [
       "research-20250921-160214-advanced-techniques-for-buildi",
-      "research-20250921-160328-knowledge-graph-pattern-recogn"
+      "research-20250921-160328-knowledge-graph-pattern-recogn",
+      "research-20250922-084145-ai-agent-architecture-trends",
+      "research-20250922-163104-production-deployment-roadmap-",
+      "research-20250922-163200-production-deployment-roadmap-",
+      "research-20250922-163306-production-deployment-roadmap-",
+      "research-20250922-180208-multiagent-ai-systems-market-a"
     ],
     "implementation": [
       "research-20250921-160306-google-gemini-25-pro-yaml-proc",
@@ -71,13 +106,88 @@
       "research-20250921-160341-philosophical-concept-analysis",
       "research-20250921-162843-google-gemini-api-python-integ",
       "research-20250921-162855-yaml-processing-and-knowledge-",
-      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
+      "research-20250922-084145-ai-agent-architecture-trends",
+      "research-20250922-180208-multiagent-ai-systems-market-a"
     ],
     "sonar-pro": [
-      "research-20250921-160214-advanced-techniques-for-buildi"
+      "research-20250921-160214-advanced-techniques-for-buildi",
+      "research-20250922-163104-production-deployment-roadmap-",
+      "research-20250922-163200-production-deployment-roadmap-",
+      "research-20250922-163306-production-deployment-roadmap-",
+      "research-20250922-184335-security-hardening-plan-for-ub"
     ]
   },
   "recent_research": [
+    {
+      "id": "research-20250922-184335-security-hardening-plan-for-ub",
+      "query": "Security hardening plan for UBOS in production",
+      "timestamp": "2025-09-22T18:43:35.522822+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "technology"
+      ]
+    },
+    {
+      "id": "research-20250922-180208-multiagent-ai-systems-market-a",
+      "query": "Multi-agent AI systems market analysis 2024",
+      "timestamp": "2025-09-22T18:02:08.018705+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "research-20250922-163306-production-deployment-roadmap-",
+      "query": "Production deployment roadmap for UBOS multi-agent system",
+      "timestamp": "2025-09-22T16:33:06.480840+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "knowledge_management",
+        "technology",
+        "strategy"
+      ]
+    },
+    {
+      "id": "research-20250922-163200-production-deployment-roadmap-",
+      "query": "Production deployment roadmap for UBOS multi-agent system",
+      "timestamp": "2025-09-22T16:32:00.368961+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "knowledge_management",
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "research-20250922-163104-production-deployment-roadmap-",
+      "query": "Production deployment roadmap for UBOS multi-agent system",
+      "timestamp": "2025-09-22T16:31:04.633668+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "knowledge_management",
+        "technology",
+        "strategy"
+      ]
+    },
+    {
+      "id": "research-20250922-084145-ai-agent-architecture-trends",
+      "query": "AI agent architecture trends",
+      "timestamp": "2025-09-22T08:41:45.467459+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "knowledge_management",
+        "technology",
+        "strategy"
+      ]
+    },
     {
       "id": "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
       "query": "Neo4j or NetworkX for AI knowledge graphs Python implementation",
