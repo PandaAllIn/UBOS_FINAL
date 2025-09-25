@@ -1,4 +1,4 @@
-"""LLM helpers for the Master Librarian Agent."""
+"""LLM integration services."""
 
 from .gemini import GeminiClient, GeminiResponse, GeminiUnavailableError
 

@@ -1,0 +1,13 @@
+{
+  "project_id": "ubos-bddda148",
+  "name": "Constitutional AI Democracy Demo",
+  "description": "Demonstration of UBOS Constitutional AI system with real code generation",
+  "created_at": "2025-09-25T10:28:22.760887+00:00",
+  "status": "active",
+  "constitutional_principles": [
+    "Blueprint Thinking - Intentional design before action",
+    "Systems Over Willpower - Structural solutions over manual effort",
+    "Strategic Pause - Reflection and validation checkpoints",
+    "Abundance Mindset - Growth-oriented, scalable approaches"
+  ]
+}

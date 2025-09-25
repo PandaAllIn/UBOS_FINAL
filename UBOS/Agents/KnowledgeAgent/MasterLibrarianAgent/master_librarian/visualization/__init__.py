@@ -1,4 +1,4 @@
-"""Visualization helpers."""
+"""Visualization tools for the knowledge graph."""
 
 from .mermaid import generate_mermaid
 

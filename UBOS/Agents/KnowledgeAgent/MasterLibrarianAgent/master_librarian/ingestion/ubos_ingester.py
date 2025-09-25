@@ -202,4 +202,7 @@ def _extract_ids_from_text(chunks: List[str]) -> List[str]:
     return sorted(candidates)
 
 
-__all__ = ["UBOSKnowledgeIngester"]
+# Alias for backward compatibility
+UbosIngester = UBOSKnowledgeIngester
+
+__all__ = ["UBOSKnowledgeIngester", "UbosIngester"]

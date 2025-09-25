@@ -1,28 +1,9 @@
-"""Master Librarian Agent core package."""
+"""Master Librarian Agent - UBOS Knowledge Core."""
 
-from .models import (
-    Concept,
-    ConceptType,
-    Relationship,
-    RelationshipType,
-    ConsultationRequest,
-    ConsultationResult,
-    Recommendation,
-)
-from .graph import UBOSKnowledgeGraph
-from .services import PatternEngine, ConsultationService
+__version__ = "1.0.0"
+
 from .api import create_app
-
-__all__ = [
-    "Concept",
-    "ConceptType",
-    "Relationship",
-    "RelationshipType",
-    "ConsultationRequest",
-    "ConsultationResult",
-    "Recommendation",
-    "UBOSKnowledgeGraph",
-    "PatternEngine",
-    "ConsultationService",
-    "create_app",
-]
+from .cli import main
+from .graph import UBOSKnowledgeGraph
+from .ingestion import UbosIngester
+from .services import ConsultationService

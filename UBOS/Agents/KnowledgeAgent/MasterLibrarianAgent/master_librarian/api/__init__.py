@@ -1,4 +1,4 @@
-"""API exports."""
+"""Master Librarian REST API."""
 
 from .app import create_app
 

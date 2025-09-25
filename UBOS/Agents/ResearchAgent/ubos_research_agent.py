@@ -25,6 +25,10 @@ from enum import Enum
 from datetime import datetime, timezone
 import re
 import os
+from pathlib import Path
+
+# Add the script's directory to the Python path to ensure local imports work
+sys.path.append(str(Path(__file__).parent))
 
 from research_storage import ResearchDocumentStorage, ResearchInsight, ResearchSource, ResearchMetadata, QualityMetrics
 

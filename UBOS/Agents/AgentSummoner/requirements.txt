@@ -1,0 +1,5 @@
+# Agent Summoner Requirements
+# Constitutional Agent Factory for UBOS
+
+# Core dependencies (inherited from parent project)
+# No additional dependencies required - uses existing UBOS patterns

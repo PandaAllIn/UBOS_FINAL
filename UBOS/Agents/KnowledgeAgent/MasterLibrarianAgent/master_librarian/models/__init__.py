@@ -1,15 +1,15 @@
-"""Data models for the Master Librarian knowledge base."""
+"""Core data models for the Master Librarian."""
 
 from .concept import Concept, ConceptType
-from .relationship import Relationship, RelationshipType
 from .consultation import ConsultationRequest, ConsultationResult, Recommendation
+from .relationship import Relationship, RelationshipType
 
 __all__ = [
     "Concept",
     "ConceptType",
-    "Relationship",
-    "RelationshipType",
     "ConsultationRequest",
     "ConsultationResult",
     "Recommendation",
+    "Relationship",
+    "RelationshipType",
 ]

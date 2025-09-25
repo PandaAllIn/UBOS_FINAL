@@ -1,0 +1,69 @@
+{
+  "id": "research-20250925-134432-what-are-the-best-practices-fo",
+  "timestamp": "2025-09-25T13:44:32.578901+00:00",
+  "agent_version": "1.0.0",
+  "query": {
+    "original": "What are the best practices for designing a real-time data dashboard for tracking funding opportunities?",
+    "complexity_score": 1,
+    "analysis": {
+      "score": 1,
+      "word_count": 15,
+      "has_complex_terms": false,
+      "has_reasoning_terms": false,
+      "recommended_model": "sonar"
+    }
+  },
+  "execution": {
+    "model_used": "sonar",
+    "depth": "medium",
+    "search_mode": "medium",
+    "duration_seconds": 0
+  },
+  "findings": {
+    "summary": "{\"research_id\": \"test-research-001\", \"query\": \"What are the best practices for designing a real-time data dashboard for tracking funding opportunities?\", \"findings\": {\"summary\": \"Real-time data dashboards for funding opportunities require strategic data architecture, user-centric design, and robust technical infrastructure.",
+    "content": "{\"research_id\": \"test-research-001\", \"query\": \"What are the best practices for designing a real-time data dashboard for tracking funding opportunities?\", \"findings\": {\"summary\": \"Real-time data dashboards for funding opportunities require strategic data architecture, user-centric design, and robust technical infrastructure.\", \"key_insights\": [{\"insight\": \"Implement real-time data streaming with Apache Kafka or similar technologies\", \"confidence\": 0.9, \"source\": \"Technical Architecture Best Practices\"}, {\"insight\": \"Use responsive design principles for cross-device accessibility\", \"confidence\": 0.85, \"source\": \"UX Design Guidelines\"}, {\"insight\": \"Implement role-based access control for data security\", \"confidence\": 0.95, \"source\": \"Security Best Practices\"}], \"recommendations\": [\"Use microservices architecture for scalability\", \"Implement automated data validation pipelines\", \"Design for mobile-first user experience\"]}, \"model_used\": \"sonar-pro\", \"timestamp\": 1758807611.182473}",
+    "key_insights": []
+  },
+  "sources": [],
+  "topics": [
+    "architecture",
+    "knowledge_management",
+    "research",
+    "technology",
+    "strategy"
+  ],
+  "usage": {
+    "prompt_tokens": 100,
+    "completion_tokens": 900,
+    "total_tokens": 1000
+  },
+  "metadata": {
+    "token_estimate": 133.9,
+    "reading_time_seconds": 51.5,
+    "language": "en",
+    "extractable_facts": 0,
+    "citation_count": 0
+  },
+  "quality": {
+    "factual_confidence": 0.5,
+    "source_diversity": 0.0,
+    "recency_score": 0.8,
+    "depth_score": 0.2
+  },
+  "related_research": [],
+  "agent_notes": {
+    "follow_up_queries": [
+      "Common pitfalls in What are the  for designing a real-time data dashboard for tracking funding opportunities?"
+    ],
+    "applications": [
+      {
+        "context": "knowledge_agent",
+        "use_case": "Pattern recognition and knowledge integration"
+      },
+      {
+        "context": "specification_agent",
+        "use_case": "Informed requirement gathering"
+      }
+    ]
+  }
+}

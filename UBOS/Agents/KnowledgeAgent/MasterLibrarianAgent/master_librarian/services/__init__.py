@@ -1,6 +1,6 @@
-"""Service layer exports for the Master Librarian Agent."""
+"""High-level services for the Master Librarian."""
 
-from .pattern_engine import PatternEngine
 from .consultation import ConsultationService
+from .pattern_engine import PatternEngine
 
-__all__ = ["PatternEngine", "ConsultationService"]
+__all__ = ["ConsultationService", "PatternEngine"]

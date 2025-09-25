@@ -1,0 +1,243 @@
+agent_notes:
+  applications:
+  - context: knowledge_agent
+    use_case: Pattern recognition and knowledge integration
+  - context: specification_agent
+    use_case: Informed requirement gathering
+  follow_up_queries:
+  - Common pitfalls in What are the  for designing a real-time data dashboard for
+    tracking funding opportunities?
+agent_version: 1.0.0
+execution:
+  depth: medium
+  duration_seconds: 0
+  model_used: sonar
+  search_mode: medium
+findings:
+  content: 'The best practices for designing a **real-time data dashboard for tracking
+    funding opportunities** focus on clarity, relevance, and enabling fast, informed
+    decision-making under time pressure. Key principles include:
+
+
+    - **Prioritize critical KPIs and metrics** related to funding, such as total funds
+    raised, funding rounds status, donor/investor activity, and deadlines, placing
+    them prominently (top-left or center) with bold fonts and clear labels[3][12].
+
+
+    - **Use a clean, intuitive layout** that groups related information logically,
+    with a clear visual hierarchy to guide user attention to the most urgent or important
+    data first. Avoid clutter to reduce cognitive load[3][8].
+
+
+    - **Incorporate real-time alerts and notifications** using high-contrast colors
+    (e.g., red or orange) to highlight urgent funding opportunities, approaching deadlines,
+    or anomalies in funding flows. Animations can draw attention but should be subtle
+    to avoid distraction[3].
+
+
+    - **Enable personalization and role-based views** so different stakeholders (e.g.,
+    fundraisers, executives, grant managers) see the most relevant data and KPIs for
+    their decision-making needs[3][12].
+
+
+    - **Use interactive charts and graphs** to show trends, comparisons, and progress
+    over time, employing color coding (green/blue for positive, grey for neutral)
+    to aid quick interpretation[3][12].
+
+
+    - **Ensure data accuracy, security, and real-time updates** by integrating streaming
+    data pipelines that capture and transform funding data continuously, reflecting
+    changes within seconds to support proactive responses[9][12].
+
+
+    - **Provide filtering and navigation controls** with minimal visual weight to
+    allow users to drill down into specific funding sources, time periods, or project
+    statuses without overwhelming the interface[3].
+
+
+    - **Design for fast scanning and pattern recognition** by using layout, color,
+    and motion strategically to reduce mental effort and help users quickly identify
+    trends or issues requiring action[3].
+
+
+    - **Regularly update and maintain the dashboard** to keep data current and the
+    interface aligned with evolving user needs and funding strategies[12].
+
+
+    In summary, a real-time funding dashboard should combine **clear visualization
+    of key funding metrics, real-time alerts, user customization, and a clean, actionable
+    interface** that supports rapid, confident decisions about funding opportunities[3][9][12].'
+  key_insights:
+  - confidence: 2.0
+    insight: Prioritize critical KPIs and metrics** related to funding, such as total
+      funds raised, funding rounds status, donor/investor activity, and deadlines,
+      placing them prominently (top-left or center) with bold fonts and clear labels[3][12].
+    source_count: 26
+  - confidence: 2.0
+    insight: Use a clean, intuitive layout** that groups related information logically,
+      with a clear visual hierarchy to guide user attention to the most urgent or
+      important data first. Avoid clutter to reduce cognitive load[3][8].
+    source_count: 26
+  - confidence: 2.0
+    insight: Incorporate real-time alerts and notifications** using high-contrast
+      colors (e.g., red or orange) to highlight urgent funding opportunities, approaching
+      deadlines, or anomalies in funding flows. Animations can draw attention but
+      should be subtle to avoid distraction[3].
+    source_count: 26
+  - confidence: 2.0
+    insight: Enable personalization and role-based views** so different stakeholders
+      (e.g., fundraisers, executives, grant managers) see the most relevant data and
+      KPIs for their decision-making needs[3][12].
+    source_count: 26
+  - confidence: 2.0
+    insight: Use interactive charts and graphs** to show trends, comparisons, and
+      progress over time, employing color coding (green/blue for positive, grey for
+      neutral) to aid quick interpretation[3][12].
+    source_count: 26
+  summary: The best practices for designing a **real-time data dashboard for tracking
+    funding opportunities** focus on clarity, relevance, and enabling fast, informed
+    decision-making under time pressure.
+id: research-20250925-130848-what-are-the-best-practices-fo
+metadata:
+  citation_count: 26
+  extractable_facts: 5
+  language: en
+  reading_time_seconds: 161.0
+  token_estimate: 418.6
+quality:
+  depth_score: 0.2
+  factual_confidence: 0.9
+  recency_score: 0.8
+  source_diversity: 1.0
+query:
+  analysis:
+    has_complex_terms: false
+    has_reasoning_terms: false
+    recommended_model: sonar
+    score: 1
+    word_count: 15
+  complexity_score: 1
+  original: What are the best practices for designing a real-time data dashboard for
+    tracking funding opportunities?
+related_research: []
+sources:
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 1
+  url: https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 2
+  url: https://businessanywhere.io/best-practices-for-using-real-time-dashboards/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 3
+  url: https://www.smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 4
+  url: https://www.donorsearch.net/resources/5-best-practices-for-dashboards-that-drive-effective-action/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 5
+  url: https://www.esri.com/arcgis-blog/products/ops-dashboard/real-time/designing-effective-dashboards
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 6
+  url: https://www.f9finance.com/dashboard-design-best-practices/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 7
+  url: https://www.tinybird.co/blog-posts/real-time-data-visualization
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 8
+  url: https://www.mockplus.com/blog/post/dashboard-design-best-practices-examples
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 9
+  url: https://estuary.dev/blog/how-to-build-a-real-time-dashboard/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 10
+  url: https://aspirity.com/blog/dashboard-design-overview
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 11
+  url: https://www.justinmind.com/ui-design/dashboard-design-best-practices-ux
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 12
+  url: https://fastercapital.com/content/Funding-Dashboard--How-to-Create-a-Funding-Dashboard-that-Visualizes-Your-Funding-Data-and-Insights.html
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 13
+  url: https://www.phoenixstrategy.group/blog/best-practices-for-real-time-predictive-dashboards
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 14
+  url: https://fastercapital.com/topics/using-interactive-dashboards-to-analyze-and-showcase-funding-data.html
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 15
+  url: https://www.rib-software.com/en/blogs/bi-dashboard-design-principles-best-practices
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 16
+  url: https://www.yellowfinbi.com/blog/key-dashboard-design-principles-analytics-best-practice
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 17
+  url: https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 18
+  url: https://www.sigmacomputing.com/blog/best-practices-dashboard-design-examples
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 19
+  url: https://www.upskillist.com/blog/5-steps-to-design-real-time-dashboards/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 20
+  url: https://pixelplex.io/blog/real-time-data-visualization/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 21
+  url: https://www.thoughtspot.com/data-trends/dashboard-design-examples-best-practices
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 22
+  url: https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 23
+  url: https://www.qlik.com/us/dashboard-examples/dashboard-design
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 24
+  url: https://www.designgurus.io/answers/detail/how-would-you-design-a-real-time-analytics-dashboard-system-handling-live-metrics-and-updates
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 25
+  url: https://www.tinybird.co/blog-posts/real-time-dashboard-step-by-step
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 26
+  url: https://www.uxpin.com/studio/blog/dashboard-design-principles/
+timestamp: '2025-09-25T13:08:48.831204+00:00'
+topics:
+- architecture
+- knowledge_management
+- strategy
+- implementation
+usage:
+  completion_tokens: 461
+  cost:
+    input_tokens_cost: 0.0
+    output_tokens_cost: 0.0
+    request_cost: 0.005
+    total_cost: 0.005
+  prompt_tokens: 27
+  search_context_size: low
+  total_tokens: 488

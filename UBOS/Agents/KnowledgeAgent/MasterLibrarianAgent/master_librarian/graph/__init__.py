@@ -1,4 +1,4 @@
-"""Knowledge graph package."""
+"""Knowledge graph services."""
 
 from .knowledge_graph import UBOSKnowledgeGraph
 

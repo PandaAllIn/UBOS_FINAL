@@ -1,6 +1,6 @@
 {
-  "total_research_count": 14,
-  "last_updated": "2025-09-22T18:43:35.535178+00:00",
+  "total_research_count": 15,
+  "last_updated": "2025-09-25T13:08:48.850233+00:00",
   "research_by_date": {
     "2025-09-21": [
       "research-20250921-143325-test-research-storage-system",
@@ -19,6 +19,9 @@
       "research-20250922-163306-production-deployment-roadmap-",
       "research-20250922-180208-multiagent-ai-systems-market-a",
       "research-20250922-184335-security-hardening-plan-for-ub"
+    ],
+    "2025-09-25": [
+      "research-20250925-130848-what-are-the-best-practices-fo"
     ]
   },
   "research_by_topic": {
@@ -35,7 +38,8 @@
       "research-20250922-163200-production-deployment-roadmap-",
       "research-20250922-163306-production-deployment-roadmap-",
       "research-20250922-180208-multiagent-ai-systems-market-a",
-      "research-20250922-184335-security-hardening-plan-for-ub"
+      "research-20250922-184335-security-hardening-plan-for-ub",
+      "research-20250925-130848-what-are-the-best-practices-fo"
     ],
     "knowledge_management": [
       "research-20250921-143325-test-research-storage-system",
@@ -50,7 +54,8 @@
       "research-20250922-163104-production-deployment-roadmap-",
       "research-20250922-163200-production-deployment-roadmap-",
       "research-20250922-163306-production-deployment-roadmap-",
-      "research-20250922-184335-security-hardening-plan-for-ub"
+      "research-20250922-184335-security-hardening-plan-for-ub",
+      "research-20250925-130848-what-are-the-best-practices-fo"
     ],
     "research": [
       "research-20250921-143325-test-research-storage-system",
@@ -79,7 +84,8 @@
       "research-20250921-162855-yaml-processing-and-knowledge-",
       "research-20250922-084145-ai-agent-architecture-trends",
       "research-20250922-163104-production-deployment-roadmap-",
-      "research-20250922-163306-production-deployment-roadmap-"
+      "research-20250922-163306-production-deployment-roadmap-",
+      "research-20250925-130848-what-are-the-best-practices-fo"
     ],
     "ai_agents": [
       "research-20250921-160214-advanced-techniques-for-buildi",
@@ -95,7 +101,8 @@
       "research-20250921-160341-philosophical-concept-analysis",
       "research-20250921-162843-google-gemini-api-python-integ",
       "research-20250921-162855-yaml-processing-and-knowledge-",
-      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl"
+      "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
+      "research-20250925-130848-what-are-the-best-practices-fo"
     ]
   },
   "research_by_model": {
@@ -108,7 +115,8 @@
       "research-20250921-162855-yaml-processing-and-knowledge-",
       "research-20250921-162906-neo4j-or-networkx-for-ai-knowl",
       "research-20250922-084145-ai-agent-architecture-trends",
-      "research-20250922-180208-multiagent-ai-systems-market-a"
+      "research-20250922-180208-multiagent-ai-systems-market-a",
+      "research-20250925-130848-what-are-the-best-practices-fo"
     ],
     "sonar-pro": [
       "research-20250921-160214-advanced-techniques-for-buildi",
@@ -119,6 +127,17 @@
     ]
   },
   "recent_research": [
+    {
+      "id": "research-20250925-130848-what-are-the-best-practices-fo",
+      "query": "What are the best practices for designing a real-time data dashboard for tracking funding opportunities?",
+      "timestamp": "2025-09-25T13:08:48.831204+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "strategy",
+        "implementation"
+      ]
+    },
     {
       "id": "research-20250922-184335-security-hardening-plan-for-ub",
       "query": "Security hardening plan for UBOS in production",
