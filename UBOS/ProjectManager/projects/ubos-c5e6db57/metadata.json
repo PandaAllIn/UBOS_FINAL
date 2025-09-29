@@ -1,0 +1,14 @@
+{
+  "project_id": "ubos-c5e6db57",
+  "name": "AIPrime Orchestrated Workflow",
+  "description": "Query: Knowledge graph orchestration strategies",
+  "created_at": "2025-09-25T16:25:34.286517+00:00",
+  "status": "planning",
+  "agents_involved": [],
+  "constitutional_requirements": [
+    "Blueprint thinking - systematic coordination",
+    "Systems over willpower - automated orchestration",
+    "Constitutional AI - embedded compliance"
+  ],
+  "estimated_completion": null
+}

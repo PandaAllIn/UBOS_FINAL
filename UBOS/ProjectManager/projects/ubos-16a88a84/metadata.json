@@ -1,0 +1,14 @@
+{
+  "project_id": "ubos-16a88a84",
+  "name": "AIPrime Orchestrated Workflow",
+  "description": "Query: Multi-agent system architecture patterns",
+  "created_at": "2025-09-25T16:25:16.473415+00:00",
+  "status": "planning",
+  "agents_involved": [],
+  "constitutional_requirements": [
+    "Blueprint thinking - systematic coordination",
+    "Systems over willpower - automated orchestration",
+    "Constitutional AI - embedded compliance"
+  ],
+  "estimated_completion": null
+}

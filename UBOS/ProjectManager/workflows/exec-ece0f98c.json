@@ -1,0 +1,15 @@
+{
+  "execution_id": "exec-ece0f98c",
+  "project_id": "ubos-8f06838f",
+  "workflow_name": "orchestration_prime-1758817516",
+  "agents_sequence": [
+    "AIPrimeAgent",
+    "MasterLibrarian",
+    "ResearchAgent"
+  ],
+  "started_at": "2025-09-25T16:25:23.600318+00:00",
+  "completed_at": null,
+  "status": "running",
+  "results": null,
+  "constitutional_compliance": 0.0
+}
