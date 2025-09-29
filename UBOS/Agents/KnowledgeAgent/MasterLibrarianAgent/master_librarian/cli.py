@@ -9,9 +9,19 @@ from textwrap import indent
 
 from dotenv import load_dotenv
 
-from master_librarian.graph import UBOSKnowledgeGraph
-from master_librarian.ingestion import UBOSKnowledgeIngester
-from master_librarian.llm import GeminiClient
+import sys
+import pathlib
+
+# Use relative imports for standalone script execution
+from .graph import UBOSKnowledgeGraph
+from .ingestion import UBOSKnowledgeIngester
+from .llm import GeminiClient
+from .models import ConsultationRequest
+from .services import ConsultationService
+from .visualization import generate_mermaid
+from master_librarian.models import ConsultationRequest
+from master_librarian.services import ConsultationService
+from master_librarian.visualization import generate_mermaid
 from master_librarian.models import ConsultationRequest
 from master_librarian.services import ConsultationService
 from master_librarian.visualization import generate_mermaid

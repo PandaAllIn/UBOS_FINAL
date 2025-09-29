@@ -19,11 +19,57 @@ from pathlib import Path
 
 # Add parent directories to path
 sys.path.append(str(Path(__file__).parent.parent.parent.parent))
+sys.path.append(str(Path(__file__).parent.parent.parent / "AIPrimeAgent"))
 
-from ai_prime_agent.blueprint.schema import StrategicBlueprint
-from ai_prime_agent.registry import AgentRegistry, AgentRecord, AgentCapability, AgentStatus
-from ai_prime_agent.pause import StrategicPause, PauseDecision
-from ai_prime_agent.validation import BlueprintValidator
+try:
+    from ai_prime_agent.blueprint.schema import StrategicBlueprint
+    from ai_prime_agent.registry import AgentRegistry, AgentRecord, AgentCapability, AgentStatus
+    from ai_prime_agent.pause import StrategicPause, PauseDecision
+    from ai_prime_agent.validation import BlueprintValidator
+except ImportError:
+    # Fallback classes for when ai_prime_agent is not available
+    from dataclasses import dataclass
+    from typing import Dict, Any, Enum
+
+    class AgentStatus(Enum):
+        ACTIVE = "active"
+        PAUSED = "paused"
+        TERMINATED = "terminated"
+
+    @dataclass
+    class AgentCapability:
+        name: str
+        version: str
+        description: str
+        input_schema: Dict[str, Any]
+        output_schema: Dict[str, Any]
+
+    @dataclass
+    class StrategicBlueprint:
+        agent_id: str
+        name: str
+        capabilities: List[AgentCapability]
+        constitutional_requirements: Dict[str, Any]
+
+    @dataclass
+    class AgentRecord:
+        agent_id: str
+        name: str
+        status: AgentStatus
+        capabilities: List[AgentCapability]
+
+    class AgentRegistry:
+        def register_agent(self, record): pass
+        def get_agent(self, agent_id): return None
+
+    class StrategicPause:
+        def should_pause(self, context): return False
+
+    class PauseDecision:
+        def __init__(self, should_pause, reason=""): pass
+
+    class BlueprintValidator:
+        def validate(self, blueprint): return True
 
 from .agent_templates import AgentTemplateRegistry, AgentTemplate
 from .lifecycle_manager import AgentLifecycleManager

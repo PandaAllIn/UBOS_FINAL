@@ -98,12 +98,31 @@ class GeminiClient:
             }
 
         return GeminiResponse(
-            analysis=str(payload.get("analysis", "")),
-            recommended_concepts=list(payload.get("recommended_concepts", [])),
-            strategic_guidance=str(payload.get("strategic_guidance", "")),
-            risks=str(payload.get("risks", "")),
-            next_steps=list(payload.get("next_steps", [])),
+            analysis=payload.get("analysis", ""),
+            recommended_concepts=payload.get("recommended_concepts", []),
+            strategic_guidance=payload.get("strategic_guidance", ""),
+            risks=payload.get("risks", ""),
+            next_steps=payload.get("next_steps", [])
         )
+
+    def constitutional_consultation(self, question: str, context: Dict[str, Any]) -> GeminiResponse:
+        """Constitutional consultation method for compatibility"""
+        prompt = f"""
+        Constitutional AI Consultation:
+        Question: {question}
+        Context: {context}
+
+        Analyze this from UBOS constitutional principles:
+        - Blueprint Thinking: Plan before execution
+        - Strategic Pause: Analyze complexity before proceeding
+        - Systems Over Willpower: Create systematic approaches
+        - Constitutional AI: Embed UBOS alignment throughout
+
+        Return JSON with analysis, recommended_concepts, strategic_guidance, risks, next_steps.
+        """
+
+        return self.generate_consultation(prompt)
+
 
 
 __all__ = ["GeminiClient", "GeminiResponse", "GeminiUnavailableError"]

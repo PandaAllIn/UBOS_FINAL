@@ -16,7 +16,17 @@ from pathlib import Path
 # Add parent directories to path
 sys.path.append(str(Path(__file__).parent.parent.parent.parent))
 
-from ai_prime_agent.registry import AgentCapability
+try:
+    from ai_prime_agent.registry import AgentCapability
+except ImportError:
+    # Fallback AgentCapability for testing
+    @dataclass
+    class AgentCapability:
+        name: str
+        version: str
+        description: str
+        input_schema: Dict[str, Any]
+        output_schema: Dict[str, Any]
 
 
 @dataclass

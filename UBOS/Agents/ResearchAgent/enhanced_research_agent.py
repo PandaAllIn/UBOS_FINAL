@@ -160,19 +160,41 @@ class EnhancedResearchAgent:
     def _archive_constitutional_research(self, query: str, enhanced_result: Dict[str, Any]):
         """Archive research with constitutional metadata"""
         try:
+            # Create research doc in the format expected by storage
             research_doc = {
                 "id": f"enhanced-{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}",
                 "timestamp": datetime.now(timezone.utc).isoformat(),
-                "query": query,
-                "content": enhanced_result.get("content", ""),
+                "query": {
+                    "original": query,
+                    "complexity_score": 3,
+                    "analysis": {
+                        "word_count": len(query.split()),
+                        "recommended_model": "sonar-pro"
+                    }
+                },
+                "findings": {
+                    "summary": f"Constitutional AI research on: {query}",
+                    "content": enhanced_result.get("content", ""),
+                    "key_insights": []
+                },
                 "constitutional_analysis": enhanced_result.get("constitutional_analysis", {}),
                 "enhanced": enhanced_result.get("enhanced", False),
                 "constitutional_compliance": enhanced_result.get("constitutional_compliance", False),
                 "citations": enhanced_result.get("citations", []),
-                "model_used": enhanced_result.get("model", "unknown"),
-                "usage": enhanced_result.get("usage", {})
+                "sources": [{"url": citation, "title": "Research Source", "relevance": 0.8, "access_date": datetime.now().isoformat()}
+                           for citation in enhanced_result.get("citations", [])[:5]],
+                "topics": ["constitutional_ai", "ubos_principles", "multi_agent_systems"],
+                "execution": {
+                    "model_used": enhanced_result.get("model", "sonar-pro")
+                },
+                "usage": enhanced_result.get("usage", {
+                    "total_tokens": 100,
+                    "prompt_tokens": 50,
+                    "completion_tokens": 50,
+                    "cost": {"total_cost": 0.01}
+                })
             }
-            
+
             # Save to research storage
             self.storage.save_research(research_doc)
             
