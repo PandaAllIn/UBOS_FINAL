@@ -1,0 +1,110 @@
+agent_notes:
+  applications:
+  - context: knowledge_agent
+    use_case: Pattern recognition and knowledge integration
+  - context: specification_agent
+    use_case: Informed requirement gathering
+  follow_up_queries:
+  - Implementation guide for Multi-agent system architecture patterns
+  - Case studies of Multi-agent system architecture patterns
+agent_version: 1.0.0
+execution:
+  depth: quick
+  duration_seconds: 0
+  model_used: sonar
+  search_mode: medium
+findings:
+  content: "**Multi-agent system architecture patterns** are structured ways to organize\
+    \ multiple autonomous agents so they can collaborate, coordinate, and complete\
+    \ complex tasks efficiently. Key patterns include:\n\n1. **Supervisor Pattern**\
+    \  \n   A single *supervisor agent* controls the workflow by receiving a task,\
+    \ breaking it into sub-tasks, delegating these to specialized agents, and managing\
+    \ the execution order and data flow. This pattern is common for workflows requiring\
+    \ centralized coordination, such as hospital appointment scheduling where the\
+    \ supervisor delegates to scheduler, records, summarizer, and notification agents[1][2].\n\
+    \n2. **Hierarchical Pattern**  \n   An extension of the supervisor pattern with\
+    \ multiple layers of supervisors. A top-level agent delegates to mid-level agents,\
+    \ which further distribute tasks to lower-level agents. This is suited for complex\
+    \ systems where responsibilities are split across domains or teams, like enterprise\
+    \ document processing pipelines[1][2][3].\n\n3. **Orchestrator-Worker Pattern**\
+    \  \n   A central orchestrator assigns task"
+  key_insights:
+  - confidence: 1.1
+    insight: 'Multi-agent system architecture patterns** are structured ways to organize
+      multiple autonomous agents so they can collaborate, coordinate, and complete
+      complex tasks efficiently. Key patterns include:'
+    source_count: 8
+  summary: '**Multi-agent system architecture patterns** are structured ways to organize
+    multiple autonomous agents so they can collaborate, coordinate, and complete complex
+    tasks efficiently.'
+id: research-20250925-162516-multiagent-system-architecture
+metadata:
+  citation_count: 8
+  extractable_facts: 1
+  language: en
+  reading_time_seconds: 68.0
+  token_estimate: 176.8
+quality:
+  depth_score: 0.4
+  factual_confidence: 0.9
+  recency_score: 0.8
+  source_diversity: 1.0
+query:
+  analysis:
+    has_complex_terms: true
+    has_reasoning_terms: false
+    recommended_model: sonar-pro
+    score: 2
+    word_count: 4
+  complexity_score: 2
+  original: Multi-agent system architecture patterns
+related_research: []
+sources:
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 1
+  url: https://www.speakeasy.com/mcp/ai-agents/architecture-patterns
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 2
+  url: https://langchain-ai.github.io/langgraph/concepts/multi_agent/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 3
+  url: https://www.confluent.io/blog/event-driven-multi-agent-systems/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 4
+  url: https://microsoft.github.io/ai-agents-for-beginners/08-multi-agent/
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 5
+  url: https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 6
+  url: https://www.anthropic.com/engineering/built-multi-agent-research-system
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 7
+  url: https://docs.databricks.com/aws/en/generative-ai/guide/agent-system-design-patterns
+- access_date: '2025-09-25'
+  relevance: 0.8
+  title: Source 8
+  url: https://departmentofproduct.substack.com/p/multi-agent-architecture-explained
+timestamp: '2025-09-25T16:25:16.457608+00:00'
+topics:
+- ai_agents
+- architecture
+- knowledge_management
+- technology
+usage:
+  completion_tokens: 200
+  cost:
+    input_tokens_cost: 0.0
+    output_tokens_cost: 0.0
+    request_cost: 0.005
+    total_cost: 0.005
+  prompt_tokens: 15
+  search_context_size: low
+  total_tokens: 215

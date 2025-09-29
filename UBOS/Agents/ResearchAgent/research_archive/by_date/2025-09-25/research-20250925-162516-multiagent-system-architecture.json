@@ -1,0 +1,131 @@
+{
+  "id": "research-20250925-162516-multiagent-system-architecture",
+  "timestamp": "2025-09-25T16:25:16.457608+00:00",
+  "agent_version": "1.0.0",
+  "query": {
+    "original": "Multi-agent system architecture patterns",
+    "complexity_score": 2,
+    "analysis": {
+      "score": 2,
+      "word_count": 4,
+      "has_complex_terms": true,
+      "has_reasoning_terms": false,
+      "recommended_model": "sonar-pro"
+    }
+  },
+  "execution": {
+    "model_used": "sonar",
+    "depth": "quick",
+    "search_mode": "medium",
+    "duration_seconds": 0
+  },
+  "findings": {
+    "summary": "**Multi-agent system architecture patterns** are structured ways to organize multiple autonomous agents so they can collaborate, coordinate, and complete complex tasks efficiently.",
+    "content": "**Multi-agent system architecture patterns** are structured ways to organize multiple autonomous agents so they can collaborate, coordinate, and complete complex tasks efficiently. Key patterns include:\n\n1. **Supervisor Pattern**  \n   A single *supervisor agent* controls the workflow by receiving a task, breaking it into sub-tasks, delegating these to specialized agents, and managing the execution order and data flow. This pattern is common for workflows requiring centralized coordination, such as hospital appointment scheduling where the supervisor delegates to scheduler, records, summarizer, and notification agents[1][2].\n\n2. **Hierarchical Pattern**  \n   An extension of the supervisor pattern with multiple layers of supervisors. A top-level agent delegates to mid-level agents, which further distribute tasks to lower-level agents. This is suited for complex systems where responsibilities are split across domains or teams, like enterprise document processing pipelines[1][2][3].\n\n3. **Orchestrator-Worker Pattern**  \n   A central orchestrator assigns task",
+    "key_insights": [
+      {
+        "insight": "Multi-agent system architecture patterns** are structured ways to organize multiple autonomous agents so they can collaborate, coordinate, and complete complex tasks efficiently. Key patterns include:",
+        "confidence": 1.1,
+        "source_count": 8
+      }
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.speakeasy.com/mcp/ai-agents/architecture-patterns",
+      "title": "Source 1",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    },
+    {
+      "url": "https://langchain-ai.github.io/langgraph/concepts/multi_agent/",
+      "title": "Source 2",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    },
+    {
+      "url": "https://www.confluent.io/blog/event-driven-multi-agent-systems/",
+      "title": "Source 3",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    },
+    {
+      "url": "https://microsoft.github.io/ai-agents-for-beginners/08-multi-agent/",
+      "title": "Source 4",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns",
+      "title": "Source 5",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
+      "title": "Source 6",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    },
+    {
+      "url": "https://docs.databricks.com/aws/en/generative-ai/guide/agent-system-design-patterns",
+      "title": "Source 7",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    },
+    {
+      "url": "https://departmentofproduct.substack.com/p/multi-agent-architecture-explained",
+      "title": "Source 8",
+      "relevance": 0.8,
+      "access_date": "2025-09-25"
+    }
+  ],
+  "topics": [
+    "ai_agents",
+    "architecture",
+    "knowledge_management",
+    "technology"
+  ],
+  "usage": {
+    "prompt_tokens": 15,
+    "completion_tokens": 200,
+    "total_tokens": 215,
+    "search_context_size": "low",
+    "cost": {
+      "input_tokens_cost": 0.0,
+      "output_tokens_cost": 0.0,
+      "request_cost": 0.005,
+      "total_cost": 0.005
+    }
+  },
+  "metadata": {
+    "token_estimate": 176.8,
+    "reading_time_seconds": 68.0,
+    "language": "en",
+    "extractable_facts": 1,
+    "citation_count": 8
+  },
+  "quality": {
+    "factual_confidence": 0.9,
+    "source_diversity": 1.0,
+    "recency_score": 0.8,
+    "depth_score": 0.4
+  },
+  "related_research": [],
+  "agent_notes": {
+    "follow_up_queries": [
+      "Implementation guide for Multi-agent system architecture patterns",
+      "Case studies of Multi-agent system architecture patterns"
+    ],
+    "applications": [
+      {
+        "context": "knowledge_agent",
+        "use_case": "Pattern recognition and knowledge integration"
+      },
+      {
+        "context": "specification_agent",
+        "use_case": "Informed requirement gathering"
+      }
+    ]
+  }
+}
