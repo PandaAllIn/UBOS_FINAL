@@ -1,0 +1,30 @@
+# COPY THESE TO YOUR NEW GIST
+
+Go to: https://gist.github.com/new
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FILE 1: balaur_commands.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Balaur Emergency C2 Commands
+# Format: ID|command
+
+001|echo "🦁 Balaur ALIVE! $(date '+%Y-%m-%d %H:%M:%S')"
+002|hostname && uptime
+003|systemctl is-active janus-agent && echo "✅ janus-agent: RUNNING" || echo "❌ janus-agent: DOWN"
+004|systemctl is-active janus-controls && echo "✅ janus-controls: RUNNING" || echo "❌ janus-controls: DOWN"
+005|df -h /srv/janus | tail -1
+006|free -h | grep Mem
+007|ps aux | grep ngrok | grep -v grep || echo "ngrok: NOT RUNNING"
+008|cat /tmp/balaur_c2_processed.log 2>/dev/null | wc -l && echo "commands processed"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FILE 2: balaur_results.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Balaur C2 Results
+# Balaur writes results to /tmp/balaur_c2_results.log locally
+# We'll retrieve them once we regain access
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Make it PUBLIC, then copy the gist ID!
+
