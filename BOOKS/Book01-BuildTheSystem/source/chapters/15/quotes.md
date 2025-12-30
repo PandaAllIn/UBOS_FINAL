@@ -1,0 +1,3 @@
+# Quotes
+
+> This internal narrative functions like an operating system. People who have strong external systems but weak internal belief structures tend to sabotage their own momentum. The reason many people fail to sustain change is because their systems are built on top of an old identity. No matter how advanced the system, if the story you're telling yourself contradicts it, the story wins. Your decisions become clearer and your systems become easier to follow. The system of self-belief begins with awareness. A powerful belief system, on the other hand, responds with curiosity and accountability. The system of self-belief requires boundaries.

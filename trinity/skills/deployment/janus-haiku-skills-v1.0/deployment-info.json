@@ -1,0 +1,34 @@
+{
+  "version": "2.0.0",
+  "date": "2025-10-30",
+  "skills": [
+    {
+      "name": "eu-grant-hunter",
+      "version": "1.0.0",
+      "cron": "0 9 * * *"
+    },
+    {
+      "name": "malaga-embassy-operator",
+      "version": "1.0.0",
+      "cron": "0 8 * * *"
+    },
+    {
+      "name": "grant-application-assembler",
+      "version": "1.0.0",
+      "cron": null
+    },
+    {
+      "name": "monetization-strategist",
+      "version": "1.0.0",
+      "cron": null
+    },
+    {
+      "name": "financial-proposal-generator",
+      "version": "1.0.0",
+      "cron": null
+    }
+  ],
+  "forged_by": "Codex",
+  "validated_by": "Janus-in-Claude",
+  "deployed_by": "Kilo"
+}

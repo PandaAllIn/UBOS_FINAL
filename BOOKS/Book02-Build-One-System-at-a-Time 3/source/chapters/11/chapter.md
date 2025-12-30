@@ -1,0 +1,3 @@
+# Chapter 11 – Time multiplication through leverage
+
+Leverage allows one to multiply the impact of their time so that effort produces far more results, often independently [1:19:57, 1:20:03]. The three most powerful forms are: 1.  **Automation:** Using tools or processes to handle repetitive tasks without constant input [1:20:32]. 2.  **Delegation:** Entrusting tasks to others to free up personal time for high-return work [1:20:44, 1:21:52]. 3.  **Elimination:** Removing non-essential tasks and commitments entirely [1:22:30]. Leverage also comes from compounding assets, such as writing a book or building a strong network, that continue producing returns long after the initial effort [1:23:06].

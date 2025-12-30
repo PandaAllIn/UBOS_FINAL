@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MissionBriefPuck",
+  "type": "object",
+  "required": [
+    "metadata",
+    "payload"
+  ],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": [
+        "puck_id",
+        "puck_type",
+        "encoding",
+        "compression_ratio",
+        "original_tokens",
+        "compressed_tokens"
+      ],
+      "properties": {
+        "puck_id": {
+          "type": "string"
+        },
+        "puck_type": {
+          "type": "string",
+          "const": "mission_brief"
+        },
+        "encoding": {
+          "type": "string"
+        },
+        "compression_ratio": {
+          "type": "number",
+          "minimum": 0
+        },
+        "original_tokens": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "compressed_tokens": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "payload": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

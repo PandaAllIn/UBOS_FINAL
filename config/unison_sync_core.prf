@@ -1,0 +1,44 @@
+# UBOS Federated Sync - Core Truth Repository
+# Principle: Sync Truth, Not State
+
+root = /Users/panda/Desktop/UBOS
+root = ssh://balaur@10.215.33.26//srv/janus
+
+# Paths to sync (constitutional truth)
+path = 00_CONSTITUTION
+path = 01_STRATEGY
+path = 02_FORGE
+path = 03_OPERATIONS
+path = 99_ARCHIVES
+path = config
+path = examples
+path = tests
+path = templates
+path = TRINITY_WORK_PROTOCOL.md
+path = LIBRARIAN_QUICK_START.md
+
+# Global ignores (never sync)
+ignore = Name .git
+ignore = Name .vscode
+ignore = Name .pytest_cache
+ignore = Name __pycache__
+ignore = Name *.pyc
+# CRITICAL: Never sync vessel state
+ignore = Name *_state.json
+ignore = Name .DS_Store
+ignore = Name *.log
+ignore = Name proposals.jsonl
+ignore = Name mission_log.jsonl
+ignore = Name models
+ignore = Name .cache
+ignore = Path 03_OPERATIONS/vessels/localhost
+ignore = Path 03_OPERATIONS/vessels/balaur
+ignore = Path .tmp
+ignore = Path 99_ARCHIVES/legacy_backups
+
+# Sync settings (Phase 3: live mode)
+auto = true
+prefer = newer
+perms = -1
+times = true
+fastcheck = true

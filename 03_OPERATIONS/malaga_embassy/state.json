@@ -1,0 +1,57 @@
+{
+  "capital": {
+    "additional_inflows": 0.0,
+    "remaining": 1500.0,
+    "total": 1500.0
+  },
+  "cascade": {
+    "emergency": {
+      "allocation": 150.0,
+      "spent": 0.0
+    },
+    "operations": {
+      "allocation": 225.0,
+      "spent": 0.0
+    },
+    "projects": {
+      "allocation": 600.0,
+      "spent": 0.0
+    },
+    "research": {
+      "allocation": 300.0,
+      "spent": 0.0
+    },
+    "strategic": {
+      "allocation": 225.0,
+      "spent": 0.0
+    }
+  },
+  "health": {
+    "last_breakdown": {
+      "budget": 25.0,
+      "compliance": 30.0,
+      "revenue": 5.0,
+      "runway": 20.0
+    },
+    "last_score": 80.0,
+    "last_updated": "2025-12-30T14:30:01.689897+00:00"
+  },
+  "metrics": {
+    "burn_rate": 0.0,
+    "runway_days": 999.0
+  },
+  "revenue": {
+    "history": [],
+    "streams": {
+      "agent-as-a-service": 0.0,
+      "intel-services": 0.0,
+      "proposal-consultation": 0.0
+    }
+  },
+  "spending_log": [],
+  "timeline": {
+    "days_elapsed": 50,
+    "last_report_date": "2025-12-30",
+    "start_date": "2025-11-10"
+  }
+}

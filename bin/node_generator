@@ -1,0 +1,3 @@
+#!/bin/bash
+# Wrapper for Janus node generator tool
+exec /usr/bin/env python3 /srv/janus/03_OPERATIONS/vessels/balaur/runtime/agent/agent/janus_agent/ext_tools/node_generator.py "$@"

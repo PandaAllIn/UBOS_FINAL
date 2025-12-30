@@ -1,0 +1,51 @@
+{
+  "mission_id": "TEMPLATE-GROQ-EU-REMOTE-OPPORTUNITY-SCOUT",
+  "objective": "Identify remote EU consulting and contract engagements aligned with the captain's AI/CTO skillset.",
+  "assigned_to": "groq",
+  "priority": 3,
+  "metadata": {
+    "support_residents": ["claude"],
+    "notes": "Groq performs high-speed scan; Claude twin validates and prioritises."
+  },
+  "required_tools": [
+    "librarian.search_content",
+    "oracle.research",
+    "/srv/janus/trinity/skills/eu-grant-hunter/"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "claude",
+    "message_type": "remote_revenue_signals"
+  },
+  "workflow": [
+    "Scan EU-focused remote job boards (RemoteEU, WeWorkRemotely, EuropeRemotely) for AI/ML, CTO, data engineering roles.",
+    "Query freelance marketplaces (Upwork, Toptal, Gun.io, Malt) for short to mid-term AI strategy or automation projects.",
+    "Review EU startup job boards for fractional CTO, technical advisor, or AI consultant postings.",
+    "Filter opportunities: remote-friendly, English-acceptable, €3k-€10k monthly equivalent, fits AI/automation capabilities.",
+    "Summarise at least 10 qualified opportunities with contact channels, compensation estimates, duration, and skill match score."
+  ],
+  "deliverable_format": {
+    "signals": [
+      {
+        "title": "Opportunity title",
+        "company": "Company or client",
+        "channel": "Platform or contact method",
+        "value_estimate": "EUR monthly or project total",
+        "probability": "0.0-1.0 assessment",
+        "stage": "lead|qualified",
+        "duration": "Engagement length",
+        "tags": ["remote", "ai_consulting"],
+        "match_score": "0-100 qualitative alignment"
+      }
+    ],
+    "summary": {
+      "total_signals": 10,
+      "recommended_actions": ["Apply to top 3 matches", "Prepare tailored case study"]
+    }
+  },
+  "schedule": {
+    "type": "recurring",
+    "frequency": "daily",
+    "time_utc": "06:00"
+  }
+}

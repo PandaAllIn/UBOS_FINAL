@@ -1,0 +1,19 @@
+[Unit]
+Description=Janus Mission Executor (%i)
+After=network.target janus-mission-dispatcher.service
+
+[Service]
+Type=simple
+User=balaur
+Group=janus
+WorkingDirectory=/srv/janus
+Environment="PYTHONPATH=/srv/janus:/srv/janus/trinity"
+EnvironmentFile=/etc/janus/trinity.env
+ExecStart=/usr/bin/python3 /srv/janus/trinity/resident_mission_executor.py --resident %i
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

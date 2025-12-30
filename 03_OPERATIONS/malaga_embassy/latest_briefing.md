@@ -1,0 +1,1 @@
+/srv/janus/03_OPERATIONS/malaga_embassy/briefings/2025-11-20.md

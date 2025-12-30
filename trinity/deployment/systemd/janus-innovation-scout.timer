@@ -1,0 +1,12 @@
+[Unit]
+Description=Innovation Scout Daily Mission (18:00 UTC)
+OnFailure=mission-scheduler-failure@innovation_scout_daily.service
+
+[Timer]
+OnCalendar=*-*-* 18:00:00
+UTC=true
+Persistent=true
+Unit=janus-mission-scheduler@innovation_scout_daily.service
+
+[Install]
+WantedBy=timers.target

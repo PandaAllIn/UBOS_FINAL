@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"layer-label-phi","type":"text","text":"## Philosophy Layer","x":0,"y":0,"width":300,"height":80,"color":"6"},
+		{"id":"phi-book1","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book01-BuildTheSystem/INDEX.md","x":-450,"y":150,"width":250,"height":150,"color":"1"},
+		{"id":"phi-book2","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book02-Build-One-System-at-a-Time/INDEX.md","x":-150,"y":150,"width":250,"height":150,"color":"4"},
+		{"id":"phi-book3","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book03-The-Art-of-Strategic-Thinking/INDEX.md","x":150,"y":150,"width":250,"height":150,"color":"3"},
+		{"id":"phi-book4","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book04-The-Tactical-Mindset/INDEX.md","x":450,"y":150,"width":250,"height":150,"color":"5"},
+		{"id":"layer-label-const","type":"text","text":"## Constitutional Layer","x":0,"y":360,"width":320,"height":80,"color":"6"},
+		{"id":"const-genesis","type":"file","file":"00_CONSTITUTION/principles/GENESIS_PROTOCOL/GENESIS_PROTOCOL.md","x":-250,"y":500,"width":250,"height":150,"color":"2"},
+		{"id":"const-trinity","type":"file","file":"00_CONSTITUTION/TRINITY_ONBOARDING_BRIEF.md","x":0,"y":500,"width":250,"height":150,"color":"2"},
+		{"id":"const-comms","type":"file","file":"trinity/COMMS_HUB_PROTOCOL.md","x":250,"y":500,"width":250,"height":150,"color":"2"},
+		{"id":"layer-label-strat","type":"text","text":"## Strategic Layer","x":0,"y":710,"width":300,"height":80,"color":"6"},
+		{"id":"strat-roadmap","type":"file","file":"01_STRATEGY/ROADMAP.md","x":-250,"y":850,"width":250,"height":150,"color":"4"},
+		{"id":"strat-council","type":"file","file":"01_STRATEGY/COUNCIL_OF_CREATORS_PROTOCOL.md","x":0,"y":850,"width":250,"height":150,"color":"4"},
+		{"id":"strat-grant","type":"file","file":"01_STRATEGY/grant_pipeline/README.md","x":250,"y":850,"width":250,"height":150,"color":"4"},
+		{"id":"layer-label-ops","type":"text","text":"## Operational Layer","x":0,"y":1060,"width":320,"height":80,"color":"6"},
+		{"id":"ops-phase","type":"text","text":"**Phase 2.6**\nAutonomous Vessel Protocol","x":-300,"y":1200,"width":250,"height":150,"color":"5"},
+		{"id":"ops-missions","type":"file","file":"03_OPERATIONS/missions/REALITY_BASED_ROADMAP.md","x":0,"y":1200,"width":250,"height":150,"color":"5"},
+		{"id":"ops-embassy","type":"file","file":"03_OPERATIONS/malaga_embassy/briefings/2025-11-10.md","x":300,"y":1200,"width":250,"height":150,"color":"5"}
+	],
+	"edges":[
+		{"id":"b1-genesis","fromNode":"phi-book1","fromSide":"bottom","toNode":"const-genesis","toSide":"top"},
+		{"id":"b2-genesis","fromNode":"phi-book2","fromSide":"bottom","toNode":"const-trinity","toSide":"top"},
+		{"id":"b3-comms","fromNode":"phi-book3","fromSide":"bottom","toNode":"const-comms","toSide":"top"},
+		{"id":"b4-comms","fromNode":"phi-book4","fromSide":"bottom","toNode":"const-comms","toSide":"top"},
+		{"id":"const-roadmap","fromNode":"const-genesis","fromSide":"bottom","toNode":"strat-roadmap","toSide":"top"},
+		{"id":"const-council","fromNode":"const-trinity","fromSide":"bottom","toNode":"strat-council","toSide":"top"},
+		{"id":"const-grant","fromNode":"const-comms","fromSide":"bottom","toNode":"strat-grant","toSide":"top"},
+		{"id":"roadmap-phase","fromNode":"strat-roadmap","fromSide":"bottom","toNode":"ops-phase","toSide":"top"},
+		{"id":"council-missions","fromNode":"strat-council","fromSide":"bottom","toNode":"ops-missions","toSide":"top"},
+		{"id":"grant-embassy","fromNode":"strat-grant","fromSide":"bottom","toNode":"ops-embassy","toSide":"top"}
+	]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Safe Analysis",
+    "description": "Allow read-only analysis and report generation",
+    "action_type": "analysis",
+    "risk_level": "low",
+    "auto_approve": true,
+    "tools": ["llama-cli", "read_file", "search_file_content"]
+  },
+  {
+    "name": "Breakdown Generation",
+    "description": "Allow generation of breakdown reports",
+    "action_type": "generate_breakdown_report",
+    "risk_level": "medium",
+    "auto_approve": true,
+    "tools": ["node_generator", "llama-cli"]
+  },
+  {
+    "name": "Web Research",
+    "description": "Allow external web research",
+    "action_type": "research",
+    "risk_level": "low",
+    "auto_approve": true,
+    "tools": ["groq_web_search", "groq_fast_think", "curl"]
+  }
+]

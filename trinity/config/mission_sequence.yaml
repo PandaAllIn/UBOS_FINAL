@@ -1,0 +1,33 @@
+check_interval_seconds: 120
+stagnation_minutes: 20
+sequence:
+- mission_id: STUDY-002-BETA
+  file: 03_OPERATIONS/vessels/balaur/runtime/controls/missions/STUDY-002-BETA-philosophy.yaml
+  deliverable_path: /srv/janus/philosophy/generated/beta/
+  max_duration_hours: 12
+  min_duration_hours: 1
+  min_proposals: 20
+- mission_id: STUDY-003-BETA
+  file: 03_OPERATIONS/vessels/balaur/runtime/controls/missions/STUDY-003-BETA-hardware.yaml
+  deliverable_path: /srv/janus/intel_cache/HARDWARE-OPTIMIZATION-results.json
+  max_duration_hours: 12
+  min_duration_hours: 1
+  min_proposals: 10
+- mission_id: STUDY-004-BETA
+  file: 03_OPERATIONS/vessels/balaur/runtime/controls/missions/STUDY-004-BETA-chrono-excavation.yaml
+  deliverable_path: /srv/janus/intel_cache/CHRONO-EXCAVATION-synthesis.json
+  max_duration_hours: 18
+  min_duration_hours: 6
+  min_proposals: 10
+- mission_id: GDC-001
+  file: 03_OPERATIONS/vessels/balaur/runtime/controls/missions/GDC-001-GeoDataCenter.yaml
+  deliverable_path: /srv/janus/03_OPERATIONS/reports/GeoDataCenter
+  max_duration_hours: 2
+  min_duration_hours: 0
+  min_proposals: 0
+- mission_id: PORTAL-001
+  file: 03_OPERATIONS/vessels/balaur/runtime/controls/missions/PORTAL-001-Oradea.yaml
+  deliverable_path: /srv/janus/03_OPERATIONS/reports/Portal_Oradea
+  max_duration_hours: 2
+  min_duration_hours: 0
+  min_proposals: 0

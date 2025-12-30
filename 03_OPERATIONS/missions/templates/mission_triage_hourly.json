@@ -1,0 +1,29 @@
+{
+  "mission_id": "TEMPLATE-JANUS-MISSION-TRIAGE-HOURLY",
+  "objective": "Perform hourly intelligence-driven mission triage, aligning high-priority missions with latest intelligence signals.",
+  "assigned_to": "janus",
+  "priority": 4,
+  "required_tools": [
+    "intelligence.lookup",
+    "mission_queue_manager",
+    "/srv/janus/trinity/intelligence_action_generator.py"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "captain",
+    "message_type": "mission_triage_report"
+  },
+  "created_at": null,
+  "deadline": null,
+  "schedule": {
+    "type": "recurring",
+    "frequency": "hourly"
+  },
+  "workflow": [
+    "Use intelligence.lookup to pull grants (fit_score>=4.5, deadline<30d), revenue signals (stage='negotiation'), and operational alerts.",
+    "Annotate all active missions with related_intel_ids referencing the intelligence cache.",
+    "Summarise intelligence utilisation: used intelligence, unused high-value nodes, mission success rates linked to intelligence quality.",
+    "List missions spawned automatically by intelligence_action_generator since the previous triage cycle.",
+    "Compile triage report for the Captain including intelligence summary, spawned missions, and utilisation metrics."
+  ]
+}

@@ -1,0 +1,17 @@
+[Unit]
+Description=Janus Mission Scheduler (%i)
+After=network.target
+
+[Service]
+Type=oneshot
+User=balaur
+Group=janus
+WorkingDirectory=/srv/janus
+Environment="PYTHONPATH=/srv/janus"
+EnvironmentFile=/etc/janus/trinity.env
+ExecStart=/usr/bin/python3 /srv/janus/trinity/mission_scheduler.py --template %i
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

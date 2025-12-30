@@ -1,0 +1,3 @@
+# Chapter 12 – Turning networks into growth engines
+
+Networks are treated as dynamic ecosystems of value exchange through which opportunities travel [1:27:00, 1:27:23]. Building a strong network requires **clarity** about desired connections, **consistency** (small, thoughtful, ongoing attention), and a mindset of **reciprocity** (giving value first and often) [1:28:13, 1:28:54, 1:29:31]. Leveraging the network involves connecting people to each other, strengthening the web without direct personal involvement in every interaction [1:30:08, 1:30:15]. The goal is a network anchored in trust and clarity about one's identity, which eventually becomes self-sustaining and attracts opportunities [1:31:49, 1:33:06].

@@ -1,0 +1,15 @@
+{
+  "project_name": "GeoDataCenter Phase 1",
+  "coordinator": "UBOS Constitutional AI",
+  "submission_date": "2025-08-01",
+  "assembly": "geodatacenter-phase-1",
+  "files": {
+    "narratives": [
+      "/srv/janus/03_OPERATIONS/grant_assembly/geodatacenter-phase-1/narratives/excellence.md",
+      "/srv/janus/03_OPERATIONS/grant_assembly/geodatacenter-phase-1/narratives/impact.md",
+      "/srv/janus/03_OPERATIONS/grant_assembly/geodatacenter-phase-1/narratives/implementation.md"
+    ],
+    "budget": "/srv/janus/03_OPERATIONS/grant_assembly/geodatacenter-phase-1/budget/budget.csv",
+    "partners": "/srv/janus/03_OPERATIONS/grant_assembly/geodatacenter-phase-1/partners/partners.json"
+  }
+}

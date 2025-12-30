@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "_ATTACHMENTS",
+  "promptDelete": true,
+  "newFileLocation": "current",
+  "vimMode": false
+}

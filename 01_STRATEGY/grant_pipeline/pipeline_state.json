@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "generated_at": "2025-12-30T06:00:37.447313+00:00",
+    "oracle_fallback_mode": false,
+    "oracle_status": {},
+    "source": "auto",
+    "topic_filter": null
+  },
+  "opportunities": [
+    {
+      "budget_max": 10000000,
+      "budget_min": 5000000,
+      "criteria": [
+        "ai infrastructure",
+        "energy efficiency",
+        "geothermal",
+        "sovereign compute"
+      ],
+      "deadline": "2025-09-02T17:00:00+00:00",
+      "description": "Funding for geothermal-powered AI and HPC infrastructure supporting European digital sovereignty.",
+      "discovered_date": "2025-10-30",
+      "fit_explanation": [
+        "Capability 'Oracle Trinity' coverage 12% (data)",
+        "Capability 'Sovereign Infrastructure Forge' coverage 29% (infrastructure, sovereign)",
+        "Project alignment: GeoDataCenter Oradea (2.0/2.0) via compute, data, geothermal, hpc, infrastructure, sovereign",
+        "Budget fit contribution: 0.0/1.0 (opportunity \u20ac5\u202f000\u202f000-\u20ac10\u202f000\u202f000 vs project target \u20ac20\u202f000\u202f000-\u20ac70\u202f000\u202f000)"
+      ],
+      "fit_score": 4.3,
+      "last_seen": "2025-12-30",
+      "matched_keywords": [
+        "data",
+        "infrastructure",
+        "sovereign"
+      ],
+      "notes": null,
+      "opportunity_id": "HORIZON-2025-GEOTHERMAL-01",
+      "program": "Horizon Europe",
+      "reminders_sent": [],
+      "status": "new",
+      "title": "Geothermal Energy for Sovereign Data Centers",
+      "ubos_project_match": "GeoDataCenter Oradea",
+      "url": "https://example.eu/horizon/geothermal-ai"
+    },
+    {
+      "budget_max": 15000000,
+      "budget_min": 5000000,
+      "criteria": [
+        "digital infrastructure",
+        "regional development",
+        "smart city"
+      ],
+      "deadline": "2025-11-30T21:59:00+00:00",
+      "description": "Regional development fund supporting digital infrastructure and smart city services in Oradea, Romania.",
+      "discovered_date": "2025-10-30",
+      "fit_explanation": [
+        "Capability 'Sovereign Infrastructure Forge' coverage 14% (infrastructure)",
+        "Project alignment: Portal Oradea (1.5/2.0) via city, oradea, smart",
+        "Budget fit contribution: 1.0/1.0 (opportunity \u20ac5\u202f000\u202f000-\u20ac15\u202f000\u202f000 vs project target \u20ac500\u202f000-\u20ac5\u202f000\u202f000)"
+      ],
+      "fit_score": 3.5,
+      "last_seen": "2025-12-30",
+      "matched_keywords": [
+        "infrastructure"
+      ],
+      "notes": null,
+      "opportunity_id": "ERDF-RO-2025-ORADEA",
+      "program": "European Regional Development Fund",
+      "reminders_sent": [],
+      "status": "new",
+      "title": "Oradea Smart Region Expansion",
+      "ubos_project_match": "Portal Oradea",
+      "url": "https://example.eu/erdf/oradea-smart-region"
+    },
+    {
+      "budget_max": 8000000,
+      "budget_min": 4000000,
+      "criteria": [
+        "ai infrastructure",
+        "digital skills",
+        "sovereign computing"
+      ],
+      "deadline": "2025-12-15T17:00:00+00:00",
+      "description": "Deployment of AI infrastructure and skills for sovereign European cloud providers.",
+      "discovered_date": "2025-10-30",
+      "fit_explanation": [
+        "Capability 'Sovereign Infrastructure Forge' coverage 43% (computing, infrastructure, sovereign)",
+        "Project alignment: GeoDataCenter Oradea (1.7/2.0) via infrastructure, sovereign",
+        "Budget fit contribution: 0.0/1.0 (opportunity \u20ac4\u202f000\u202f000-\u20ac8\u202f000\u202f000 vs project target \u20ac20\u202f000\u202f000-\u20ac70\u202f000\u202f000)"
+      ],
+      "fit_score": 3.3,
+      "last_seen": "2025-12-30",
+      "matched_keywords": [
+        "computing",
+        "infrastructure",
+        "sovereign"
+      ],
+      "notes": null,
+      "opportunity_id": "DIGITAL-2025-AI-INFRA",
+      "program": "Digital Europe Programme",
+      "reminders_sent": [],
+      "status": "new",
+      "title": "European AI Infrastructure Acceleration",
+      "ubos_project_match": "GeoDataCenter Oradea",
+      "url": "https://example.eu/digital/ai-infrastructure"
+    },
+    {
+      "budget_max": 6000000,
+      "budget_min": 3000000,
+      "criteria": [
+        "farmer cooperatives",
+        "phytosanitary",
+        "plant pathology",
+        "precision agriculture"
+      ],
+      "deadline": "2026-01-15T17:00:00+00:00",
+      "description": "Advancing phytosanitary intelligence for bacterial disease containment across Mediterranean agriculture.",
+      "discovered_date": "2025-10-30",
+      "fit_explanation": [
+        "Capability 'Sovereign Infrastructure Forge' coverage 14% (resilience)",
+        "Project alignment: Xylella Stage 2 (XYL-PHOS-CURE) (2.0/2.0) via agriculture, mediterranean, pathology, phytosanitary, plant, precision",
+        "Budget fit contribution: 1.0/1.0 (opportunity \u20ac3\u202f000\u202f000-\u20ac6\u202f000\u202f000 vs project target \u20ac3\u202f000\u202f000-\u20ac6\u202f000\u202f000)"
+      ],
+      "fit_score": 4.0,
+      "last_seen": "2025-12-30",
+      "matched_keywords": [
+        "resilience"
+      ],
+      "notes": null,
+      "opportunity_id": "HORIZON-CL6-XYL-2026",
+      "program": "Horizon Europe",
+      "reminders_sent": [],
+      "status": "new",
+      "title": "Cluster 6: Plant Health and Resilience",
+      "ubos_project_match": "Xylella Stage 2 (XYL-PHOS-CURE)",
+      "url": "https://example.eu/horizon/cluster6-plant-health"
+    },
+    {
+      "budget_max": 70000000,
+      "budget_min": 15000000,
+      "criteria": [
+        "data center",
+        "decarbonisation",
+        "renewable energy"
+      ],
+      "deadline": "2026-01-20T17:00:00+00:00",
+      "description": "Large-scale Innovation Fund call for renewable-powered data center infrastructure reducing ETS footprint.",
+      "discovered_date": "2025-10-30",
+      "fit_explanation": [
+        "Capability 'Oracle Trinity' coverage 12% (data)",
+        "Capability 'Sovereign Infrastructure Forge' coverage 14% (infrastructure)",
+        "Capability 'Recursive Enhancement Protocol' coverage 12% (innovation)",
+        "Project alignment: GeoDataCenter Oradea (1.9/2.0) via center, data, infrastructure",
+        "Budget fit contribution: 1.0/1.0 (opportunity \u20ac15\u202f000\u202f000-\u20ac70\u202f000\u202f000 vs project target \u20ac20\u202f000\u202f000-\u20ac70\u202f000\u202f000)"
+      ],
+      "fit_score": 5.0,
+      "last_seen": "2025-12-30",
+      "matched_keywords": [
+        "data",
+        "infrastructure",
+        "innovation"
+      ],
+      "notes": null,
+      "opportunity_id": "INNOVATION-FUND-2026-DATA-CENTER",
+      "program": "Innovation Fund",
+      "reminders_sent": [],
+      "status": "new",
+      "title": "Clean Energy Infrastructure for Data Centers",
+      "ubos_project_match": "GeoDataCenter Oradea",
+      "url": "https://example.eu/innovation/data-center-clean-energy"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "mission_id": "TEMPLATE-CLAUDE-MALAGA-BRIEFING-DAILY",
+  "objective": "Generate the daily strategic briefing for the Malaga Embassy, combining health metrics with strategic context.",
+  "assigned_to": "claude",
+  "priority": 2,
+  "required_tools": [
+    "/srv/janus/trinity/skills/malaga-embassy-operator/",
+    "librarian.read_file(MALAGA_MASTER_PLAN.md)"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "captain",
+    "message_type": "malaga_briefing"
+  },
+  "created_at": null,
+  "deadline": null,
+  "schedule": {
+    "type": "recurring",
+    "frequency": "daily",
+    "time_utc": "08:00"
+  }
+}

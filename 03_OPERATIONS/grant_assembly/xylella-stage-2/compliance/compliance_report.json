@@ -1,0 +1,26 @@
+{
+  "assembly": "xylella-stage-2",
+  "passed": false,
+  "checks": [
+    {
+      "check": "excellence narrative",
+      "status": "pass"
+    },
+    {
+      "check": "impact narrative",
+      "status": "fail"
+    },
+    {
+      "check": "implementation narrative",
+      "status": "fail"
+    },
+    {
+      "check": "budget tables",
+      "status": "fail"
+    },
+    {
+      "check": "partner ledger",
+      "status": "fail"
+    }
+  ]
+}

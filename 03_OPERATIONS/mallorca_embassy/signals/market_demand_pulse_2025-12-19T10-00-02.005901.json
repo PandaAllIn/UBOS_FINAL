@@ -1,0 +1,47 @@
+{
+  "stream_id": "market_demand_pulse",
+  "timestamp": 1766138402.005901,
+  "data": {
+    "indicators": [
+      "xylella_outbreak_reports",
+      "olive_oil_prices",
+      "almond_prices",
+      "farmer_sentiment",
+      "eu_policy_shifts"
+    ],
+    "market_data": [
+      {
+        "indicator": "xylella_outbreak_reports",
+        "value": 100,
+        "trend": "up"
+      },
+      {
+        "indicator": "olive_oil_prices",
+        "value": 100,
+        "trend": "up"
+      },
+      {
+        "indicator": "almond_prices",
+        "value": 100,
+        "trend": "up"
+      },
+      {
+        "indicator": "farmer_sentiment",
+        "value": 100,
+        "trend": "up"
+      },
+      {
+        "indicator": "eu_policy_shifts",
+        "value": 100,
+        "trend": "up"
+      }
+    ]
+  },
+  "metrics": {
+    "entropy": 0.75,
+    "resonance": 0.88,
+    "cohesion": 0.7,
+    "integrity": 0.85
+  },
+  "alert_level": "LOW"
+}

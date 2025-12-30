@@ -1,0 +1,1 @@
+{"event": "agent_spawn_initiated", "agent_id": "mallorca_xylella_monitor_20251106_185439", "model": "haiku-4.5", "role": "mallorca_xylella_monitor", "timestamp": "2025-11-06T18:54:39.106798+00:00"}\n{"event": "agent_spawned", "agent_id": "mallorca_xylella_monitor_20251106_185439", "status": "running", "timestamp": "2025-11-06T18:54:39.106993+00:00"}\n

@@ -1,0 +1,8 @@
+{
+    "mission_id": "TEMPLATE-RESEARCH-001",
+    "type": "research",
+    "objective": "[RESEARCH OBJECTIVE]",
+    "deliverables": ["Research Report", "Key Findings"],
+    "steps": ["Define research questions", "Gather sources", "Synthesize", "Report"],
+    "status": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "matching_calls": [
+    {
+      "call_id": "HORIZON-CL6-2026-FARM2FORK-02",
+      "title": "Plant Health Innovation Actions",
+      "budget": 6000000,
+      "deadline": "2026-03-15",
+      "alignment_score": 85.0
+    },
+    {
+      "call_id": "HORIZON-CL6-2026-CLIMATE-01",
+      "title": "Climate Adaptation in Agriculture",
+      "budget": 8000000,
+      "deadline": "2026-04-20",
+      "alignment_score": 72.5
+    },
+    {
+      "call_id": "DIGITAL-2026-AGRICULT-01",
+      "title": "Digital Agriculture Innovation",
+      "budget": 10000000,
+      "deadline": "2026-06-10",
+      "alignment_score": 78.0
+    },
+    {
+      "call_id": "EIC-ACCELERATOR-2026-Q2",
+      "title": "Deep Tech Scale-Up",
+      "budget": 2500000,
+      "deadline": "2026-05-30",
+      "alignment_score": 68.5
+    }
+  ],
+  "call_count": 4,
+  "total_parallel_budget_eur": 26500000,
+  "average_alignment_score": 76.0,
+  "opportunity_level": "HIGH",
+  "timestamp": "2025-11-05T17:50:26.424503"
+}

@@ -1,0 +1,3 @@
+# Quotes
+
+> When your systems reflect your own metrics for a rich life, wealth begins to flow with less resistance. It strengthens your system instead of draining it. Not because of flashy marketing or perfect credentials, but because your system radiates coherence. You place integrity in systems at the center. The longer you ignore misalignment, the more your system becomes self-sabotaging. That's the cost of building a system for the wrong life. To return to alignment, you must first pause, step back, audit your systems, ask yourself the hard questions. Every system starts working better because it's now serving a vision that's true.

@@ -1,0 +1,20 @@
+{
+  "search_results": {
+    "phosphinate AND xylella": {
+      "total_patents": 0,
+      "recent_patents_2020_2025": 0,
+      "filing_spike_detected": false,
+      "threat_level": "LOW"
+    },
+    "phosphinate AND plant AND bacteria": {
+      "total_patents": 3,
+      "recent_patents_2020_2025": 1,
+      "filing_spike_detected": false,
+      "threat_level": "LOW"
+    }
+  },
+  "overall_threat_level": "LOW",
+  "ip_window_status": "OPEN",
+  "recommended_action": "PROCEED NORMALLY",
+  "timestamp": "2025-11-05T17:50:26.424492"
+}

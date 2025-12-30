@@ -1,0 +1,52 @@
+{
+  "mission_id": "TEMPLATE-OPENAI-CONTENT-MONETIZATION",
+  "objective": "Design revenue-generating technical content and education initiatives that can be produced remotely.",
+  "assigned_to": "openai",
+  "priority": 2,
+  "metadata": {
+    "support_residents": ["claude"],
+    "notes": "OpenAI drafts research and plans; Claude twin refines positioning and go-to-market."
+  },
+  "required_tools": [
+    "oracle.deep_research",
+    "librarian.search_content",
+    "/srv/janus/trinity/skills/treasury-administrator/"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "captain",
+    "message_type": "content_revenue_strategy"
+  },
+  "workflow": [
+    "Research current high-demand technical topics (AI automation, constitutional AI, fractional CTO playbooks) with monetisation data.",
+    "Evaluate platforms (Udemy, Gumroad, Patreon, YouTube, Substack, GitHub Sponsors) for payout rates and ramp speed.",
+    "Identify three concrete offerings (e.g., mini-course, workshop bundle, productised consulting package) with audience targets.",
+    "Map production requirements, launch roadmap, and marketing channels leveraging UBOS case studies.",
+    "Provide projected revenue, time-to-first-sale, and next-step checklist for each opportunity."
+  ],
+  "deliverable_format": {
+    "signals": [
+      {
+        "name": "Offering name",
+        "channel": "Platform (Udemy, YouTube, etc.)",
+        "value_estimate": "Projected EUR/month once live",
+        "probability": "0.0-1.0 likelihood of achieving target revenue",
+        "stage": "concept|validation_ready",
+        "time_to_launch": "Estimated weeks",
+        "tags": ["content", "education"],
+        "actions": ["Step 1", "Step 2"]
+      }
+    ],
+    "summary": {
+      "recommended_primary_offer": "Selected top opportunity",
+      "supporting_offers": ["Secondary opportunity A", "Secondary opportunity B"],
+      "next_milestones": ["Record pilot video", "Set up sales page"]
+    }
+  },
+  "schedule": {
+    "type": "recurring",
+    "frequency": "weekly",
+    "day_of_week": "monday",
+    "time_utc": "10:00"
+  }
+}

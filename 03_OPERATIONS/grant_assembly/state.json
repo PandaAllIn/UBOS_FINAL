@@ -1,0 +1,115 @@
+{
+  "assemblies": [
+    {
+      "budget_max": 10000000,
+      "budget_min": 5000000,
+      "deadline": "2025-09-02T17:00:00+00:00",
+      "estimated_completion": "2025-12-14",
+      "fit_score": 4.3,
+      "id": "geodatacenter-phase-1",
+      "opportunity_id": "HORIZON-2025-GEOTHERMAL-01",
+      "phases": {
+        "budget": {
+          "entries": [
+            {
+              "direct_costs": 8000000.0,
+              "indirect_costs": 2000000.0,
+              "share": 20.0,
+              "total_cost": 10000000.0,
+              "work_package": "WP1 - Research & Intelligence"
+            },
+            {
+              "direct_costs": 14000000.0,
+              "indirect_costs": 3500000.0,
+              "share": 35.0,
+              "total_cost": 17500000.0,
+              "work_package": "WP2 - Development & Deployment"
+            },
+            {
+              "direct_costs": 10000000.0,
+              "indirect_costs": 2500000.0,
+              "share": 25.0,
+              "total_cost": 12500000.0,
+              "work_package": "WP3 - Validation & Field Trials"
+            },
+            {
+              "direct_costs": 8000000.0,
+              "indirect_costs": 2000000.0,
+              "share": 20.0,
+              "total_cost": 10000000.0,
+              "work_package": "WP4 - Dissemination & Management"
+            }
+          ],
+          "indirect_rate": 0.25,
+          "status": "complete",
+          "total": 50000000.0
+        },
+        "compliance": {
+          "last_report": "/srv/janus/03_OPERATIONS/grant_assembly/geodatacenter-phase-1/compliance/compliance_report.json",
+          "status": "complete"
+        },
+        "intelligence": {
+          "status": "pending"
+        },
+        "narratives": {
+          "completed": [
+            "excellence",
+            "impact",
+            "implementation"
+          ],
+          "status": "complete"
+        },
+        "packaging": {
+          "proposal_tex": "/srv/janus/03_OPERATIONS/grant_assembly/geodatacenter-phase-1/submission/proposal.tex",
+          "status": "complete"
+        },
+        "partners": {
+          "count": 2,
+          "received": 1,
+          "status": "in_progress"
+        }
+      },
+      "progress": 0.0,
+      "project_name": "GeoDataCenter Phase 1",
+      "rapid_mode": false,
+      "start_date": "2025-10-30"
+    },
+    {
+      "budget_max": 6000000,
+      "budget_min": 3000000,
+      "deadline": "2026-01-15T17:00:00+00:00",
+      "estimated_completion": "2025-12-16",
+      "fit_score": 4.0,
+      "id": "xylella-stage-2",
+      "opportunity_id": "HORIZON-CL6-XYL-2026",
+      "phases": {
+        "budget": {
+          "status": "pending"
+        },
+        "compliance": {
+          "last_report": "/srv/janus/03_OPERATIONS/grant_assembly/xylella-stage-2/compliance/compliance_report.json",
+          "status": "in_progress"
+        },
+        "intelligence": {
+          "status": "pending"
+        },
+        "narratives": {
+          "completed": [
+            "excellence"
+          ],
+          "status": "in_progress"
+        },
+        "packaging": {
+          "status": "pending"
+        },
+        "partners": {
+          "status": "pending"
+        }
+      },
+      "progress": 0.0,
+      "project_name": "Xylella Stage 2",
+      "rapid_mode": false,
+      "start_date": "2025-11-01"
+    }
+  ]
+}

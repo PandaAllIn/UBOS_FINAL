@@ -1,0 +1,33 @@
+{
+  "budget_max": 6000000,
+  "budget_min": 3000000,
+  "deadline": "2026-01-15T17:00:00+00:00",
+  "estimated_completion": "2025-12-16",
+  "fit_score": 4.0,
+  "id": "xylella-stage-2",
+  "opportunity_id": "HORIZON-CL6-XYL-2026",
+  "phases": {
+    "budget": {
+      "status": "pending"
+    },
+    "compliance": {
+      "status": "pending"
+    },
+    "intelligence": {
+      "status": "pending"
+    },
+    "narratives": {
+      "status": "pending"
+    },
+    "packaging": {
+      "status": "pending"
+    },
+    "partners": {
+      "status": "pending"
+    }
+  },
+  "progress": 0.0,
+  "project_name": "Xylella Stage 2",
+  "rapid_mode": false,
+  "start_date": "2025-11-01"
+}

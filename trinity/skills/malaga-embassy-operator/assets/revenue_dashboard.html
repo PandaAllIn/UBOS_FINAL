@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Malaga Embassy Revenue Dashboard</title>
+  <style>
+    body { font-family: 'Fira Code', monospace; padding: 24px; background: #101418; color: #d1f0ff; }
+    h1 { color: #60cdf6; }
+    .metric { border: 1px solid #2b90d9; padding: 16px; margin: 16px 0; border-radius: 8px; }
+    .healthy { color: #56f089; }
+    .warning { color: #f6c947; }
+    .critical { color: #ff6961; }
+    .chart { background: #162028; padding: 12px; border-radius: 6px; font-family: 'Fira Code', monospace; white-space: pre-wrap; }
+    table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+    th, td { border: 1px solid #2b90d9; padding: 8px; text-align: left; }
+    th { background: #1c2730; }
+  </style>
+</head>
+<body>
+  <h1>Malaga Embassy Revenue Dashboard</h1>
+  <div class="metric">
+    <h2>Health Score: <span class="{{health_class}}">{{health_score}}/100</span></h2>
+    <p>Status: {{health_status}}</p>
+  </div>
+
+  <div class="metric">
+    <h2>Financial Overview</h2>
+    <p>Capital Remaining: €{{capital_remaining}} / €1,500</p>
+    <p>Burn Rate: €{{burn_rate}}/day</p>
+    <p>Runway: {{runway_days}} days</p>
+  </div>
+
+  <div class="metric">
+    <h2>Revenue Streams</h2>
+    <div class="chart">{{revenue_chart}}</div>
+    <p>Total Month 1: €{{revenue_total}} (Target: €855-1,910)</p>
+  </div>
+
+  <div class="metric">
+    <h2>Constitutional Cascade</h2>
+    <div class="chart">{{cascade_chart}}</div>
+  </div>
+
+  <div class="metric">
+    <h2>Recommended Actions</h2>
+    <ul>
+      {{actions_list}}
+    </ul>
+  </div>
+</body>
+</html>

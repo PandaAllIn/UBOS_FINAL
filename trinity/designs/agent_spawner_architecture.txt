@@ -1,0 +1,64 @@
+Agent Spawner Architecture - Designed by Gemini CLI
+====================================================
+
+CLASS: AgentSpawner
+-------------------
+Spawns and monitors Haiku Claude agents as subprocesses, logging to JSONL
+
+ATTRIBUTES:
+- agent_script_path: Path to Python script that runs the agent
+- log_file_path: Path to JSONL log file
+- active_agents: Dict of running agents {agent_id: process}
+
+METHODS:
+
+1. __init__(agent_script_path, log_file_path)
+   - Initialize spawner with script and log paths
+
+2. spawn_agent(config: AgentConfig) -> int
+   - Spawns agent subprocess
+   - Passes serialized config via command line
+   - Returns PID
+   - Starts output monitoring threads
+
+3. _serialize_config(config: AgentConfig) -> str
+   - Serializes config to base64 encoded JSON
+
+4. _log_entry(entry: Dict)
+   - Thread-safe JSONL logging
+
+5. _stream_output(stream, agent_id, stream_name)
+   - Reads stdout/stderr and logs each line
+
+6. monitor_agent(agent_id: str) -> Dict
+   - Returns agent status (running/completed/error)
+   - Returns exit code if completed
+
+7. terminate_agent(agent_id: str)
+   - Gracefully terminates agent
+   - Logs termination event
+
+8. get_active_agents() -> List[str]
+   - Returns list of active agent IDs
+
+DATACLASS: AgentConfig
+----------------------
+- agent_id: str
+- model: str (e.g., "haiku-4.5")
+- mission: str
+- oracles: List[str]
+- clis: List[str]
+- tools: List[str]
+
+USAGE EXAMPLE:
+--------------
+spawner = AgentSpawner("haiku_agent.py", "agents.jsonl")
+config = AgentConfig(
+    agent_id="research_001",
+    model="haiku-4.5",
+    mission="Research Xylella papers",
+    oracles=["perplexity", "groq"],
+    clis=["gemini"],
+    tools=["web_fetch"]
+)
+pid = spawner.spawn_agent(config)

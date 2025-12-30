@@ -1,0 +1,3 @@
+# Chapter 16 – Your future is a living system
+
+The future is described as a living, constantly shaped, and adaptive system, not a fixed point [1:56:06, 1:56:19]. Designing for a living future requires adaptability to unexpected setbacks and opportunities [1:57:19, 1:58:03]. Maintaining it requires regular evaluation to ensure systems still align with current goals and values [1:58:28]. Flexibility allows the individual to adjust their destination without losing momentum [1:59:22]. This mindset frees one from the pressure of perfect planning, allowing them to shape an adaptable, abundant life [2:01:44, 2:01:55].

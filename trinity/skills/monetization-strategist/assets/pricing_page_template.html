@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>EUFM Pricing</title>
+  <style>
+    body { font-family: 'Inter', sans-serif; margin: 0; background: #0f172a; color: #e2e8f0; }
+    header { padding: 40px; text-align: center; }
+    .plans { display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; padding: 0 24px 48px; }
+    .card { background: #1e293b; border-radius: 12px; padding: 32px; width: 300px; box-shadow: 0 20px 50px rgba(15,23,42,0.35); }
+    .card h2 { margin-top: 0; color: #38bdf8; }
+    .price { font-size: 36px; margin: 16px 0; }
+    ul { list-style: none; padding: 0; margin: 24px 0; }
+    li { margin: 8px 0; }
+    .cta { display: block; text-align: center; padding: 12px 0; border-radius: 8px; text-decoration: none; font-weight: 600; }
+    .primary { background: linear-gradient(135deg,#38bdf8,#0ea5e9); color: #0f172a; }
+    .secondary { border: 1px solid #38bdf8; color: #38bdf8; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Find the Right EUFM Plan</h1>
+  <p>Never miss an EU grant opportunity again. Freemium tier available today.</p>
+</header>
+<section class="plans">
+  <div class="card">
+    <h2>Freemium</h2>
+    <p class="price">€0<span>/month</span></p>
+    <ul>
+      <li>Track up to 10 opportunities</li>
+      <li>Deadline reminders (7 days)</li>
+      <li>Community support</li>
+    </ul>
+    <a class="cta secondary" href="#">Start Free</a>
+  </div>
+  <div class="card">
+    <h2>Professional</h2>
+    <p class="price">€299<span>/month</span></p>
+    <ul>
+      <li>Unlimited opportunity tracking</li>
+      <li>AI fit scoring (0-5)</li>
+      <li>Advanced reminders (90/60/30/7)</li>
+      <li>Email + chat support</li>
+    </ul>
+    <a class="cta primary" href="#">Start 30-Day Trial</a>
+  </div>
+  <div class="card">
+    <h2>Enterprise</h2>
+    <p class="price">€799<span>/month</span></p>
+    <ul>
+      <li>10 seats + API access</li>
+      <li>Dedicated account manager</li>
+      <li>Custom opportunity alerts</li>
+      <li>Priority roadmap influence</li>
+    </ul>
+    <a class="cta secondary" href="#">Talk to Sales</a>
+  </div>
+</section>
+</body>
+</html>

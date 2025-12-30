@@ -1,0 +1,26 @@
+{
+  "assembly": "geodatacenter-phase-1",
+  "passed": true,
+  "checks": [
+    {
+      "check": "excellence narrative",
+      "status": "pass"
+    },
+    {
+      "check": "impact narrative",
+      "status": "pass"
+    },
+    {
+      "check": "implementation narrative",
+      "status": "pass"
+    },
+    {
+      "check": "budget tables",
+      "status": "pass"
+    },
+    {
+      "check": "partner ledger",
+      "status": "pass"
+    }
+  ]
+}

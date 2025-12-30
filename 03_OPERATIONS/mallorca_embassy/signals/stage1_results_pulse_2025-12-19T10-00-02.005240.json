@@ -1,0 +1,10 @@
+{
+  "stream_id": "stage1_results_pulse",
+  "timestamp": 1766138402.00524,
+  "data": {
+    "status": "pending",
+    "last_check": "2025-12-19T10:00:02.005246+00:00"
+  },
+  "metrics": null,
+  "alert_level": "MONITORING"
+}

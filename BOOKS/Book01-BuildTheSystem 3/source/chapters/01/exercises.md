@@ -1,0 +1,27 @@
+# Exercises
+
+- Score your morning routine for consistency, energy, and intention.
+- Review physical and digital workspace friction points.
+- Evaluate time management boundaries and planning cadence.
+- Assess energy management habits, including recovery systems.
+- Examine financial workflows for strategic alignment.
+- Describe your ideal daily life, environment, and relationships.
+- Note the emotional state you need to sustain and what undermines it.
+- List work that makes you lose track of time and the impact you seek.
+- Identify routines and commitments that consistently drain energy.
+- Pick a focus area (morning routine, digital architecture, workspace, or financial system).
+- Follow the corresponding four-step implementation plan from the chapter insights.
+- Note obstacles encountered and adjustments made during the first week.
+- Capture metrics that signal improvement (energy, clarity, time saved).
+- Specify the exact action and duration (What).
+- Attach it to a trigger or time block (When).
+- Identify the physical/digital context that supports it (Where).
+- Tie the routine to the larger architectural vision (Why).
+- Run the system for seven consecutive days and log friction points.
+- Answer the five reflection questions covering execution, wins, friction, energy, and improvements.
+- Rate success metrics for consistency, energy, results, and ease.
+- Capture insights to iterate on the next week's system configuration.
+- Review which systems produced measurable improvements.
+- Document adjustments required for underperforming structures.
+- Decide which new system to layer next month and why.
+- Record lessons about identity shifts or friction patterns observed.

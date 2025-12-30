@@ -1,0 +1,9 @@
+{
+  "pythonPath": "python3",
+  "pythonEmbedPlots": true,
+  "pythonInteractive": true,
+  "shellPath": "/bin/bash",
+  "powershellPath": "pwsh",
+  "timeout": 20000,
+  "allowInput": true
+}

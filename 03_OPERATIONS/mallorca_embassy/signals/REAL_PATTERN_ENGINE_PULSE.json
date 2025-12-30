@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-05T18:49:18.506285",
+  "data_source": "XYL-PHOS-CURE documentation (Strategic Analysis + Technical Assessment + Project Overview)",
+  "signals": {
+    "scientific_novelty": {
+      "resonance_density": 0.904,
+      "status": "GREEN",
+      "key_insight": "Domain-bridging innovation, Largely unexplored for plant antibacterial applications"
+    },
+    "market_urgency": {
+      "cohesion_flux": 0.78,
+      "status": "GREEN",
+      "key_insight": "\u20ac5.5B threat, 300,000 jobs, NO cure exists"
+    },
+    "partner_readiness": {
+      "entropy_index": 0.125,
+      "status": "GREEN",
+      "key_insight": "Avg readiness 0.88, Mallorca Living Lab operational"
+    },
+    "funding_opportunity": {
+      "signal_integrity": 0.879,
+      "status": "GREEN",
+      "key_insight": "77.5% Stage 2 probability (evaluator grade)"
+    }
+  },
+  "overall_status": "GREEN",
+  "green_signals": "4/4",
+  "recommendation": "PROCEED WITH STAGE 2 CONSORTIUM BUILDING",
+  "expected_value": {
+    "horizon_budget_eur": 6000000.0,
+    "revenue_potential_10yr_eur": 55000000.0,
+    "cumulative_probability_pct": 15.9,
+    "risk_adjusted_value_eur": 8745000.0
+  },
+  "critical_intelligence": {
+    "unique_position": "Only systemic curative chemistry in EU research pipeline",
+    "competitive_threat": "LOW (BeXyl NOT curative, biocontrol moderate risk)",
+    "stage1_results_date": "2026-01",
+    "consortium_window_days": 45,
+    "evaluator_probability_chain": "Stage 2: 78% \u2192 Technical: 75% \u2192 Regulatory: 50% \u2192 Commercial: 65%"
+  }
+}

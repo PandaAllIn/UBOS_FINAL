@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-11-05T17:50:26.425066",
+  "signals": {
+    "scientific_novelty": {
+      "resonance_density": 0.8360000000000001,
+      "status": "GREEN",
+      "details": "Novelty 0.72, 8 patents"
+    },
+    "market_urgency": {
+      "cohesion_flux": 0.8253333333333333,
+      "status": "GREEN",
+      "details": "\u20ac2.3B loss, acceleration: True"
+    },
+    "partner_readiness": {
+      "entropy_index": 0.0,
+      "status": "GREEN",
+      "details": "3/3 partners ready, optimal timing"
+    },
+    "funding_opportunity": {
+      "signal_integrity": 0.7966666666666666,
+      "status": "GREEN",
+      "details": "4 calls, \u20ac26.5M"
+    }
+  },
+  "overall_status": "GREEN",
+  "recommendation": "PROCEED WITH STAGE 2 CONSORTIUM",
+  "expected_value_eur": 32600000.0
+}

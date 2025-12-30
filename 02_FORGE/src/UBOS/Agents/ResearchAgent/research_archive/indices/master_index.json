@@ -1,0 +1,514 @@
+{
+  "total_research_count": 29,
+  "last_updated": "2025-11-24T18:01:34.779554+00:00",
+  "research_by_date": {
+    "2025-10-25": [
+      "research-20251025-193442-confirm-availability-with-a-on"
+    ],
+    "2025-11-01": [
+      "research-20251101-103540-what-is-the-capital-of-romania",
+      "research-20251101-113031-suggest-mitigations-for-1-warn",
+      "research-20251101-113308-suggest-mitigations-for-1-warn",
+      "research-20251101-121639-latest-eu-digital-infrastructu",
+      "research-20251101-180047-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-02": [
+      "research-20251102-180110-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-03": [
+      "research-20251103-180126-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-04": [
+      "research-20251104-180045-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-05": [
+      "research-20251105-180104-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-06": [
+      "research-20251106-180122-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-07": [
+      "research-20251107-180034-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-08": [
+      "research-20251108-180046-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-09": [
+      "research-20251109-180057-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-10": [
+      "research-20251110-180108-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-11": [
+      "research-20251111-180018-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-12": [
+      "research-20251112-180029-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-13": [
+      "research-20251113-180046-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-14": [
+      "research-20251114-180054-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-15": [
+      "research-20251115-180106-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-16": [
+      "research-20251116-180123-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-17": [
+      "research-20251117-180040-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-18": [
+      "research-20251118-180052-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-19": [
+      "research-20251119-180109-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-20": [
+      "research-20251120-180125-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-21": [
+      "research-20251121-180042-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-22": [
+      "research-20251122-180100-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-23": [
+      "research-20251123-180120-suggest-mitigations-for-1-warn"
+    ],
+    "2025-11-24": [
+      "research-20251124-180134-suggest-mitigations-for-1-warn"
+    ]
+  },
+  "research_by_topic": {
+    "architecture": [
+      "research-20251101-103540-what-is-the-capital-of-romania",
+      "research-20251101-121639-latest-eu-digital-infrastructu",
+      "research-20251103-180126-suggest-mitigations-for-1-warn",
+      "research-20251104-180045-suggest-mitigations-for-1-warn",
+      "research-20251105-180104-suggest-mitigations-for-1-warn",
+      "research-20251106-180122-suggest-mitigations-for-1-warn",
+      "research-20251115-180106-suggest-mitigations-for-1-warn",
+      "research-20251116-180123-suggest-mitigations-for-1-warn",
+      "research-20251121-180042-suggest-mitigations-for-1-warn",
+      "research-20251122-180100-suggest-mitigations-for-1-warn",
+      "research-20251124-180134-suggest-mitigations-for-1-warn"
+    ],
+    "implementation": [
+      "research-20251101-103540-what-is-the-capital-of-romania",
+      "research-20251101-113031-suggest-mitigations-for-1-warn",
+      "research-20251101-113308-suggest-mitigations-for-1-warn",
+      "research-20251101-180047-suggest-mitigations-for-1-warn",
+      "research-20251102-180110-suggest-mitigations-for-1-warn",
+      "research-20251103-180126-suggest-mitigations-for-1-warn",
+      "research-20251104-180045-suggest-mitigations-for-1-warn",
+      "research-20251105-180104-suggest-mitigations-for-1-warn",
+      "research-20251106-180122-suggest-mitigations-for-1-warn",
+      "research-20251107-180034-suggest-mitigations-for-1-warn",
+      "research-20251108-180046-suggest-mitigations-for-1-warn",
+      "research-20251109-180057-suggest-mitigations-for-1-warn",
+      "research-20251110-180108-suggest-mitigations-for-1-warn",
+      "research-20251111-180018-suggest-mitigations-for-1-warn",
+      "research-20251112-180029-suggest-mitigations-for-1-warn",
+      "research-20251113-180046-suggest-mitigations-for-1-warn",
+      "research-20251114-180054-suggest-mitigations-for-1-warn",
+      "research-20251115-180106-suggest-mitigations-for-1-warn",
+      "research-20251116-180123-suggest-mitigations-for-1-warn",
+      "research-20251117-180040-suggest-mitigations-for-1-warn",
+      "research-20251118-180052-suggest-mitigations-for-1-warn",
+      "research-20251119-180109-suggest-mitigations-for-1-warn",
+      "research-20251120-180125-suggest-mitigations-for-1-warn",
+      "research-20251121-180042-suggest-mitigations-for-1-warn",
+      "research-20251122-180100-suggest-mitigations-for-1-warn",
+      "research-20251123-180120-suggest-mitigations-for-1-warn",
+      "research-20251124-180134-suggest-mitigations-for-1-warn"
+    ],
+    "knowledge_management": [
+      "research-20251101-113031-suggest-mitigations-for-1-warn",
+      "research-20251101-113308-suggest-mitigations-for-1-warn",
+      "research-20251101-121639-latest-eu-digital-infrastructu",
+      "research-20251101-180047-suggest-mitigations-for-1-warn",
+      "research-20251102-180110-suggest-mitigations-for-1-warn",
+      "research-20251103-180126-suggest-mitigations-for-1-warn",
+      "research-20251104-180045-suggest-mitigations-for-1-warn",
+      "research-20251105-180104-suggest-mitigations-for-1-warn",
+      "research-20251106-180122-suggest-mitigations-for-1-warn",
+      "research-20251107-180034-suggest-mitigations-for-1-warn",
+      "research-20251108-180046-suggest-mitigations-for-1-warn",
+      "research-20251109-180057-suggest-mitigations-for-1-warn",
+      "research-20251110-180108-suggest-mitigations-for-1-warn",
+      "research-20251111-180018-suggest-mitigations-for-1-warn",
+      "research-20251112-180029-suggest-mitigations-for-1-warn",
+      "research-20251113-180046-suggest-mitigations-for-1-warn",
+      "research-20251114-180054-suggest-mitigations-for-1-warn",
+      "research-20251115-180106-suggest-mitigations-for-1-warn",
+      "research-20251116-180123-suggest-mitigations-for-1-warn",
+      "research-20251117-180040-suggest-mitigations-for-1-warn",
+      "research-20251118-180052-suggest-mitigations-for-1-warn",
+      "research-20251119-180109-suggest-mitigations-for-1-warn",
+      "research-20251120-180125-suggest-mitigations-for-1-warn",
+      "research-20251121-180042-suggest-mitigations-for-1-warn",
+      "research-20251122-180100-suggest-mitigations-for-1-warn",
+      "research-20251123-180120-suggest-mitigations-for-1-warn",
+      "research-20251124-180134-suggest-mitigations-for-1-warn"
+    ],
+    "research": [
+      "research-20251101-113031-suggest-mitigations-for-1-warn",
+      "research-20251101-121639-latest-eu-digital-infrastructu"
+    ],
+    "technology": [
+      "research-20251101-113031-suggest-mitigations-for-1-warn",
+      "research-20251101-113308-suggest-mitigations-for-1-warn",
+      "research-20251101-121639-latest-eu-digital-infrastructu",
+      "research-20251101-180047-suggest-mitigations-for-1-warn",
+      "research-20251103-180126-suggest-mitigations-for-1-warn",
+      "research-20251107-180034-suggest-mitigations-for-1-warn",
+      "research-20251108-180046-suggest-mitigations-for-1-warn",
+      "research-20251109-180057-suggest-mitigations-for-1-warn",
+      "research-20251110-180108-suggest-mitigations-for-1-warn",
+      "research-20251113-180046-suggest-mitigations-for-1-warn",
+      "research-20251114-180054-suggest-mitigations-for-1-warn",
+      "research-20251117-180040-suggest-mitigations-for-1-warn",
+      "research-20251119-180109-suggest-mitigations-for-1-warn",
+      "research-20251120-180125-suggest-mitigations-for-1-warn",
+      "research-20251121-180042-suggest-mitigations-for-1-warn",
+      "research-20251124-180134-suggest-mitigations-for-1-warn"
+    ],
+    "ai_agents": [
+      "research-20251101-121639-latest-eu-digital-infrastructu"
+    ],
+    "strategy": [
+      "research-20251104-180045-suggest-mitigations-for-1-warn",
+      "research-20251113-180046-suggest-mitigations-for-1-warn",
+      "research-20251116-180123-suggest-mitigations-for-1-warn",
+      "research-20251119-180109-suggest-mitigations-for-1-warn"
+    ]
+  },
+  "research_by_model": {
+    "sonar": [
+      "research-20251025-193442-confirm-availability-with-a-on",
+      "research-20251101-103540-what-is-the-capital-of-romania",
+      "research-20251101-113031-suggest-mitigations-for-1-warn",
+      "research-20251101-113308-suggest-mitigations-for-1-warn",
+      "research-20251101-121639-latest-eu-digital-infrastructu",
+      "research-20251101-180047-suggest-mitigations-for-1-warn",
+      "research-20251102-180110-suggest-mitigations-for-1-warn",
+      "research-20251103-180126-suggest-mitigations-for-1-warn",
+      "research-20251104-180045-suggest-mitigations-for-1-warn",
+      "research-20251105-180104-suggest-mitigations-for-1-warn",
+      "research-20251106-180122-suggest-mitigations-for-1-warn",
+      "research-20251107-180034-suggest-mitigations-for-1-warn",
+      "research-20251108-180046-suggest-mitigations-for-1-warn",
+      "research-20251109-180057-suggest-mitigations-for-1-warn",
+      "research-20251110-180108-suggest-mitigations-for-1-warn",
+      "research-20251111-180018-suggest-mitigations-for-1-warn",
+      "research-20251112-180029-suggest-mitigations-for-1-warn",
+      "research-20251113-180046-suggest-mitigations-for-1-warn",
+      "research-20251114-180054-suggest-mitigations-for-1-warn",
+      "research-20251115-180106-suggest-mitigations-for-1-warn",
+      "research-20251116-180123-suggest-mitigations-for-1-warn",
+      "research-20251117-180040-suggest-mitigations-for-1-warn",
+      "research-20251118-180052-suggest-mitigations-for-1-warn",
+      "research-20251119-180109-suggest-mitigations-for-1-warn",
+      "research-20251120-180125-suggest-mitigations-for-1-warn",
+      "research-20251121-180042-suggest-mitigations-for-1-warn",
+      "research-20251122-180100-suggest-mitigations-for-1-warn",
+      "research-20251123-180120-suggest-mitigations-for-1-warn",
+      "research-20251124-180134-suggest-mitigations-for-1-warn"
+    ]
+  },
+  "recent_research": [
+    {
+      "id": "research-20251124-180134-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-24T18:01:34.747234+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251123-180120-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-23T18:01:20.338028+00:00",
+      "topics": [
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251122-180100-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-22T18:01:00.487396+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251121-180042-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-21T18:00:42.739888+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251120-180125-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-20T18:01:25.788923+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251119-180109-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-19T18:01:09.568007+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "strategy",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251118-180052-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-18T18:00:52.124909+00:00",
+      "topics": [
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251117-180040-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-17T18:00:40.615615+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251116-180123-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-16T18:01:23.281278+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "strategy",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251115-180106-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-15T18:01:06.427827+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251114-180054-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-14T18:00:54.826422+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251113-180046-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-13T18:00:46.304134+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "strategy",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251112-180029-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-12T18:00:29.603392+00:00",
+      "topics": [
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251111-180018-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-11T18:00:18.896389+00:00",
+      "topics": [
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251110-180108-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-10T18:01:08.627475+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251109-180057-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-09T18:00:57.746074+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251108-180046-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-08T18:00:46.427260+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251107-180034-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-07T18:00:34.736487+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251106-180122-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-06T18:01:22.639859+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251105-180104-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-05T18:01:04.454598+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251104-180045-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-04T18:00:45.903211+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "strategy",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251103-180126-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-03T18:01:26.373968+00:00",
+      "topics": [
+        "architecture",
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251102-180110-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-02T18:01:10.561356+00:00",
+      "topics": [
+        "knowledge_management",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251101-180047-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-01T18:00:47.465938+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251101-121639-latest-eu-digital-infrastructu",
+      "query": "Latest EU digital infrastructure funding programs 2025",
+      "timestamp": "2025-11-01T12:16:39.243259+00:00",
+      "topics": [
+        "ai_agents",
+        "architecture",
+        "knowledge_management",
+        "research",
+        "technology"
+      ]
+    },
+    {
+      "id": "research-20251101-113308-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-01T11:33:08.833704+00:00",
+      "topics": [
+        "knowledge_management",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251101-113031-suggest-mitigations-for-1-warn",
+      "query": "Suggest mitigations for: 1: [WARNING] Remote fetch failed for Horizon Europe (https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/horizon_sample.json; 2: [WARNING] Remote fetch failed for European Regional Development Fund (https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json). Falling back to samples. reason=404 Client Error: Not Found for url: https://raw.githubusercontent.com/ubos-ai/datasets/main/erdf_sample.json",
+      "timestamp": "2025-11-01T11:30:31.333417+00:00",
+      "topics": [
+        "knowledge_management",
+        "research",
+        "technology",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251101-103540-what-is-the-capital-of-romania",
+      "query": "what is the capital of Romania?",
+      "timestamp": "2025-11-01T10:35:40.917339+00:00",
+      "topics": [
+        "architecture",
+        "implementation"
+      ]
+    },
+    {
+      "id": "research-20251025-193442-confirm-availability-with-a-on",
+      "query": "Confirm availability with a one-line response.",
+      "timestamp": "2025-10-25T19:34:42.319388+00:00",
+      "topics": []
+    }
+  ]
+}

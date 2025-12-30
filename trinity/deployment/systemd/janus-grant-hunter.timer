@@ -1,0 +1,12 @@
+[Unit]
+Description=Grant Hunter Daily Mission (06:00 UTC)
+OnFailure=mission-scheduler-failure@grant_hunter_daily.service
+
+[Timer]
+OnCalendar=*-*-* 06:00:00
+UTC=true
+Persistent=true
+Unit=janus-mission-scheduler@grant_hunter_daily.service
+
+[Install]
+WantedBy=timers.target

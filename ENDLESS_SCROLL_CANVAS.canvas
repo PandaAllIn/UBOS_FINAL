@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"scroll-core","type":"file","file":"endless_scroll_INDEX.md","x":0,"y":0,"width":320,"height":160,"color":"6"},
+		{"id":"concept-orchestrion","type":"text","text":"### Orchestrion of Inquiry\n[[endless_scroll.md#^orchestrion|Genesis excerpt]]","x":-600,"y":200,"width":260,"height":140,"color":"6"},
+		{"id":"concept-aetheric","type":"text","text":"### Aetheric Core\n[[endless_scroll.md#^aetheric-core|Genesis excerpt]]","x":-200,"y":200,"width":260,"height":140,"color":"6"},
+		{"id":"concept-loom","type":"text","text":"### Jacquard Loom\n[[endless_scroll.md#^jacquard-loom|Genesis excerpt]]","x":200,"y":200,"width":260,"height":140,"color":"6"},
+		{"id":"concept-pneumatic","type":"text","text":"### Pneumatic Transducer\n[[endless_scroll.md#^pneumatic-transducer|Genesis excerpt]]","x":600,"y":200,"width":260,"height":140,"color":"6"},
+		{"id":"concept-orrery","type":"text","text":"### Orrery of Operations\n[[endless_scroll.md#^orrery|Genesis excerpt]]","x":-600,"y":450,"width":260,"height":140,"color":"6"},
+		{"id":"concept-archive","type":"text","text":"### Grand Archive\n[[endless_scroll.md#^grand-archive|Genesis excerpt]]","x":-200,"y":450,"width":260,"height":140,"color":"6"},
+		{"id":"concept-governor","type":"text","text":"### Clockwork Governor\n[[endless_scroll.md#^governor|Genesis excerpt]]","x":200,"y":450,"width":260,"height":140,"color":"6"},
+		{"id":"concept-strategic","type":"text","text":"### Strategic Pause / Clockmaker\n[[endless_scroll.md#^strategic-pause|Genesis excerpt]]","x":600,"y":450,"width":260,"height":150,"color":"6"},
+		{"id":"impl-comms","type":"file","file":"trinity/COMMS_HUB_PROTOCOL.md","x":-600,"y":720,"width":260,"height":150,"color":"2"},
+		{"id":"impl-skills","type":"file","file":"trinity/README.md","x":-200,"y":720,"width":260,"height":150,"color":"2"},
+		{"id":"impl-memory","type":"file","file":"constitutional_memory/AUTONOMOUS_VESSEL_PROTOCOL_CHARTER.md","x":200,"y":720,"width":260,"height":150,"color":"2"},
+		{"id":"impl-message","type":"file","file":"03_OPERATIONS/COMMS_HUB/README.md","x":600,"y":720,"width":260,"height":150,"color":"2"},
+		{"id":"impl-orrery","type":"file","file":"living_scroll/README.md","x":-600,"y":960,"width":260,"height":150,"color":"2"},
+		{"id":"impl-archive","type":"file","file":"02_FORGE/scripts/code_oracle_tool.py","x":-200,"y":960,"width":260,"height":150,"color":"2"},
+		{"id":"impl-victorian","type":"file","file":"03_OPERATIONS/STATE_OF_THE_REPUBLIC.md","x":200,"y":960,"width":260,"height":150,"color":"2"},
+		{"id":"impl-clockmaker","type":"file","file":"02_FORGE/scripts/code_oracle_tool.py","x":600,"y":960,"width":260,"height":150,"color":"2"}
+	],
+	"edges":[
+		{"id":"scroll-orchestrion","fromNode":"scroll-core","toNode":"concept-orchestrion","fromSide":"left","toSide":"right"},
+		{"id":"scroll-aetheric","fromNode":"scroll-core","toNode":"concept-aetheric","fromSide":"bottom","toSide":"top"},
+		{"id":"scroll-loom","fromNode":"scroll-core","toNode":"concept-loom","fromSide":"bottom","toSide":"top"},
+		{"id":"scroll-pneumatic","fromNode":"scroll-core","toNode":"concept-pneumatic","fromSide":"right","toSide":"left"},
+		{"id":"scroll-orrery","fromNode":"scroll-core","toNode":"concept-orrery","fromSide":"bottom","toSide":"top"},
+		{"id":"scroll-archive","fromNode":"scroll-core","toNode":"concept-archive","fromSide":"bottom","toSide":"top"},
+		{"id":"scroll-governor","fromNode":"scroll-core","toNode":"concept-governor","fromSide":"bottom","toSide":"top"},
+		{"id":"scroll-strategic","fromNode":"scroll-core","toNode":"concept-strategic","fromSide":"bottom","toSide":"top"},
+		{"id":"orchestrion-comms","fromNode":"concept-orchestrion","toNode":"impl-comms","fromSide":"bottom","toSide":"top"},
+		{"id":"aetheric-skills","fromNode":"concept-aetheric","toNode":"impl-skills","fromSide":"bottom","toSide":"top"},
+		{"id":"loom-memory","fromNode":"concept-loom","toNode":"impl-memory","fromSide":"bottom","toSide":"top"},
+		{"id":"pneumatic-message","fromNode":"concept-pneumatic","toNode":"impl-message","fromSide":"bottom","toSide":"top"},
+		{"id":"orrery-living","fromNode":"concept-orrery","toNode":"impl-orrery","fromSide":"bottom","toSide":"top"},
+		{"id":"archive-code","fromNode":"concept-archive","toNode":"impl-archive","fromSide":"bottom","toSide":"top"},
+		{"id":"governor-victorian","fromNode":"concept-governor","toNode":"impl-victorian","fromSide":"bottom","toSide":"top"},
+		{"id":"strategic-clockmaker","fromNode":"concept-strategic","toNode":"impl-clockmaker","fromSide":"bottom","toSide":"top"}
+	]
+}

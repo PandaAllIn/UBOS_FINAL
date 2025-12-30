@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>EUFM Revenue Dashboard</title>
+  <style>
+    body { font-family: 'Inter', sans-serif; background: #0b1120; color: #f8fafc; margin: 0; padding: 24px; }
+    h1 { color: #38bdf8; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; }
+    .card { background: #111c34; border-radius: 12px; padding: 24px; box-shadow: 0 10px 30px rgba(8, 19, 44, 0.4); }
+    .metric { font-size: 32px; margin: 8px 0; }
+    .label { text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; color: #94a3b8; }
+    pre { background: #0f172a; padding: 16px; border-radius: 8px; overflow: auto; color: #f1f5f9; }
+  </style>
+</head>
+<body>
+  <h1>EUFM ARR Dashboard</h1>
+  <div class="grid">
+    <div class="card">
+      <div class="label">Current MRR</div>
+      <div class="metric">€{{CURRENT_MRR}}</div>
+    </div>
+    <div class="card">
+      <div class="label">Projected ARR (Base)</div>
+      <div class="metric">€{{BASE_ARR}}</div>
+    </div>
+    <div class="card">
+      <div class="label">Customers per Tier</div>
+      <pre>{{CUSTOMER_MIX}}</pre>
+    </div>
+    <div class="card">
+      <div class="label">Churn Rate</div>
+      <div class="metric">{{CHURN_RATE}}%</div>
+    </div>
+    <div class="card">
+      <div class="label">ARR Projections</div>
+      <pre>{{PROJECTIONS}}</pre>
+    </div>
+  </div>
+</body>
+</html>

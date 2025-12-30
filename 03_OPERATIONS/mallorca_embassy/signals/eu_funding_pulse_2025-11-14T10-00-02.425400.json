@@ -1,0 +1,47 @@
+{
+  "stream_id": "eu_funding_pulse",
+  "timestamp": 1763114402.4254,
+  "data": {
+    "programs": [
+      "horizon_europe",
+      "agriculture_of_data",
+      "eic_accelerator",
+      "innovation_fund",
+      "digital_europe"
+    ],
+    "funding_data": [
+      {
+        "program": "horizon_europe",
+        "new_calls": 2,
+        "budget_millions": 100
+      },
+      {
+        "program": "agriculture_of_data",
+        "new_calls": 2,
+        "budget_millions": 100
+      },
+      {
+        "program": "eic_accelerator",
+        "new_calls": 2,
+        "budget_millions": 100
+      },
+      {
+        "program": "innovation_fund",
+        "new_calls": 2,
+        "budget_millions": 100
+      },
+      {
+        "program": "digital_europe",
+        "new_calls": 2,
+        "budget_millions": 100
+      }
+    ]
+  },
+  "metrics": {
+    "entropy": 0.5,
+    "resonance": 0.8,
+    "cohesion": 0.6,
+    "integrity": 0.85
+  },
+  "alert_level": "LOW"
+}

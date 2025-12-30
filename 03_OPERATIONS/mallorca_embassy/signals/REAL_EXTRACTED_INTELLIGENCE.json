@@ -1,0 +1,140 @@
+{
+  "extraction_date": "2025-11-05T18:49:18.506194",
+  "source": "XYL-PHOS-CURE Strategic Analysis + Technical Assessment + Project Overview",
+  "economic_impact": {
+    "annual_threat_eur": 5500000000.0,
+    "jobs_at_risk": 300000,
+    "olive_production_threatened_pct": 70,
+    "cumulative_loss_2013_2025_eur": 2000000000.0,
+    "addressable_market_eur": 750000000.0,
+    "source": "STRATEGIC_ANALYSIS.md lines 31-45"
+  },
+  "scientific_novelty": {
+    "chemistry_class": "Phosphinic acids (R\u2082P(O)OH)",
+    "compound_library_size": 32,
+    "precedent": "Fosfomycin (phosphonate antibiotic)",
+    "mechanism": "Enzyme inhibition + systemic delivery + host defense induction",
+    "trl_start": 2.5,
+    "trl_target": 5.5,
+    "novelty_justification": "Domain bridging (medicinal chemistry \u2192 agriculture), unexplored chemical space",
+    "patent_landscape": "Largely unexplored for plant antibacterial applications",
+    "source": "TECHNICAL_ASSESSMENT_EVALUATOR_GRADE.md lines 30-84"
+  },
+  "success_probabilities": {
+    "stage2_funding_pct": 77.5,
+    "technical_success_trl6_pct": 75.0,
+    "regulatory_approval_pct": 50.0,
+    "commercial_success_pct": 65.0,
+    "cumulative_stage2_to_market_pct": 15.9,
+    "source": "TECHNICAL_ASSESSMENT_EVALUATOR_GRADE.md lines 617-643"
+  },
+  "financial_projections": {
+    "horizon_budget_eur": 6000000.0,
+    "expected_revenue_10yr_eur": 55000000.0,
+    "upfront_licensing_eur": 7500000.0,
+    "milestone_payments_eur": 12500000.0,
+    "royalty_rate_pct": 7.5,
+    "annual_market_peak_eur": 75000000.0,
+    "regulatory_cost_eur": 15000000.0,
+    "source": "TECHNICAL_ASSESSMENT_EVALUATOR_GRADE.md lines 408-438"
+  },
+  "competitive_landscape": {
+    "bexyl_project": {
+      "budget_eur": 7000000.0,
+      "partners": 30,
+      "timeline": "2022-2026",
+      "focus": "Detection, remote sensing, breeding (NOT curative chemistry)",
+      "threat_level": "LOW"
+    },
+    "biovexo_project": {
+      "budget_eur": 7000000.0,
+      "focus": "6 biocontrol solutions (bacteria, fungi, plant extracts)",
+      "threat_level": "MODERATE (30-40% probability of breakthrough)"
+    },
+    "xf_actors_project": {
+      "partners": 29,
+      "timeline": "2016-2020 (completed)",
+      "focus": "Risk assessment, detection tools, predictive modeling",
+      "threat_level": "NONE (completed, no cure component)"
+    },
+    "agrochemical_majors": {
+      "entry_probability_pct": 25,
+      "timeline_years": 6,
+      "threat_level": "LOW-MODERATE (becomes licensing opportunity)"
+    },
+    "our_advantage": "Only systemic curative chemistry in EU pipeline",
+    "source": "STRATEGIC_ANALYSIS.md lines 61-73, TECHNICAL_ASSESSMENT lines 495-613"
+  },
+  "partner_capabilities": {
+    "uib_inagea": {
+      "location": "Mallorca, Spain",
+      "capabilities": [
+        "Molecular biology",
+        "Plant biotechnology",
+        "Xylella research"
+      ],
+      "infrastructure": "Labs confirmed operational",
+      "horizon_experience": "2017 European Xylella Conference host",
+      "availability": "HIGH (2 publications last 12 months from similar research groups)",
+      "readiness_score": 0.9
+    },
+    "ciheam_bari": {
+      "location": "Apulia, Italy",
+      "capabilities": [
+        "Plant pathology",
+        "Quarantine-approved facility",
+        "Xylella diagnostics"
+      ],
+      "infrastructure": "ELISA, PCR, real-time LAMP diagnostic capability",
+      "field_access": "Epicenter of EU Xylella crisis (ground zero)",
+      "availability": "MEDIUM (ongoing projects, free March 2026)",
+      "readiness_score": 0.75
+    },
+    "csic_quantalab": {
+      "location": "Spain",
+      "capabilities": [
+        "Hyperspectral remote sensing",
+        "Thermal imaging",
+        "ML models"
+      ],
+      "infrastructure": "Airborne hyperspectral imagery platform",
+      "role": "Early detection + efficacy monitoring",
+      "availability": "HIGH (1 publication last 12 months)",
+      "readiness_score": 0.85
+    },
+    "mallorca_property": {
+      "status": "Confirmed available",
+      "assets": [
+        "Hectares olive/almond trees",
+        "Xylella-affected",
+        "Office space",
+        "Cooperative network"
+      ],
+      "strategic_value": "Living Lab field site + operational legitimacy",
+      "readiness_score": 1.0
+    },
+    "source": "STRATEGIC_ANALYSIS.md lines 154-172, PARTNER_RECONNAISSANCE.md (structure)"
+  },
+  "critical_timeline": {
+    "stage1_submitted": "2025-09-04",
+    "stage1_results_expected": "2026-01",
+    "stage2_deadline": "2026-02-18",
+    "consortium_building_window_days": 45,
+    "project_start_if_funded": "2026-09",
+    "trl6_achievement_year": 2029,
+    "market_entry_target": "2030-2032",
+    "source": "PROJECT_OVERVIEW.md lines 44-50, STRATEGIC_ANALYSIS.md lines 274-290"
+  },
+  "market_positioning": {
+    "unique_differentiator": "Only systemic curative chemistry in EU research pipeline",
+    "gap_filled": "Current EU strategy = containment only, NO CURE exists",
+    "target_market": "15-25% of susceptible trees (infected + at-risk in buffer zones)",
+    "treatment_cost_per_tree_eur": 75,
+    "tree_replacement_cost_eur": 750,
+    "roi_for_farmers": "Treat 5 years (\u20ac375) vs. replace (\u20ac750) = clear economic case",
+    "adoption_rate_projected_pct": 15,
+    "regulatory_timeline_years": 7.5,
+    "regulatory_approval_probability_pct": 50,
+    "source": "TECHNICAL_ASSESSMENT lines 420-493"
+  }
+}

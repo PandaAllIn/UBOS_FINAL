@@ -1,0 +1,51 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.venv-*/
+*.log
+.env
+.env.local
+trinity_memory/
+trinity_logs/
+.pytest_cache/
+*.restored-*
+.cache/
+.tmp/
+*.DS_Store
+
+# Large directories (exclude from GitHub)
+clone_gitstatus/
+models/
+squashfs-root/
+99_ARCHIVES/
+03_OPERATIONS/vessels/
+03_OPERATIONS/COMMS_HUB/
+pathfinder/
+UBOS_Inventory/
+living_scroll/
+monitoring/
+
+# Large files
+*.tar.gz
+*.tar.bz2
+*.zip
+*.gguf
+
+# Obsidian workspace
+.obsidian/workspace*.json
+.obsidian/graph.json
+.obsidian/cache/
+.obsidian/Cache/
+.smart-env
+.trash/
+*.tmp
+*.bak
+
+# Sensitive files
+config/.env*
+*.env.*
+endless_scroll.md
+scroll_1.md
+scrolls/
+tools/groq_integration/.env*

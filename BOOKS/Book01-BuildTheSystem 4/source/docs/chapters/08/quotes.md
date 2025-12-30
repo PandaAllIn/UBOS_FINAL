@@ -1,0 +1,10 @@
+# Quotes
+
+> There is a quiet power in systems that require one act of creation and then serve you again and again.
+> Their days are filled with effort, but their systems produce nothing that outlives the moment.
+> You spend energy once designing a habit that removes decision-making from your morning routine.
+> They are not Instagrammable, but they are the bedrock of a systemized scalable life.
+> To live in abundance, you must learn to shift from reacting to designing.
+> When systems run in the background, your mental bandwidth is freed up for high leverage thinking and deep creative work.
+> You've designed your environment and your routine so that good choices happen by default.
+> It's important to understand that not every system has to be digital or complex.

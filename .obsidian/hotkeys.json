@@ -1,0 +1,20 @@
+{
+  "shell-command-daily-briefing": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "b"
+    }
+  ],
+  "shell-command-dashboard-refresh": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "r"
+    }
+  ],
+  "shell-command-git-sync": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "g"
+    }
+  ]
+}

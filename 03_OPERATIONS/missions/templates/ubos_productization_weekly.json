@@ -1,0 +1,52 @@
+{
+  "mission_id": "TEMPLATE-CODEX-UBOS-PRODUCTIZATION",
+  "objective": "Package UBOS infrastructure into marketable offerings that can sell before relocation.",
+  "assigned_to": "codex",
+  "priority": 2,
+  "metadata": {
+    "support_residents": ["claude"],
+    "notes": "Codex drafts technical packaging; Claude twin crafts positioning and outreach targets."
+  },
+  "required_tools": [
+    "oracle.deep_research",
+    "librarian.search_content",
+    "intelligence.lookup"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "captain",
+    "message_type": "productization_revenue_signals"
+  },
+  "workflow": [
+    "Inventory UBOS assets (alignment framework, autonomous mission stack, intelligence pipeline) with maturity assessment.",
+    "Research buyer personas likely to pay for AI autonomy or constitutional alignment services in EU/US markets.",
+    "Design 2-3 product packages outlining scope, deliverables, pricing, implementation timeline, and differentiators.",
+    "Highlight fastest-to-market MVP path with required polish, documentation, and sales collateral.",
+    "Provide outreach plan (channels, pilot clients, partnership angles) for each option."
+  ],
+  "deliverable_format": {
+    "signals": [
+      {
+        "name": "Offer name",
+        "channel": "Sales channel or ICP",
+        "value_estimate": "EUR monthly recurring or project fee",
+        "probability": "0.0-1.0 likelihood to close first customer in 90 days",
+        "stage": "concept|packaged",
+        "mvp_scope": ["Feature 1", "Feature 2"],
+        "tags": ["ubos", "productization"],
+        "actions": ["Action step 1", "Action step 2"]
+      }
+    ],
+    "summary": {
+      "primary_offer": "Top priority package",
+      "secondary_offers": ["Offer B", "Offer C"],
+      "next_steps": ["Draft pricing sheet", "Prepare client pitch deck"]
+    }
+  },
+  "schedule": {
+    "type": "recurring",
+    "frequency": "weekly",
+    "day_of_week": "wednesday",
+    "time_utc": "14:00"
+  }
+}

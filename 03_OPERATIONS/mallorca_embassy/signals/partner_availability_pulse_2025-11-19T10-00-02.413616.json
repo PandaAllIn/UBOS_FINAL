@@ -1,0 +1,35 @@
+{
+  "stream_id": "partner_availability_pulse",
+  "timestamp": 1763546402.413616,
+  "data": {
+    "partners": [
+      "UIB-INAGEA",
+      "CIHEAM-Bari",
+      "CSIC-QuantaLab"
+    ],
+    "activity_data": [
+      {
+        "partner": "UIB-INAGEA",
+        "publications_last_30d": 3,
+        "projects_active": 2
+      },
+      {
+        "partner": "CIHEAM-Bari",
+        "publications_last_30d": 3,
+        "projects_active": 2
+      },
+      {
+        "partner": "CSIC-QuantaLab",
+        "publications_last_30d": 3,
+        "projects_active": 2
+      }
+    ]
+  },
+  "metrics": {
+    "entropy": 0.3,
+    "resonance": 0.82,
+    "cohesion": 0.65,
+    "integrity": 0.9
+  },
+  "alert_level": "HIGH"
+}

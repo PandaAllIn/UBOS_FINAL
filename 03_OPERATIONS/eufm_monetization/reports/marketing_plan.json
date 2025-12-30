@@ -1,0 +1,152 @@
+{
+  "attainment_ratio": 0.23,
+  "budget": 20000.0,
+  "channels": [
+    "seo",
+    "ads",
+    "webinar"
+  ],
+  "months": 6,
+  "projected_customers": 35.19,
+  "schedule": [
+    {
+      "channels": [
+        {
+          "channel": "seo",
+          "expected_customers": 2.78,
+          "spend": 1111.11
+        },
+        {
+          "channel": "ads",
+          "expected_customers": 1.23,
+          "spend": 1111.11
+        },
+        {
+          "channel": "webinar",
+          "expected_customers": 1.85,
+          "spend": 1111.11
+        }
+      ],
+      "cumulative_customers": 5.86,
+      "customers": 5.86,
+      "month": 1,
+      "spend": 3333.33
+    },
+    {
+      "channels": [
+        {
+          "channel": "seo",
+          "expected_customers": 2.78,
+          "spend": 1111.11
+        },
+        {
+          "channel": "ads",
+          "expected_customers": 1.23,
+          "spend": 1111.11
+        },
+        {
+          "channel": "webinar",
+          "expected_customers": 1.85,
+          "spend": 1111.11
+        }
+      ],
+      "cumulative_customers": 11.73,
+      "customers": 5.86,
+      "month": 2,
+      "spend": 3333.33
+    },
+    {
+      "channels": [
+        {
+          "channel": "seo",
+          "expected_customers": 2.78,
+          "spend": 1111.11
+        },
+        {
+          "channel": "ads",
+          "expected_customers": 1.23,
+          "spend": 1111.11
+        },
+        {
+          "channel": "webinar",
+          "expected_customers": 1.85,
+          "spend": 1111.11
+        }
+      ],
+      "cumulative_customers": 17.59,
+      "customers": 5.86,
+      "month": 3,
+      "spend": 3333.33
+    },
+    {
+      "channels": [
+        {
+          "channel": "seo",
+          "expected_customers": 2.78,
+          "spend": 1111.11
+        },
+        {
+          "channel": "ads",
+          "expected_customers": 1.23,
+          "spend": 1111.11
+        },
+        {
+          "channel": "webinar",
+          "expected_customers": 1.85,
+          "spend": 1111.11
+        }
+      ],
+      "cumulative_customers": 23.46,
+      "customers": 5.86,
+      "month": 4,
+      "spend": 3333.33
+    },
+    {
+      "channels": [
+        {
+          "channel": "seo",
+          "expected_customers": 2.78,
+          "spend": 1111.11
+        },
+        {
+          "channel": "ads",
+          "expected_customers": 1.23,
+          "spend": 1111.11
+        },
+        {
+          "channel": "webinar",
+          "expected_customers": 1.85,
+          "spend": 1111.11
+        }
+      ],
+      "cumulative_customers": 29.32,
+      "customers": 5.86,
+      "month": 5,
+      "spend": 3333.33
+    },
+    {
+      "channels": [
+        {
+          "channel": "seo",
+          "expected_customers": 2.78,
+          "spend": 1111.11
+        },
+        {
+          "channel": "ads",
+          "expected_customers": 1.23,
+          "spend": 1111.11
+        },
+        {
+          "channel": "webinar",
+          "expected_customers": 1.85,
+          "spend": 1111.11
+        }
+      ],
+      "cumulative_customers": 35.19,
+      "customers": 5.86,
+      "month": 6,
+      "spend": 3333.33
+    }
+  ],
+  "target_customers": 150
+}

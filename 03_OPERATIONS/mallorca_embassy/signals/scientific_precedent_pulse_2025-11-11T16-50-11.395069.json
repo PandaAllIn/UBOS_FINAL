@@ -1,0 +1,47 @@
+{
+  "stream_id": "scientific_precedent_pulse",
+  "timestamp": 1762879811.395069,
+  "data": {
+    "keywords": [
+      "phosphinic acid",
+      "phosphonate plant pathogen",
+      "xylella fastidiosa cure",
+      "fosfomycin plant",
+      "systemic bactericide"
+    ],
+    "frequency_data": [
+      {
+        "timestamp": 1762879811.39506,
+        "keyword": "phosphinic acid",
+        "mentions": 10
+      },
+      {
+        "timestamp": 1762879811.395063,
+        "keyword": "phosphonate plant pathogen",
+        "mentions": 10
+      },
+      {
+        "timestamp": 1762879811.395064,
+        "keyword": "xylella fastidiosa cure",
+        "mentions": 10
+      },
+      {
+        "timestamp": 1762879811.395064,
+        "keyword": "fosfomycin plant",
+        "mentions": 10
+      },
+      {
+        "timestamp": 1762879811.395065,
+        "keyword": "systemic bactericide",
+        "mentions": 10
+      }
+    ]
+  },
+  "metrics": {
+    "entropy": 0.7,
+    "resonance": 0.75,
+    "cohesion": 0.65,
+    "integrity": 0.8
+  },
+  "alert_level": "LOW"
+}

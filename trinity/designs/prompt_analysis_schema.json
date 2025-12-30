@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Prompt Analysis",
+  "description": "Schema for analyzing user prompts - designed by Gemini CLI",
+  "type": "object",
+  "properties": {
+    "task_type": {
+      "type": "string",
+      "enum": ["CODE_GENERATION", "CODE_MODIFICATION", "CODE_REFACTORING", "CODE_EXPLANATION", "DEBUGGING", "TESTING", "FILE_OPERATION", "SHELL_COMMAND", "WEB_SEARCH", "ANALYSIS", "PLANNING", "OTHER"]
+    },
+    "complexity": {
+      "type": "string",
+      "enum": ["LOW", "MEDIUM", "HIGH", "UNKNOWN"]
+    },
+    "required_capabilities": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["read_file", "write_file", "replace_in_file", "run_shell_command", "search_file_content", "list_directory", "google_web_search", "human_interaction"]
+      }
+    }
+  }
+}

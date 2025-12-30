@@ -1,0 +1,8 @@
+{
+    "mission_id": "TEMPLATE-CODING-001",
+    "type": "coding",
+    "objective": "[CODING OBJECTIVE]",
+    "deliverables": ["Code", "Tests", "Docs"],
+    "steps": ["Requirements", "Design", "Implement", "Verify"],
+    "status": "pending"
+}

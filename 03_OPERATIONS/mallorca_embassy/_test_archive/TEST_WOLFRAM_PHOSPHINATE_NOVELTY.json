@@ -1,0 +1,12 @@
+{
+  "noveltyScore": 0.72,
+  "druggability": {
+    "Lipinski_RuleOf5": true,
+    "LogP_Systemic": 1.8,
+    "Metabolic_Stability": 0.85
+  },
+  "patentCount": 8,
+  "plantHealthPrecedent": 2,
+  "antibacterialPrecedent": 12,
+  "timestamp": "2025-11-05T17:50:26.424469"
+}

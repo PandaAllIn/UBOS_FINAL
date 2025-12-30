@@ -1,0 +1,4 @@
+# Key Ideas
+
+- This chapter explains that a system is much stronger when supported by the physical and digital environment [43:34, 46:57]. Environmental design shifts responsibility from the mind to the surroundings, acting as an autopilot [44:33]. Strategies include identifying physical supports (e.g., readying tools in the workspace) [44:40], removing conflicting triggers (e.g., moving a phone away during deep work), using visual cues (e.g., a checklist), and ensuring the **social environment** (people) reinforces the process.
+- This chapter explains that a system is much stronger when supported by the physical and digital environment [43:34, 46:57].

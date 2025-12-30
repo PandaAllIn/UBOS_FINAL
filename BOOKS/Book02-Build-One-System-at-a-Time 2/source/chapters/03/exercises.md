@@ -1,0 +1,23 @@
+# Exercises
+
+- Clarity of Purpose: Systems must align with a long-term vision
+- Clarity of Purpose: not just avoid immediate problems
+- Sustainability: Systems must be maintainable even on your worst days
+- Sustainability: integrating smoothly into life; starting small is a sign of wisdom
+- Leverage: Systems should create results greater than the effort put in
+- Leverage: utilizing technology
+- Leverage: relationships
+- Leverage: or skills to multiply impact
+- Adaptability: Systems must be flexible enough to adjust to changing circumstances while remaining true to the purpose
+- Feedback: Information
+- Feedback: seen as a tool for growth
+- Feedback: must be built in (checkpoints) to analyze progress and adjust
+- Integration: Systems must connect and reinforce other systems in your life
+- Integration: creating compounding effects
+- Identity Alignment: The system must reinforce the identity of the person you are becoming
+- Identity Alignment: making the process feel natural
+- Scalability: Systems should be designed with room to grow as resources and ambitions expand
+- Scalability: avoiding the need to dismantle them later
+- Resilience: Systems must have built-in safety nets or reduced modes to absorb shocks and continue moving forward during challenges
+- Contribution: Systems should create value not only for you but also for others
+- Contribution: which accelerates your own growth

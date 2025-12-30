@@ -1,0 +1,195 @@
+{
+  "id": "research-20251101-121639-latest-eu-digital-infrastructu",
+  "timestamp": "2025-11-01T12:16:39.243259+00:00",
+  "agent_version": "1.0.0",
+  "query": {
+    "original": "Latest EU digital infrastructure funding programs 2025",
+    "complexity_score": 0,
+    "analysis": {
+      "score": 0,
+      "word_count": 7,
+      "has_complex_terms": false,
+      "has_reasoning_terms": false,
+      "recommended_model": "sonar"
+    }
+  },
+  "execution": {
+    "model_used": "sonar",
+    "depth": "medium",
+    "search_mode": "medium",
+    "duration_seconds": 0
+  },
+  "findings": {
+    "summary": "The latest EU digital infrastructure funding programs for 2025 focus primarily on the **Digital Europe Programme (2025-2027)**, which allocates around **€3.",
+    "content": "The latest EU digital infrastructure funding programs for 2025 focus primarily on the **Digital Europe Programme (2025-2027)**, which allocates around **€3.2 billion** to enhance critical digital capabilities such as artificial intelligence (AI), cloud and data infrastructure, cybersecurity, computing, and semiconductors[4][15]. This program supports the deployment of digital innovation hubs, AI factories, digital identity solutions, and sector-specific data spaces, aiming to accelerate digital transformation across public administrations, businesses, and citizens[2][4][5].\n\nKey funding initiatives and calls in 2025 include:\n\n- **€204 million in calls** under the Digital Europe Programme targeting AI, big data, European Digital Innovation Hubs (EDIHs), digital identity wallets, biomedical research, personalised healthcare, automotive innovation, industrial data sharing, and combating disinformation[2].\n- Specific calls for proposals supporting multi-country projects to leverage digital infrastructure in sectors like agri-food (€15 million), quantum digital skills training (€10 million), generative AI adoption in public administrations (€5-7 million), and fact-checking networks (€5 million)[6][8].\n- The launch of the **Digital Commons European Digital Infrastructure Consortium (EDIC)** to support sovereign European digital infrastructure and technology, emphasizing open, interoperable, and sovereign cloud infrastructure compliant with EU data protection and sustainability standards[3][9].\n- National cooperation among EU countries like France, Germany, Italy, and the Netherlands to develop sovereign digital infrastructure alternatives in AI, cloud, and cybersecurity[7].\n\nThe 2025 State of the Digital Decade report highlights ongoing challenges such as lagging rollout of fibre and 5G standalone networks, underdeveloped submarine data cables and satellite systems, and EU dependence on external providers for AI, cloud, semiconductors, and quantum components[1]. The funding programs aim to address these gaps by prioritizing strategic investments in digital infrastructure, innovation, and skills development.\n\nIn summary, the **Digital Europe Programme 2025-2027** is the central EU funding instrument for digital infrastructure in 2025, complemented by initiatives to build sovereign digital infrastructure and support innovation ecosystems across sectors and member states[2][4][9].",
+    "key_insights": [
+      {
+        "insight": "€204 million in calls** under the Digital Europe Programme targeting AI, big data, European Digital Innovation Hubs (EDIHs), digital identity wallets, biomedical research, personalised healthcare, automotive innovation, industrial data sharing, and combating disinformation[2].",
+        "confidence": 1.5,
+        "source_count": 16
+      },
+      {
+        "insight": "Specific calls for proposals supporting multi-country projects to leverage digital infrastructure in sectors like agri-food (€15 million), quantum digital skills training (€10 million), generative AI adoption in public administrations (€5-7 million), and fact-checking networks (€5 million)[6][8].",
+        "confidence": 1.5,
+        "source_count": 16
+      },
+      {
+        "insight": "The launch of the **Digital Commons European Digital Infrastructure Consortium (EDIC)** to support sovereign European digital infrastructure and technology, emphasizing open, interoperable, and sovereign cloud infrastructure compliant with EU data protection and sustainability standards[3][9].",
+        "confidence": 1.5,
+        "source_count": 16
+      },
+      {
+        "insight": "National cooperation among EU countries like France, Germany, Italy, and the Netherlands to develop sovereign digital infrastructure alternatives in AI, cloud, and cybersecurity[7].",
+        "confidence": 1.5,
+        "source_count": 16
+      }
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/2025-state-digital-decade-package",
+      "title": "Source 1",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu204-million-funding-projects-boosting-innovation-business-digitalisation-digital-skills-health",
+      "title": "Source 2",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://openfuture.eu/our-work/public-digital-infrastructure/",
+      "title": "Source 3",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://tampere.eu/en/the-digital-europe-program-2025-2027-work-program-has-been-published/",
+      "title": "Source 4",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/activities/digital-programme",
+      "title": "Source 5",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://eufundingportal.eu/programme/digital-europe/",
+      "title": "Source 6",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://www.euractiv.com/news/eu-country-grouping-cleared-to-build-sovereign-digital-infrastructure/",
+      "title": "Source 7",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://eufundingportal.eu/grants/",
+      "title": "Source 8",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-launch-digital-commons-edic-support-sovereign-european-digital-infrastructure-and",
+      "title": "Source 9",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://www.afcea.org/signal-media/international/european-commission-plans-second-horizon-europe",
+      "title": "Source 10",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-strategy-research-and-technology-infrastructures_en",
+      "title": "Source 11",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://www.euro-access.eu/en/programs/9/Digital-Europe",
+      "title": "Source 12",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://openforumeurope.org/ofe-launches-landmark-study-calling-for-an-eu-sovereign-tech-fund-to-secure-europes-digital-future/",
+      "title": "Source 13",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://eurostack.eu",
+      "title": "Source 14",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://www.bayfor.org/en/news/latest-news/news-detail/5130-eu-commission-invests-13-billion-euros-in-ai-cybersecurity-and-digital-education-a-boost-for-research-and-development.html",
+      "title": "Source 15",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    },
+    {
+      "url": "https://www.ceps.eu/ceps-publications/building-the-european-digital-public-infrastructure-rationale-options-and-roadmap/",
+      "title": "Source 16",
+      "relevance": 0.8,
+      "access_date": "2025-11-01"
+    }
+  ],
+  "topics": [
+    "ai_agents",
+    "architecture",
+    "knowledge_management",
+    "research",
+    "technology"
+  ],
+  "usage": {
+    "prompt_tokens": 19,
+    "completion_tokens": 454,
+    "total_tokens": 473,
+    "search_context_size": "low",
+    "cost": {
+      "input_tokens_cost": 0.0,
+      "output_tokens_cost": 0.0,
+      "request_cost": 0.005,
+      "total_cost": 0.005
+    }
+  },
+  "metadata": {
+    "token_estimate": 392.6,
+    "reading_time_seconds": 151.0,
+    "language": "en",
+    "extractable_facts": 4,
+    "citation_count": 16
+  },
+  "quality": {
+    "factual_confidence": 0.9,
+    "source_diversity": 1.0,
+    "recency_score": 0.8,
+    "depth_score": 0.0
+  },
+  "related_research": [],
+  "agent_notes": {
+    "follow_up_queries": [
+      "Implementation guide for Latest EU digital infrastructure funding programs 2025",
+      "Case studies of Latest EU digital infrastructure funding programs 2025"
+    ],
+    "applications": [
+      {
+        "context": "knowledge_agent",
+        "use_case": "Pattern recognition and knowledge integration"
+      },
+      {
+        "context": "specification_agent",
+        "use_case": "Informed requirement gathering"
+      }
+    ]
+  }
+}

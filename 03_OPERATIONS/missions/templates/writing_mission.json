@@ -1,0 +1,8 @@
+{
+    "mission_id": "TEMPLATE-WRITING-001",
+    "type": "writing",
+    "objective": "[WRITING OBJECTIVE]",
+    "deliverables": ["Draft", "Final"],
+    "steps": ["Outline", "Draft", "Review", "Finalize"],
+    "status": "pending"
+}

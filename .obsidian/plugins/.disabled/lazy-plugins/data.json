@@ -1,0 +1,188 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "3d-graph": {
+        "startupType": "instant"
+      },
+      "advanced-canvas": {
+        "startupType": "instant"
+      },
+      "table-editor-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-asciidoc-blocks": {
+        "startupType": "instant"
+      },
+      "attachment-management": {
+        "startupType": "instant"
+      },
+      "obsidian-auto-link-title": {
+        "startupType": "instant"
+      },
+      "breadcrumbs": {
+        "startupType": "disabled"
+      },
+      "buttons": {
+        "startupType": "instant"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "calendarium": {
+        "startupType": "instant"
+      },
+      "canvas-mindmap": {
+        "startupType": "instant"
+      },
+      "obsidian-charts": {
+        "startupType": "instant"
+      },
+      "obsidian-chartsview-plugin": {
+        "startupType": "instant"
+      },
+      "chronology": {
+        "startupType": "disabled"
+      },
+      "contribution-graph": {
+        "startupType": "disabled"
+      },
+      "datacore": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "obsidian-day-planner": {
+        "startupType": "instant"
+      },
+      "excalibrain": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "execute-code": {
+        "startupType": "disabled"
+      },
+      "file-tree-alternative": {
+        "startupType": "disabled"
+      },
+      "find-unlinked-files": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "disabled"
+      },
+      "heatmap-calendar": {
+        "startupType": "disabled"
+      },
+      "obsidian-icons-plugin": {
+        "startupType": "disabled"
+      },
+      "janitor": {
+        "startupType": "instant"
+      },
+      "juggl": {
+        "startupType": "instant"
+      },
+      "obsidian-kanban": {
+        "startupType": "disabled"
+      },
+      "obsidian-leaflet-plugin": {
+        "startupType": "disabled"
+      },
+      "link-favicon": {
+        "startupType": "instant"
+      },
+      "links": {
+        "startupType": "instant"
+      },
+      "obsidian-linter": {
+        "startupType": "disabled"
+      },
+      "obsidian-local-rest-api": {
+        "startupType": "instant"
+      },
+      "make-md": {
+        "startupType": "disabled"
+      },
+      "map-of-content": {
+        "startupType": "disabled"
+      },
+      "mcp-tools": {
+        "startupType": "instant"
+      },
+      "media-extended": {
+        "startupType": "disabled"
+      },
+      "mermaid-tools": {
+        "startupType": "disabled"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "disabled"
+      },
+      "metadata-menu": {
+        "startupType": "disabled"
+      },
+      "obsidian-mind-map": {
+        "startupType": "disabled"
+      },
+      "nldates-obsidian": {
+        "startupType": "disabled"
+      },
+      "obisidian-note-linker": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "open-gate": {
+        "startupType": "disabled"
+      },
+      "periodic-notes": {
+        "startupType": "instant"
+      },
+      "quickadd": {
+        "startupType": "instant"
+      },
+      "obsidian-reminder-plugin": {
+        "startupType": "disabled"
+      },
+      "obsidian-shellcommands": {
+        "startupType": "instant"
+      },
+      "smart-connections": {
+        "startupType": "instant"
+      },
+      "supercharged-links-obsidian": {
+        "startupType": "disabled"
+      },
+      "obsidian-task-progress-bar": {
+        "startupType": "disabled"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "terminal": {
+        "startupType": "instant"
+      },
+      "obsidian-timeline": {
+        "startupType": "disabled"
+      },
+      "obsidian-vault-statistics-plugin": {
+        "startupType": "instant"
+      }
+    }
+  }
+}

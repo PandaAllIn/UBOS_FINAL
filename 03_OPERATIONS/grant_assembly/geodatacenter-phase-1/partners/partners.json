@@ -1,0 +1,12 @@
+[
+  {
+    "contact": null,
+    "name": "University of Bari",
+    "status": "received"
+  },
+  {
+    "contact": "athens@example.com",
+    "name": "AgriTech Athens",
+    "status": "pending"
+  }
+]

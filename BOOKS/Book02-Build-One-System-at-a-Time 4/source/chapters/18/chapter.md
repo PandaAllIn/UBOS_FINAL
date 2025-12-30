@@ -1,0 +1,3 @@
+# Chapter 18 – Systems for contribution and impact
+
+The ultimate measure of life is found in what is created for others [2:09:14]. Contribution systems structure generosity (time, resources, knowledge) to make it consistent, sustainable, and far-reaching, rather than spontaneous [2:09:59, 2:10:05]. Contribution should be intentional, focused on where unique skills can have the greatest effect [2:10:23]. Methods (financial, skill-based, relational) must be sustainable and integrated into regular life [2:11:02, 2:12:06]. The systems should be measurable for improvement and driven by purpose and values, not recognition [2:12:21, 2:13:48].

@@ -1,0 +1,115 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from pathlib import Path
+from typing import Any
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+TRINITY_ROOT = REPO_ROOT / "trinity"
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from trinity.mission_queue_manager import MissionQueueManager, isoformat_now
+
+
+def load_template(template_name: str) -> dict[str, Any]:
+    template_path = TRINITY_ROOT / "mission_templates" / f"{template_name}.json"
+    if not template_path.exists():
+        raise FileNotFoundError(f"Mission template not found: {template_path}")
+    with template_path.open("r", encoding="utf-8") as handle:
+        return json.load(handle)
+
+
+def cmd_queue(args: argparse.Namespace) -> None:
+    manager = MissionQueueManager()
+    mission = load_template(args.template)
+    mission["source_template"] = args.template
+    mission.pop("mission_id", None)
+    mission["created_at"] = isoformat_now()
+    mission["queued_via"] = "mission_cli"
+    queued_path = manager.queue_mission(mission)
+    print(f"Queued mission at {queued_path}")
+
+
+def cmd_list(args: argparse.Namespace) -> None:
+    manager = MissionQueueManager()
+    missions = manager.list_missions(args.status)
+    if not missions:
+        print("No missions found.")
+        return
+    for mission in missions:
+        mission_id = mission.get("mission_id", "<unknown>")
+        status = mission.get("status", args.status or "unknown")
+        assigned = mission.get("assigned_to", "unassigned")
+        priority = mission.get("priority", "-")
+        print(f"{mission_id}\t{status}\tassigned_to={assigned}\tpriority={priority}")
+
+
+def cmd_status(args: argparse.Namespace) -> None:
+    manager = MissionQueueManager()
+    missions = manager.list_missions()
+    for mission in missions:
+        if mission.get("mission_id") == args.mission_id:
+            print(json.dumps(mission, indent=2, sort_keys=True))
+            return
+    print(f"Mission not found: {args.mission_id}", file=sys.stderr)
+    sys.exit(1)
+
+
+def cmd_complete(args: argparse.Namespace) -> None:
+    manager = MissionQueueManager()
+    result = manager.complete_mission(args.mission_id)
+    if result is None:
+        print(f"Active mission not found: {args.mission_id}", file=sys.stderr)
+        sys.exit(1)
+    print(f"Mission {args.mission_id} completed -> {result}")
+
+
+def cmd_fail(args: argparse.Namespace) -> None:
+    manager = MissionQueueManager()
+    result = manager.fail_mission(args.mission_id, args.reason)
+    if result is None:
+        print(f"Active mission not found: {args.mission_id}", file=sys.stderr)
+        sys.exit(1)
+    print(f"Mission {args.mission_id} marked failed -> {result}")
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="Mission queue management tool")
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    queue_parser = subparsers.add_parser("queue", help="Queue a mission from a template")
+    queue_parser.add_argument("template", help="Template name without .json suffix")
+    queue_parser.set_defaults(func=cmd_queue)
+
+    list_parser = subparsers.add_parser("list", help="List missions")
+    list_parser.add_argument("status", nargs="?", help="Filter by status (queued|active|completed|failed)")
+    list_parser.set_defaults(func=cmd_list)
+
+    status_parser = subparsers.add_parser("status", help="Show mission details")
+    status_parser.add_argument("mission_id", help="Mission identifier")
+    status_parser.set_defaults(func=cmd_status)
+
+    complete_parser = subparsers.add_parser("complete", help="Mark mission complete")
+    complete_parser.add_argument("mission_id", help="Mission identifier")
+    complete_parser.set_defaults(func=cmd_complete)
+
+    fail_parser = subparsers.add_parser("fail", help="Mark mission failed")
+    fail_parser.add_argument("mission_id", help="Mission identifier")
+    fail_parser.add_argument("reason", help="Failure reason")
+    fail_parser.set_defaults(func=cmd_fail)
+
+    return parser
+
+
+def main(argv: list[str] | None = None) -> None:
+    parser = build_parser()
+    args = parser.parse_args(argv)
+    args.func(args)
+
+
+if __name__ == "__main__":
+    main()

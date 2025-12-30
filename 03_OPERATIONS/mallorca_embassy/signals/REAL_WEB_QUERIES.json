@@ -1,0 +1,37 @@
+{
+  "query_1_xylella_economics": {
+    "query": "Xylella fastidiosa economic impact Europe 2024 2025 olive almond production losses billions",
+    "purpose": "Get real economic data, not simulated",
+    "target_metric": "cumulative_loss_eur"
+  },
+  "query_2_phosphinate_chemistry": {
+    "query": "phosphinic acid derivatives antibacterial plant pathogen systemic treatment research",
+    "purpose": "Validate novelty claim with real literature",
+    "target_metric": "novelty_score"
+  },
+  "query_3_fosfomycin_precedent": {
+    "query": "fosfomycin mechanism MurA inhibitor phosphonate antibiotic gram-negative bacteria",
+    "purpose": "Confirm scientific precedent",
+    "target_metric": "precedent_validation"
+  },
+  "query_4_xylella_spain_italy": {
+    "query": "Xylella fastidiosa Balearic Islands Mallorca Apulia Italy 2024 outbreak spread hectares infected",
+    "purpose": "Current crisis status",
+    "target_metric": "infection_acceleration"
+  },
+  "query_5_horizon_europe_funding": {
+    "query": "Horizon Europe 2025 2026 plant health agriculture innovation RIA calls open",
+    "purpose": "Real funding landscape",
+    "target_metric": "funding_opportunities"
+  },
+  "query_6_uib_inagea_research": {
+    "query": "University Balearic Islands INAGEA Xylella fastidiosa research 2024 molecular biology",
+    "purpose": "Partner capability validation",
+    "target_metric": "partner_readiness"
+  },
+  "query_7_patent_landscape": {
+    "query": "phosphinate plant protection antibacterial patents 2020-2025",
+    "purpose": "IP landscape reality check",
+    "target_metric": "competitive_threat"
+  }
+}

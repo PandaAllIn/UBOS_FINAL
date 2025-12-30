@@ -1,0 +1,1 @@
+{"event": "agent_spawn_initiated", "agent_id": "test_agent_20251106_182358", "model": "haiku-4.5", "role": "test_agent", "timestamp": "2025-11-06T18:23:58.122281+00:00"}\n{"event": "agent_spawned", "agent_id": "test_agent_20251106_182358", "status": "running", "timestamp": "2025-11-06T18:23:58.122463+00:00"}\n

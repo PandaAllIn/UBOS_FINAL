@@ -1,0 +1,22 @@
+{
+  "mission_id": "TEMPLATE-GROQ-GRANT-HUNTER-DAILY",
+  "objective": "Scan for new EU funding opportunities with a fit score of at least 4.0 and summarize the best leads.",
+  "assigned_to": "groq",
+  "priority": 2,
+  "required_tools": [
+    "/srv/janus/trinity/skills/eu-grant-hunter/",
+    "oracle_bridge.research"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "claude",
+    "message_type": "grant_opportunity"
+  },
+  "created_at": null,
+  "deadline": null,
+  "schedule": {
+    "type": "recurring",
+    "frequency": "daily",
+    "time_utc": "06:00"
+  }
+}

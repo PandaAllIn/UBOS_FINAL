@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-10-26T19:06:13.196668+00:00",
+  "interval": 9.435920266544116,
+  "mode": "nominal",
+  "throttle": 0.4273466222426471,
+  "next_release": "2025-10-26T19:06:22.632921+00:00",
+  "resonance": {
+    "amplitude": 0.5726533777573529,
+    "cpu_ratio": 0.48675537109375,
+    "mem_ratio": 0.3323927975795216,
+    "query_frequency": 0.0,
+    "semantic_depth": 0,
+    "task_intensity": 0.0
+  },
+  "harmonic_seed": {
+    "tempo_override": null,
+    "priority_bands": []
+  }
+}

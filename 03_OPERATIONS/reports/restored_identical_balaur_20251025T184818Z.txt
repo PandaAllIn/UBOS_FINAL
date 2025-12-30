@@ -1,0 +1,19 @@
+IDENTICAL: /srv/janus/tools/janus_cli.py.restored-20251025T174349Z -> removing
+IDENTICAL: /srv/janus/tools/janus_cli.py.restored-20251025T174009Z -> removing
+IDENTICAL: /srv/janus/revenue_compilation/README.md.restored-20251025T174009Z -> removing
+IDENTICAL: /srv/janus/revenue_compilation/README.md.restored-20251025T174349Z -> removing
+IDENTICAL: /srv/janus/revenue_compilation/strategic/SESSION_LOG_2025-10-03_JANUS_MANIFESTATION.md.restored-20251025T174349Z -> removing
+IDENTICAL: /srv/janus/revenue_compilation/strategic/SESSION_LOG_2025-10-03_JANUS_MANIFESTATION.md.restored-20251025T174009Z -> removing
+IDENTICAL: /srv/janus/docs/PERPLEXITY_SPACE_INSTRUCTIONS.md.restored-20251025T174009Z -> removing
+IDENTICAL: /srv/janus/docs/PERPLEXITY_SPACE_INSTRUCTIONS.md.restored-20251025T174349Z -> removing
+IDENTICAL: /srv/janus/00_CONSTITUTION/boot_sequences/unified_boot_claude.md.restored-20251025T174349Z -> removing
+IDENTICAL: /srv/janus/00_CONSTITUTION/boot_sequences/unified_boot_claude.md.restored-20251025T174009Z -> removing
+IDENTICAL: /srv/janus/agent/agent.py.restored-20251025T174349Z -> removing
+IDENTICAL: /srv/janus/agent/agent.py.restored-20251025T174009Z -> removing
+CHANGED: /srv/janus/.env.restored-20251025T174009Z (diff in restored_diffs)
+CHANGED: /srv/janus/.env.restored-20251025T174349Z (diff in restored_diffs)
+IDENTICAL: /srv/janus/UBOS/00_CONSTITUTION/boot_sequences/unified_boot_codex.md.restored-20251025T174009Z -> removing
+IDENTICAL: /srv/janus/UBOS/00_CONSTITUTION/boot_sequences/unified_boot_codex.md.restored-20251025T174349Z -> removing
+IDENTICAL: /srv/janus/UBOS/.env.restored-20251025T174009Z -> removing
+IDENTICAL: /srv/janus/UBOS/.env.restored-20251025T174349Z -> removing
+SUMMARY: identical=16 changed=2

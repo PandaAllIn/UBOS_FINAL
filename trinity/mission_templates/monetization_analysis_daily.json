@@ -1,0 +1,22 @@
+{
+  "mission_id": "TEMPLATE-GEMINI-MONETIZATION-DAILY",
+  "objective": "Analyze the performance of UBOS income streams and highlight monetization opportunities.",
+  "assigned_to": "gemini",
+  "priority": 3,
+  "required_tools": [
+    "/srv/janus/trinity/skills/monetization-strategist/",
+    "oracle_bridge.query_economics"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "claude",
+    "message_type": "monetization_report"
+  },
+  "created_at": null,
+  "deadline": null,
+  "schedule": {
+    "type": "recurring",
+    "frequency": "daily",
+    "time_utc": "12:00"
+  }
+}

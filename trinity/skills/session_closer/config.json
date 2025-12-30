@@ -1,0 +1,14 @@
+{
+  "context_files": {
+    "claude": "/srv/janus/trinity/claude.md",
+    "gemini": "/srv/janus/trinity/gemini.md",
+    "codex": "/srv/janus/trinity/codex.md"
+  },
+  "git_repo": "/srv/janus",
+  "analysis_model": "gemini",
+  "analysis_cli": "/home/balaur/.nvm/versions/node/v22.20.0/bin/gemini",
+  "log_dir": "/srv/janus/logs",
+  "commit_template": "{summary}\n\n{decisions}\n\n🤖 Generated with Session Closer\nCo-Authored-By: Trinity <trinity@janus.ai>",
+  "sync_mode": "append",
+  "enable_git_commit": true
+}

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"prime-mover","type":"text","text":"# THE FOUR BOOKS\n\nThe Prime Mover\nThe Soul of UBOS","x":0,"y":0,"width":300,"height":150,"color":"6"},
+		{"id":"book3","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book03-The-Art-of-Strategic-Thinking/INDEX.md","x":-400,"y":600,"width":350,"height":200,"color":"3"},
+		{"id":"book4","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book04-The-Tactical-Mindset/INDEX.md","x":400,"y":600,"width":350,"height":200,"color":"5"},
+		{"id":"genesis","type":"file","file":"00_CONSTITUTION/principles/GENESIS_PROTOCOL/GENESIS_PROTOCOL.md","x":0,"y":900,"width":300,"height":150,"color":"6"},
+		{"id":"roadmap","type":"file","file":"01_STRATEGY/ROADMAP.md","x":-500,"y":1100,"width":250,"height":150,"color":"4"},
+		{"id":"victorian","type":"file","file":"03_OPERATIONS/STATE_OF_THE_REPUBLIC.md","x":500,"y":1100,"width":360,"height":150,"color":"5"},
+		{"id":"comms-hub","type":"file","file":"trinity/COMMS_HUB_PROTOCOL.md","x":0,"y":1175,"width":300,"height":150,"color":"3"},
+		{"id":"book2","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book02-Build-One-System-at-a-Time/INDEX.md","x":575,"y":300,"width":350,"height":200,"color":"4"},
+		{"id":"book1","type":"file","file":"00_CONSTITUTION/principles/philosophy_books/Book01-BuildTheSystem/INDEX.md","x":-675,"y":300,"width":395,"height":200,"color":"1"}
+	],
+	"edges":[
+		{"id":"prime-to-b1","fromNode":"prime-mover","fromSide":"bottom","toNode":"book1","toSide":"top","label":"WHY"},
+		{"id":"prime-to-b2","fromNode":"prime-mover","fromSide":"bottom","toNode":"book2","toSide":"top","label":"HOW"},
+		{"id":"prime-to-b3","fromNode":"prime-mover","fromSide":"bottom","toNode":"book3","toSide":"top","label":"WHAT"},
+		{"id":"prime-to-b4","fromNode":"prime-mover","fromSide":"bottom","toNode":"book4","toSide":"top","label":"WHEN"},
+		{"id":"books-to-genesis","fromNode":"book1","fromSide":"bottom","toNode":"genesis","toSide":"top","label":"Manifests"},
+		{"id":"book2-to-genesis","fromNode":"book2","fromSide":"bottom","toNode":"genesis","toSide":"top"},
+		{"id":"book3-to-genesis","fromNode":"book3","fromSide":"bottom","toNode":"genesis","toSide":"top"},
+		{"id":"book4-to-genesis","fromNode":"book4","fromSide":"bottom","toNode":"genesis","toSide":"top"},
+		{"id":"genesis-to-roadmap","fromNode":"genesis","fromSide":"bottom","toNode":"roadmap","toSide":"top"},
+		{"id":"genesis-to-comms","fromNode":"genesis","fromSide":"bottom","toNode":"comms-hub","toSide":"top"},
+		{"id":"genesis-to-victorian","fromNode":"genesis","fromSide":"bottom","toNode":"victorian","toSide":"top"}
+	]
+}

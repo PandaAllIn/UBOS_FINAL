@@ -1,0 +1,12 @@
+[Unit]
+Description=Monetization Analysis Daily Mission (12:00 UTC)
+OnFailure=mission-scheduler-failure@monetization_analysis_daily.service
+
+[Timer]
+OnCalendar=*-*-* 12:00:00
+UTC=true
+Persistent=true
+Unit=janus-mission-scheduler@monetization_analysis_daily.service
+
+[Install]
+WantedBy=timers.target

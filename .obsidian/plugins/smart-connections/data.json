@@ -1,0 +1,30 @@
+{
+  "last_version": "3.0.80",
+  "installed_at": 1763189491758,
+  "settings": {
+    "language": "en",
+    "smart_sources": {
+      "min_chars": 180,
+      "embed_model": {
+        "adapter": "transformers",
+        "transformers": {
+          "legacy_transformers": false,
+          "model_key": "TaylorAI/bge-micro-v2"
+        }
+      },
+      "folder_exclusions": "99_ARCHIVES\\n.trash",
+      "file_exclusions": "Untitled,README",
+      "excluded_headings": "",
+      "re_import_wait_time": 13
+    },
+    "smart_view_filter": {
+      "results_limit": 20,
+      "render_markdown": true,
+      "show_full_path": true,
+      "exclude_filter": "99_ARCHIVES,.trash",
+      "exclude_blocks_from_source_connections": false,
+      "exclude_frontmatter_blocks": true,
+      "expanded_view": false
+    }
+  }
+}

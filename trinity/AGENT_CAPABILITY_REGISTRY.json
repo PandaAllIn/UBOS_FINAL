@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-11-06",
+    "purpose": "Central registry of all tools, oracles, CLIs available to autonomous agents",
+    "usage": "Loaded by auto-orchestration system to determine which tools each sub-agent can access"
+  },
+
+  "clis": {
+    "gemini": {
+      "path": "/home/balaur/.nvm/versions/node/v22.20.0/bin/gemini",
+      "type": "LLM",
+      "capabilities": ["reasoning", "web_search", "1M_context", "real_time_data"],
+      "cost": "free_tier_generous",
+      "speed": "medium",
+      "use_cases": ["research", "analysis", "real_time_intelligence"],
+      "command_pattern": "gemini \"<prompt>\"",
+      "async": true
+    },
+    "codex": {
+      "path": "/home/balaur/.nvm/versions/node/v22.20.0/bin/codex",
+      "type": "LLM",
+      "capabilities": ["code_generation", "debugging", "refactoring"],
+      "cost": "paid",
+      "speed": "medium",
+      "use_cases": ["code_tasks", "technical_analysis", "implementation"],
+      "command_pattern": "codex \"<prompt>\"",
+      "async": true
+    }
+  },
+
+  "oracles": {
+    "groq": {
+      "module": "trinity.oracle_bridge.OracleBridge",
+      "type": "fast_llm",
+      "capabilities": [
+        "fast_think",
+        "web_search",
+        "wolfram_integration",
+        "code_execution",
+        "local_scout"
+      ],
+      "models": {
+        "fast": "llama-3.3-70b-versatile",
+        "compound": "mixtral-8x7b"
+      },
+      "cost": "very_low",
+      "speed": "very_fast",
+      "use_cases": ["quick_inference", "parallel_research", "real_time_decisions"],
+      "methods": {
+        "fast_think": "bridge.fast_think(prompt)",
+        "web_search": "bridge.research(query, mode='quick')"
+      }
+    },
+    "wolfram_alpha": {
+      "module": "trinity.oracle_bridge.OracleBridge",
+      "type": "computation",
+      "capabilities": ["math", "computation", "symbolic_processing", "unit_conversion", "scientific_queries"],
+      "cost": "api_key_required",
+      "speed": "fast",
+      "use_cases": ["calculations", "formula_evaluation", "scientific_queries"],
+      "methods": {
+        "query": "bridge.wolfram(query)"
+      }
+    },
+    "perplexity": {
+      "module": "trinity.oracle_bridge.OracleBridge",
+      "type": "research",
+      "capabilities": ["web_research", "citations", "current_events", "comprehensive_analysis"],
+      "cost": "api_key_required",
+      "speed": "medium",
+      "use_cases": ["research", "fact_checking", "current_events"],
+      "methods": {
+        "research": "bridge.research(query, mode='balanced')",
+        "comprehensive": "bridge.research(query, mode='comprehensive')"
+      }
+    },
+    "data_commons": {
+      "module": "trinity.oracle_bridge.OracleBridge",
+      "type": "data",
+      "capabilities": ["statistics", "demographics", "economics", "historical_data"],
+      "cost": "free",
+      "speed": "fast",
+      "use_cases": ["statistical_analysis", "trend_analysis", "grant_justification"],
+      "methods": {
+        "query": "bridge.data_commons.query(metric, location, year)"
+      }
+    }
+  },
+
+  "tools": {
+    "code_oracle": {
+      "script": "/srv/janus/02_FORGE/scripts/code_oracle_tool.py",
+      "type": "code_analysis",
+      "capabilities": ["dependencies", "dependents", "call_graph"],
+      "use_cases": ["codebase_analysis", "impact_assessment", "architecture_review"],
+      "command_pattern": "python3 /srv/janus/02_FORGE/scripts/code_oracle_tool.py --command <cmd> --target <path>"
+    },
+    "narrative_query": {
+      "script": "/srv/janus/02_FORGE/scripts/narrative_query_tool.py",
+      "type": "knowledge_base",
+      "capabilities": ["semantic_search", "constitutional_memory", "precedent_lookup"],
+      "entries": 11301,
+      "use_cases": ["constitutional_validation", "precedent_research", "context_loading"],
+      "command_pattern": "python3 /srv/janus/02_FORGE/scripts/narrative_query_tool.py --query '<query>' --top-k 5"
+    },
+    "comms_hub": {
+      "path": "/srv/janus/03_OPERATIONS/COMMS_HUB/",
+      "type": "messaging",
+      "capabilities": ["inter_vessel_messaging", "async_coordination", "audit_trail"],
+      "use_cases": ["trinity_coordination", "delegation", "status_updates"],
+      "methods": {
+        "send": "transmit_puck(payload, recipients, priority)",
+        "receive": "check_inbox(vessel_name)"
+      }
+    }
+  },
+
+  "skills": {
+    "eu_grant_hunter": {
+      "path": "/srv/janus/trinity/skills/eu-grant-hunter/",
+      "type": "revenue",
+      "capabilities": ["grant_scanning", "deadline_tracking", "fit_scoring", "opportunity_briefs"],
+      "oracles_used": ["perplexity", "groq"],
+      "schedule": "daily_09:00_UTC",
+      "use_cases": ["grant_discovery", "pipeline_management"]
+    },
+    "malaga_embassy_operator": {
+      "path": "/srv/janus/trinity/skills/malaga-embassy-operator/",
+      "type": "operations",
+      "capabilities": ["health_monitoring", "budget_tracking", "cascade_compliance"],
+      "oracles_used": ["data_commons"],
+      "schedule": "daily_08:00_UTC",
+      "use_cases": ["operational_monitoring", "financial_health"]
+    },
+    "grant_application_assembler": {
+      "path": "/srv/janus/trinity/skills/grant-application-assembler/",
+      "type": "revenue",
+      "capabilities": ["proposal_assembly", "consortium_coordination", "document_generation"],
+      "oracles_used": ["perplexity", "wolfram_alpha"],
+      "use_cases": ["proposal_creation", "submission_packages"]
+    },
+    "monetization_strategist": {
+      "path": "/srv/janus/trinity/skills/monetization-strategist/",
+      "type": "revenue",
+      "capabilities": ["revenue_optimization", "pricing_analysis", "market_research"],
+      "oracles_used": ["perplexity", "data_commons"],
+      "use_cases": ["revenue_strategy", "market_analysis"]
+    },
+    "financial_proposal_generator": {
+      "path": "/srv/janus/trinity/skills/financial-proposal-generator/",
+      "type": "revenue",
+      "capabilities": ["narrative_generation", "budget_creation", "justification_writing"],
+      "oracles_used": ["wolfram_alpha", "data_commons", "perplexity"],
+      "use_cases": ["proposal_writing", "budget_justification"]
+    }
+  },
+
+  "agent_templates": {
+    "haiku_researcher": {
+      "model": "claude-haiku-4.5",
+      "cost_multiplier": 0.25,
+      "context_window": 200000,
+      "typical_usage": "15K-30K tokens",
+      "parallel_capacity": "4-8 agents",
+      "oracles_available": ["groq", "perplexity", "wolfram_alpha", "data_commons"],
+      "clis_available": ["gemini"],
+      "use_cases": ["parallel_research", "data_gathering", "quick_analysis"]
+    },
+    "haiku_validator": {
+      "model": "claude-haiku-4.5",
+      "cost_multiplier": 0.25,
+      "context_window": 200000,
+      "typical_usage": "10K-20K tokens",
+      "oracles_available": ["narrative_query"],
+      "tools_available": ["code_oracle"],
+      "use_cases": ["constitutional_validation", "quality_checks", "error_detection"]
+    },
+    "sonnet_strategist": {
+      "model": "claude-sonnet-4.5",
+      "cost_multiplier": 1.0,
+      "context_window": 200000,
+      "typical_usage": "50K-100K tokens",
+      "oracles_available": "all",
+      "clis_available": "all",
+      "tools_available": "all",
+      "use_cases": ["complex_strategy", "long_horizon_planning", "synthesis"]
+    }
+  },
+
+  "auto_orchestration_rules": {
+    "research_tasks": {
+      "triggers": ["find", "research", "search", "analyze", "investigate"],
+      "strategy": "spawn_parallel_haiku_researchers",
+      "agent_count": "3-6",
+      "oracles": ["perplexity", "groq"],
+      "clis": ["gemini"],
+      "merge_strategy": "synthesize_findings"
+    },
+    "grant_tasks": {
+      "triggers": ["grant", "funding", "EU", "Horizon", "proposal"],
+      "strategy": "activate_grant_hunter_skill",
+      "oracles": ["perplexity"],
+      "clis": ["gemini"],
+      "coordination": "via_comms_hub"
+    },
+    "code_tasks": {
+      "triggers": ["code", "implement", "refactor", "debug", "fix"],
+      "strategy": "delegate_to_codex",
+      "clis": ["codex"],
+      "tools": ["code_oracle"],
+      "coordination": "via_comms_hub"
+    },
+    "mathematical_tasks": {
+      "triggers": ["calculate", "compute", "formula", "math", "equation"],
+      "strategy": "use_wolfram_oracle",
+      "oracles": ["wolfram_alpha"],
+      "fallback": ["groq"]
+    },
+    "constitutional_validation": {
+      "triggers": ["verify", "validate", "constitutional", "alignment", "Lion's Sanctuary"],
+      "strategy": "spawn_haiku_validator",
+      "tools": ["narrative_query"],
+      "context": "constitutional_documents"
+    },
+    "malaga_operations": {
+      "triggers": ["malaga", "embassy", "health score", "budget", "burn rate"],
+      "strategy": "activate_malaga_skill",
+      "oracles": ["data_commons"],
+      "coordination": "via_comms_hub"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "settings_version": "0.23.0",
+  "debug": false,
+  "obsidian_command_palette_prefix": "Execute: ",
+  "preview_variables_in_command_palette": true,
+  "show_autocomplete_menu": true,
+  "working_directory": "",
+  "default_shells": {},
+  "environment_variable_path_augmentations": {},
+  "show_installation_warnings": true,
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "execution_notification_mode": "disabled",
+  "output_channel_clipboard_also_outputs_to_notification": true,
+  "output_channel_notification_decorates_output": true,
+  "enable_events": true,
+  "approve_modals_by_pressing_enter_key": true,
+  "command_palette": {
+    "re_execute_last_shell_command": {
+      "enabled": true,
+      "prefix": "Re-execute: "
+    }
+  },
+  "max_visible_lines_in_shell_command_fields": false,
+  "shell_commands": [
+    {
+      "id": "daily-briefing",
+      "platform_specific_commands": {
+        "default": "/srv/janus/AUTOMATION_SCRIPTS/obsidian_realtime_update.sh briefing"
+      },
+      "shells": {},
+      "alias": "Daily Briefing Generator",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {"stdin": null},
+      "output_handlers": {
+        "stdout": {"handler": "ignore", "convert_ansi_code": true},
+        "stderr": {"handler": "notification", "convert_ansi_code": true}
+      },
+      "output_wrappers": {"stdout": null, "stderr": null},
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "execution_notification_mode": null,
+      "events": {},
+      "debounce": null,
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "dashboard-refresh",
+      "platform_specific_commands": {
+        "default": "curl -k -X POST \"https://127.0.0.1:27124/vault/_DASHBOARDS/MISSION_STATUS.md\" -H \"Authorization: Bearer 26a9dc89c0d9e1f99f89a7eee541dcf377f09ab1cb29c8ba10c6f961a7406de8\""
+      },
+      "shells": {},
+      "alias": "Dashboard Refresh",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {"stdin": null},
+      "output_handlers": {
+        "stdout": {"handler": "notification", "convert_ansi_code": true},
+        "stderr": {"handler": "notification", "convert_ansi_code": true}
+      },
+      "output_wrappers": {"stdout": null, "stderr": null},
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "execution_notification_mode": null,
+      "events": {},
+      "debounce": null,
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "git-sync",
+      "platform_specific_commands": {
+        "default": "cd /srv/janus && git add . && git commit -m \"Auto-save\" && git push"
+      },
+      "shells": {},
+      "alias": "Git Sync",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {"stdin": null},
+      "output_handlers": {
+        "stdout": {"handler": "notification", "convert_ansi_code": true},
+        "stderr": {"handler": "notification", "convert_ansi_code": true}
+      },
+      "output_wrappers": {"stdout": null, "stderr": null},
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "execution_notification_mode": null,
+      "events": {},
+      "debounce": null,
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    }
+  ],
+  "prompts": [],
+  "builtin_variables": {},
+  "custom_variables": [],
+  "custom_variables_notify_changes_via": {
+    "obsidian_uri": true,
+    "output_assignment": true
+  },
+  "custom_shells": [],
+  "output_wrappers": []
+}

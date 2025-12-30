@@ -1,0 +1,51 @@
+{
+  "mission_id": "TEMPLATE-GROQ-ROMANIAN-MARKET-SCOUT",
+  "objective": "Detect Romanian companies and projects seeking AI, automation, or fractional CTO support.",
+  "assigned_to": "groq",
+  "priority": 3,
+  "metadata": {
+    "support_residents": ["gemini"],
+    "notes": "Groq scrapes Romanian sources; Gemini evaluates feasibility and prepares outreach notes."
+  },
+  "required_tools": [
+    "oracle.research",
+    "oracle.quick_research",
+    "/srv/janus/trinity/skills/treasury-administrator/"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "captain",
+    "message_type": "romanian_revenue_signals"
+  },
+  "workflow": [
+    "Crawl Romanian job boards (eJobs, BestJobs, Hipo.ro) for AI/data automation roles allowing contractor engagement.",
+    "Scan startup hubs (ROStartup, TechAngels, Spherik, InnovX) and incubator postings for technical leadership needs.",
+    "Identify EU-funded Romanian projects seeking digital transformation partners.",
+    "List local SMEs undergoing digitalisation that could adopt AI automation pilots with remote delivery.",
+    "Compile minimum 10 prospects including contact, project scope, language requirements, estimated budget, and payment terms confidence."
+  ],
+  "deliverable_format": {
+    "signals": [
+      {
+        "title": "Opportunity title",
+        "organization": "Company or project name",
+        "channel": "Source platform or contact",
+        "value_estimate": "EUR value or retainer",
+        "probability": "0.0-1.0 based on feasibility",
+        "stage": "lead|qualified",
+        "location": "City or remote",
+        "tags": ["romania", "ai_service"],
+        "notes": "Key context (language, timeline, contact person)"
+      }
+    ],
+    "summary": {
+      "total_signals": 10,
+      "recommended_actions": ["Prioritise top warm leads", "Draft Romanian-language intro email"]
+    }
+  },
+  "schedule": {
+    "type": "recurring",
+    "frequency": "daily",
+    "time_utc": "07:00"
+  }
+}

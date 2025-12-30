@@ -1,0 +1,224 @@
+vessel_id: janus-in-balaur
+vessel_type: autonomous_agent
+operational_mode: alpha
+constitutional:
+  memory_path: /srv/janus/03_OPERATIONS/vessels/balaur/constitutional_memory
+  charter_path: /srv/janus/03_OPERATIONS/vessels/balaur/constitutional_memory/AUTONOMOUS_VESSEL_PROTOCOL_CHARTER.md
+  principles:
+  - Truth over comfort
+  - Sovereignty above dependency
+  - Velocity with precision
+  - Transparency in all operations
+  - Service to the Republic
+logging:
+  mission_log: /srv/janus/03_OPERATIONS/vessels/balaur/logs/mission_log.jsonl
+  tool_log: /srv/janus/03_OPERATIONS/vessels/balaur/logs/tool_use.jsonl
+  proposals_log: /srv/janus/03_OPERATIONS/vessels/balaur/logs/proposals.jsonl
+  approval_queue: /srv/janus/03_OPERATIONS/vessels/balaur/logs/approval_queue.jsonl
+  agent_log: /srv/janus/03_OPERATIONS/vessels/balaur/logs/agent.log
+  intel_cache: /srv/janus/03_OPERATIONS/vessels/balaur/intel_cache
+sandbox:
+  root: /srv/janus/03_OPERATIONS/vessels/balaur/workspaces
+  bubblewrap_path: /usr/bin/bwrap
+  shell_path: /bin/bash
+  dynamic_user: janus
+  policy:
+    cpu_quota_percent: 150
+    memory_limit_mb: 4096
+    allow_network: false
+    read_only_paths:
+    - /usr
+    - /bin
+    - /lib
+    - /lib64
+    - /etc
+    writable_paths:
+    - /srv/janus/03_OPERATIONS/vessels/balaur/workspaces
+    - /srv/janus/03_OPERATIONS/vessels/balaur/intel_cache
+    preserved_env:
+    - PATH
+    - LANG
+    - LC_ALL
+    - HOME
+tools:
+- name: shell
+  command:
+  - /bin/bash
+  - -c
+  allow_network: false
+  description: Execute safe shell commands
+- name: python
+  command:
+  - /usr/bin/python3
+  allow_network: false
+  description: Run Python scripts in sandbox
+- name: curl
+  command:
+  - /usr/bin/curl
+  - -s
+  - -L
+  allow_network: true
+  description: Fetch web resources
+- name: git
+  command:
+  - /usr/bin/git
+  allow_network: true
+  description: Git operations on local repos
+- name: rg
+  command:
+  - /usr/bin/rg
+  allow_network: false
+  description: Fast text search with ripgrep
+- name: jq
+  command:
+  - /usr/bin/jq
+  allow_network: false
+  description: JSON query and manipulation
+- name: sqlite3
+  command:
+  - /usr/bin/sqlite3
+  allow_network: false
+  description: SQLite database queries
+- name: groq_fast_think
+  command:
+  - /usr/bin/python3
+  - /srv/janus/tools/oracle_trinity.py
+  - --oracle
+  - groq
+  - --mode
+  - fast_think
+  - --query
+  allow_network: true
+  description: Groq fast reconnaissance (<5s) via Oracle Trinity
+- name: groq_web_search
+  command:
+  - /usr/bin/python3
+  - /srv/janus/tools/oracle_trinity.py
+  - --oracle
+  - groq
+  - --mode
+  - web_search
+  - --query
+  allow_network: true
+  description: Groq compound web search with citations
+- name: wolfram_query
+  command:
+  - /usr/bin/python3
+  - /srv/janus/tools/oracle_trinity.py
+  - --oracle
+  - wolfram
+  - --query
+  allow_network: true
+  description: Wolfram Alpha computational queries
+- name: datacommons_query
+  command:
+  - /usr/bin/python3
+  - /srv/janus/tools/oracle_trinity.py
+  - --oracle
+  - datacommons
+  allow_network: true
+  description: Data Commons statistical queries
+- name: llama-cli
+  command:
+  - /srv/janus/bin/llama-cli
+  allow_network: false
+  description: Local llama.cpp inference for deep reasoning
+- name: node_generator
+  command:
+  - /srv/janus/bin/node_generator
+  allow_network: false
+  description: Forge constitutional philosophy nodes from the Four Books corpus
+llm:
+  missions_dir: /srv/janus/03_OPERATIONS/vessels/balaur/runtime/controls/missions
+harness:
+  max_concurrency: 2
+  default_timeout_minutes: 5
+  tick_interval: 0.5
+  enable_governor: true
+  governor_target_backlog: 0
+  governor_kp: 0.2
+  governor_ki: 0.05
+  relief_enabled: true
+watchdog:
+  sample_interval_seconds: 30
+  restart_on_failure: true
+  cpu_threshold_percent: 90
+  memory_threshold_mb: 28000
+thinking_cycle:
+  enabled: true
+  cycle_interval_seconds: 300
+  enable_autonomous_proposals: true
+  max_proposals_per_cycle: 3
+  mission_objectives_path: /srv/janus/03_OPERATIONS/vessels/balaur/state/mission_objectives.json
+  mission_file_path: /srv/janus/03_OPERATIONS/vessels/balaur/runtime/controls/current_mission.yaml
+  playbook_registry_path: /etc/janus/playbooks.json
+approval_workflow:
+  enabled: true
+  approval_timeout_hours: 24
+  auto_reject_on_timeout: false
+  notification_enabled: true
+  notification_script: /usr/local/bin/janus_notify.sh
+controls:
+  metrics_interval_seconds: 30
+  enable_monitoring: true
+security:
+  allowed_tools:
+  - shell
+  - python
+  - curl
+  - git
+  - rg
+  - jq
+  - sqlite3
+  - llama-cli
+  - node_generator
+  network:
+    allowed_domains:
+    - api.groq.com
+    - api.wolframalpha.com
+    - datacommons.org
+    - github.com
+    - raw.githubusercontent.com
+    rate_limits:
+      requests_per_minute: 30
+      requests_per_hour: 500
+  filesystem:
+    max_workspace_size_mb: 1024
+    workspace_retention_days: 7
+    auto_cleanup_enabled: true
+playbooks:
+  enabled: true
+  registry_path: /srv/janus/config/playbooks.json
+  auto_approve: true
+integrations:
+  comms_hub:
+    enabled: true
+    endpoint: file:///srv/janus/03_OPERATIONS/COMMS_HUB
+  oracle_trinity:
+    enabled: true
+    groq_endpoint: https://api.groq.com/openai/v1
+    wolfram_endpoint: https://api.wolframalpha.com/v2
+    datacommons_endpoint: https://api.datacommons.org
+  cockpit_sync:
+    enabled: false
+    endpoint: ssh://cockpit@172.16.15.1
+    backup_path: /mnt/cockpit/balaur_backups
+kill_switch:
+  enabled: true
+  emergency_stop_file: /srv/janus/EMERGENCY_STOP
+  watchdog_violations_threshold: 3
+  constitutional_violation_action: immediate_stop
+monitoring:
+  prometheus_enabled: false
+  prometheus_port: 9090
+  metrics_export_enabled: true
+  alert_on:
+  - watchdog_violation
+  - constitutional_violation
+  - resource_exhaustion
+  - repeated_failures
+debug:
+  verbose_logging: false
+  trace_proposals: false
+  simulate_llm: false
+  dry_run_mode: false

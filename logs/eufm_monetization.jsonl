@@ -1,0 +1,37 @@
+{"timestamp": "2025-10-30T16:47:05.378709+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 200}}
+{"timestamp": "2025-10-30T16:47:17.455043+00:00", "event": "pricing_experiment", "payload": {"experiment": "pro-tier-q1", "variant_a": {"price": 249.0, "conversions": [12, 200]}, "variant_b": {"price": 299.0, "conversions": [10, 200]}, "decision": "B", "notes": ["Variant A (\u20ac249.0) MRR: \u20ac2988.00", "Variant B (\u20ac299.0) MRR: \u20ac2990.00", "Z-score: 0.44", "Approx. two-tailed p-value: 0.661", "Difference not statistically significant; choose based on strategic positioning."]}}
+{"timestamp": "2025-10-30T16:48:18.684281+00:00", "event": "funnel_analysis", "payload": {"funnel": {"visitors": 5000.0, "signups": 250.0, "trials": 120.0, "customers": 30.0}, "insights": [{"stage": "visitors \u2192 signups", "conversion": 5.0, "drop": 95.0, "priority": 0.95}, {"stage": "trials \u2192 customers", "conversion": 25.0, "drop": 75.0, "priority": 0.75}, {"stage": "signups \u2192 trials", "conversion": 48.0, "drop": 52.0, "priority": 0.52}], "recommendations": ["Improve landing page messaging (headline + social proof).", "Introduce in-app checklist and trial CTA for upgrade.", "Optimize onboarding email sequence to encourage trial activation."]}}
+{"timestamp": "2025-10-30T16:48:26.068198+00:00", "event": "ltv_calculation", "payload": {"tier": "professional", "ltv": 10824.0, "subscription_value": 10764.0, "upsell_value": 60.0, "ltv_cac_ratio": 9.02, "cac": 1200.0}}
+{"timestamp": "2025-10-30T16:49:33.040201+00:00", "event": "marketing_plan", "payload": {"target_customers": 150, "budget": 20000.0, "channels": ["seo", "ads", "webinar"], "months": 6}}
+{"timestamp": "2025-10-30T17:41:46.883472+00:00", "event": "ltv_calculation", "payload": {"tier": "professional", "ltv": 10824.0, "subscription_value": 10764.0, "upsell_value": 60.0, "ltv_cac_ratio": 9.02, "cac": 1200.0}}
+{"timestamp": "2025-11-01T11:34:39.323607+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-01T11:35:39.625878+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-01T12:00:40.810061+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-01T13:07:20.248698+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 5000}}
+{"timestamp": "2025-11-01T13:07:24.069113+00:00", "event": "pricing_experiment", "payload": {"experiment": "pro-tier-q1", "variant_a": {"price": 249.0, "conversions": [12, 200]}, "variant_b": {"price": 299.0, "conversions": [10, 200]}, "decision": "B", "notes": ["Variant A (\u20ac249.0) MRR: \u20ac2988.00", "Variant B (\u20ac299.0) MRR: \u20ac2990.00", "Z-score: 0.44", "Approx. two-tailed p-value: 0.661", "Difference not statistically significant; choose based on strategic positioning."]}}
+{"timestamp": "2025-11-01T13:07:29.302410+00:00", "event": "ltv_calculation", "payload": {"tier": "professional", "ltv": 10824.0, "subscription_value": 10764.0, "upsell_value": 60.0, "ltv_cac_ratio": 9.02, "cac": 1200.0}}
+{"timestamp": "2025-11-02T12:00:41.703617+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-03T12:00:42.611464+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-04T12:00:43.505569+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-05T12:00:44.388282+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-06T12:00:45.238814+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-07T12:00:46.091844+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-08T12:00:46.966806+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-09T12:00:47.626359+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-10T12:00:48.289038+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-11T12:00:49.008776+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:52.238413+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:52.442987+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:52.643762+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:52.870924+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:53.072199+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:53.242089+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:53.425999+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:53.610847+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:53.797779+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:54.000912+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:54.191360+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:54.394000+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:54.593559+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:54.817397+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}
+{"timestamp": "2025-11-26T17:01:55.033404+00:00", "event": "revenue_projection", "payload": {"scenario": "base", "months": 12, "runs": 2000}}

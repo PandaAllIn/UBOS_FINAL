@@ -1,0 +1,52 @@
+{
+  "mission_id": "TEMPLATE-GROQ-FAST-GRANT-HUNTER",
+  "objective": "Surface small, fast-decision grants and stipend programs deliverable within 90 days.",
+  "assigned_to": "groq",
+  "priority": 3,
+  "metadata": {
+    "support_residents": ["openai"],
+    "notes": "Groq identifies opportunities; OpenAI prepares draft applications."
+  },
+  "required_tools": [
+    "oracle.research",
+    "/srv/janus/trinity/skills/eu-grant-hunter/",
+    "librarian.search_content"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "claude",
+    "message_type": "fast_grant_opportunity"
+  },
+  "workflow": [
+    "Scan EU and Romanian grant portals for micro-grants (<€50k) with decision windows under 90 days.",
+    "Identify accelerator or innovation competitions offering cash stipends or prizes for AI/automation projects.",
+    "Filter for programmes accessible to Romanian-based individuals or single-owner entities with remote execution.",
+    "Estimate application effort (hours) and compile required documents for top candidates.",
+    "Deliver at least five viable opportunities with deadlines, decision timelines, and success probability."
+  ],
+  "deliverable_format": {
+    "opportunities": [
+      {
+        "title": "Grant name",
+        "program": "Issuing body",
+        "deadline": "ISO 8601 date",
+        "decision_timeframe": "<90 days",
+        "amount": "EUR award",
+        "fit_score": "0-10 quick suitability",
+        "application_effort_hours": 12,
+        "success_probability": 0.4,
+        "notes": "Key eligibility criteria"
+      }
+    ],
+    "summary": {
+      "total_opportunities": 5,
+      "recommended_focus": ["Grant A", "Grant B"],
+      "immediate_actions": ["Gather financial statements", "Draft executive summary"]
+    }
+  },
+  "schedule": {
+    "type": "recurring",
+    "frequency": "daily",
+    "time_utc": "09:00"
+  }
+}

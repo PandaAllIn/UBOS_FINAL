@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>UBOS Grant Pipeline Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; color: #1c1c1c; margin: 2rem; background: #f5f7fa; }
+    h1 { color: #00458a; }
+    section { margin-bottom: 2rem; }
+    table { border-collapse: collapse; width: 100%; margin-top: 1rem; }
+    th, td { border: 1px solid #d0d7de; padding: 0.5rem 0.75rem; text-align: left; }
+    th { background: #e2ecf8; }
+    tr:nth-child(even) { background: #ffffff; }
+    .tag { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.85rem; margin-right: 0.25rem; }
+    .tag-high { background: #dcfce7; color: #166534; }
+    .tag-medium { background: #fef3c7; color: #92400e; }
+    .tag-low { background: #fee2e2; color: #991b1b; }
+    footer { font-size: 0.85rem; color: #4b5563; margin-top: 3rem; }
+  </style>
+</head>
+<body>
+  <h1>UBOS Grant Pipeline Snapshot</h1>
+  <p>Generated on {{generated_at}} by EU Grant Hunter skill.</p>
+
+  <section>
+    <h2>Pipeline Summary</h2>
+    <ul>
+      <li>Total opportunities tracked: {{total_opportunities}}</li>
+      <li>High priority (score ≥ 4): {{high_priority_count}} worth €{{high_priority_total}}</li>
+      <li>Medium priority (3 ≤ score &lt; 4): {{medium_priority_count}} worth €{{medium_priority_total}}</li>
+      <li>Low priority (score &lt; 3): {{low_priority_count}} worth €{{low_priority_total}}</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Upcoming Deadlines (Next 90 Days)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Deadline</th>
+          <th>Program</th>
+          <th>Opportunity</th>
+          <th>Score</th>
+          <th>Project Match</th>
+          <th>Budget</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{deadline_rows}}
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Opportunities by Project</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Project</th>
+          <th>Opportunities</th>
+          <th>Total Budget</th>
+          <th>Upcoming Deadlines</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{project_rows}}
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Recent Activity</h2>
+    <ul>
+      {{activity_items}}
+    </ul>
+  </section>
+
+  <footer>
+    <p>Constitutional alignment verified by EU Grant Hunter • Lion's Sanctuary compliant • Contact: Trinity</p>
+  </footer>
+</body>
+</html>

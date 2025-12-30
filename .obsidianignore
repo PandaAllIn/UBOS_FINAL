@@ -1,0 +1,54 @@
+# Heavy directories - DO NOT INDEX
+clone_gitstatus/
+models/
+99_ARCHIVES/
+squashfs-root/
+ngrok
+ngrok.tgz
+
+# Python virtual environments
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node modules and caches
+node_modules/
+.npm/
+.cache/
+
+# Git internals
+.git/
+
+# Smart Connections data (managed separately)
+.smart-env/
+
+# Large binary files
+*.db
+*.sqlite
+*.tgz
+*.tar.gz
+*.zip
+*.AppImage
+
+# Logs (can be huge)
+logs/*.jsonl
+trinity_logs/
+
+# Telegram media
+trinity_memory/telegram_images/
+trinity_memory/telegram_voice/
+trinity_memory/oracle_cache/
+
+# Backups
+backups/
+
+# Restricted workspaces (owned by janus service accounts)
+03_OPERATIONS/vessels/balaur/workspaces/
+
+# TimTransExpress data
+TimTransExpress/
+
+# Temporary files
+.tmp/

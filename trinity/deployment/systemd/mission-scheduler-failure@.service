@@ -1,0 +1,9 @@
+[Unit]
+Description=Record mission scheduler failure for %i
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/logger -p user.err "Mission scheduler failure for %i"
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,19 @@
+{
+  "panel": "Council Resonance View",
+  "last_updated": "2025-10-26T19:41:15Z",
+  "last_harmony": 0.0,
+  "classification": "within_band",
+  "stability_band": {
+    "mean": 0.0,
+    "lower": -0.05,
+    "upper": 0.05
+  },
+  "trend": null,
+  "history": [
+    {
+      "timestamp": "2025-10-26T19:41:15Z",
+      "harmony": 0.0
+    }
+  ],
+  "alerts": []
+}

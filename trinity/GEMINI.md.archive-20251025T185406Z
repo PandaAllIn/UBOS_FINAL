@@ -1,0 +1,5 @@
+# Gemini Resident Notes
+
+See identity: ../config/GEMINI.md
+
+Operational implementation: trinity/gemini_resident.py (2.5 Pro).

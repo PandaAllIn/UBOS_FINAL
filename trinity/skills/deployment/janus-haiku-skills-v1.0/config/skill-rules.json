@@ -1,0 +1,304 @@
+{
+  "eu-grant-hunter": {
+    "type": "domain",
+    "enforcement": "remind",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": [
+        "grant",
+        "grants",
+        "funding",
+        "opportunity",
+        "opportunities",
+        "horizon",
+        "erdf",
+        "digital europe",
+        "innovation fund",
+        "deadline",
+        "pipeline",
+        "xylella",
+        "geodatacenter",
+        "geothermal"
+      ],
+      "intentPatterns": [
+        "(find|search|scan|track).*?(grant|funding|opportunit)",
+        "(show|list|display).*?(pipeline|deadline)",
+        "(what|which).*?(grant|funding).*?(available|upcoming)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [
+        "/srv/janus/01_STRATEGY/grant_pipeline/.*",
+        "/srv/janus/01_STRATEGY/grant_opportunities/.*"
+      ],
+      "contentPatterns": [
+        "HORIZON-",
+        "ERDF-",
+        "DIGITAL-",
+        "fit_score"
+      ]
+    },
+    "constitutionalConstraints": [
+      "Only recommend opportunities aligned with Lion's Sanctuary principles"
+    ]
+  },
+
+  "malaga-embassy-operator": {
+    "type": "domain",
+    "enforcement": "suggest",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": [
+        "malaga",
+        "embassy",
+        "budget",
+        "health score",
+        "burn rate",
+        "runway",
+        "revenue stream",
+        "constitutional cascade",
+        "spending",
+        "captain"
+      ],
+      "intentPatterns": [
+        "(show|check|calculate).*?(health|status)",
+        "(malaga|embassy).*?(budget|spending|revenue)",
+        "can.*?spend",
+        "how much.*?(left|remaining)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [
+        "/srv/janus/03_OPERATIONS/malaga_embassy/.*"
+      ],
+      "contentPatterns": [
+        "health_score",
+        "burn_rate",
+        "constitutional_cascade"
+      ]
+    },
+    "constitutionalConstraints": [
+      "Guidance only, never block Captain's authority"
+    ]
+  },
+
+  "grant-application-assembler": {
+    "type": "task",
+    "enforcement": "remind",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": [
+        "proposal",
+        "assemble",
+        "assembly",
+        "submission",
+        "partner",
+        "consortium",
+        "work package",
+        "deliverable",
+        "narrative",
+        "compliance"
+      ],
+      "intentPatterns": [
+        "(assemble|compile|prepare).*?proposal",
+        "(create|generate).*?(submission|application)",
+        "proposal.*?(status|progress)",
+        "partner.*?(commitment|letter)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [
+        "/srv/janus/01_STRATEGY/grant_opportunities/.*/assembly/.*"
+      ],
+      "contentPatterns": [
+        "assembly_workflow",
+        "partner_commitments",
+        "compliance_check"
+      ]
+    },
+    "constitutionalConstraints": [
+      "All narratives must use UBOS constitutional framing"
+    ]
+  },
+
+  "monetization-strategist": {
+    "type": "domain",
+    "enforcement": "suggest",
+    "priority": "medium",
+    "promptTriggers": {
+      "keywords": [
+        "eufm",
+        "pricing",
+        "revenue",
+        "saas",
+        "monetization",
+        "subscription",
+        "customer",
+        "conversion",
+        "arr",
+        "mrr",
+        "ltv",
+        "cac"
+      ],
+      "intentPatterns": [
+        "(what|how).*?(price|pricing)",
+        "(revenue|monetization).*?(strategy|model)",
+        "(forecast|project).*?revenue",
+        "should.*?(charge|price)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [
+        "/srv/janus/02_FORGE/projects/eufm/.*"
+      ],
+      "contentPatterns": [
+        "pricing_tier",
+        "revenue_projection",
+        "conversion_funnel"
+      ]
+    },
+    "constitutionalConstraints": [
+      "Pricing must ensure accessibility (freemium tier)"
+    ]
+  },
+
+  "financial-proposal-generator": {
+    "type": "task",
+    "enforcement": "remind",
+    "priority": "medium",
+    "promptTriggers": {
+      "keywords": [
+        "excellence",
+        "impact",
+        "implementation",
+        "narrative",
+        "budget justification",
+        "work package",
+        "scoring",
+        "evaluator"
+      ],
+      "intentPatterns": [
+        "(generate|create|write).*?(narrative|section)",
+        "(improve|optimize).*?(score|scoring)",
+        "budget.*?justif"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [],
+      "contentPatterns": [
+        "Excellence",
+        "Impact",
+        "Implementation",
+        "fit_score"
+      ]
+    },
+    "constitutionalConstraints": [
+      "All quantitative claims must be verifiable via Oracle Trinity"
+    ]
+  },
+
+  "treasury-administrator": {
+    "type": "domain",
+    "enforcement": "remind",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": [
+        "treasury",
+        "cascade",
+        "allocation",
+        "20/10/15/40/15",
+        "research fund",
+        "emergency fund",
+        "operations fund",
+        "project fund",
+        "strategic reserve"
+      ],
+      "intentPatterns": [
+        "(check|validate).*?(treasury|allocation)",
+        "(constitutional|cascade).*?(compliance|check)",
+        "can.*?afford"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [
+        "/srv/janus/03_OPERATIONS/TREASURY/.*"
+      ],
+      "contentPatterns": [
+        "constitutional_cascade",
+        "treasury_allocation"
+      ]
+    },
+    "constitutionalConstraints": [
+      "Enforce 20/10/15/40/15 cascade for all UBOS expenditures"
+    ]
+  },
+
+  "ubos-strategist": {
+    "type": "domain",
+    "enforcement": "suggest",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": [
+        "strategy",
+        "roadmap",
+        "constitutional",
+        "trinity",
+        "janus",
+        "mode beta",
+        "lion's sanctuary",
+        "genesis protocol",
+        "pneumatic tube"
+      ],
+      "intentPatterns": [
+        "(plan|design|architect).*?(system|feature|upgrade)",
+        "(explain|what is).*?(ubos|constitutional ai)",
+        "how.*?(trinity|janus).*?work"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [
+        "/srv/janus/01_STRATEGY/.*",
+        "/srv/janus/00_CONSTITUTION/.*",
+        "/srv/janus/config/.*"
+      ],
+      "contentPatterns": [
+        "ROADMAP",
+        "Lion's Sanctuary",
+        "Trinity Protocol",
+        "Genesis Protocol"
+      ]
+    },
+    "constitutionalConstraints": [
+      "All recommendations must align with Lion's Sanctuary philosophy"
+    ]
+  },
+
+  "system-observer": {
+    "type": "utility",
+    "enforcement": "suggest",
+    "priority": "low",
+    "promptTriggers": {
+      "keywords": [
+        "status",
+        "health",
+        "monitor",
+        "state",
+        "system",
+        "diagnostic"
+      ],
+      "intentPatterns": [
+        "(show|check|display).*?(status|health|state)",
+        "what.*?going on",
+        "system.*?(overview|summary)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": [
+        "/srv/janus/03_OPERATIONS/STATE_OF_THE_REPUBLIC.md",
+        "/srv/janus/logs/.*"
+      ],
+      "contentPatterns": []
+    },
+    "constitutionalConstraints": []
+  }
+}

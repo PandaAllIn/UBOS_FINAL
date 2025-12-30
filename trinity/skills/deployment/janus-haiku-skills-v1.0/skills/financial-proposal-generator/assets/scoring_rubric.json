@@ -1,0 +1,6 @@
+{
+  "excellence": {"innovation": 0.3, "methodology": 0.3, "track_record": 0.2, "infrastructure": 0.2},
+  "impact": {"pathway": 0.35, "measures": 0.35, "communication": 0.2, "sustainability": 0.1},
+  "implementation": {"work_plan": 0.3, "management": 0.25, "consortium": 0.25, "resources": 0.2},
+  "thresholds": {"excellent": 4.6, "very_good": 4.0, "good": 3.5}
+}

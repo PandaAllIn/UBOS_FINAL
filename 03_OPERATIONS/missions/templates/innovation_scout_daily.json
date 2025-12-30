@@ -1,0 +1,22 @@
+{
+  "mission_id": "TEMPLATE-OPENAI-INNOVATION-SCOUT-DAILY",
+  "objective": "Identify new opportunities for innovation and optimization based on the past 24 hours of activity.",
+  "assigned_to": "openai",
+  "priority": 3,
+  "required_tools": [
+    "librarian.search_content",
+    "oracle_bridge.research"
+  ],
+  "deliverable": {
+    "type": "comms_hub_message",
+    "recipient": "captain",
+    "message_type": "innovation_brief"
+  },
+  "created_at": null,
+  "deadline": null,
+  "schedule": {
+    "type": "recurring",
+    "frequency": "daily",
+    "time_utc": "18:00"
+  }
+}

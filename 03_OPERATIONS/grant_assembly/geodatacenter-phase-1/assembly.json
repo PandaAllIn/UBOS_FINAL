@@ -1,0 +1,33 @@
+{
+  "budget_max": 10000000,
+  "budget_min": 5000000,
+  "deadline": "2025-09-02T17:00:00+00:00",
+  "estimated_completion": "2025-12-14",
+  "fit_score": 4.3,
+  "id": "geodatacenter-phase-1",
+  "opportunity_id": "HORIZON-2025-GEOTHERMAL-01",
+  "phases": {
+    "budget": {
+      "status": "pending"
+    },
+    "compliance": {
+      "status": "pending"
+    },
+    "intelligence": {
+      "status": "pending"
+    },
+    "narratives": {
+      "status": "pending"
+    },
+    "packaging": {
+      "status": "pending"
+    },
+    "partners": {
+      "status": "pending"
+    }
+  },
+  "progress": 0.0,
+  "project_name": "GeoDataCenter Phase 1",
+  "rapid_mode": false,
+  "start_date": "2025-10-30"
+}
